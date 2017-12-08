@@ -19,22 +19,36 @@ To Compose a Message
 You can enter some common messaging shortcuts for various types of media.
 
 Enter	Creates
+
 http://link.com	http://link.com
+
 link.com	link.com
-:) *	
-:( *	
-;) *	
-lol *	
+
+:) **	
+
+:( **	
+
+;) **	
+
+lol **	
+
 Please pay 5 dollars to me	Please pay 5 dollars to me
+
 Please pay 3.30 pounds to me	Please pay 3.30 pounds to me
+
 https://youtu.be/ZNra8eK0K6k	
+
 london@	london@
+
 london.atomjump.com	london@
+
 http://a.very.long.link.with .lots.of.text.com	Expand
+
 http://yoururl.com/yourpic.jpg	
 
 
-* This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.
+
+** This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.
 
 ## To Video Conference
 When you’re in a forum, click on the camera icon next to the ‘Send’ button. This will provide a confirmation screen before entering the video forum. Some browsers need the camera to be accepted in your browser permissions first.
@@ -154,4 +168,4 @@ Note: the front grey box with the word ‘Settings’ will only change language 
 
  
 
-* This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.
+** This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.

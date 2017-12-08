@@ -20,6 +20,7 @@ Any cPanel-based hosting provider that supports Fantastico 3 (see https://netenb
 
 ## VIP Service
 Do you want  dozens of server nodes, to handle high traffic loads? Try our VIP service.
+https://github.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
 
 ## Download the Server
 The server software is free and open source, available for PHP5 or PHP7 on Apache & Linux servers. Or fine-tune your installation with NodeJS.
@@ -68,5 +69,7 @@ https://docs.google.com/spreadsheets/d/17ioU7cVq2XnEieQEDWA-MJRhsPMlejepBBjz80vp
 ## System Overview
 
 See AtomJumpMessagingSystemOverview.pdf in this repository.
+
+https://github.com/atomjump/atomjumpcom-content-only/blob/master/AtomJumpMessagingSystemOverview.pdf
 
 
