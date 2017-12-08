@@ -68,5 +68,7 @@ Go to the homepage and enter any topic you choose in the search box. Get messagi
 * Any Number of Dedicated Servers
 * Choice of Plugins
 * MORE INFO 
+
 https://github.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
+
 Or contact atomjumpcom AT gmail.com
