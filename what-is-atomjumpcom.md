@@ -38,26 +38,35 @@ Our hosting xx.atomjump.com pages have a standard ownership price of £8 per mon
 Go to the homepage and enter any topic you choose in the search box. Get messaging!
 
 
-£0 Always
-ATOMJUMP.COM MESSAGING
-Chat with anyone
-Personal Private Messages
-Public Group Chat
-
-£8 per month
-ATOMJUMP.COM SUBDOMAIN
-Personalised Backdrop
-Visitor's Private Messages
-Private Group Chat 
-Optional
-Resell at a Profit
-BUY NOW (contact atomjumpcom AT gmail.com)
 
 
-? per month
-VIP ATOMJUMP.COM HOSTING
-Custom Domain/Appearance
-Site Integration
-Any Number of Dedicated Servers
-Choice of Plugins
-MORE INFO (contact atomjumpcom AT gmail.com)
+### ATOMJUMP.COM MESSAGING
+
+* £0 Always
+* Chat with anyone
+* Personal Private Messages
+* Public Group Chat
+
+
+
+### ATOMJUMP.COM SUBDOMAIN
+
+* £8 per month
+* Personalised Backdrop
+* Visitor's Private Messages
+* Private Group Chat 
+* Optional
+* Resell at a Profit
+* BUY NOW (contact atomjumpcom AT gmail.com)
+
+
+### VIP ATOMJUMP.COM HOSTING
+
+* ? per month
+* Custom Domain/Appearance
+* Site Integration
+* Any Number of Dedicated Servers
+* Choice of Plugins
+* MORE INFO 
+https://github.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
+Or contact atomjumpcom AT gmail.com
