@@ -21,13 +21,16 @@ https://github.com/atomjump/messaging
 
 
 ## AtomJump's own plugins
-https://github.com/atomjump/livewiki
-https://github.com/atomjump/shortmail
-https://github.com/atomjump/emoticons_large
-https://github.com/atomjump/nags_reporter
-https://github.com/atomjump/notifications
-https://github.com/atomjump/sms_accept
-https://github.com/atomjump/change_language
-https://github.com/atomjump/help_is_coming
-https://github.com/atomjump/rss_feed
-https://github.com/atomjump/emoticons_basic
+
+
+* https://github.com/atomjump/livewiki
+* https://github.com/atomjump/shortmail
+* https://github.com/atomjump/emoticons_large
+* https://github.com/atomjump/nags_reporter
+* https://github.com/atomjump/notifications
+* https://github.com/atomjump/sms_accept
+* https://github.com/atomjump/change_language
+* https://github.com/atomjump/help_is_coming
+* https://github.com/atomjump/rss_feed
+* https://github.com/atomjump/emoticons_basic
+
