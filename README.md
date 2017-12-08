@@ -13,7 +13,10 @@ If you choose AtomJump Messaging, Big Brother can't touch you. The open-source s
 Chat with any number of your friends, clients or family, privately or publicly. Then video conference with up to 8 people at once.
 
 ## Single Click Server Install
+
 Find hosting providers with a single click installation of AtomJump server.
+http://ivhosting.com and http://onehopweb.com offer hosting of the latest version of AtomJump Loop Server (0.7.0) with a single click install.	
+Any cPanel-based hosting provider that supports Fantastico 3 (see https://netenberg.com) will have a single click installation available now.
 
 ## VIP Service
 Do you want  dozens of server nodes, to handle high traffic loads? Try our VIP service.
@@ -22,9 +25,11 @@ Do you want  dozens of server nodes, to handle high traffic loads? Try our VIP s
 The server software is free and open source, available for PHP5 or PHP7 on Apache & Linux servers. Or fine-tune your installation with NodeJS.
 
 Latest PHP server:
+
 https://github.com/atomjump/loop-server/releases
 
 NoteJS fast server:
+
 https://www.npmjs.com/package/loop-server-fast
 
 
@@ -32,6 +37,7 @@ https://www.npmjs.com/package/loop-server-fast
 Select from a range of existing plugins. Then build your own additions to AtomJump Core, and sell or publish them.
 
 Some current plugins:
+
 https://github.com/atomjump/livewiki
 https://github.com/atomjump/shortmail
 https://github.com/atomjump/emoticons_large
@@ -45,6 +51,7 @@ https://github.com/atomjump/emoticons_basic
 
 
 Plugin development details:
+
 https://github.com/atomjump/loop-server#plugins
 
 ## Front-end Integration
