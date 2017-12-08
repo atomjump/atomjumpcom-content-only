@@ -46,5 +46,7 @@ https://github.com/atomjump/loop-server/releases
 
 which is completely free and open source, built in PHP/NodeJS. Add one of the many plugins, or develop a plugin yourself. If a plugin you need is not available yet, you can also add it to the Plugin Wishlist.
 
+
+
 ## Get Started
 Try the installation at AtomJump.com, which is a well tuned instance of the server. Then, you can choose to install the server locally or on your intranet or website.
