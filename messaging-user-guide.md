@@ -36,15 +36,15 @@ Please pay 5 dollars to me	Please pay 5 dollars to me
 
 Please pay 3.30 pounds to me	Please pay 3.30 pounds to me
 
-https://youtu.be/ZNra8eK0K6k	
+https://youtu.be/ZNra8eK0K6k  [shows a picture of the video, to be clicked on]	
 
-london@	london@
+london@	london@ [with link to http://london.atomjump.com]
 
-london.atomjump.com	london@
+london.atomjump.com	london@ [with link to http://london.atomjump.com]
 
-http://a.very.long.link.with .lots.of.text.com	Expand
+http://a.very.long.link.with.lots.of.text.com	Expand [with link to http://a.very.long.link.with.lots.of.text.com] 
 
-http://yoururl.com/yourpic.jpg	
+http://yoururl.com/yourpic.jpg	[shows picture]
 
 
 
