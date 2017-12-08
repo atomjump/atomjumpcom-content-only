@@ -15,7 +15,7 @@ Chat with any number of your friends, clients or family, privately or publicly. 
 ## Single Click Server Install
 
 Find hosting providers with a single click installation of AtomJump server.
-http://ivhosting.com and http://onehopweb.com offer hosting of the latest version of AtomJump Loop Server (0.7.0) with a single click install.	
+http://ivhosting.com and http://onehopweb.com offer hosting of the latest version of AtomJump Loop Server with a single click install.	
 Any cPanel-based hosting provider that supports Fantastico 3 (see https://netenberg.com) will have a single click installation available now.
 
 ## VIP Service
@@ -38,16 +38,16 @@ Select from a range of existing plugins. Then build your own additions to AtomJu
 
 Some current plugins:
 
-https://github.com/atomjump/livewiki
-https://github.com/atomjump/shortmail
-https://github.com/atomjump/emoticons_large
-https://github.com/atomjump/nags_reporter
-https://github.com/atomjump/notifications
-https://github.com/atomjump/sms_accept
-https://github.com/atomjump/change_language
-https://github.com/atomjump/help_is_coming
-https://github.com/atomjump/rss_feed
-https://github.com/atomjump/emoticons_basic
+* https://github.com/atomjump/livewiki
+* https://github.com/atomjump/shortmail
+* https://github.com/atomjump/emoticons_large
+* https://github.com/atomjump/nags_reporter
+* https://github.com/atomjump/notifications
+* https://github.com/atomjump/sms_accept
+* https://github.com/atomjump/change_language
+* https://github.com/atomjump/help_is_coming
+* https://github.com/atomjump/rss_feed
+* https://github.com/atomjump/emoticons_basic
 
 
 Plugin development details:
