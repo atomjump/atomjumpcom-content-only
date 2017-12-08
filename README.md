@@ -73,3 +73,11 @@ See AtomJumpMessagingSystemOverview.pdf in this repository.
 https://github.com/atomjump/atomjumpcom-content-only/blob/master/AtomJumpMessagingSystemOverview.pdf
 
 
+
+## Apps can be found at:
+
+iPhone:
+https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+
+Android:
+https://play.google.com/store/apps/details?id=com.atomjump.messaging
