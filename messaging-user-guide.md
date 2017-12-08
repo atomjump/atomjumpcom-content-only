@@ -32,9 +32,9 @@ link.com	link.com
 
 lol **	
 
-Please pay 5 dollars to me	Please pay 5 dollars to me
+Please pay 5 dollars to me	Please pay 5 dollars to me [with link to Paypal]
 
-Please pay 3.30 pounds to me	Please pay 3.30 pounds to me
+Please pay 3.30 pounds to me	Please pay 3.30 pounds to me [with link to Paypal]
 
 https://youtu.be/ZNra8eK0K6k  [shows a picture of the video, to be clicked on]	
 
@@ -153,7 +153,7 @@ Note: photos are best uploaded as landscape photos.
 
 There will be a delay as the photo uploads, and then the image’s new web URL will be written into your current message. You can choose to write a comment around this, or simply click ‘Send’.
 
-## To Post a Sticker*
+## To Post a Sticker**
 Click the smiley face in the bottom left corner. Then click your sticker.
 
 
@@ -161,7 +161,7 @@ Click the smiley face in the bottom left corner. Then click your sticker.
 ## To Download Messages
 Log in with your account. Click the ‘Upload’ icon in the bottom left corner. Click the ‘Download’ button. It will download an .xlsx spreadsheet file, which can be opened by any spreadsheet software e.g. Open Office, Google Docs, Microsoft Office.
 
-## To Change Language*
+## To Change Language**
 Click ‘Settings’ in the bottom left corner. Then click ‘More’ and drop down the ‘Language’ box. Choose your language. Then click ‘Save Settings’. You may need to enter your password again if you are logged in.
 
 Note: the front grey box with the word ‘Settings’ will only change language if the surrounding site has implemented this feature. Changing language will change the ‘guide’ messages in the central box. It does not affect the text entered by other users.
