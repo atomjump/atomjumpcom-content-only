@@ -12,7 +12,7 @@ in case the servers should be down.
 
 Open Messaging is a shortened term for 'open-source instant-messaging'. It does not mean that all messages are 'open', as they can be private as well. AtomJump Loop Server is our open-source messaging server software, and allows groups to chat by text or video online. You can use your own private servers.
 
-##It's simple
+## It's simple
 There are no complex forms for people to fill out with reams of details. Just enter comments, and chat immediately with your group. There is no clutter as the messaging form appears on top of a website after clicking a link.
 
 ## It's live
@@ -30,10 +30,21 @@ Relaxing on a beach? No problem. We're mobile first, but we also work on any dev
 But you choose whether you're sending publicly or privately. And you can respond privately to any user on the forum. 
 
 ## Did we say, it's free?
-The server is available to download and install now. However, if you prefer an easier life, you can choose our existing hosted version of the server at AtomJump.com. You'll only pay for a hosted version if you want to read a subdomain's private messages or run a private forum. With this, you have any volume of messages and any number of operators.
+The server is available to download and install now.
+
+https://github.com/atomjump/loop-server/releases
+
+However, if you prefer an easier life, you can choose our existing hosted version of the server at https://atomJump.com. You'll only pay for a hosted version if you want to read a subdomain's private messages or run a private forum. With this, you have any volume of messages and any number of operators.
 
 ## It's developer friendly
-If you're a front-end person, our simple 10 minute installation is the place to start. Then add the messaging class to any one of your hyperlinks. You can optionally dig deep into the CSS to modify the look and feel to match your site. Or, for back-end, or administrators, you can install your own AtomJump Loop Server, which is completely free and open source, built in PHP/NodeJS. Add one of the many plugins, or develop a plugin yourself. If a plugin you need is not available yet, you can also add it to the Plugin Wishlist.
+If you're a front-end person, our simple 10 minute installation is the place to start.
+https://github.com/atomjump/loop#loop
+
+Then add the messaging class to any one of your hyperlinks. You can optionally dig deep into the CSS to modify the look and feel to match your site. Or, for back-end, or administrators, you can install your own AtomJump Loop Server, 
+
+https://github.com/atomjump/loop-server/releases
+
+which is completely free and open source, built in PHP/NodeJS. Add one of the many plugins, or develop a plugin yourself. If a plugin you need is not available yet, you can also add it to the Plugin Wishlist.
 
 ## Get Started
 Try the installation at AtomJump.com, which is a well tuned instance of the server. Then, you can choose to install the server locally or on your intranet or website.
