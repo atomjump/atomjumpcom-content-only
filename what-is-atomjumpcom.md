@@ -42,7 +42,7 @@ Go to the homepage and enter any topic you choose in the search box. Get messagi
 
 ### ATOMJUMP.COM MESSAGING
 
-* £0 Always
+* $0 Always
 * Chat with anyone
 * Personal Private Messages
 * Public Group Chat
@@ -51,7 +51,7 @@ Go to the homepage and enter any topic you choose in the search box. Get messagi
 
 ### ATOMJUMP.COM SUBDOMAIN
 
-* £8 per month
+* $10 per year
 * Personalised Backdrop
 * Visitor's Private Messages
 * Private Group Chat 
