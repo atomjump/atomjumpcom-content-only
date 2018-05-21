@@ -33,4 +33,6 @@ https://github.com/atomjump/messaging
 * https://github.com/atomjump/help_is_coming
 * https://github.com/atomjump/rss_feed
 * https://github.com/atomjump/emoticons_basic
+* https://github.com/atomjump/inserter
+* https://github.com/atomjump/db_searcher
 
