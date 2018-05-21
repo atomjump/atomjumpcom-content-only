@@ -32,7 +32,7 @@ You can get in touch with the owner of an existing group by sending a message pr
 Once you have purchased, you will receive a certificate of ownership, and can opt to replace the group's background photo with your own. If a particular group name is trademarked, we reserve the group ownership for the trademark owner, and you will need to provide proof of ownership before purchasing.
 
 ## It's affordable
-Our hosting xx.atomjump.com pages have a standard ownership price of £8 per month per group, but premium properties will likely be more expensive, depending on their current owners and their willingness to sell. With this, you have any volume of messages and any number of users.
+Our hosting xx.atomjump.com pages have a standard ownership price of $10 per year per group, but premium properties will likely be more expensive, depending on their current owners and their willingness to sell. With this, you have any volume of messages and any number of users.
 
 ##Get Started
 Go to the homepage and enter any topic you choose in the search box. Get messaging!
@@ -42,7 +42,7 @@ Go to the homepage and enter any topic you choose in the search box. Get messagi
 
 ### ATOMJUMP.COM MESSAGING
 
-* £0 Always
+* $0 Always
 * Chat with anyone
 * Personal Private Messages
 * Public Group Chat
@@ -51,7 +51,7 @@ Go to the homepage and enter any topic you choose in the search box. Get messagi
 
 ### ATOMJUMP.COM SUBDOMAIN
 
-* £8 per month
+* $10 per year
 * Personalised Backdrop
 * Visitor's Private Messages
 * Private Group Chat 
