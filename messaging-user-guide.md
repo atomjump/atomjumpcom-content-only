@@ -51,24 +51,24 @@ http://yoururl.com/yourpic.jpg	[shows picture]
 ** This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.
 
 ## To Video Conference
+
 When you’re in a forum, click on the camera icon next to the ‘Send’ button. This will provide a confirmation screen before entering the video forum. Some browsers need the camera to be accepted in your browser permissions first.
 
+Android, iPhone and iPad users will need to download a separate app.
 
-
-iPhone and iPad users will need to download a separate app.
-
-To meet someone, you are best to send other people a URL of the AtomJump forum and tell them to click on the camera. Up to 8 people can video conference at once. Any new member must be accepted by the existing users.
-
-Note: you can click the camera icon again to make it shrink down, and close off. During video conferencing you can carry on chatting in the box too.
+To meet someone, you are best to send other people a URL of the AtomJump forum (on AtomJump.com you can click the share icon) and tell them to click on the camera. You'll find more instructions at https://jitsi.org/user-faq/.
 
 Note: These video forums are public, and while you must accept new users before they join, after this you should be cautious with what you show other people. If you want privacy here, you should choose an obscure forum name.
 
-To Name Yourself
+
+## To Name Yourself
+
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
 
 
 
 ## To Set up an Account
+
 Setting up an account means you can receive private messages. Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’, and your email address into ‘Your email’.
 
 Optionally, you can add a password on the account (which prevents someone else being able to read your private messages). If you want to add this, and it is highly recommended, click ‘More’ and enter your password.
