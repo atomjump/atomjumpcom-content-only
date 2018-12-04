@@ -10,7 +10,7 @@ in case the servers should be down.
 If you choose AtomJump Messaging, Big Brother can't touch you. The open-source server software can run securely on your own hardware and you choose how to set it up.
 
 ## Message in Peace
-Chat with any number of your friends, clients or family, privately or publicly. Then video conference with up to 8 people at once.
+Chat with any number of your friends, clients or family, privately or publicly. Then video conference using the complimentary open source tool https://jitsi.org.
 
 ## Single Click Server Install
 
