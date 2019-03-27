@@ -166,6 +166,14 @@ Click ‘Settings’ in the bottom left corner. Then click ‘More’ and drop d
 
 Note: the front grey box with the word ‘Settings’ will only change language if the surrounding site has implemented this feature. Changing language will change the ‘guide’ messages in the central box. It does not affect the text entered by other users.
 
+## To Delete Messages
+
+Anyone can delete any message on AtomJump.com, and we allow this so that forums are largely self moderating. While it may mean that your message is unfairly deleted by someone, it does mean that only the messages that everyone approves of will stay on the forum. If you have issues that cannot be resolved with this policy, please contact us on the Privacy page.
+
+To delete a message, tap or click on the message itself, and you will be shown the message with a rubbish bin icon underneath. Tap the rubbish bin icon, and the message should be removed in a few seconds.
+
+Note: After a message has been posted you have 20 minutes (for a default installation of AtomJump, and that includes AtomJump.com) to delete the message before other robot feeds have a chance to copy the message.
+
  
 
 ** This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.
