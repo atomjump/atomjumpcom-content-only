@@ -36,7 +36,7 @@ We monitor messages manually for abuse, although our resources are limited in th
 
 We do not tolerate abuse on our servers, and if there are significant problems, we will simply shut the service down.
 
-If you wish to report abuse, you should visit this forum to help us identify who is responsible.
+If you wish to report abuse, you should visit the forum at https://atomjump.com/wp/privacy-policy/ to help us identify who is responsible. Or email webmaster AT atomjump.com.
 
 Sincerely
 
