@@ -20,7 +20,7 @@ Enter a group name in the 'AtomJump' search box. If it is a general topic, you c
 It all takes place live, across over 260,000 groups (and counting).
 
 ## Sharing
-You can share a group with your friends via SMS by tapping the 'SMS' icon in the top right hand corner. Or you can copy the URL [group].atomjump.com in the browser address bar, which is unique to your group. E.g. london.atomjump.com for London talk. When you're chatting you can also use the special @ tag at the end of a word to provide a fast link to another group forum eg. london@.
+You can share a group with your friends via e.g. SMS by tapping the 3 circle 'share' icon in the top right hand corner. Or you can copy the URL [group].atomjump.com in the browser address bar, which is unique to your group. E.g. london.atomjump.com for London talk. When you're chatting you can also use the special @ tag at the end of a word to provide a fast link to another group forum eg. london@.
 
 ## Start a business
 Accepting payments from other users off a forum is as easy as writing e.g. 'pay 5 dollars to me' in a message (this will accept payments in $US). Your AtomJump email address must match your Paypal account email. AtomJump take no commission, but standard Paypal charges apply. For UK users, you can also write e.g. 'pay 3.50 pounds' to accept British pounds.
