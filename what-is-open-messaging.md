@@ -22,10 +22,13 @@ Are you ready for a live discussion with your family, group or company without i
 You can sit back and relax. You don't have to be at the desk 24/7. We email or notify your app whenever someone is offering to chat. Then you can respond immediately from your mobile device, or in your own time. If there's a message that shouldn't be there, a single click will remove the message from the list.
 
 ## It's flexible
-As a group owner, you can easily match the look and feel to your website; start up any number of unique messaging forums on the same site, and add any number of people into the discussion. See a Market Comparison of product features.
+As a website owner, you can easily match the look and feel to your website; start up any number of unique messaging forums on the same site, and add any number of people into the discussion. See a Market Comparison of product features.
+
+https://docs.google.com/spreadsheets/d/17ioU7cVq2XnEieQEDWA-MJRhsPMlejepBBjz80vp07Q/edit#gid=0
 
 ## It's built to suit your lifestyle
 Relaxing on a beach? No problem. We're mobile first, but we also work on any device including desktops and tablets (yes iPads too!). Anybody from corporate IE desktop users, to Android or iPhone mobile users can enter their comments just as effectively.
+
 ## It's part forum, part instant chat
 But you choose whether you're sending publicly or privately. And you can respond privately to any user on the forum. 
 
