@@ -63,7 +63,7 @@ Note: you can click the camera icon again to make it shrink down, and close off.
 
 Note: These video forums are public, and while you must accept new users before they join, after this you should be cautious with what you show other people. If you want privacy here, you should choose an obscure forum name.
 
-To Name Yourself
+## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
 
 
@@ -93,7 +93,7 @@ Click or tap on the person’s name next to one of their messages. Then enter a 
 
 You will need to click ‘Go Public’ to start posting messages for everyone to see again.
 
-## To Write a Private Message to the Forum Owner(s)
+## To Write a Private Message to the Forum Subscribers(s)
 Click ‘Go Private’. Enter messages as normal.
 
 Once you are ready to return to posting to the public forum, click ‘Go Public’ again.
@@ -103,26 +103,18 @@ Click or tap on the person’s name next to one of their messages. Then enter a 
 
 Note, a Twitter reply will always be public, and you do not need a Twitter account. A message will automatically be sent from our AtomJump account saying that there is a message waiting for them on the forum you are currently on. It is up to them as to whether they will read their Twitter messages and respond.
 
-## To Become the Forum Owner
-If you set up your own server, then you can do this without any cost by clicking ‘Settings’, ‘More’, ‘Advanced’ and then entering your email address into ‘This forum’s private owners’. You will also need to re-enter your account password for verification. You can optionally put your ‘a.b.c.d:e’ user code into the private owner’s field also.
+## To Become a Forum Subscriber
+If you don’t yet have an account, or you don’t want one immediately, you can do this by clicking ‘Settings’, enter your email address in the ‘Email’ field and click ‘Subscribe’.
 
+If you do have an account, you should log in first (with your email and password). Click ‘More’ for the password box, enter your password, click ‘Login’, and then in the ‘Settings’ page click ‘subscribe’.
 
-
- 
-
-If you want to become the owner of a forum on an xx.atomjump.com page, you can purchase the domain at 8 pounds per month from AtomJump, if it is still available. Otherwise you should send a private message on the page itself to say you would like to purchase the domain, and arrange a price with the current owner if they are willing to part with it.
+To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in).
 
 ## To Set up a Group
-You must be the forum owner already. Then you can click ‘Settings’, ‘More’, ‘Advanced’ and enter your group’s email addresses into ‘This forum’s private owners’ with commas in-between. You will also need to re-enter your account password for verification.
-
-
-
-Note: once the email addresses have been added, they are shown visibly as a user code ‘a.b.c.d:e’. You can still add a new owner by adding a comma followed by the email address to this list. Everyone on this list is an ‘owner’ of the group and will receive notifications whenever a new message is added to it. They can all add or remove users from the group.
+Share the web address of your forum with your group. You can find this quickly on atomjump.org by tapping the ‘share’ icon in the top right hand corner. Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
 ## To Set up a Private Group
-You must be a forum owner already. Then you can click ‘Settings’, ‘More’, ‘Advanced’ and enter the ‘Forum password’. You will also need to re-enter your account password for verification.
-
-
+On atomjump.org, you can enter a group name, and tap the bottom entry ‘Create a private group’. This will automatically fill in an email for us. Please replace the group password before sending the email. On atomjump.org, this costs $US 10 / year, and you can sign up on this page. On other forums, you should contact your system administrator to add a forum password.
 
 Note: this forum password is different from your personal password and should be one that you can email to every member of the group comfortably.
 
