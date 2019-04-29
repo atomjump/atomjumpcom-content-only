@@ -15,7 +15,8 @@ If you’re on AtomJump.com click on the large blue ‘chat’ button to enter a
 
 Start typing in the ‘Enter your comment’ box at the top and click ‘send’. That’s it! You don’t need an account, although you will be called ‘Anon XX’ if you haven’t named yourself.
 
-To Compose a Message
+
+## To Compose a Message
 You can enter some common messaging shortcuts for various types of media.
 
 Enter	Creates
