@@ -10,7 +10,7 @@ When we release updates they are either
 
 * new features,
 * non-critical fixes,
-*or critical fixes.
+* or critical fixes.
 
 All of these software fixes are available for immediate download, and are naturally free of charge.
 
