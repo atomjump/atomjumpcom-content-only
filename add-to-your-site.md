@@ -1,6 +1,9 @@
 
-Add AtomJump Messaging to your site
-You can also use this jsfiddle. or see the full source of this demo page.
+# Add AtomJump Messaging to your site
+
+Demo: https://fiddle.jshell.net/rh97gy06/show/
+
+You can also use this jsfiddle https://jsfiddle.net/rh97gy06/. Or see the full source https://github.com/atomjump/atomjump-messaging-example/blob/master/index.html of this demo page.
 
 Now, try adding this to your own site, by following the 3 steps below.
 1. Copy and paste the following into the <head> section of your HTML page:
@@ -48,4 +51,4 @@ Now, try adding this to your own site, by following the 3 steps below.
 <a class="comment-open" href="javascript:">Click me for messaging</a>
 ```
 
-Or for more details on integration with your site, see the AtomJump Loop project:
+Or for more details on integration with your site, see the AtomJump Loop project: https://github.com/atomjump/loop#loop
