@@ -7,8 +7,8 @@ in case the servers should be down.
 
 # Add AtomJump Messaging to your site
 
-* Demo: https://fiddle.jshell.net/rh97gy06/show/
-* You can also use this jsfiddle https://jsfiddle.net/rh97gy06/. 
+* Demo: https://atomjump.com/wp/atomjump/demo.html
+* You can also use this jsfiddle https://jsfiddle.net/sum8yLqd/. 
 * Or see the full source https://github.com/atomjump/atomjump-messaging-example/blob/master/index.html of this demo page.
 
 Now, try adding this to your own site, by following the 3 steps below.
