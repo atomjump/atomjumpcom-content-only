@@ -159,6 +159,10 @@ Click ‘Settings’ in the bottom left corner. Then click ‘More’ and drop d
 
 Note: the front grey box with the word ‘Settings’ will only change language if the surrounding site has implemented this feature. Changing language will change the ‘guide’ messages in the central box. It does not affect the text entered by other users.
 
+## To Go Full-Screen **
+
+On your iPhone or Android phone, when you are on a frequented AtomJump messaging page go into ‘settings’ for the browser (often a 3 bar icon near the address at the top), and select the option ‘Add to Home screen’, or something similar. Then go back to your phone’s home screen and tap the icon. This will then use the full screen real-estate during messaging.
+
 ## To Delete Messages
 
 Anyone can delete any message on AtomJump.com, and we allow this so that forums are largely self moderating. While it may mean that your message is unfairly deleted by someone, it does mean that only the messages that everyone approves of will stay on the forum. If you have issues that cannot be resolved with this policy, please contact us on the Privacy page.
