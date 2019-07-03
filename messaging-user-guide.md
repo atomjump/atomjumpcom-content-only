@@ -161,7 +161,11 @@ Note: the front grey box with the word ‘Settings’ will only change language 
 
 ## To Go Full-Screen **
 
-On your iPhone or Android phone, when you are on a frequented AtomJump messaging page go into ‘settings’ for the browser (often a 3 bar icon near the address at the top), and select the option ‘Add to Home screen’, or something similar. Then go back to your phone’s home screen and tap the icon. This will then use the full screen real-estate during messaging.
+On your **Android phone**, when you are on a frequented AtomJump messaging page go into 'settings' for the browser (often a 3 bar icon near the address at the top), and select the option 'Add to Home screen', or something similar.
+
+On your **iPhone**, when you are on a frequented AtomJump messaging page tap the 'share' icon at the bottom of the page, and then the 'Add to Home screen' icon at the bottom, or something similar.
+
+Then go back to your phone's home screen and tap the icon. This will then use the full screen real-estate during messaging.
 
 ## To Delete Messages
 
