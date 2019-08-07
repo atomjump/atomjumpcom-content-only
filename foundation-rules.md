@@ -1,3 +1,12 @@
+<img src="https://atomjump.com/images/logo80.png">
+
+# atomjumpcom-content-only
+This repository is a public copy of the important content on https://atomjump.com, 
+in case the servers should be down.
+
+
+
+
 
 # Manifesto
 
