@@ -59,6 +59,14 @@ https://atomjump.com/demo/livewiki/
 
 * __Secure Domain__ Secure encrypted connection e.g. https://yourcompany.com (domain not incl). 	$0 self-setup,	$20 / year AtomJump-setup
 * __Company-wide Keyword Search__ Enter 'dt [yoursearch]' to search all your company messages at once.  $0 / month self-setup, $50 setup + $2 / month
+* __Password Protected Homepage__ Uses basic Apache protection. $0 self-setup, $30 AtomJump-setup
+*
+*
+*
+*
+*
+*
+*
 
 
 
