@@ -50,15 +50,16 @@ https://atomjump.com/demo/livewiki/
 
 # Terms
 
-__Timeframe__ 	You can expect up to one working day (Monday to Friday) before your basic order is handled.
-__Add-ons__ We may need to question you via email to assist with configuration.
-Low-end monthly services (< $3 / month) are paid for annually.
-__Trial__ 	All orders have a 7 day free-trial period to ensure you are completely satisfied with the service.
+* __Timeframe__ 	You can expect up to one working day (Monday to Friday) before your basic order is handled.
+* __Add-ons__ We may need to question you via email to assist with configuration. Low-end monthly services (< $3 / month) are paid for annually.
+* __Trial__ 	All orders have a 7 day free-trial period to ensure you are completely satisfied with the service.
 
 
 # Addons
 
-__Secure Domain__ Secure encrypted connection e.g. https://yourcompany.com (domain not incl) 	$0 self-setup,	$20 / year AtomJump-setup
+* __Secure Domain__ Secure encrypted connection e.g. https://yourcompany.com (domain not incl). 	$0 self-setup,	$20 / year AtomJump-setup
+* __Company-wide Keyword Search__ Enter 'dt [yoursearch]' to search all your company messages at once.  $0 / month self-setup, $50 setup + $2 / month
+
 
 
 
