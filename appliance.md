@@ -1,7 +1,9 @@
 
-AtomJump Messaging Appliance (Beta)
-WARNING: This software v0.2.8 is currently in a Beta state (i.e. recently released) and should not yet be used in Production environments.
-Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance.
+# AtomJump Messaging Appliance (Beta)
+
+__WARNING: This software v0.2.8 is currently in a Beta state (i.e. recently released) and should not yet be used in Production environments.__
+
+Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. https://www.virtualbox.org/wiki/Downloads
 
 Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
 
@@ -41,6 +43,7 @@ You should click the ‘Update the server config’ link on this page, go back, 
 The main appliance target page is http://127.0.0.1:5100/livewiki/
 
 Important Note: the first user to be created on the system will become the admin user, with admin rights to enter passwords on a particular forum. So, before you type anything in a messaging pop-up, go to ‘Settings’ in the popup, and enter your email and password.
+
 If you are using the AtomJump Messaging app, and you want notifications on your phone:
 
 Your phone should be connected to the same company Wifi or VPN network as the server. The 'Loop Server URL' address to use under the 'Private Server' link on the app login page is:
@@ -56,25 +59,27 @@ Note: This is the same address to use if you want other server software to conne
 
 http://127.0.0.1:5100/vendor/atomjump/loop-server/
 
-Technical Specifications
-Item 	Specification
-Operating System 	Debian Linux 64-bit, but runs on a host Windows Desktop, Windows Server, Mac OS X, Linux.
-Software Language 	PHP 7.1
-Database 	MySQL 5.7
-Host Disk Space Required 	10GB
-RAM Required 	1GB minumum
-Simultaneous Users 	1 up to an approx maximum of 100, depending on usage patterns
-Application Software 	AtomJump Messaging Server 2.1.7
-Default Plugins 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (English and Spanish included), Immediate Auto-Responder
-Default Interface 	LiveWiki
-Access 	Super-user file-level access, Database access on request, AtomJump support access.
-Support 	US$ 64 (NZ$100) for TeamViewer-based remote access, plus prices for individual tasks (see the LiveWiki add-ons)
-Price 	Free
-Number of messages 	Approx 10 million under standard disk space
-Number of shared images 	Approx 50,000 under standard disk space
-Software Updates 	Manual, Debian OS updates. Application updates can be done by Support.
-Security 	The software should be run within an internal intranet, for any secure applications. A secure https server can also be used, although it needs an individual key installation.
-Configuration
+## Technical Specifications
+
+* __Operating System__ 	Debian Linux 64-bit, but runs on a host Windows Desktop, Windows Server, Mac OS X, Linux.
+* __Software Language__ 	PHP 7.1
+* __Database__ 	MySQL 5.7
+* __Host Disk Space Required__ 	10GB
+* __RAM Required__ 	1GB minumum
+* __Simultaneous Users__ 	1 up to an approx maximum of 100, depending on usage patterns
+* __Application Software__	AtomJump Messaging Server 2.1.7
+* __Default Plugins__ 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (English and Spanish included), Immediate Auto-Responder
+* __Default Interface__ 	LiveWiki
+* __Access__ 	Super-user file-level access, Database access on request, AtomJump support access.
+* __Support__ 	US$ 64 (NZ$100) for TeamViewer-based remote access, plus prices for individual tasks (see the LiveWiki add-ons)
+* __Price__ 	Free
+* __Number of messages__ 	Approx 10 million under standard disk space
+* __Number of shared images__ 	Approx 50,000 under standard disk space
+* __Software Updates__ 	Manual, Debian OS updates. Application updates can be done by Support.
+* __Security__ 	The software should be run within an internal intranet, for any secure applications. A secure https server can also be used, although it needs an individual key installation.
+
+
+## Configuration
 Log in, and enter the command:
 sudo nano /jet/www/default/vendor/atomjump/loop-server/config/config.json
 
@@ -84,7 +89,8 @@ Once you have changed the file, you can hit 'Ctrl - O' together, then push 'Retu
 
 Warning: changes to the configuration files can make your system in-operable. We recommend backing up the file beforehand with e.g.
 sudo cp /jet/www/default/vendor/atomjump/loop-server/config/config.json /jet/www/default/vendor/atomjump/loop-server/config/config-backup.json
-Software Updates
+
+## Software Updates
 We recommend bringing your system up-to-date immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation.
 
 Log in and enter the commands:
