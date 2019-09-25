@@ -1,7 +1,7 @@
 
 # AtomJump Messaging Appliance (Beta)
 
-__WARNING: This software v0.2.8 is currently in a Beta state (i.e. recently released) and should not yet be used in Production environments.__
+__WARNING: This software v0.3.1 is currently in a Beta state (i.e. recently released) and should not yet be used in Production environments.__
 
 Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
 * https://www.virtualbox.org/wiki/Downloads
@@ -35,11 +35,14 @@ Go into 'Network' and click 'Port Forwarding'.
 And add a new line similar to the above, using the Guest IP as the IP address found from the 'hostname -I' command.
 
 Typical settings are:
+```
 Protocol: TCP
 Host IP: 127.0.0.1
 Host Port: 5100
 Guest IP: 10.0.2.15 (or the IP address found after running 'hostname -I' within the server)
 Guest Port: 80
+```
+
 The LiveWiki should now be accessible within a browser on http://127.0.0.1:5100	
 You should click the ‘Update the server config’ link on this page, go back, and click through to the LiveWiki.
 
