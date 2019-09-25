@@ -12,22 +12,29 @@ Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will 
 
 Run VirtualBox on your platform, and add a 'New' project.
 Enter:
+```
 Type = Linux
 Version = Debian (64-bit)
+```
 
 Note: on Windows, if you can only see ‘Debian (32-bit)’ and you are definitely on a 64-bit machine, you will need to configure your server’s BIOS setting for virtualization to be switched on. See details here.
 
 Click 'Continue' and then ‘Use an existing virtual hard disk drive’. Select the .vmdk file from your drive.
 Run the VM and when you see a login after 20 seconds or so, enter the
+
+```
 Username: aj_customer
 Password: lander5321
+```
 
 Once logged in, you should first change your password. Enter the line:
 passwd
 and enter your old and new passwords.
 
 Then enter the line:
+```
 hostname -I
+```
 It should show you the VM server's IP address e.g. 10.0.2.15
 
 Then enter 'Settings' for this Virtual Machine.
@@ -80,6 +87,7 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/
 * __RAM Required__ 	1GB minumum
 * __Simultaneous Users__ 	1 up to an approx maximum of 100, depending on usage patterns
 * __Application Software__	AtomJump Messaging Server 2.1.7
+* __Client Software__  Mobile browsers (e.g. iPhone or Android) / Desktop browsers (incl. Chrome / Firefox / Safari / Edge /IE). Optional AtomJump Messaging app for mobile notifications.
 * __Default Plugins__ 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (English and Spanish included), Immediate Auto-Responder
 * __Default Interface__ 	LiveWiki
 * __Access__ 	Super-user file-level access, Database access on request, AtomJump support access.
