@@ -3,7 +3,10 @@
 
 __WARNING: This software v0.2.8 is currently in a Beta state (i.e. recently released) and should not yet be used in Production environments.__
 
-Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. https://www.virtualbox.org/wiki/Downloads
+Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
+* https://www.virtualbox.org/wiki/Downloads
+* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.3.1.zip
+
 
 Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
 
@@ -48,16 +51,22 @@ If you are using the AtomJump Messaging app, and you want notifications on your 
 
 Your phone should be connected to the same company Wifi or VPN network as the server. The 'Loop Server URL' address to use under the 'Private Server' link on the app login page is:
 
+```
 http://[your server IP or host]:5100/vendor/atomjump/loop-server/
+```
 
 E.g.
+```
 http://192.168.1.10:5100/vendor/atomjump/loop-server/
 or
 http://myhostname:5100/vendor/atomjump/loop-server/
+```
 
 Note: This is the same address to use if you want other server software to connect to your local AtomJump Server. If this connecting software is residing on the same machine, you can use the local server IP, also i.e.
 
+```
 http://127.0.0.1:5100/vendor/atomjump/loop-server/
+```
 
 ## Technical Specifications
 
