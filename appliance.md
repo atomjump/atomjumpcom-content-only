@@ -81,17 +81,25 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/
 
 ## Configuration
 Log in, and enter the command:
+```
 sudo nano /jet/www/default/vendor/atomjump/loop-server/config/config.json
+```
 
 You can scroll down with the arrow keys. Under the "email" section, you can enter a configuration for sending off email notifications. Please see the User Guide for more details.
 
 Once you have changed the file, you can hit 'Ctrl - O' together, then push 'Return'. It should say 'Wrote xx lines'. Push 'Ctrl - X' when done.
 
 Warning: changes to the configuration files can make your system in-operable. We recommend backing up the file beforehand with e.g.
+
+```
 sudo cp /jet/www/default/vendor/atomjump/loop-server/config/config.json /jet/www/default/vendor/atomjump/loop-server/config/config-backup.json
+```
 
 ## Software Updates
 We recommend bringing your system up-to-date immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation.
 
 Log in and enter the commands:
+
+```
 sudo apt-get update; sudo apt-get upgrade
+```
