@@ -40,7 +40,7 @@ Now, try adding this to your own site, by following the 3 steps below.
 			"cssBootstrap": "https://AtomJump.com/bower_components/bootstrap/dist/css/bootstrap.min.css"
 		}
 	</script>
-	<script type="text/javascript" src="https://AtomJump.com/js/chat-0.9.2.js"></script>
+	<script type="text/javascript" src="https://AtomJump.com/js/chat-1.0.4.js"></script>
 <!-- AtomJump Feedback Ends -->
 ```
 
