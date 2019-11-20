@@ -105,11 +105,11 @@ Click or tap on the person’s name next to one of their messages. Then enter a 
 Note, a Twitter reply will always be public, and you do not need a Twitter account. A message will automatically be sent from our AtomJump account saying that there is a message waiting for them on the forum you are currently on. It is up to them as to whether they will read their Twitter messages and respond.
 
 ## To Become a Forum Subscriber
-If you don’t yet have an account, or you don’t want one immediately, you can do this by clicking ‘Settings’, enter your email address in the ‘Email’ field and click ‘Subscribe’.
+If you don’t yet have an account, or you don’t want one immediately, you can do this by clicking the red ‘crossed out’ ear icon, or clicking ‘Settings’, and entering your email address in the ‘Email’ field. Then click ‘Subscribe’.
 
-If you do have an account, you should log in first (with your email and password). Click ‘More’ for the password box, enter your password, click ‘Login’, and then in the ‘Settings’ page click ‘subscribe’.
+If you do have an account, you should log in first (with your email and password). Click ‘More’ for the password box, enter your password, click ‘Login’, and then in the ‘Settings’ page click ‘subscribe’, or on the messaging page, click the red ‘crossed out’ ear icon.
 
-To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in).
+To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in), or click the green ‘ear’ icon on the messaging page.
 
 ## To Set up a Group
 Share the web address of your forum with your group. You can find this quickly on atomjump.org by tapping the ‘share’ icon in the top right hand corner. Each individual can then choose to become a forum subscriber to get ongoing notifications.
@@ -129,11 +129,13 @@ Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your
 The cost is 16c per message. We bill on a monthly basis.
 
 ## To Get App Notifications
-Download the app to your Android or iPhone device. Log in with the same email and password that you used in your browser. If everything has worked correctly, the app should say ‘Listening for Messages’. This means any private messages will pop up.
+Go into settings, and click ‘More’. There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. Log in with the same email and password that you used in your browser. If everything has worked correctly, the app should say ‘Listening for Messages’. This means any private messages will pop up.
 
 Note: you can only be logged in on one device at a time.
 
 To stop message notifications at any time you can log out of the app. Message notifications will be made by email while you are logged out. Logging back in will start notifications again.
+
+You can subscribe to any number of forums. See ‘To Become a Forum Subscriber’ above.
 
 ## To Post a Photo
 Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’.
