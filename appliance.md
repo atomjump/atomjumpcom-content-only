@@ -1,11 +1,9 @@
 
-# AtomJump Messaging Appliance (Beta)
-
-__WARNING: This software v0.3.1 is currently in a Beta state (i.e. recently released) and should not yet be used in Production environments.__
+# AtomJump Messaging Appliance
 
 Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
 * https://www.virtualbox.org/wiki/Downloads
-* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.3.1.zip
+* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.5.0.zip
 
 
 Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
@@ -123,3 +121,44 @@ Log in and enter the commands:
 ```
 sudo apt-get update; sudo apt-get upgrade
 ```
+
+## Notifications
+By default, your Appliance will notify you if you are subscribed to a forum via your email.
+In order to get popup-notifications to your Android or iPhones from your Messaging Appliance, you will need to add your 'push notification' certificate keys from Google and Apple.
+
+__For Android:__
+Create a Firebase project on Google.
+Go to https://console.firebase.google.com/project/(your-project-id)/settings/cloudmessaging
+You can find the API KEY in: (gear-next-to-project-name) > Project Settings > Cloud Messaging Server Key is the API key.
+
+Then log in to your server,
+
+```
+sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/config/config.json
+```
+
+Please see the 'Configuration' instructions above for details on entering your keys.
+
+__For iPhones:__
+These instructions may help getting a key from Apple, but you can also try searching the internet for 'Apple push notification certificates'.
+
+Once you have your .pem file, log in to your server,
+
+```
+sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/pushcert.pem
+```
+
+and write in your file.
+
+Note: you can see a sample certficate file with:
+
+```
+sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/pushcertSAMPLE.pem
+```
+
+## Known Issues
+On an Android phone, if you are using a private IP address for your server, and your phone browser's setting's 'Lite Mode' is switched on, you may find images seem to flicker every 5 seconds or so.
+
+We would recommend switching 'Lite Mode' off to stop the flickering.
+Alternatively, once you associate a domain with the server, the problem usually disappears.
+
