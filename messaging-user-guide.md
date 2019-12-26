@@ -177,6 +177,12 @@ To delete a message, tap or click on the message itself, and you will be shown t
 
 Note: After a message has been posted you have 20 minutes (for a default installation of AtomJump, and that includes AtomJump.com) to delete the message before other robot feeds have a chance to copy the message.
 
+## To Stop Flickering Images on Android
+
+On an Android phone, if you are connecting to a non-secure ‘http’ Messaging server, and your phone browser’s setting’s ‘Lite Mode’ is switched on, you will likely find images seem to flicker every 5 seconds or so. We would recommend switching ‘Lite Mode’ off to stop the flickering in your phone’s Chrome Browser Settings page.
+
+Alternatively, if an ‘https’ domain is associated with the server, the problem should disappear. 
+ 
  
 
 ** This feature is on by default at AtomJump.com, but it may not be if your provider has not included these plugins.
