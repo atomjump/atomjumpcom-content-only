@@ -64,6 +64,8 @@ Note: you can click the camera icon again to make it shrink down, and close off.
 
 Note: These video forums are public, and while you must accept new users before they join, after this you should be cautious with what you show other people. If you want privacy here, you should choose an obscure forum name.
 
+iPad Note: While iPhones should recognize the app when you click the video button, iPads may not, and may try to run the video forum in the browser, without success. We would recommend running the ‘Jitsi Meeting’ app directly and entering the forum name by hand, if this is the case. The forum name for AtomJump.com pages will be ‘aj-ajps_’ followed by the subdomain.
+
 ## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
 
