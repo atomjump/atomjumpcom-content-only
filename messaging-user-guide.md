@@ -54,17 +54,17 @@ http://yoururl.com/yourpic.jpg	[shows picture]
 ## To Video Conference
 When you’re in a forum, click on the camera icon next to the ‘Send’ button. This will provide a confirmation screen before entering the video forum. Some browsers need the camera to be accepted in your browser permissions first.
 
-
-
 iPhone and iPad users will need to download a separate app.
 
-To meet someone, you are best to send other people a URL of the AtomJump forum and tell them to click on the camera. Up to 8 people can video conference at once. Any new member must be accepted by the existing users.
+https://itunes.apple.com/us/app/jitsi-meet/id1165103905
+https://play.google.com/store/apps/details?id=org.jitsi.meet
+https://jitsi.org/downloads/
 
-Note: you can click the camera icon again to make it shrink down, and close off. During video conferencing you can carry on chatting in the box too.
+To meet someone, you are best to send other people a URL of the AtomJump forum (on AtomJump.com you can click the share icon) and tell them to click on the camera. You’ll find more instructions at Jitsi. https://jitsi.org/user-faq/
 
 Note: These video forums are public, and while you must accept new users before they join, after this you should be cautious with what you show other people. If you want privacy here, you should choose an obscure forum name.
 
-iPad Note: While iPhones should recognize the app when you click the video button, iPads may not, and may try to run the video forum in the browser, without success. We would recommend running the ‘Jitsi Meeting’ app directly and entering the forum name by hand, if this is the case. The forum name for AtomJump.com pages will be ‘aj-ajps_’ followed by the subdomain.
+Alternative Method: While you should be able to click through to the video forum on most platforms, some platforms e.g. particularly iPads / Internet Explorer, you can alternatively run the desktop / app directly, and enter the forum name. For AtomJump.com pages the forum name will be ‘aj-ajps_’ followed by the subdomain. You can also find this by looking at the address of the video link, after the last ‘/’.
 
 ## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
@@ -131,7 +131,9 @@ Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your
 The cost is 16c per message. We bill on a monthly basis.
 
 ## To Get App Notifications
-Go into settings, and click ‘More’. There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. Log in with the same email and password that you used in your browser. If everything has worked correctly, the app should say ‘Listening for Messages’. This means any private messages will pop up.
+Enter your email and password in ‘Settings’. Click ‘More’. There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
+
+Tap the app link within Settings once more, and tap ‘open the app’ within the app-store. Within the app, tap the ‘Pair AtomJump.com’ button, or paste in your private server and tap the ‘Private Server Pairing’ button. If everything has worked correctly, the app should say ‘Listening for Messages’, and the browser should show that you have associated your app with your email address. This means any private messages will pop up.
 
 Note: you can only be logged in on one device at a time.
 
@@ -140,15 +142,13 @@ To stop message notifications at any time you can log out of the app. Message no
 You can subscribe to any number of forums. See ‘To Become a Forum Subscriber’ above.
 
 ## To Post a Photo
-Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’.
-
-
+Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’. Note: you can choose more than one photo.
 
 Note: if you are using a mobile device e.g. Android, to get access to your Gallery rather than the ‘Camera’, select ‘Documents’ and then ‘Gallery’.
 
 Note: photos are best uploaded as landscape photos.
 
-There will be a delay as the photo uploads, and then the image’s new web URL will be written into your current message. You can choose to write a comment around this, or simply click ‘Send’.
+You can choose to see a zoom-able preview of the photo by tapping the thumbnail previews that appear. Tap the photo again to close the full preview.
 
 ## To Post a Sticker **
 Click the smiley face in the bottom left corner. Then click your sticker.
