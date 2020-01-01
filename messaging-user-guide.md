@@ -56,9 +56,9 @@ When you’re in a forum, click on the camera icon next to the ‘Send’ button
 
 iPhone and iPad users will need to download a separate app.
 
-https://itunes.apple.com/us/app/jitsi-meet/id1165103905
-https://play.google.com/store/apps/details?id=org.jitsi.meet
-https://jitsi.org/downloads/
+* https://itunes.apple.com/us/app/jitsi-meet/id1165103905
+* https://play.google.com/store/apps/details?id=org.jitsi.meet
+* https://jitsi.org/downloads/
 
 To meet someone, you are best to send other people a URL of the AtomJump forum (on AtomJump.com you can click the share icon) and tell them to click on the camera. You’ll find more instructions at Jitsi. https://jitsi.org/user-faq/
 
