@@ -3,7 +3,7 @@
 
 Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
 * https://www.virtualbox.org/wiki/Downloads
-* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.5.0.zip
+* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.5.6.zip
 
 
 Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
@@ -157,8 +157,10 @@ sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/pus
 ```
 
 ## Known Issues
-On an Android phone, if you are using a private IP address for your server, and your phone browser's setting's 'Lite Mode' is switched on, you may find images seem to flicker every 5 seconds or so.
+1. On an Android phone, if you are using a private IP address for your server, and your phone browser's setting's 'Lite Mode' is switched on, you may find images seem to flicker every 5 seconds or so.
 
 We would recommend switching 'Lite Mode' off to stop the flickering.
 Alternatively, once you associate a domain with the server, the problem usually disappears.
+
+2. You cannot use ampersands '&' in the title of a forum. Please use an alternative.
 
