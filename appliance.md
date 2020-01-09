@@ -3,7 +3,7 @@
 
 Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
 * https://www.virtualbox.org/wiki/Downloads
-* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.5.6.zip
+* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.5.7.zip
 
 
 Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
@@ -84,7 +84,7 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/
 * __Host Disk Space Required__ 	10GB
 * __RAM Required__ 	1GB minumum
 * __Simultaneous Users__ 	1 up to an approx maximum of 100, depending on usage patterns
-* __Application Software__	AtomJump Messaging Server 2.1.7
+* __Application Software__	AtomJump Messaging Server 2.2.9
 * __Client Software__  Mobile browsers (e.g. iPhone or Android) / Desktop browsers (incl. Chrome / Firefox / Safari / Edge /IE). Optional AtomJump Messaging app for mobile notifications.
 * __Default Plugins__ 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (English and Spanish included), Immediate Auto-Responder
 * __Default Interface__ 	LiveWiki
