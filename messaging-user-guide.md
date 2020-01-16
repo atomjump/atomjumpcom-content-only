@@ -151,6 +151,18 @@ To stop message notifications at any time you can log out of the app. Message no
 
 You can subscribe to any number of forums. See ‘To Become a Forum Subscriber’ above.
 
+## To Save a Forum Shortcut
+If you are on your phone, we would recommend downloading the AtomJump Messaging app.
+
+https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
+You will first need to create an account on the web version of your forum, in ‘Settings’.
+
+Then, once you are signed in to your forum, open up the app, and pair it with your website. Once it is paired, and says ‘Listening for Messages’, you can push ‘Settings’ in the bottom right corner of the app. Then tap ‘Add New Forum’, and enter the name of your xyz.atomjump.com page (for xyz.atomjump.com you would type ‘xyz’), or paste in the URL of your page.
+
+If you are on a desktop, you can save a ‘Bookmark’ in your browser to the current page.
+
 ## To Post a Photo
 Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’. Note: you can choose more than one photo.
 
