@@ -124,7 +124,7 @@ If you do have an account, you should log in first (with your email and password
 To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in), or click the green ‘ear’ icon on the messaging page.
 
 ## To Set up a Group
-Share the web address of your forum with your group. You can find this quickly on atomjump.org by tapping the ‘share’ icon in the top right hand corner. Each individual can then choose to become a forum subscriber to get ongoing notifications.
+Share the web address of your forum with your group.  You can find this quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
 ## To Set up a Private Group
 On atomjump.org, you can enter a group name, and tap the bottom entry ‘Create a private group’. This will automatically fill in an email for us. Please replace the group password before sending the email. On atomjump.org, this costs $US 10 / year, and you can sign up on this page. On other forums, you should contact your system administrator to add a forum password.
