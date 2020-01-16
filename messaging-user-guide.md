@@ -10,6 +10,16 @@ in case the servers should be down.
 # Messaging User Guide
 
 
+## Introduction
+AtomJump Messaging is a ‘hybrid‘ messaging solution. It is largely operated as a ‘web service’ from a website, even if this looks a little like an app on a phone. But it does also have an optional app, which provides some additional features, like ping notifications, and shortcuts to your frequently visited forums. Both of these components are open source and free.
+
+Being a hybrid, there are certain advantages over dedicated apps:
+
+* You can be discussing something on your phone and switch across to a desktop version of the same conversation, immediately, potentially without even logging in.
+* You can invite a group of people to a forum, who haven’t signed in to AtomJump before, simply by sending a web link. They don’t have to create an account.
+* For a new person to join the conversation, there is no unwieldy download of a large app, with lots of security requests on the phone.
+* Each different forum can be operated by a different organisation, and the functionality of that forum is chosen by the operator, being put together out of basic building blocks (called ‘plugins’).
+
 ## Post a Message
 If you’re on AtomJump.com click on the large blue ‘chat’ button to enter a forum. Other sites using AtomJump software will show the messaging pop-up after you click a particular link.
 
