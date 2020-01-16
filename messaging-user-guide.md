@@ -151,6 +151,10 @@ To stop message notifications at any time you can log out of the app. Message no
 
 You can subscribe to any number of forums. See ‘To Become a Forum Subscriber’ above.
 
+**Troubleshooting**
+
+If you aren't getting notifications on an iPhone, you may need to go into your phone's 'Settings > Notifications > AtomJump Messaging', and switch notification settings to 'Allow Notifications'.
+
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend downloading the AtomJump Messaging app.
 
