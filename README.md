@@ -17,6 +17,7 @@ Chat with any number of your friends, clients or family, privately or publicly. 
 Find hosting providers with a single click installation of AtomJump server.
 http://ivhosting.com and http://onehopweb.com offer hosting of the latest version of AtomJump Loop Server with a single click install.	
 Any cPanel-based hosting provider that supports Fantastico 3 (see https://netenberg.com) will have a single click installation available now.
+A single-click-to-download (alpha) LiveWiki AtomJump Messaging appliance for Windows / Linux / Mac is available from http://atomjump.org/wp/atomjump-messaging-appliance/
 
 ## VIP Service
 Do you want  dozens of server nodes, to handle high traffic loads? Try our VIP service.
