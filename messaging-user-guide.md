@@ -72,9 +72,9 @@ iPhone and iPad users will need to download a separate app.
 
 To meet someone, you are best to send other people a URL of the AtomJump forum (on AtomJump.com you can click the share icon) and tell them to click on the camera. You’ll find more instructions at Jitsi. https://jitsi.org/user-faq/
 
-Note: These video forums are public, and while you must accept new users before they join, after this you should be cautious with what you show other people. If you want privacy here, you should choose an obscure forum name.
+Note: These video forums are public, unless you are on a private forum, and while you must accept new users before they join, after this you should be cautious with what you show other people. If you want privacy here, you should start a one-off session, or purchase a private forum.
 
-Alternative Method: While you should be able to click through to the video forum on most platforms, some platforms e.g. particularly iPads / Internet Explorer, you can alternatively run the desktop / app directly, and enter the forum name. For AtomJump.com pages the forum name will be ‘aj-ajps_’ followed by the subdomain. You can also find this by looking at the address of the video link, after the last ‘/’.
+Alternative Method: While you should be able to click through to the video forum on most platforms, some platforms e.g. particularly iPads / Internet Explorer, you can alternatively run the desktop / app directly, and enter the forum name. For AtomJump.com pages the forum name will be ‘aj-[a unique code]-ajps_’ followed by the subdomain. You can also find this by looking at the address of the video link, after the last ‘/’.
 
 ## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
