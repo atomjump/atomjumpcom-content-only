@@ -22,3 +22,15 @@ We did not warn any members of the possibility of our last video meeting being m
 
 * The technical sections to be released
 * All content to be released
+
+# Pros of being more public
+
+Trust is a visual thing, and people matter. The way they conduct themselves makes a difference, and the public are much more likely to support an organisation if they can see who is behind it. 
+
+If there is clearly nothing they have to hide, it makes doing business that much more straightforward.
+We have to be careful that whatever we say is 'public-consumable', and this means keeping our meetings straightforward, positive and constructive, without criticizing others.
+
+# Cons of being more public
+
+Our members may feel that they cannot express themselves during our meetings, for fear of their words being taken out-of-context, or their questions being too foolish. This is not the intention, but we do have to be careful that whatever we say is 'public-consumable', which can lead to hesitation amongst our members.
+
