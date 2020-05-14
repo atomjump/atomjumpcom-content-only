@@ -16,6 +16,6 @@ In order of most public to least:
 * We record the audio of the meetings, and make those public
 * We record the meetings, and release minutes of the meetings
 * We release a public summary of the meetings
-* We do not release access to our annual meetings
+* We do not release any details of our annual meetings
 
 
