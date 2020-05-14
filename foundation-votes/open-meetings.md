@@ -10,8 +10,8 @@ Should we make our Foundation's annual meetings open to the public? And if so, t
 
 In order of most public to least:
 
-* We hold live public visual meetings
-* We record the meetings visually, and make those public once any visual issues are fixed
+* We hold live, public, video-based meetings
+* We record the meetings 'visually', and make those public once any 'visual' issues are fixed
 * We hold live audio meetings (similar to a 'Shareholders' call in public companies)
 * We record the audio of the meetings, and make those public
 * We record the meetings, and release minutes of the meetings
@@ -25,9 +25,8 @@ We did not warn any members of the possibility of our last video meeting being m
 
 # Pros of being more public
 
-Trust is a visual thing, and people matter. The way they conduct themselves makes a difference, and the public are much more likely to support an organisation if they can see who is behind it. 
+Trust is a visual thing, and people matter. The way they conduct themselves makes a difference, and the public are much more likely to support an organisation if they can see who is behind it. If there is clearly nothing they have to hide, it makes doing business that much more straightforward.
 
-If there is clearly nothing they have to hide, it makes doing business that much more straightforward.
 We have to be careful that whatever we say is 'public-consumable', and this means keeping our meetings straightforward, positive and constructive, without criticizing others.
 
 # Cons of being more public
