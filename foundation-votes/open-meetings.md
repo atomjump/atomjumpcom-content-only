@@ -18,4 +18,7 @@ In order of most public to least:
 * We release a public summary of the meetings
 * We do not release any details of our annual meetings
 
+We did not warn any members of the possibility of our last video meeting being made public prior to the event (and actually the idea only came afterwards). Would you give consent for: 
 
+* The technical sections to be released
+* All content to be released
