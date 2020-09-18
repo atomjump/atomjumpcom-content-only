@@ -3,7 +3,8 @@
 
 Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
 * https://www.virtualbox.org/wiki/Downloads
-* https://d1kqf1zz9xutpn.cloudfront.net/atomjump-live-wiki-0.5.7.zip
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.6.zip
+* [alternative source] https://atomjump-frontcdn-sng.sgp1.cdn.digitaloceanspaces.com/atomjump-live-wiki-0.7.6.zip
 
 
 Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
@@ -84,7 +85,7 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/
 * __Host Disk Space Required__ 	10GB
 * __RAM Required__ 	1GB minumum
 * __Simultaneous Users__ 	1 up to an approx maximum of 100, depending on usage patterns
-* __Application Software__	AtomJump Messaging Server 2.2.9
+* __Application Software__	AtomJump Messaging Server 2.6.7
 * __Client Software__  Mobile browsers (e.g. iPhone or Android) / Desktop browsers (incl. Chrome / Firefox / Safari / Edge /IE). Optional AtomJump Messaging app for mobile notifications.
 * __Default Plugins__ 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (English and Spanish included), Immediate Auto-Responder
 * __Default Interface__ 	LiveWiki
@@ -121,6 +122,16 @@ Log in and enter the commands:
 ```
 sudo apt-get update; sudo apt-get upgrade
 ```
+
+
+We also recommend updating your core Messaging Server software  immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation. It will also fix some known issues (as listed below).
+
+Log in and enter the command:
+
+```
+sudo git -C /jet/www/default/vendor/atomjump/loop-server pull
+```
+
 
 ## Notifications
 By default, your Appliance will notify you if you are subscribed to a forum via your email.
@@ -163,4 +174,18 @@ We would recommend switching 'Lite Mode' off to stop the flickering.
 Alternatively, once you associate a domain with the server, the problem usually disappears.
 
 2. You cannot use ampersands '&' in the title of a forum. Please use an alternative.
+
+3. Versions prior to 0.6.1 have a known security issue, so we strongly recommend using versions >= 0.6.1
+
+4. Vertically oriented images might be blurry. Please see 'Software Updates' above, and run an update on the Messaging Server software to resolve this issue.
+
+
+## Prior Versions
+
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.5.zip
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.4.zip
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.3.zip
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.2.zip
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.1.zip
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.0.zip
 
