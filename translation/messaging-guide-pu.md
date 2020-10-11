@@ -31,33 +31,33 @@ __ਨੋਟ:__ ਇਹ ਗਾਈਡ ਅੰਗਰੇਜ਼ੀ ਭਾਸ਼ਾ ਵ�
 ## ਸੁਨੇਹਾ ਲਿਖਣਾ
 ਤੁਸੀਂ ਕਈ ਕਿਸਮਾਂ ਦੇ ਮੀਡੀਆ ਲਈ ਕੁਝ ਸਾਂਝਾ ਮੈਸੇਜਿੰਗ ਸ਼ਾਰਟਕੱਟ ਦਾਖਲ ਕਰ ਸਕਦੇ ਹੋ.
 
-ਬਣਾਓ ਦਿਓ
+__``ਬਣਾਓ``__ ਦਿਓ
 
-http://link.com http://link.com
+``http://link.com``	http://link.com
 
-ਲਿੰਕ ਡਾਟ ਲਿੰਕ. com
+``link.com``	<a href="http://link.com">link.com</a>
 
-:) **
+``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **
+``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;) **
+``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-LOL **
+``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
-ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ 5 ਡਾਲਰ ਅਦਾ ਕਰੋ ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ 5 ਡਾਲਰ ਅਦਾ ਕਰੋ [ਪੇਪਾਲ ਦੇ ਲਿੰਕ ਨਾਲ]
+``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [ਪੇਪਾਲ ਦੇ ਲਿੰਕ ਨਾਲ]
 
-ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ 3.30 ਪੌਂਡ ਅਦਾ ਕਰੋ ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ 3.30 ਪੌਂਡ ਅਦਾ ਕਰੋ [ਪੇਪਾਲ ਦੇ ਲਿੰਕ ਨਾਲ]
+``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [ਪੇਪਾਲ ਦੇ ਲਿੰਕ ਨਾਲ]
 
-https://youtu.be/ZNra8eK0K6k [ਵੀਡੀਓ ਦੀ ਇੱਕ ਤਸਵੀਰ ਦਿਖਾਉਂਦੀ ਹੈ, ਜਿਸ 'ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਜਾਣਾ ਹੈ]
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [ਵੀਡੀਓ ਦੀ ਇੱਕ ਤਸਵੀਰ ਦਿਖਾਉਂਦੀ ਹੈ, ਜਿਸ 'ਤੇ ਕਲਿੱਕ ਕੀਤਾ ਜਾਣਾ ਹੈ]
 
-ਲੰਡਨ @ ਲੰਡਨ @ [http://london.atomjump.com ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ]
+``london@``	<a href="http://london.atomjump.com">london@</a> [http://london.atomjump.com ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ]
 
-london.atomjump.com ਲੰਡਨ @ [http://london.atomjump.com ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ]
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [http://london.atomjump.com ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ]
 
-http://a.very.long.link.with.lots.of.text.com ਫੈਲਾਓ [http://a.very.long.link.with.lots.of.text.com ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ]
+``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [http://a.very.long.link.with.lots.of.text.com ਦੇ ਲਿੰਕ ਦੇ ਨਾਲ]
 
-http://yoururl.com/yourpic.jpg [ਤਸਵੀਰ ਦਿਖਾਉਂਦੀ ਹੈ]
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg"> [ਤਸਵੀਰ ਦਿਖਾਉਂਦੀ ਹੈ]
 
 
 
