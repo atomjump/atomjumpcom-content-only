@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-content-only
 Este repositório é uma cópia pública do conteúdo importante em https://atomjump.com,
 no caso de os servidores estarem inativos.
