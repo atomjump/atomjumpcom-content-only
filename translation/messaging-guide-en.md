@@ -7,7 +7,11 @@ in case the servers should be down.
 
 
 
+
 # Messaging User Guide
+
+Note: this guide is a machine translation from the English version at http://atomjump.org/wp/user-guide/. If you can confirm the translation makes sense to you, or improve on the translation, please either contact us directly at http://atomjump.org/wp/contact/, or make the changes at https://github.com/atomjump/change_language. Your input is much appreciated.
+
 
 
 ## Introduction
