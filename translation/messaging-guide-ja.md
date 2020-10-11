@@ -69,6 +69,8 @@ AtomJump.comを使用している場合は、大きな青い「チャット」�
 
 フォーラムに参加しているときに、[送信]ボタンの横にあるカメラアイコンをクリックします。これにより、ビデオフォーラムに入る前に確認画面が表示されます。一部のブラウザでは、最初にブラウザの権限でカメラを受け入れる必要があります。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 iPhoneとiPadのユーザーは、別のアプリをダウンロードする必要があります。
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ iPhoneとiPadのユーザーは、別のアプリをダウンロードする必�
 ## 自分に名前を付ける
 左下の[設定]をクリックします。 「あなたの名前」にあなたの名前を書き、「設定を保存」をクリックします。完全なアカウントは必要ありませんが、プライベートメッセージを受け取ったときに通知を受け取りたい場合は、アカウントが必要になります（以下を参照）。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## アカウントを設定するには
 
@@ -95,7 +97,7 @@ iPhoneとiPadのユーザーは、別のアプリをダウンロードする必�
 
 [設定を保存]をクリックします。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 プライベートメッセージで電子メール通知を受け取りますが、他の目的であなたの電子メールアドレスを使用することはありません。
 
@@ -109,7 +111,7 @@ iPhoneとiPadのユーザーは、別のアプリをダウンロードする必�
 ## 一人にプライベートメッセージを書くには
 メッセージの横にある人の名前をクリックまたはタップします。次に、メッセージを入力して、[[名前]に送信]をタップします。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 全員がもう一度見ることができるようにメッセージの投稿を開始するには、[公開]をクリックする必要があります。
 
@@ -143,7 +145,7 @@ AtomJump.comでは、これは無料のアプリに取って代わられ、グ�
 
 左下の[設定]をクリックします。 [その他]をクリックし、先頭にプラス記号「+」を付けず、スペースを入れずに国際電話番号を入力します。例： 「+6433845613」は「6433845613」と入力する必要があります。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 コストはメッセージあたり16cです。毎月請求します。
 
@@ -165,8 +167,8 @@ iPhoneで通知を受け取らない場合は、電話の[設定]> [通知]> [At
 ## フォーラムのショートカットを保存するには
 電話を使用している場合は、AtomJumpメッセージングアプリをダウンロードすることをお勧めします。
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 まず、ウェブ版のフォーラムの[設定]でアカウントを作成する必要があります。
 
@@ -177,6 +179,8 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 写真を投稿するには
 左下隅にある「アップロード」アイコンをクリックします。ドライブから.jpg写真を選択し、[アップロード]をクリックします。注：複数の写真を選択できます。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 注：モバイルデバイスを使用している場合（例： Androidの場合、「カメラ」ではなくギャラリーにアクセスするには、「ドキュメント」、「ギャラリー」の順に選択します。
 
 注：写真は風景写真としてアップロードするのが最適です。
@@ -186,6 +190,7 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## ステッカーを投稿するには**
 左下のスマイリーフェイスをクリックします。次に、ステッカーをクリックします。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 
 ## メッセージをダウンロードするには
@@ -209,6 +214,8 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 誰でもAtomJump.com上のメッセージを削除できます。これにより、フォーラムの大部分が自己管理できるようになります。あなたのメッセージが誰かによって不当に削除されたことを意味するかもしれませんが、それは誰もが承認したメッセージだけがフォーラムに残ることを意味します。このポリシーでは解決できない問題がある場合は、プライバシーページからお問い合わせください。
 
 メッセージを削除するには、メッセージ自体をタップまたはクリックすると、下にゴミ箱アイコンが表示されたメッセージが表示されます。ごみ箱のアイコンをタップすると、メッセージは数秒で削除されます。
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 注：メッセージが投稿された後、他のロボットフィードがメッセージをコピーする前に、20分（AtomJumpのデフォルトインストールの場合、AtomJump.comを含む）でメッセージを削除できます。
 
