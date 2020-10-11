@@ -22,6 +22,14 @@ Being a hybrid, there are certain advantages over dedicated apps:
 * For a new person to join the conversation, there is no unwieldy download of a large app, with lots of security requests on the phone.
 * Each different forum can be operated by a different organisation, and the functionality of that forum is chosen by the operator, being put together out of basic building blocks (called ‘plugins’).
 
+To get started you can try a forum on e.g. https://atomjump.com
+
+To get the optional AtomJump Messaging app: 
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
+
 ## Post a Message
 If you’re on AtomJump.com click on the large blue ‘chat’ button to enter a forum. Other sites using AtomJump software will show the messaging pop-up after you click a particular link.
 
