@@ -33,7 +33,7 @@ Geben Sie oben in das Feld "Geben Sie Ihren Kommentar ein" ein und klicken Sie a
 ## Eine Nachricht verfassen
 Sie können einige allgemeine Messaging-Verknüpfungen für verschiedene Medientypen eingeben.
 
-__``Enter``__	Creates
+__``Eingeben``__	Erstellt
 
 ``http://link.com``	http://link.com
 
