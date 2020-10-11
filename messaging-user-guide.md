@@ -83,6 +83,7 @@ Alternative Method: While you should be able to click through to the video forum
 ## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 
 ## To Set up an Account
