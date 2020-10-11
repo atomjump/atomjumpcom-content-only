@@ -24,6 +24,13 @@ AtomJump Messaging est une solution de messagerie «hybride». Il est largement 
 * Pour qu'une nouvelle personne rejoigne la conversation, il n'y a pas de téléchargement fastidieux d'une grande application, avec de nombreuses demandes de sécurité sur le téléphone.
 * Chaque forum différent peut être géré par une organisation différente, et la fonctionnalité de ce forum est choisie par l'opérateur, étant constituée de blocs de base (appelés «plugins»).
 
+Pour commencer, vous pouvez essayer un forum sur par exemple https://atomjump.com
+
+Pour obtenir l'application de messagerie AtomJump en option:
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## Envoyer un message
 Si vous êtes sur AtomJump.com, cliquez sur le grand bouton bleu "chat" pour accéder à un forum. D'autres sites utilisant le logiciel AtomJump afficheront la fenêtre contextuelle de messagerie après avoir cliqué sur un lien particulier.
 
