@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-content-only
 該存儲庫是 https://atomjump.com 上重要內容的公共副本，
 以防服務器停機。
