@@ -53,9 +53,9 @@ https://youtu.be/ZNra8eK0K6k [クリックするビデオの写真を表示し�
 
 london@ london@ [http://london.atomjump.com へのリンク付き]
 
-london.atomjump.com london@ [http://london.atomjump.comへのリンク付き]
+london.atomjump.com london@ [http://london.atomjump.com へのリンク付き]
 
-http://a.very.long.link.with.lots.of.text.com展開[http://a.very.long.link.with.lots.of.text.comへのリンク付き]
+http://a.very.long.link.with.lots.of.text.com 展開[http://a.very.long.link.with.lots.of.text.com へのリンク付き]
 
 http://yoururl.com/yourpic.jpg [画像を表示]
 
