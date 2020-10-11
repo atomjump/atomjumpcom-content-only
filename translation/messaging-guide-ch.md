@@ -69,6 +69,8 @@ AtomJump Messaging是一种“混合”消息解决方案。即使看起来有�
 
 在论坛中，单击“发送”按钮旁边的相机图标。在进入视频论坛之前，这将提供一个确认屏幕。某些浏览器需要首先在您的浏览器权限中接受照相机。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 iPhone和iPad用户将需要下载一个单独的应用程序。
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 ## 为自己命名
 点击左下角的“设置”。将您的姓名写到“您的姓名”，然后单击“保存设置”。您不需要完整的帐户，但是如果要在收到私人消息时收到通知，则将需要一个（请参阅下文）。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## 设置一个帐户
 
@@ -95,7 +97,7 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 点击“保存设置”。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 您将收到有关私人消息的电子邮件通知，但我们不会将您的电子邮件地址用于任何其他目的。
 
@@ -109,7 +111,7 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 ## 给一个人写一封私人留言
 单击或点击他们的一封邮件旁边的人的名字。然后输入一条消息，然后点击“发送到[他们的名字]”。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 您需要单击“公开”开始发布消息，以供所有人再次查看。
 
@@ -141,16 +143,16 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 ## 获取短信通知
 请注意，在AtomJump.com上，此应用已被免费的应用取代，并提供了图形消息弹出窗口。但是，这些说明可能仍然适用于服务器的其他安装。
 
-点击左下角的“设置”。点击“更多”，然后输入不带加号“ +”且不带空格的国际电话号码，例如“ +64 3 384 5613”应输入为“ 6433845613”。
+点击左下角的“设置”。点击“更多”，然后输入不带加号“ +”且不带空格的国际电话号码，例如“+64 3 384 5613”应输入为“6433845613”。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 每封邮件的费用为16c。我们按月计费。
 
 ## 获取应用通知
 在“设置”中输入您的电子邮件和密码。点击“更多”。有些链接指向Android和iOS的“获取弹出通知”。单击并将该应用程序下载到您的Android或iPhone设备。如果是在专用服务器上，则还需要复制提到的服务器地址。
 
-再次点击“设置”中的应用链接，然后点击应用商店中的“打开应用”。在应用程序中，点击“ Pair AtomJump.com”按钮，或粘贴到您的私人服务器中，然后点击“私人服务器配对”按钮。如果一切正常，应用程序应显示“ Listening for Messages”，浏览器应显示您已将应用程序与电子邮件地址相关联。这意味着将弹出任何私人消息。
+再次点击“设置”中的应用链接，然后点击应用商店中的“打开应用”。在应用程序中，点击“Pair AtomJump.com”按钮，或粘贴到您的私人服务器中，然后点击“私人服务器配对”按钮。如果一切正常，应用程序应显示“Listening for Messages”，浏览器应显示您已将应用程序与电子邮件地址相关联。这意味着将弹出任何私人消息。
 
 注意：一次只能登录一台设备。
 
@@ -160,13 +162,13 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 **故障排除**
 
-如果您没有在iPhone上收到通知，则可能需要进入手机的“设置>通知> AtomJump消息传递”，然后将通知设置切换为“允许通知”。
+如果您没有在iPhone上收到通知，则可能需要进入手机的“设置>通知>AtomJump消息传递”，然后将通知设置切换为“允许通知”。
 
 ## 保存论坛快捷方式
 如果您正在使用手机，我们建议您下载AtomJump Messaging应用程序。
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 您首先需要在论坛的网络版本的“设置”中创建一个帐户。
 
@@ -177,6 +179,8 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 发布照片
 点击左下角的“上传”图标。从驱动器中选择一个.jpg照片，然后单击“上传”。注意：您可以选择一张以上的照片。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 注意：如果您使用的是移动设备，例如Android，要访问您的图库而不是“相机”，请选择“文档”，然后选择“图库”。
 
 注意：最好将照片作为风景照片上传。
@@ -186,7 +190,7 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 发布贴纸**
 单击左下角的笑脸。然后单击您的标签。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## 下载消息
 使用您的帐户登录。点击左下角的“上传”图标。点击“下载”按钮。它将下载一个.xlsx电子表格文件，该文件可以通过任何电子表格软件打开，例如打开Office，Google文档，Microsoft Office。
@@ -210,13 +214,15 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 要删除一条消息，请点击或单击该消息本身，系统将显示该消息，并在下面带有垃圾桶图标。点击垃圾桶图标，该消息应在几秒钟内删除。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
+
 注意：在发布消息后，您有20分钟的时间（对于AtomJump的默认安装，包括AtomJump.com）有20分钟的时间来删除该消息，然后其他机器人供稿才有机会复制该消息。
 
 ## 停止在Android上闪烁的图像
 
-在Android手机上，如果您连接到不安全的“ http”消息服务器，并且手机浏览器设置的“精简模式”已打开，则您可能会发现图像每隔5秒钟左右就会闪烁一次。我们建议关闭“精简模式”以停止手机“ Chrome浏览器设置”页面中的闪烁。
+在Android手机上，如果您连接到不安全的“http”消息服务器，并且手机浏览器设置的“精简模式”已打开，则您可能会发现图像每隔5秒钟左右就会闪烁一次。我们建议关闭“精简模式”以停止手机“Chrome浏览器设置”页面中的闪烁。
 
-或者，如果将“ https”域与服务器关联，则问题应消失。
+或者，如果将“https”域与服务器关联，则问题应消失。
  
  
 
