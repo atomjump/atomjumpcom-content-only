@@ -218,4 +218,4 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
  
  
 
-**默认情况下，此功能已在AtomJump.com上启用，但如果您的提供者未包含这些插件，则可能不会启用。
+__** 默认情况下，此功能已在AtomJump.com上启用，但如果您的提供者未包含这些插件，则可能不会启用。__
