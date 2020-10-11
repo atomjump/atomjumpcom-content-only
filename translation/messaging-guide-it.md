@@ -55,7 +55,7 @@ Inizia a digitare nella casella "Inserisci il tuo commento" in alto e fai clic s
 
 ``london@``	<a href="http://london.atomjump.com">london@</a> [con link a http://london.atomjump.com]
 
-``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a [con link a http://london.atomjump.com]
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [con link a http://london.atomjump.com]
 
 ``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [con link a http://a.very.long.link.with.lots.of.text.com]
 
