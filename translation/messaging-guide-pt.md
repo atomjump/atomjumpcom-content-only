@@ -24,6 +24,13 @@ Por ser um híbrido, existem certas vantagens em relação aos aplicativos dedic
 * Para que uma nova pessoa entre na conversa, não é necessário fazer download de um aplicativo grande, com muitas solicitações de segurança no telefone.
 * Cada fórum diferente pode ser operado por uma organização diferente, e a funcionalidade desse fórum é escolhida pelo operador, sendo reunida a partir de blocos de construção básicos (chamados de ‘plugins’)
 
+Para começar, você pode tentar um fórum sobre, por exemplo, https://atomjump.com
+
+Para obter o aplicativo AtomJump Messaging opcional:
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## Publique uma mensagem
 Se você estiver no AtomJump.com, clique no grande botão azul "chat" para entrar em um fórum. Outros sites que usam o software AtomJump mostrarão o pop-up de mensagens depois que você clicar em um link específico.
 
