@@ -69,6 +69,8 @@ __``Entrer``__ crée
 
 Lorsque vous êtes dans un forum, cliquez sur l’icône de la caméra à côté du bouton «Envoyer». Cela fournira un écran de confirmation avant d'entrer dans le forum vidéo. Certains navigateurs ont besoin que la caméra soit d'abord acceptée dans les autorisations de votre navigateur.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 Les utilisateurs d'iPhone et d'iPad devront télécharger une application distincte.
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ Méthode alternative: alors que vous devriez pouvoir cliquer sur le forum vidéo
 ## Pour vous nommer
 Cliquez sur "Paramètres" dans le coin inférieur gauche. Écrivez votre nom dans "Votre nom" et cliquez sur "Enregistrer les paramètres". Vous n'avez pas besoin d'un compte complet, mais si vous souhaitez recevoir des notifications lorsque vous recevez un message privé, vous en aurez besoin (voir ci-dessous).
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## Pour créer un compte
 
@@ -95,7 +97,7 @@ En option, vous pouvez ajouter un mot de passe sur le compte (ce qui empêche qu
 
 Cliquez sur "Enregistrer les paramètres".
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 Vous recevrez des notifications par e-mail sur les messages privés, mais nous n'utilisons pas votre adresse e-mail à d'autres fins.
 
@@ -109,7 +111,7 @@ Remarque: chaque installation AtomJump Server possède sa propre base de donnée
 ## Pour écrire un message privé à une personne
 Cliquez ou appuyez sur le nom de la personne à côté de l'un de ses messages. Saisissez ensuite un message et appuyez sur «Envoyer à [leur nom]».
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 Vous devrez cliquer sur "Rendre public" pour commencer à publier des messages que tout le monde pourra voir à nouveau.
 
@@ -143,7 +145,7 @@ Notez que sur AtomJump.com, cela a été remplacé par l'application, qui est gr
 
 Cliquez sur "Paramètres" dans le coin inférieur gauche. Cliquez sur "Plus", puis saisissez votre numéro de téléphone international sans le signe plus au début "+" et sans espaces, par exemple. «+64 3 384 5613» doit être indiqué sous la forme «6433845613».
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 Le coût est de 16c par message. Nous facturons mensuellement.
 
@@ -165,8 +167,8 @@ Si vous ne recevez pas de notifications sur un iPhone, vous devrez peut-être ac
 ## Pour enregistrer un raccourci de forum
 Si vous êtes sur votre téléphone, nous vous recommandons de télécharger l'application AtomJump Messaging.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 Vous devrez d'abord créer un compte sur la version Web de votre forum, dans "Paramètres".
 
@@ -177,6 +179,8 @@ Si vous utilisez un ordinateur de bureau, vous pouvez enregistrer un «signet» 
 ## Pour publier une photo
 Cliquez sur l'icône "importer" dans le coin inférieur gauche. Sélectionnez une photo .jpg de votre lecteur et cliquez sur "Importer". Remarque: vous pouvez choisir plus d'une photo.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 Remarque: si vous utilisez un appareil mobile, par ex. Android, pour accéder à votre galerie plutôt qu'à "Appareil photo", sélectionnez "Documents", puis "Galerie".
 
 Remarque: les photos sont mieux téléchargées en tant que photos de paysage.
@@ -186,7 +190,7 @@ Vous pouvez choisir d'afficher un aperçu zoomable de la photo en appuyant sur l
 ## Pour publier un autocollant **
 Cliquez sur le visage souriant dans le coin inférieur gauche. Cliquez ensuite sur votre autocollant.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## Pour télécharger des messages
 Connectez-vous avec votre compte. Cliquez sur l'icône "Importer" dans le coin inférieur gauche. Cliquez sur le bouton "Télécharger". Il téléchargera un fichier de feuille de calcul .xlsx, qui peut être ouvert par n'importe quel logiciel de feuille de calcul, par exemple. Ouvrez Office, Google Docs, Microsoft Office.
@@ -209,6 +213,8 @@ Revenez ensuite à l'écran d'accueil de votre téléphone et appuyez sur l'icô
 N'importe qui peut supprimer n'importe quel message sur AtomJump.com, et nous autorisons cela afin que les forums soient en grande partie auto-modérés. Bien que cela puisse signifier que votre message est injustement supprimé par quelqu'un, cela signifie que seuls les messages que tout le monde approuve resteront sur le forum. Si vous rencontrez des problèmes qui ne peuvent pas être résolus avec cette politique, veuillez nous contacter sur la page Confidentialité.
 
 Pour supprimer un message, appuyez ou cliquez sur le message lui-même, et vous verrez le message avec une icône de poubelle en dessous. Appuyez sur l'icône de la poubelle et le message devrait être supprimé dans quelques secondes.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 Remarque: Une fois qu'un message a été publié, vous disposez de 20 minutes (pour une installation par défaut d'AtomJump, y compris AtomJump.com) pour supprimer le message avant que les autres flux de robots aient la possibilité de copier le message.
 
