@@ -33,7 +33,7 @@ Enter	Creates
 
 http://link.com	http://link.com
 
-link.com	link.com
+link.com	http://link.com
 
 :) **	
 
