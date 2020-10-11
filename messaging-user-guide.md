@@ -164,8 +164,8 @@ If you aren't getting notifications on an iPhone, you may need to go into your p
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend downloading the AtomJump Messaging app.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 You will first need to create an account on the web version of your forum, in ‘Settings’.
 
