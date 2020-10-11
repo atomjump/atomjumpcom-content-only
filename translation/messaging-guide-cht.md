@@ -45,9 +45,9 @@ link.com link.com
 
 lol **
 
-請給我5美元請給我5美元[包含指向Paypal的鏈接]
+Please pay 5 dollars to me	Please pay 5 dollars to me [包含指向Paypal的鏈接]
 
-請給我支付3.30英鎊請給我支付3.30英鎊[包含貝寶的鏈接]
+lease pay 3.30 pounds to me	Please pay 3.30 pounds to me [包含貝寶的鏈接]
 
 https://youtu.be/ZNra8eK0K6k [顯示視頻圖片，請點擊]
 
