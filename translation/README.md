@@ -1,4 +1,4 @@
-* English __en__ English
+* English __en__ <a href="messaging-guide-en.txt">English</a>
 * Deutsche __de__ German 
 * Français __fr__ French 
 * 日本語 __ja__ Japanese 
