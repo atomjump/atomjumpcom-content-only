@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 * <a href="https://github.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English</a> __en__ English
 * <a href="messaging-guide-de.md">Deutsche</a> __de__ German 
 * <a href="messaging-guide-fr.md">Français</a> __fr__ French 
