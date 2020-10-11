@@ -35,7 +35,7 @@ http://link.com	http://link.com
 
 link.com	<a href="http://link.com">link.com</a>
 
-:) **	
+:) <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
 :( **	
 
