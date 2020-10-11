@@ -8,7 +8,7 @@ seandainya server mati.
 
 # Pesan Panduan Pengguna
 
-__Note: __ panduan ini adalah terjemahan mesin dari versi bahasa Inggris di http://atomjump.org/wp/user-guide/. Jika Anda dapat mengonfirmasi bahwa terjemahan tersebut masuk akal bagi Anda, atau meningkatkan terjemahan, harap hubungi kami langsung di http://atomjump.org/wp/contact/, atau buat perubahan di https://github.com/atomjump /ganti BAHASA. Masukan Anda sangat kami hargai.
+__Note:__ panduan ini adalah terjemahan mesin dari versi bahasa Inggris di http://atomjump.org/wp/user-guide/. Jika Anda dapat mengonfirmasi bahwa terjemahan tersebut masuk akal bagi Anda, atau meningkatkan terjemahan, harap hubungi kami langsung di http://atomjump.org/wp/contact/, atau buat perubahan di https://github.com/atomjump/change_language. Masukan Anda sangat kami hargai.
 
 
 
@@ -196,9 +196,9 @@ Catatan: kotak abu-abu depan dengan kata 'Settings' hanya akan mengubah bahasa j
 
 ## Untuk Menggunakan Layar Penuh **
 
-Di ** ponsel Android ** Anda, saat Anda berada di halaman pesan AtomJump yang sering dikunjungi, masuk ke 'pengaturan' untuk browser (biasanya berupa ikon 3 batang di dekat alamat di bagian atas), dan pilih opsi 'Tambahkan ke layar Utama' , atau yang serupa.
+Di **ponsel Android** Anda, saat Anda berada di halaman pesan AtomJump yang sering dikunjungi, masuk ke 'pengaturan' untuk browser (biasanya berupa ikon 3 batang di dekat alamat di bagian atas), dan pilih opsi 'Tambahkan ke layar Utama' , atau yang serupa.
 
-Di ** iPhone ** Anda, saat Anda berada di halaman pesan AtomJump yang sering dikunjungi, ketuk ikon 'bagikan' di bagian bawah halaman, lalu ikon 'Tambahkan ke layar Utama' di bagian bawah, atau yang serupa.
+Di **iPhone** Anda, saat Anda berada di halaman pesan AtomJump yang sering dikunjungi, ketuk ikon 'bagikan' di bagian bawah halaman, lalu ikon 'Tambahkan ke layar Utama' di bagian bawah, atau yang serupa.
 
 Kemudian kembali ke layar beranda ponsel Anda dan ketuk ikon. Ini kemudian akan menggunakan real-estate layar penuh selama pengiriman pesan.
 
@@ -218,4 +218,4 @@ Atau, jika domain 'https' dikaitkan dengan server, masalahnya akan hilang.
  
  
 
-** Fitur ini aktif secara default di AtomJump.com, tetapi mungkin tidak aktif jika penyedia Anda tidak menyertakan plugin ini.
+__** Fitur ini aktif secara default di AtomJump.com, tetapi mungkin tidak aktif jika penyedia Anda tidak menyertakan plugin ini.__
