@@ -43,7 +43,7 @@ link.com link.com
 
 ;）**
 
-大声笑 **
+lol **
 
 请付5美元给我请付5美元给我[链接到Paypal]
 
