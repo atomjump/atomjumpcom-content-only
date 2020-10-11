@@ -24,6 +24,13 @@ Al ser un híbrido, existen ciertas ventajas sobre las aplicaciones dedicadas:
 * Para que una nueva persona se una a la conversación, no es necesario descargar una aplicación de gran tamaño, con muchas solicitudes de seguridad en el teléfono.
 * Cada foro diferente puede ser operado por una organización diferente, y el operador elige la funcionalidad de ese foro, que se compone de bloques de construcción básicos (llamados "complementos").
 
+Para comenzar, puede probar un foro en, por ejemplo, https://atomjump.com
+
+Para obtener la aplicación de mensajería AtomJump opcional:
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## Deja un mensaje
 Si estás en AtomJump.com, haz clic en el botón azul grande "chat" para ingresar a un foro. Otros sitios que utilizan el software AtomJump mostrarán la ventana emergente de mensajes después de hacer clic en un enlace en particular.
 
