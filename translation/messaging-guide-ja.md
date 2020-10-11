@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-コンテンツのみ
 このリポジトリは、https://atomjump.com の重要なコンテンツのパブリックコピーです。
 サーバーがダウンした場合に備えて。
