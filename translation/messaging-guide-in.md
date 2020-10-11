@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-hanya-konten
 Repositori ini adalah salinan publik dari konten penting di https://atomjump.com,
 seandainya server mati.
