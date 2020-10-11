@@ -37,11 +37,11 @@ link.com	<a href="http://link.com">link.com</a>
 
 :) <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **	
+:( <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;) **	
+;) <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-lol **	
+lol <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
 Please pay 5 dollars to me	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [with link to Paypal]
 
