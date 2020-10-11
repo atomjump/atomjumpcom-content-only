@@ -35,31 +35,31 @@ AtomJump.comを使用している場合は、大きな青い「チャット」�
 
 作成を入力してください
 
-http://link.com http://link.com
+``http://link.com``	http://link.com
 
-link.com link.com
+``link.com``	<a href="http://link.com">link.com</a>
 
-:) **
+``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **
+``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;）**
+``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-lol **
+``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
-私に5ドル払ってください私に5ドル払ってください[Paypalへのリンク付き]
+``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [Paypalへのリンク付き]
 
-私に3.30ポンドを支払ってください私に3.30ポンドを支払ってください[Paypalへのリンク付き]
+``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [Paypalへのリンク付き]
 
-https://youtu.be/ZNra8eK0K6k [クリックするビデオの写真を表示します]
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [クリックするビデオの写真を表示します]
 
-london@ london@ [http://london.atomjump.com へのリンク付き]
+``london@``	<a href="http://london.atomjump.com">london@</a> [http://london.atomjump.com へのリンク付き]
 
-london.atomjump.com london@ [http://london.atomjump.com へのリンク付き]
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [http://london.atomjump.com へのリンク付き]
 
-http://a.very.long.link.with.lots.of.text.com 展開[http://a.very.long.link.with.lots.of.text.com へのリンク付き]
+``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [http://a.very.long.link.with.lots.of.text.com へのリンク付き]
 
-http://yoururl.com/yourpic.jpg [画像を表示]
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg"> [画像を表示]
 
 
 
