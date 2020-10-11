@@ -5,14 +5,14 @@
 * <a href="messaging-guide-ch.md">简体中文</a> __ch__ Chinese (Simplified)  
 * <a href="messaging-guide-cht.md">中國傳統的</a> __cht__ Chinese (Traditional) 
 * <a href="messaging-guide-it.md">Italiano</a> __it__ Italian 
-* বাংলা __bg__ Bengali  
-* 한국어 __ko__ Korean  
-* русский __ru__ Russian 
-* Español __es__ Spanish  
-* Português __pt__ Portuguese  
-* हिंदी __hi__ Hindi  
-* ਪੰਜਾਬੀ __pu__ Punjabi  
-* bahasa Indonesia __in__ Indonesian  
+* <a href="messaging-guide-bg.md">বাংলা</a> __bg__ Bengali  
+* <a href="messaging-guide-ko.md">한국어</a> __ko__ Korean  
+* <a href="messaging-guide-ru.md">русский</a> __ru__ Russian 
+* <a href="messaging-guide-es.md">Español</a> __es__ Spanish  
+* <a href="messaging-guide-pt.md">Português</a> __pt__ Portuguese  
+* <a href="messaging-guide-hi.md">हिंदी</a> __hi__ Hindi  
+* <a href="messaging-guide-pu.md">ਪੰਜਾਬੀ</a> __pu__ Punjabi  
+* <a href="messaging-guide-in.md">bahasa Indonesia</a> __in__ Indonesian  
 
 
 This is a translation of the English file messaging-guide-en.txt into each of the above languages.
