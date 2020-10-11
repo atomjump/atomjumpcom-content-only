@@ -17,4 +17,4 @@
 * <a href="messaging-guide-in.md">bahasa Indonesia</a> __in__ Indonesian  
 
 
-Click for a translation of the <a href="https://github.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English AtomJump Messaging User Guide</a>.
+Click the language above for a translation of the <a href="https://github.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English AtomJump Messaging User Guide</a>.
