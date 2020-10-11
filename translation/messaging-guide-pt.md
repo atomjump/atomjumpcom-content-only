@@ -69,6 +69,8 @@ __``Entrar``__ cria
 
 Quando você estiver em um fórum, clique no ícone da câmera ao lado do botão ‘Enviar’. Isso fornecerá uma tela de confirmação antes de entrar no fórum de vídeo. Alguns navegadores precisam primeiro que a câmera seja aceita nas permissões do navegador.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 Os usuários de iPhone e iPad precisarão baixar um aplicativo separado.
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ Método alternativo: embora você deva ser capaz de clicar para acessar o fórum
 ## Para se nomear
 Clique em "Configurações" no canto inferior esquerdo. Escreva seu nome em 'Seu nome' e clique em 'Salvar configurações'. Você não precisa de uma conta completa, mas se quiser receber notificações quando receber uma mensagem privada, você precisará de uma (veja abaixo).
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## Para configurar uma conta
 
@@ -95,7 +97,7 @@ Opcionalmente, você pode adicionar uma senha à conta (o que impede que outra p
 
 Clique em ‘Salvar configurações’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 Você receberá notificações por e-mail sobre mensagens privadas, mas não usamos seu endereço de e-mail para nenhum outro propósito.
 
@@ -109,7 +111,7 @@ Nota: cada instalação diferente do AtomJump Server tem seu próprio banco de d
 ## Para escrever uma mensagem privada para uma pessoa
 Clique ou toque no nome da pessoa ao lado de uma de suas mensagens. Em seguida, digite uma mensagem e toque em ‘Enviar para [nome]’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 Você precisará clicar em ‘Go Public’ para começar a postar mensagens para que todos vejam novamente.
 
@@ -143,7 +145,7 @@ Observe que no AtomJump.com isso foi substituído pelo aplicativo, que é gratui
 
 Clique em "Configurações" no canto inferior esquerdo. Clique em ‘Mais’ e insira seu número de telefone internacional sem o sinal de mais ‘+’ e sem espaços, por exemplo ‘+64 3 384 5613’ deve ser inserido como ‘6433845613’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 O custo é de 16 c por mensagem. Faturamos mensalmente.
 
@@ -165,8 +167,8 @@ Se você não está recebendo notificações em um iPhone, pode ser necessário 
 ## Para salvar um atalho do fórum
 Se você estiver no seu telefone, recomendamos baixar o aplicativo AtomJump Messaging.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 Primeiro você precisa criar uma conta na versão web do seu fórum, em ‘Configurações’.
 
@@ -177,6 +179,8 @@ Se você estiver em um desktop, pode salvar um ‘Favorito’ em seu navegador p
 ## Para postar uma foto
 Clique no ícone ‘upload’ no canto inferior esquerdo. Selecione uma foto .jpg da sua unidade e clique em ‘Carregar’. Nota: você pode escolher mais de uma foto.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 Nota: se você estiver usando um dispositivo móvel, por exemplo, Android, para obter acesso à sua Galeria em vez de à ‘Câmera’, selecione ‘Documentos’ e depois ‘Galeria’.
 
 Nota: fotos são melhor carregadas como fotos de paisagem.
@@ -186,7 +190,7 @@ Você pode optar por ver uma visualização com zoom da foto tocando nas visuali
 ## Para postar um adesivo **
 Clique na carinha feliz no canto inferior esquerdo. Em seguida, clique no seu adesivo.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## Para baixar mensagens
 Faça login com sua conta. Clique no ícone ‘Upload’ no canto inferior esquerdo. Clique no botão ‘Download’. Ele fará o download de um arquivo de planilha .xlsx, que pode ser aberto por qualquer software de planilha, por exemplo, Abra o Office, Google Docs, Microsoft Office.
@@ -209,6 +213,8 @@ Em seguida, volte para a tela inicial do telefone e toque no ícone. Isso então
 Qualquer pessoa pode excluir qualquer mensagem no AtomJump.com, e permitimos isso para que os fóruns sejam moderados automaticamente. Embora possa significar que sua mensagem foi excluída injustamente por alguém, isso significa que apenas as mensagens que todos aprovarem permanecerão no fórum. Se você tiver problemas que não podem ser resolvidos com esta política, entre em contato conosco na página de Privacidade.
 
 Para excluir uma mensagem, toque ou clique na própria mensagem, e você verá a mensagem com um ícone de lixeira embaixo. Toque no ícone da lata de lixo e a mensagem deve ser removida em alguns segundos.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 Nota: Após a postagem de uma mensagem, você tem 20 minutos (para uma instalação padrão do AtomJump, e isso inclui AtomJump.com) para excluir a mensagem antes que outros feeds do robô tenham a chance de copiá-la.
 
