@@ -218,4 +218,4 @@ Wenn dem Server alternativ eine https-Domäne zugeordnet ist, sollte das Problem
  
  
 
-** Diese Funktion ist bei AtomJump.com standardmäßig aktiviert. Dies ist jedoch möglicherweise nicht der Fall, wenn Ihr Anbieter diese Plugins nicht aufgenommen hat.
+__** Diese Funktion ist bei AtomJump.com standardmäßig aktiviert. Dies ist jedoch möglicherweise nicht der Fall, wenn Ihr Anbieter diese Plugins nicht aufgenommen hat.__
