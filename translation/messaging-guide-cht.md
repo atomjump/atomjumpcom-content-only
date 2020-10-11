@@ -24,6 +24,13 @@ AtomJump Messaging是一種“混合”消息解決方案。即使看起來有�
 *對於新加入的對話，不會下載繁瑣的大型應用程序，並且手機上會有很多安全要求。
 *每個不同的論壇可以由不同的組織運營，並且該論壇的功能由運營商選擇，並從基本的構建模塊（稱為“插件”）中整合在一起。
 
+要開始使用，您可以嘗試在https://atomjump.com
+
+要獲取可選的AtomJump Messaging應用程序：
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## 發表信息
 如果您在AtomJump.com上，請點擊藍色的大“聊天”按鈕以進入論壇。單擊特定鏈接後，其他使用AtomJump軟件的站點將顯示消息彈出窗口。
 
