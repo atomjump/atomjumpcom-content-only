@@ -31,33 +31,33 @@ Start typing in the ‘Enter your comment’ box at the top and click ‘send’
 ## To Compose a Message
 You can enter some common messaging shortcuts for various types of media.
 
-Enter	Creates
+__``Enter``__	Creates
 
-http://link.com	http://link.com
+``http://link.com``	http://link.com
 
-link.com	http://link.com
+``link.com``	<a href="http://link.com">link.com</a>
 
-:) **	
+``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **	
+``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;) **	
+``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-lol **	
+``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
-Please pay 5 dollars to me	Please pay 5 dollars to me [with link to Paypal]
+``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [with link to Paypal]
 
-Please pay 3.30 pounds to me	Please pay 3.30 pounds to me [with link to Paypal]
+``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [with link to Paypal]
 
-https://youtu.be/ZNra8eK0K6k  [shows a picture of the video, to be clicked on]	
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [shows a picture of the video, to be clicked on]	
 
-london@	london@ [with link to http://london.atomjump.com]
+``london@``	<a href="http://london.atomjump.com">london@</a> [with link to http://london.atomjump.com]
 
-london.atomjump.com	london@ [with link to http://london.atomjump.com]
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [with link to http://london.atomjump.com]
 
-http://a.very.long.link.with.lots.of.text.com	Expand [with link to http://a.very.long.link.with.lots.of.text.com] 
+``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [with link to http://a.very.long.link.with.lots.of.text.com] 
 
-http://yoururl.com/yourpic.jpg	[shows picture]
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg">	[shows picture]
 
 
 
@@ -66,6 +66,8 @@ http://yoururl.com/yourpic.jpg	[shows picture]
 ## To Video Conference
 
 When you’re in a forum, click on the camera icon next to the ‘Send’ button. This will provide a confirmation screen before entering the video forum. Some browsers need the camera to be accepted in your browser permissions first.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
 
 iPhone and iPad users will need to download a separate app.
 
@@ -83,7 +85,7 @@ Alternative Method: While you should be able to click through to the video forum
 ## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## To Set up an Account
 
@@ -93,7 +95,7 @@ Optionally, you can add a password on the account (which prevents someone else b
 
 Click ‘Save Settings’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 You will get e-mail notifications on private messages, but we do not use your email address for any other purpose.
 
@@ -107,7 +109,7 @@ Note: each different AtomJump Server installation has it’s own private users d
 ## To Write a Private Message to One Person
 Click or tap on the person’s name next to one of their messages. Then enter a message and tap ‘Send to [their name]’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 You will need to click ‘Go Public’ to start posting messages for everyone to see again.
 
@@ -141,7 +143,7 @@ Note, on AtomJump.com this has been superseded by the app, which is free, and pr
 
 Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your international phone number without the leading plus sign ‘+’ and without spaces, e.g. ‘+64 3 384 5613’ should be entered as ‘6433845613’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 The cost is 16c per message. We bill on a monthly basis.
 
@@ -163,8 +165,8 @@ If you aren't getting notifications on an iPhone, you may need to go into your p
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend downloading the AtomJump Messaging app.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 You will first need to create an account on the web version of your forum, in ‘Settings’.
 
@@ -175,6 +177,8 @@ If you are on a desktop, you can save a ‘Bookmark’ in your browser to the cu
 ## To Post a Photo
 Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’. Note: you can choose more than one photo.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 Note: if you are using a mobile device e.g. Android, to get access to your Gallery rather than the ‘Camera’, select ‘Documents’ and then ‘Gallery’.
 
 Note: photos are best uploaded as landscape photos.
@@ -184,7 +188,7 @@ You can choose to see a zoom-able preview of the photo by tapping the thumbnail 
 ## To Post a Sticker **
 Click the smiley face in the bottom left corner. Then click your sticker.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## To Download Messages
 Log in with your account. Click the ‘Upload’ icon in the bottom left corner. Click the ‘Download’ button. It will download an .xlsx spreadsheet file, which can be opened by any spreadsheet software e.g. Open Office, Google Docs, Microsoft Office.
@@ -207,6 +211,8 @@ Then go back to your phone's home screen and tap the icon. This will then use th
 Anyone can delete any message on AtomJump.com, and we allow this so that forums are largely self moderating. While it may mean that your message is unfairly deleted by someone, it does mean that only the messages that everyone approves of will stay on the forum. If you have issues that cannot be resolved with this policy, please contact us on the Privacy page.
 
 To delete a message, tap or click on the message itself, and you will be shown the message with a rubbish bin icon underneath. Tap the rubbish bin icon, and the message should be removed in a few seconds.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 Note: After a message has been posted you have 20 minutes (for a default installation of AtomJump, and that includes AtomJump.com) to delete the message before other robot feeds have a chance to copy the message.
 
