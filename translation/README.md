@@ -15,4 +15,4 @@
 * <a href="messaging-guide-in.md">bahasa Indonesia</a> __in__ Indonesian  
 
 
-This is a translation of the AtomJump Messaging User Guide in English, into each of the above languages.
+This is a translation of the English AtomJump Messaging User Guide into each of the above languages.
