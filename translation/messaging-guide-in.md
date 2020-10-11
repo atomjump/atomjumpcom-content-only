@@ -69,6 +69,8 @@ __``Masukkan``__ Menciptakan
 
 Saat Anda berada di forum, klik ikon kamera di sebelah tombol 'Kirim'. Ini akan memberikan layar konfirmasi sebelum memasuki forum video. Beberapa browser membutuhkan kamera untuk diterima di izin browser Anda terlebih dahulu.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 Pengguna iPhone dan iPad perlu mengunduh aplikasi terpisah.
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ Metode Alternatif: Meskipun Anda seharusnya dapat mengklik ke forum video di seb
 ## Untuk Memberi Nama Diri Anda
 Klik 'Pengaturan' di pojok kiri bawah. Tuliskan nama Anda ke dalam 'Nama Anda' dan klik 'Simpan Pengaturan'. Anda tidak memerlukan akun lengkap, tetapi jika Anda ingin menerima pemberitahuan ketika Anda mendapatkan pesan pribadi, Anda akan membutuhkannya (lihat di bawah).
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## Untuk Menyiapkan Akun
 
@@ -95,7 +97,7 @@ Secara opsional, Anda dapat menambahkan kata sandi pada akun (yang mencegah oran
 
 Klik 'Simpan Pengaturan'.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 Anda akan mendapatkan pemberitahuan email pada pesan pribadi, tetapi kami tidak menggunakan alamat email Anda untuk tujuan lain.
 
@@ -109,7 +111,7 @@ Catatan: setiap penginstalan Server AtomJump memiliki database pengguna pribadin
 ## Untuk Menulis Pesan Pribadi ke Satu Orang
 Klik atau ketuk nama orang di samping salah satu pesan mereka. Kemudian masukkan pesan dan ketuk 'Kirim ke [nama mereka]'.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 Anda harus mengklik 'Buka Publik' untuk mulai memposting pesan agar semua orang dapat melihatnya lagi.
 
@@ -143,7 +145,7 @@ Catatan, di AtomJump.com ini telah digantikan oleh aplikasi, yang gratis, dan me
 
 Klik 'Pengaturan' di pojok kiri bawah. Klik 'Lainnya', dan masukkan nomor telepon internasional Anda tanpa tanda plus di awal '+' dan tanpa spasi, mis. ‘+64 3 384 5613’ harus dimasukkan sebagai ‘6433845613’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 Biayanya 16c per pesan. Kami menagih setiap bulan.
 
@@ -165,8 +167,8 @@ Jika Anda tidak mendapatkan notifikasi pada iPhone, Anda mungkin perlu masuk ke 
 ## Untuk Menyimpan Pintasan Forum
 Jika Anda sedang menggunakan ponsel, kami sarankan untuk mengunduh aplikasi AtomJump Messaging.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 Pertama-tama Anda perlu membuat akun di versi web forum Anda, di 'Pengaturan'.
 
@@ -177,6 +179,8 @@ Jika Anda menggunakan desktop, Anda dapat menyimpan 'Bookmark' di browser Anda k
 ## Untuk Memposting Foto
 Klik ikon 'unggah' di sudut kiri bawah. Pilih foto .jpg dari drive Anda dan klik 'Unggah'. Catatan: Anda dapat memilih lebih dari satu foto.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 Catatan: jika Anda menggunakan perangkat seluler, mis. Android, untuk mendapatkan akses ke Galeri Anda daripada 'Kamera', pilih 'Dokumen' dan kemudian 'Galeri'.
 
 Catatan: foto sebaiknya diunggah sebagai foto lanskap.
@@ -186,7 +190,7 @@ Anda dapat memilih untuk melihat pratinjau foto yang dapat diperbesar dengan men
 ## Untuk Memposting Stiker **
 Klik wajah smiley di pojok kiri bawah. Kemudian klik stiker Anda.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## Untuk Mengunduh Pesan
 Masuk dengan akun Anda. Klik ikon 'Unggah' di sudut kiri bawah. Klik tombol 'Unduh'. Ini akan mengunduh file spreadsheet .xlsx, yang dapat dibuka dengan perangkat lunak spreadsheet apa pun, mis. Buka Office, Google Docs, Microsoft Office.
@@ -209,6 +213,8 @@ Kemudian kembali ke layar beranda ponsel Anda dan ketuk ikon. Ini kemudian akan 
 Siapa pun dapat menghapus pesan apa pun di AtomJump.com, dan kami mengizinkannya sehingga sebagian besar forum dapat mengatur sendiri. Meskipun itu mungkin berarti bahwa pesan Anda dihapus secara tidak adil oleh seseorang, itu berarti bahwa hanya pesan yang disetujui oleh semua orang yang akan tetap ada di forum. Jika Anda memiliki masalah yang tidak dapat diselesaikan dengan kebijakan ini, silakan hubungi kami di halaman Privasi.
 
 Untuk menghapus pesan, ketuk atau klik pesan itu sendiri, dan Anda akan diperlihatkan pesan dengan ikon tempat sampah di bawahnya. Ketuk ikon tempat sampah, dan pesan akan dihapus dalam beberapa detik.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 Catatan: Setelah pesan diposting, Anda memiliki waktu 20 menit (untuk penginstalan default AtomJump, dan itu termasuk AtomJump.com) untuk menghapus pesan sebelum umpan robot lain memiliki kesempatan untuk menyalin pesan tersebut.
 
