@@ -1,5 +1,5 @@
 # atomjumpcom-content-only
-이 저장소는 https://atomjump.com에있는 중요한 콘텐츠의 공개 사본입니다.
+이 저장소는 https://atomjump.com 에있는 중요한 콘텐츠의 공개 사본입니다.
 서버가 다운되어야하는 경우.
 
 
@@ -8,7 +8,7 @@
 
 # 메시징 사용자 가이드
 
-__ 참고 : __이 가이드는 http://atomjump.org/wp/user-guide/에있는 영어 버전의 기계 번역입니다. 번역이 의미가 있음을 확인하거나 번역을 개선 할 수있는 경우 http://atomjump.org/wp/contact/에서 직접 문의하거나 https://github.com/atomjump에서 변경하십시오. / 언어 변경. 귀하의 의견은 대단히 감사합니다.
+__ 참고 : __이 가이드는 http://atomjump.org/wp/user-guide/ 에있는 영어 버전의 기계 번역입니다. 번역이 의미가 있음을 확인하거나 번역을 개선 할 수있는 경우 http://atomjump.org/wp/contact/에서 직접 문의하거나 https://github.com/atomjump/change_language 에서 변경하십시오. / 언어 변경. 귀하의 의견은 대단히 감사합니다.
 
 
 
@@ -43,7 +43,7 @@ link.com link.com
 
 ;) **
 
-ㅋㅋ **
+lol **
 
 저에게 5 달러를 지불하십시오. 5 불을 지불하십시오. [페이팔 링크 포함]
 
@@ -51,9 +51,9 @@ link.com link.com
 
 https://youtu.be/ZNra8eK0K6k [클릭 할 동영상 사진 표시]
 
-london @ london @ [http://london.atomjump.com 링크 포함]
+london@ london@ [http://london.atomjump.com 링크 포함]
 
-london.atomjump.com london @ [http://london.atomjump.com 링크 포함]
+london.atomjump.com london@ [http://london.atomjump.com 링크 포함]
 
 http://a.very.long.link.with.lots.of.text.com 확장 [http://a.very.long.link.with.lots.of.text.com 링크 포함]
 
@@ -196,9 +196,9 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 ## 전체 화면으로 이동 **
 
-** Android 휴대 전화 **에서 AtomJump 메시지 페이지를 자주 방문 할 때 브라우저의 '설정'으로 이동하고 (종종 상단의 주소 근처에 막대 3 개 아이콘) '홈 화면에 추가'옵션을 선택합니다. , 또는 이와 유사한 것.
+**Android 휴대 전화**에서 AtomJump 메시지 페이지를 자주 방문 할 때 브라우저의 '설정'으로 이동하고 (종종 상단의 주소 근처에 막대 3 개 아이콘) '홈 화면에 추가'옵션을 선택합니다. , 또는 이와 유사한 것.
 
-** iPhone **에서 AtomJump 메시지 페이지를 자주 방문하는 경우 페이지 하단의 '공유'아이콘을 탭한 다음 하단의 '홈 화면에 추가'아이콘 또는 이와 유사한 항목을 탭합니다.
+**iPhone**에서 AtomJump 메시지 페이지를 자주 방문하는 경우 페이지 하단의 '공유'아이콘을 탭한 다음 하단의 '홈 화면에 추가'아이콘 또는 이와 유사한 항목을 탭합니다.
 
 그런 다음 휴대폰의 홈 화면으로 돌아가서 아이콘을 탭합니다. 그러면 메시징 중에 전체 화면 공간이 사용됩니다.
 
@@ -218,4 +218,4 @@ Android 휴대 전화에서 안전하지 않은 'http'메시징 서버에 연결
  
  
 
-**이 기능은 AtomJump.com에서 기본적으로 켜져 있지만 공급자가 이러한 플러그인을 포함하지 않은 경우에는 그렇지 않을 수 있습니다.
+__** 이 기능은 AtomJump.com에서 기본적으로 켜져 있지만 공급자가 이러한 플러그인을 포함하지 않은 경우에는 그렇지 않을 수 있습니다.__
