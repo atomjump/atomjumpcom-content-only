@@ -8,7 +8,7 @@ no caso de os servidores estarem inativos.
 
 # Guia do usuário de mensagens
 
-__Nota: __ este guia é uma tradução automática da versão em inglês em http://atomjump.org/wp/user-guide/. Se você pode confirmar que a tradução faz sentido para você, ou melhorar a tradução, entre em contato conosco diretamente em http://atomjump.org/wp/contact/ ou faça as alterações em https://github.com/atomjump /mudar idioma. Sua opinião é muito apreciada.
+__Nota:__ este guia é uma tradução automática da versão em inglês em http://atomjump.org/wp/user-guide/. Se você pode confirmar que a tradução faz sentido para você, ou melhorar a tradução, entre em contato conosco diretamente em http://atomjump.org/wp/contact/ ou faça as alterações em https://github.com/atomjump /change_language mudar idioma. Sua opinião é muito apreciada.
 
 
 
@@ -43,7 +43,7 @@ link.com link.com
 
 ;) **
 
-ri muito **
+lol **
 
 Por favor, pague 5 dólares para mim Por favor pague 5 dólares para mim [com link para o Paypal]
 
@@ -51,9 +51,9 @@ Pague 3,30 libras para mim Pague 3,30 libras para mim [com link para o Paypal]
 
 https://youtu.be/ZNra8eK0K6k [mostra uma foto do vídeo, a ser clicado]
 
-london @ london @ [com link para http://london.atomjump.com]
+london@ london@ [com link para http://london.atomjump.com]
 
-london.atomjump.com london @ [com link para http://london.atomjump.com]
+london.atomjump.com london@ [com link para http://london.atomjump.com]
 
 http://a.very.long.link.with.lots.of.text.com Expanda [com link para http://a.very.long.link.with.lots.of.text.com]
 
@@ -196,9 +196,9 @@ Observação: a caixa cinza frontal com a palavra ‘Configurações’ só muda
 
 ## To Go Full-Screen **
 
-No seu ** telefone Android **, quando você estiver em uma página de mensagens do AtomJump freqüentada, vá em "configurações" do navegador (geralmente um ícone de 3 barras próximo ao endereço na parte superior) e selecione a opção "Adicionar à tela inicial" , ou algo semelhante.
+No seu **telefone Android**, quando você estiver em uma página de mensagens do AtomJump freqüentada, vá em "configurações" do navegador (geralmente um ícone de 3 barras próximo ao endereço na parte superior) e selecione a opção "Adicionar à tela inicial" , ou algo semelhante.
 
-No seu ** iPhone **, quando você estiver em uma página de mensagens do AtomJump frequentada, toque no ícone 'compartilhar' na parte inferior da página e, em seguida, no ícone 'Adicionar à tela inicial' na parte inferior ou algo semelhante.
+No seu **iPhone**, quando você estiver em uma página de mensagens do AtomJump frequentada, toque no ícone 'compartilhar' na parte inferior da página e, em seguida, no ícone 'Adicionar à tela inicial' na parte inferior ou algo semelhante.
 
 Em seguida, volte para a tela inicial do telefone e toque no ícone. Isso então usará o estado real da tela inteira durante as mensagens.
 
@@ -218,4 +218,4 @@ Como alternativa, se um domínio ‘https’ estiver associado ao servidor, o pr
  
  
 
-** Este recurso está ativado por padrão no AtomJump.com, mas pode não estar se o seu provedor não tiver incluído esses plug-ins.
+__** Este recurso está ativado por padrão no AtomJump.com, mas pode não estar se o seu provedor não tiver incluído esses plug-ins.__
