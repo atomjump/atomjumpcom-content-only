@@ -45,9 +45,9 @@ link.com link.com
 
 lol **
 
-请付5美元给我请付5美元给我[链接到Paypal]
+Please pay 5 dollars to me	Please pay 5 dollars to me [链接到Paypal]
 
-请给我支付3.30英镑请给我支付3.30英镑[包含指向Paypal的链接]
+Please pay 3.30 pounds to me	Please pay 3.30 pounds to me [包含指向Paypal的链接]
 
 https://youtu.be/ZNra8eK0K6k [显示视频图片，请点击]
 
