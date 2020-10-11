@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-content-only
 Этот репозиторий является общедоступной копией важного контента на https://atomjump.com,
 на случай, если серверы не работают.
