@@ -51,9 +51,9 @@ Por favor pague 3.30 libras a mí Por favor pague 3.30 libras a mí [con enlace 
 
 https://youtu.be/ZNra8eK0K6k [muestra una imagen del video, para hacer clic en él]
 
-london @ london @ [con enlace a http://london.atomjump.com]
+london@ london@ [con enlace a http://london.atomjump.com]
 
-london.atomjump.com london @ [con enlace a http://london.atomjump.com]
+london.atomjump.com london@ [con enlace a http://london.atomjump.com]
 
 http://a.very.long.link.with.lots.of.text.com Expandir [con enlace a http://a.very.long.link.with.lots.of.text.com]
 
