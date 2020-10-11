@@ -196,9 +196,9 @@ Hinweis: Das vordere graue Feld mit dem Wort "Einstellungen" ändert die Sprache
 
 ## Vollbild anzeigen **
 
-Wenn Sie sich auf Ihrem ** Android-Telefon ** auf einer frequentierten AtomJump-Messaging-Seite befinden, rufen Sie die Einstellungen für den Browser auf (häufig ein 3-Balken-Symbol neben der Adresse oben) und wählen Sie die Option "Zum Startbildschirm hinzufügen". , oder etwas ähnliches.
+Wenn Sie sich auf Ihrem **Android-Telefon** auf einer frequentierten AtomJump-Messaging-Seite befinden, rufen Sie die Einstellungen für den Browser auf (häufig ein 3-Balken-Symbol neben der Adresse oben) und wählen Sie die Option "Zum Startbildschirm hinzufügen". , oder etwas ähnliches.
 
-Wenn Sie sich auf Ihrem ** iPhone ** auf einer frequentierten AtomJump-Messaging-Seite befinden, tippen Sie unten auf der Seite auf das Symbol "Teilen" und unten auf das Symbol "Zum Startbildschirm hinzufügen" oder ähnliches.
+Wenn Sie sich auf Ihrem **iPhone** auf einer frequentierten AtomJump-Messaging-Seite befinden, tippen Sie unten auf der Seite auf das Symbol "Teilen" und unten auf das Symbol "Zum Startbildschirm hinzufügen" oder ähnliches.
 
 Kehren Sie dann zum Startbildschirm Ihres Telefons zurück und tippen Sie auf das Symbol. Dadurch wird während des Messaging die Vollbild-Immobilienfläche verwendet.
 
