@@ -24,6 +24,13 @@ AtomJump Messaging은‘하이브리드’메시징 솔루션입니다. 휴대�
 * 새로운 사람이 대화에 참여하기 위해 전화로 많은 보안 요청이있는 큰 앱을 다루기 힘들게 다운로드 할 필요가 없습니다.
 * 각각의 다른 포럼은 다른 조직에서 운영 할 수 있으며 해당 포럼의 기능은 운영자가 선택하여 기본 구성 요소 ( '플러그인'이라고 함)를 구성합니다.
 
+시작하려면 예를 들어 포럼을 시도 할 수 있습니다. https://atomjump.com
+
+선택적 AtomJump 메시징 앱을 얻으려면 :
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## 문자를 보내다
 AtomJump.com에있는 경우 큰 파란색 '채팅'버튼을 클릭하여 포럼에 입장하세요. AtomJump 소프트웨어를 사용하는 다른 사이트에서는 특정 링크를 클릭하면 메시지 팝업이 표시됩니다.
 
