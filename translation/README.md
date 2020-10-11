@@ -1,18 +1,18 @@
-* __en__ English English
-* __de__ German Deutsche
-* __fr__ French Français
-* __ja__ Japanese 日本語
-* __ch__ Chinese (Simplified)  简体中文
-* __cht__ Chinese (Traditional) 中國傳統的
-* __it__ Italian Italiano
-* __bg__ Bengali  বাংলা
-* __ko__ Korean  한국어
-* __ru__ Russian русский
-* __es__ Spanish  Español
-* __pt__ Portuguese  Português
-* __hi__ Hindi  हिंदी
-* __pu__ Punjabi  ਪੰਜਾਬੀ
-* __in__ Indonesian  bahasa Indonesia
+* English __en__ English
+* Deutsche __de__ German 
+* Français __fr__ French 
+* 日本語 __ja__ Japanese 
+* 简体中文 __ch__ Chinese (Simplified)  
+* 中國傳統的 __cht__ Chinese (Traditional) 
+* Italiano __it__ Italian 
+* বাংলা __bg__ Bengali  
+* 한국어 __ko__ Korean  
+* русский __ru__ Russian 
+* Español __es__ Spanish  
+* Português __pt__ Portuguese  
+* हिंदी __hi__ Hindi  
+* ਪੰਜਾਬੀ __pu__ Punjabi  
+* bahasa Indonesia __in__ Indonesian  
 
 
 This is a translation of the English file messaging-guide-en.txt into each of the above langauges.
