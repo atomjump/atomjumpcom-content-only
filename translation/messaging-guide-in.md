@@ -24,6 +24,13 @@ Menjadi hybrid, ada beberapa keunggulan dibandingkan aplikasi khusus:
 * Bagi orang baru untuk bergabung dalam percakapan, tidak ada unduhan yang berat untuk aplikasi besar, dengan banyak permintaan keamanan di telepon.
 * Setiap forum yang berbeda dapat dioperasikan oleh organisasi yang berbeda, dan fungsionalitas forum tersebut dipilih oleh operator, disatukan dari blok bangunan dasar (disebut 'plugin').
 
+Untuk memulai, Anda dapat mencoba forum di mis. https://atomjump.com
+
+Untuk mendapatkan aplikasi Olahpesan AtomJump:
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## Posting Pesan
 Jika Anda berada di AtomJump.com, klik tombol 'chat' biru besar untuk masuk ke forum. Situs lain yang menggunakan perangkat lunak AtomJump akan menampilkan pesan pop-up setelah Anda mengklik link tertentu.
 
