@@ -8,7 +8,7 @@ nel caso in cui i server dovessero essere inattivi.
 
 # Guida dell'utente alla messaggistica
 
-__Nota: __ questa guida è una traduzione automatica dalla versione inglese su http://atomjump.org/wp/user-guide/. Se puoi confermare che la traduzione ha senso per te o migliorare la traduzione, contattaci direttamente su http://atomjump.org/wp/contact/ o apporta le modifiche su https://github.com/atomjump /Cambia lingua. Il tuo contributo è molto apprezzato.
+__Nota:__ questa guida è una traduzione automatica dalla versione inglese su http://atomjump.org/wp/user-guide/. Se puoi confermare che la traduzione ha senso per te o migliorare la traduzione, contattaci direttamente su http://atomjump.org/wp/contact/ o apporta le modifiche su https://github.com/atomjump/change_language. Il tuo contributo è molto apprezzato.
 
 
 
@@ -51,9 +51,9 @@ Per favore pagami 3,30 sterline Per favore pagami 3,30 sterline [con collegament
 
 https://youtu.be/ZNra8eK0K6k [mostra un'immagine del video, su cui fare clic]
 
-london @ london @ [con link a http://london.atomjump.com]
+london@ london@ [con link a http://london.atomjump.com]
 
-london.atomjump.com london @ [con link a http://london.atomjump.com]
+london.atomjump.com london@ [con link a http://london.atomjump.com]
 
 http://a.very.long.link.with.lots.of.text.com Espandi [con link a http://a.very.long.link.with.lots.of.text.com]
 
@@ -196,9 +196,9 @@ Nota: la casella grigia anteriore con la parola "Impostazioni" cambierà la ling
 
 ## Per passare a schermo intero **
 
-Sul tuo ** telefono Android **, quando ti trovi su una pagina di messaggistica AtomJump frequentata, vai nelle "impostazioni" del browser (spesso un'icona a 3 barre vicino all'indirizzo in alto) e seleziona l'opzione "Aggiungi alla schermata Home" o qualcosa di simile.
+Sul tuo **telefono Android**, quando ti trovi su una pagina di messaggistica AtomJump frequentata, vai nelle "impostazioni" del browser (spesso un'icona a 3 barre vicino all'indirizzo in alto) e seleziona l'opzione "Aggiungi alla schermata Home" o qualcosa di simile.
 
-Sul tuo ** iPhone **, quando sei su una pagina di messaggistica AtomJump frequentata, tocca l'icona "condividi" in fondo alla pagina, quindi l'icona "Aggiungi alla schermata Home" in basso o qualcosa di simile.
+Sul tuo **iPhone**, quando sei su una pagina di messaggistica AtomJump frequentata, tocca l'icona "condividi" in fondo alla pagina, quindi l'icona "Aggiungi alla schermata Home" in basso o qualcosa di simile.
 
 Quindi torna alla schermata principale del telefono e tocca l'icona. Questo utilizzerà quindi lo spazio a schermo intero durante la messaggistica.
 
@@ -218,4 +218,4 @@ In alternativa, se un dominio "https" è associato al server, il problema dovreb
  
  
 
-** Questa funzione è attiva per impostazione predefinita su AtomJump.com, ma potrebbe non esserlo se il tuo provider non ha incluso questi plugin.
+__** Questa funzione è attiva per impostazione predefinita su AtomJump.com, ma potrebbe non esserlo se il tuo provider non ha incluso questi plugin.__
