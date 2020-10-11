@@ -69,6 +69,8 @@ AtomJump Messaging是一種“混合”消息解決方案。即使看起來有�
 
 在論壇中，點擊“發送”按鈕旁邊的相機圖標。在進入視頻論壇之前，這將提供一個確認屏幕。某些瀏覽器需要首先在您的瀏覽器權限中接受照相機。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 ## 為自己命名
 點擊左下角的“設置”。將您的姓名寫到“您的姓名”，然後單擊“保存設置”。您不需要完整的帳戶，但是如果要在收到私人消息時收到通知，則將需要一個（請參閱下文）。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## 設置一個帳戶
 
@@ -95,7 +97,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 點擊“保存設置”。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 您將收到有關私人消息的電子郵件通知，但我們不會將您的電子郵件地址用於任何其他目的。
 
@@ -109,7 +111,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 ## 給一個人寫一封私人留言
 單擊或點擊他們的一封郵件旁邊的人的名字。然後輸入一條消息，然後點擊“發送到[他們的名字]”。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 您需要單擊“公開”開始發布消息，以供所有人再次查看。
 
@@ -143,7 +145,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 點擊左下角的“設置”。點擊“更多”，然後輸入不帶加號“ +”且不帶空格的國際電話號碼，例如“ +64 3 384 5613”應輸入為“ 6433845613”。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 每封郵件的費用為16c。我們按月計費。
 
@@ -165,8 +167,8 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 ## 保存論壇快捷方式
 如果您正在使用手機，我們建議您下載AtomJump Messaging應用程序。
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 您首先需要在論壇的網絡版本的“設置”中創建一個帳戶。
 
@@ -177,6 +179,8 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 發布照片
 點擊左下角的“上傳”圖標。從驅動器中選擇一個.jpg照片，然後單擊“上傳”。注意：您可以選擇一張以上的照片。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 注意：如果您使用的是移動設備，例如Android，要訪問您的圖庫而不是“相機”，請選擇“文檔”，然後選擇“圖庫”。
 
 注意：最好將照片作為風景照片上傳。
@@ -186,7 +190,7 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 發布貼紙**
 單擊左下角的笑臉。然後單擊您的標籤。
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## 下載消息
 使用您的帳戶登錄。點擊左下角的“上傳”圖標。點擊“下載”按鈕。它將下載一個.xlsx電子表格文件，該文件可以通過任何電子表格軟件打開，例如打開Office，Google文檔，Microsoft Office。
@@ -210,11 +214,13 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 要刪除一條消息，請點擊或單擊該消息本身，系統將顯示該消息，並在下面帶有垃圾桶圖標。點擊垃圾桶圖標，該消息應在幾秒鐘內刪除。
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
+
 注意：張貼消息後，您有20分鐘的時間（對於AtomJump的默認安裝，包括AtomJump.com）要刪除該消息，然後其他機器人供稿才有機會復制該消息。
 
 ## 停止在Android上閃爍的圖像
 
-在Android手機上，如果您連接到不安全的“ http”消息服務器，並且手機瀏覽器的“精簡模式”設置已打開，則您可能會發現圖像每隔5秒鐘左右就會閃爍一次。我們建議關閉“精簡模式”以停止手機“ Chrome瀏覽器設置”頁面中的閃爍。
+在Android手機上，如果您連接到不安全的“http”消息服務器，並且手機瀏覽器的“精簡模式”設置已打開，則您可能會發現圖像每隔5秒鐘左右就會閃爍一次。我們建議關閉“精簡模式”以停止手機“Chrome瀏覽器設置”頁面中的閃爍。
 
 或者，如果將“ https”域與服務器關聯，則問題應消失。
  
