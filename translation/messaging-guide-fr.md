@@ -218,4 +218,4 @@ Sinon, si un domaine «https» est associé au serveur, le problème devrait dis
  
  
 
-** Cette fonctionnalité est activée par défaut sur AtomJump.com, mais ce n'est peut-être pas le cas si votre fournisseur n'a pas inclus ces plugins.
+__** Cette fonctionnalité est activée par défaut sur AtomJump.com, mais ce n'est peut-être pas le cas si votre fournisseur n'a pas inclus ces plugins.__
