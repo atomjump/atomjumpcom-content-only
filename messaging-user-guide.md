@@ -142,7 +142,7 @@ Note, on AtomJump.com this has been superseded by the app, which is free, and pr
 
 Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your international phone number without the leading plus sign ‘+’ and without spaces, e.g. ‘+64 3 384 5613’ should be entered as ‘6433845613’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 The cost is 16c per message. We bill on a monthly basis.
 
