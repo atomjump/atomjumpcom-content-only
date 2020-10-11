@@ -69,6 +69,8 @@ __``입력``__ 생성
 
 포럼에있을 때 '보내기'버튼 옆에있는 카메라 아이콘을 클릭합니다. 이것은 비디오 포럼에 들어가기 전에 확인 화면을 제공합니다. 일부 브라우저에서는 먼저 브라우저 권한에서 카메라를 수락해야합니다.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 ## 자신의 이름을 짓다
 왼쪽 하단의 '설정'을 클릭합니다. 'Your Name'에 이름을 입력하고 'Save Settings'를 클릭합니다. 전체 계정이 필요하지는 않지만 비공개 메시지를받을 때 알림을 받으려면 계정이 필요합니다 (아래 참조).
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## 계정 설정하기
 
@@ -95,7 +97,7 @@ iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 
 '설정 저장'을 클릭합니다.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 개인 메시지에 대한 이메일 알림을 받게되지만 다른 용도로 이메일 주소를 사용하지 않습니다.
 
@@ -109,7 +111,7 @@ iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 ## 한 사람에게 개인 메시지를 쓰려면
 메시지 중 하나 옆에있는 사람의 이름을 클릭하거나 탭합니다. 그런 다음 메시지를 입력하고 '[자신의 이름]에게 보내기'를 탭합니다.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 모든 사람이 다시 볼 수 있도록 메시지를 게시하려면 '공개'를 클릭해야합니다.
 
@@ -143,7 +145,7 @@ AtomJump.com에서이 앱은 무료이며 그래픽 메시지 팝업을 제공�
 
 왼쪽 하단의 '설정'을 클릭합니다. '더보기'를 클릭하고 앞에 더하기 기호 '+'와 공백없이 국제 전화 번호를 입력합니다 (예 : ‘+64 3 384 5613’은‘6433845613’으로 입력해야합니다.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 비용은 메시지 당 16c입니다. 우리는 매월 청구합니다.
 
@@ -165,8 +167,8 @@ iPhone에서 알림을받지 못하는 경우 휴대 전화의 '설정> 알림> 
 ## 포럼 바로 가기를 저장하려면
 휴대 전화를 사용 중이라면 AtomJump Messaging 앱을 다운로드하는 것이 좋습니다.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 먼저 포럼의 웹 버전 인 '설정'에서 계정을 만들어야합니다.
 
@@ -177,6 +179,8 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 사진을 게시하려면
 왼쪽 하단에있는 '업로드'아이콘을 클릭합니다. 드라이브에서 .jpg 사진을 선택하고 '업로드'를 클릭합니다. 참고 : 하나 이상의 사진을 선택할 수 있습니다.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 참고 : 모바일 장치를 사용하는 경우 (예 : Android의 경우 '카메라'가 아닌 갤러리에 액세스하려면 '문서'를 선택한 다음 '갤러리'를 선택하세요.
 
 참고 : 사진은 풍경 사진으로 업로드하는 것이 가장 좋습니다.
@@ -186,7 +190,7 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 ## 스티커를 게시하려면 **
 왼쪽 하단에서 웃는 얼굴을 클릭합니다. 그런 다음 스티커를 클릭하십시오.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## 메시지 다운로드
 귀하의 계정으로 로그인하십시오. 왼쪽 하단에있는 '업로드'아이콘을 클릭합니다. ‘다운로드’버튼을 클릭하십시오. .xlsx 스프레드 시트 파일을 다운로드합니다.이 파일은 모든 스프레드 시트 소프트웨어에서 열 수 있습니다. 오픈 오피스, 구글 문서, 마이크로 소프트 오피스.
@@ -209,6 +213,8 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 누구든지 AtomJump.com에서 메시지를 삭제할 수 있으며, 포럼이 대부분 자체 조정되도록 허용합니다. 누군가가 귀하의 메시지를 부당하게 삭제했음을 의미 할 수 있지만 모든 사람이 승인 한 메시지 만 포럼에 남아 있음을 의미합니다. 이 정책으로 해결할 수없는 문제가있는 경우 개인 정보 페이지에서 당사에 문의하십시오.
 
 메시지를 삭제하려면 메시지 자체를 탭하거나 클릭하면 아래에 쓰레기통 아이콘이있는 메시지가 표시됩니다. 쓰레기통 아이콘을 누르면 몇 초 안에 메시지가 제거됩니다.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 참고 : 메시지가 게시 된 후 다른 로봇 피드가 메시지를 복사하기 전에 메시지를 삭제할 수 있습니다 (AtomJump의 기본 설치 및 AtomJump.com 포함).
 
