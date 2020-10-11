@@ -94,7 +94,7 @@ Optionally, you can add a password on the account (which prevents someone else b
 
 Click ‘Save Settings’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 You will get e-mail notifications on private messages, but we do not use your email address for any other purpose.
 
