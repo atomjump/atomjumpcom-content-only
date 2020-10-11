@@ -33,32 +33,33 @@ __ দ্রষ্টব্য: __ এই গাইডটি http://atomjump.org
 ## একটি বার্তা রচনা করতে
 আপনি বিভিন্ন ধরণের মিডিয়াতে কিছু সাধারণ বার্তা শর্টকাট প্রবেশ করতে পারেন।
 
-ক্রিয়েটস প্রবেশ করান
+``প্রবেশ করুন`` সৃষ্টি করে
 
-http://link.com http://link.com
+``http://link.com``	http://link.com
 
-লিংক.কম লিঙ্ক.কম
+``link.com``	<a href="http://link.com">link.com</a>
 
-:) **
+``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **
+``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;) **
-lol **
+``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-আমাকে 5 ডলার প্রদান করুন দয়া করে আমাকে 5 ডলার প্রদান করুন [পেপালের লিঙ্ক সহ]
+``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
-আমাকে 3.30 পাউন্ড প্রদান করুন দয়া করে আমাকে 3.30 পাউন্ড প্রদান করুন [পেপালের লিঙ্ক সহ]
+``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [পেপালের লিঙ্ক সহ]
 
-https://youtu.be/ZNra8eK0K6k [ভিডিওটির একটি চিত্র দেখায়, ক্লিক করতে হবে]
+``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [পেপালের লিঙ্ক সহ]
 
-লন্ডন @ লন্ডন @ [লিঙ্ক সহ http://london.atomjump.com]
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [ভিডিওটির একটি চিত্র দেখায়, ক্লিক করতে হবে]
 
-লন্ডন.এটমজম্প.কম লন্ডন @ [[লন্ডন.এটমজম্প.কমের লিঙ্ক সহ]]
+``london@``	<a href="http://london.atomjump.com">london@</a> [লিঙ্ক সহ http://london.atomjump.com]
 
-http://a.very.long.link.with.lots.of.text.com [http://a.very.long.link.with.lots.of.text.com লিঙ্ক সহ] প্রসারিত করুন
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [[লন্ডন.এটমজম্প.কমের লিঙ্ক সহ]]
 
-http://yoururl.com/yourpic.jpg [চিত্র দেখায়]
+``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [http://a.very.long.link.with.lots.of.text.com লিঙ্ক সহ]
+
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg"> [চিত্র দেখায়]
 
 
 
