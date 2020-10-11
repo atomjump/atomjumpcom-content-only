@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-content-only
 Ce référentiel est une copie publique du contenu important sur https://atomjump.com,
 au cas où les serveurs seraient en panne.
