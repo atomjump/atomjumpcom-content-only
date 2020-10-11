@@ -53,7 +53,7 @@ http://link.com http://link.com
 
 ``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [con enlace a Paypal]
 
-``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a>k [muestra una imagen del video, para hacer clic en él]
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [muestra una imagen del video, para hacer clic en él]
 
 ``london@``	<a href="http://london.atomjump.com">london@</a> [con enlace a http://london.atomjump.com]
 
