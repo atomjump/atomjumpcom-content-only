@@ -43,7 +43,7 @@ link.com link.com
 
 ;）**
 
-笑 **
+lol **
 
 私に5ドル払ってください私に5ドル払ってください[Paypalへのリンク付き]
 
@@ -51,9 +51,9 @@ link.com link.com
 
 https://youtu.be/ZNra8eK0K6k [クリックするビデオの写真を表示します]
 
-london @ london @ [http://london.atomjump.comへのリンク付き]
+london@ london@ [http://london.atomjump.com へのリンク付き]
 
-london.atomjump.com london @ [http://london.atomjump.comへのリンク付き]
+london.atomjump.com london@ [http://london.atomjump.comへのリンク付き]
 
 http://a.very.long.link.with.lots.of.text.com展開[http://a.very.long.link.with.lots.of.text.comへのリンク付き]
 
