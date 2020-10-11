@@ -69,6 +69,8 @@ __``Eingeben``__	Erstellt
 
 Wenn Sie sich in einem Forum befinden, klicken Sie auf das Kamerasymbol neben der Schaltfläche "Senden". Dies bietet einen Bestätigungsbildschirm, bevor Sie das Videoforum betreten. Bei einigen Browsern muss die Kamera zuerst in Ihren Browserberechtigungen akzeptiert werden.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 iPhone- und iPad-Benutzer müssen eine separate App herunterladen.
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
@@ -85,7 +87,7 @@ Alternative Methode: Während Sie auf den meisten Plattformen in der Lage sein s
 ## Um sich zu benennen
 Klicken Sie unten links auf "Einstellungen". Schreiben Sie Ihren Namen in "Ihr Name" und klicken Sie auf "Einstellungen speichern". Sie benötigen kein vollständiges Konto. Wenn Sie jedoch Benachrichtigungen erhalten möchten, wenn Sie eine private Nachricht erhalten, benötigen Sie eine (siehe unten).
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
 
 ## Um ein Konto einzurichten
 
@@ -95,7 +97,7 @@ Optional können Sie dem Konto ein Kennwort hinzufügen (wodurch verhindert wird
 
 Klicken Sie auf "Einstellungen speichern".
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
 
 Sie erhalten E-Mail-Benachrichtigungen zu privaten Nachrichten, aber wir verwenden Ihre E-Mail-Adresse nicht für andere Zwecke.
 
@@ -109,7 +111,7 @@ Hinweis: Jede andere AtomJump Server-Installation verfügt über eine eigene Dat
 ## Eine private Nachricht an eine Person schreiben
 Klicken oder tippen Sie auf den Namen der Person neben einer ihrer Nachrichten. Geben Sie dann eine Nachricht ein und tippen Sie auf "An [ihren Namen] senden".
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 Sie müssen auf "Öffentlich gehen" klicken, um Nachrichten zu veröffentlichen, die alle wieder sehen können.
 
@@ -143,7 +145,7 @@ Beachten Sie, dass dies auf AtomJump.com durch die kostenlose App ersetzt wurde,
 
 Klicken Sie unten links auf "Einstellungen". Klicken Sie auf "Mehr" und geben Sie Ihre internationale Telefonnummer ohne das führende Pluszeichen "+" und ohne Leerzeichen ein, z. "+64 3 384 5613" sollte als "6433845613" eingegeben werden.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 Die Kosten betragen 16c pro Nachricht. Wir rechnen monatlich ab.
 
@@ -165,8 +167,8 @@ Wenn Sie auf einem iPhone keine Benachrichtigungen erhalten, müssen Sie möglic
 ## So speichern Sie eine Forum-Verknüpfung
 Wenn Sie auf Ihrem Telefon sind, empfehlen wir Ihnen, die AtomJump Messaging-App herunterzuladen.
 
-https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 Sie müssen zunächst ein Konto in der Webversion Ihres Forums unter "Einstellungen" erstellen.
 
@@ -177,6 +179,8 @@ Wenn Sie sich auf einem Desktop befinden, können Sie ein Lesezeichen in Ihrem B
 ## Um ein Foto zu posten
 Klicken Sie unten links auf das Symbol "Hochladen". Wählen Sie ein JPG-Foto von Ihrem Laufwerk aus und klicken Sie auf "Hochladen". Hinweis: Sie können mehr als ein Foto auswählen.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+
 Hinweis: Wenn Sie ein mobiles Gerät verwenden, z. Android, um Zugriff auf Ihre Galerie anstatt auf die "Kamera" zu erhalten, wählen Sie "Dokumente" und dann "Galerie".
 
 Hinweis: Fotos werden am besten als Landschaftsfotos hochgeladen.
@@ -186,7 +190,7 @@ Sie können eine zoomfähige Vorschau des Fotos anzeigen, indem Sie auf die ange
 ## Um einen Aufkleber zu posten **
 Klicken Sie auf das Smiley-Gesicht in der unteren linken Ecke. Klicken Sie dann auf Ihren Aufkleber.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## Nachrichten herunterladen
 Melden Sie sich mit Ihrem Konto an. Klicken Sie auf das Symbol "Hochladen" in der unteren linken Ecke. Klicken Sie auf die Schaltfläche "Herunterladen". Es wird eine XLSX-Tabellenkalkulationsdatei heruntergeladen, die von jeder Tabellenkalkulationssoftware geöffnet werden kann, z. Öffnen Sie Office, Google Text & Tabellen und Microsoft Office.
@@ -209,6 +213,8 @@ Kehren Sie dann zum Startbildschirm Ihres Telefons zurück und tippen Sie auf da
 Jeder kann jede Nachricht auf AtomJump.com löschen, und wir erlauben dies, damit die Foren weitgehend selbstmoderierend sind. Während dies bedeuten kann, dass Ihre Nachricht von jemandem zu Unrecht gelöscht wird, bedeutet dies, dass nur die Nachrichten, die jeder genehmigt, im Forum verbleiben. Wenn Sie Probleme haben, die mit dieser Richtlinie nicht gelöst werden können, kontaktieren Sie uns bitte auf der Datenschutzseite.
 
 Um eine Nachricht zu löschen, tippen oder klicken Sie auf die Nachricht selbst. Daraufhin wird die Nachricht mit einem Papierkorbsymbol angezeigt. Tippen Sie auf das Papierkorbsymbol. Die Meldung sollte in wenigen Sekunden entfernt werden.
+
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 Hinweis: Nachdem eine Nachricht veröffentlicht wurde, haben Sie 20 Minuten Zeit (für eine Standardinstallation von AtomJump, einschließlich AtomJump.com), um die Nachricht zu löschen, bevor andere Roboter-Feeds die Möglichkeit haben, die Nachricht zu kopieren.
 
