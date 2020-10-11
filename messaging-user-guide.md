@@ -65,6 +65,8 @@ __``Enter``__	Creates
 
 When you’re in a forum, click on the camera icon next to the ‘Send’ button. This will provide a confirmation screen before entering the video forum. Some browsers need the camera to be accepted in your browser permissions first.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+
 iPhone and iPad users will need to download a separate app.
 
 * https://itunes.apple.com/us/app/jitsi-meet/id1165103905
