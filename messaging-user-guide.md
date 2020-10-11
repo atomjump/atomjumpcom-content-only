@@ -29,7 +29,7 @@ Start typing in the ‘Enter your comment’ box at the top and click ‘send’
 ## To Compose a Message
 You can enter some common messaging shortcuts for various types of media.
 
-__Enter__	Creates
+``Enter``	Creates
 
 ``http://link.com``	http://link.com
 
