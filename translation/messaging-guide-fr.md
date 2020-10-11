@@ -8,7 +8,7 @@ au cas où les serveurs seraient en panne.
 
 # Guide de l'utilisateur de la messagerie
 
-__Remarque: __ ce guide est une traduction automatique de la version anglaise à http://atomjump.org/wp/user-guide/. Si vous pouvez confirmer que la traduction a du sens pour vous, ou améliorer la traduction, veuillez nous contacter directement à http://atomjump.org/wp/contact/, ou apporter les modifications à https://github.com/atomjump /changer de langue. Votre contribution est très appréciée.
+__Remarque:__ ce guide est une traduction automatique de la version anglaise à http://atomjump.org/wp/user-guide/. Si vous pouvez confirmer que la traduction a du sens pour vous, ou améliorer la traduction, veuillez nous contacter directement à http://atomjump.org/wp/contact/, ou apporter les modifications à https://github.com/atomjump /changer de langue. Votre contribution est très appréciée.
 
 
 
@@ -51,9 +51,9 @@ Veuillez me payer 3,30 livres Veuillez me payer 3,30 livres [avec lien vers Payp
 
 https://youtu.be/ZNra8eK0K6k [montre une photo de la vidéo sur laquelle cliquer]
 
-london @ london @ [avec lien vers http://london.atomjump.com]
+london@ london@ [avec lien vers http://london.atomjump.com]
 
-london.atomjump.com london @ [avec lien vers http://london.atomjump.com]
+london.atomjump.com london@ [avec lien vers http://london.atomjump.com]
 
 http://a.very.long.link.with.lots.of.text.com Développer [avec un lien vers http://a.very.long.link.with.lots.of.text.com]
 
@@ -122,7 +122,7 @@ Cliquez ou appuyez sur le nom de la personne à côté de l'un de ses messages. 
 Notez qu'une réponse Twitter sera toujours publique et vous n'avez pas besoin d'un compte Twitter. Un message sera automatiquement envoyé depuis notre compte AtomJump indiquant qu'un message les attend sur le forum sur lequel vous êtes actuellement. C'est à eux de décider s'ils liront leurs messages Twitter et y répondront.
 
 ## Pour devenir abonné au forum
-Si vous n'avez pas encore de compte ou si vous n'en voulez pas immédiatement, vous pouvez le faire en cliquant sur l'icône d'oreille rouge `` barrée '', ou en cliquant sur `` Paramètres '' et en saisissant votre adresse e-mail dans le champ `` E-mail '' champ. Cliquez ensuite sur "S'abonner".
+Si vous n'avez pas encore de compte ou si vous n'en voulez pas immédiatement, vous pouvez le faire en cliquant sur l'icône d'oreille rouge "barrée", ou en cliquant sur "Paramètres" et en saisissant votre adresse e-mail dans le champ "E-mail" champ. Cliquez ensuite sur "S'abonner".
 
 Si vous avez un compte, vous devez d'abord vous connecter (avec votre email et votre mot de passe). Cliquez sur "Plus" pour la zone de mot de passe, saisissez votre mot de passe, cliquez sur "Connexion", puis sur la page "Paramètres", cliquez sur "S'abonner" ou sur la page de messagerie, cliquez sur l'icône en forme d'oreille rouge "barrée".
 
@@ -196,9 +196,9 @@ Remarque: la case grise avant avec le mot «Paramètres» ne changera de langue 
 
 ## Pour aller en plein écran **
 
-Sur votre ** téléphone Android **, lorsque vous êtes sur une page de messagerie AtomJump fréquentée, allez dans les `` paramètres '' du navigateur (souvent une icône à 3 barres près de l'adresse en haut), et sélectionnez l'option `` Ajouter à l'écran d'accueil '' , ou quelque chose de similaire.
+Sur votre **téléphone Android**, lorsque vous êtes sur une page de messagerie AtomJump fréquentée, allez dans les "paramètres" du navigateur (souvent une icône à 3 barres près de l'adresse en haut), et sélectionnez l'option "Ajouter à l'écran d'accueil" , ou quelque chose de similaire.
 
-Sur votre ** iPhone **, lorsque vous êtes sur une page de messagerie AtomJump fréquentée, appuyez sur l'icône `` Partager '' en bas de la page, puis sur l'icône `` Ajouter à l'écran d'accueil '' en bas, ou quelque chose de similaire.
+Sur votre **iPhone**, lorsque vous êtes sur une page de messagerie AtomJump fréquentée, appuyez sur l'icône "Partager" en bas de la page, puis sur l'icône " Ajouter à l'écran d'accueil" en bas, ou quelque chose de similaire.
 
 Revenez ensuite à l'écran d'accueil de votre téléphone et appuyez sur l'icône. Cela utilisera alors l'immobilier en plein écran pendant la messagerie.
 
