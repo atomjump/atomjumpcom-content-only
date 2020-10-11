@@ -8,7 +8,7 @@ en caso de que los servidores estén inactivos.
 
 # Guía del usuario de mensajería
 
-__Nota: __ esta guía es una traducción automática de la versión en inglés en http://atomjump.org/wp/user-guide/. Si puede confirmar que la traducción tiene sentido para usted o mejorar la traducción, contáctenos directamente en http://atomjump.org/wp/contact/ o realice los cambios en https://github.com/atomjump /cambiar idioma. Su aportación es muy apreciada.
+__Nota:__ esta guía es una traducción automática de la versión en inglés en http://atomjump.org/wp/user-guide/. Si puede confirmar que la traducción tiene sentido para usted o mejorar la traducción, contáctenos directamente en http://atomjump.org/wp/contact/ o realice los cambios en https://github.com/atomjump /change_language cambiar idioma. Su aportación es muy apreciada.
 
 
 
@@ -196,9 +196,9 @@ Nota: el cuadro gris frontal con la palabra "Configuración" solo cambiará el i
 
 ## Para ir a pantalla completa **
 
-En su ** teléfono Android **, cuando esté en una página de mensajería AtomJump frecuentada, acceda a la 'configuración' del navegador (a menudo un icono de 3 barras cerca de la dirección en la parte superior) y seleccione la opción 'Agregar a la pantalla de inicio' , o algo similar.
+En su **teléfono Android**, cuando esté en una página de mensajería AtomJump frecuentada, acceda a la 'configuración' del navegador (a menudo un icono de 3 barras cerca de la dirección en la parte superior) y seleccione la opción 'Agregar a la pantalla de inicio' , o algo similar.
 
-En su ** iPhone **, cuando esté en una página de mensajería AtomJump frecuentada, toque el ícono 'compartir' en la parte inferior de la página, y luego el ícono 'Agregar a la pantalla de inicio' en la parte inferior, o algo similar.
+En su **iPhone**, cuando esté en una página de mensajería AtomJump frecuentada, toque el ícono 'compartir' en la parte inferior de la página, y luego el ícono 'Agregar a la pantalla de inicio' en la parte inferior, o algo similar.
 
 Luego regrese a la pantalla de inicio de su teléfono y toque el ícono. Esto luego usará el espacio real de pantalla completa durante la mensajería.
 
@@ -218,4 +218,4 @@ Alternativamente, si un dominio "https" está asociado con el servidor, el probl
  
  
 
-** Esta función está activada de forma predeterminada en AtomJump.com, pero puede que no lo esté si su proveedor no ha incluido estos complementos.
+__** Esta función está activada de forma predeterminada en AtomJump.com, pero puede que no lo esté si su proveedor no ha incluido estos complementos.__
