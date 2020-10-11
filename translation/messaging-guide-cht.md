@@ -51,9 +51,9 @@ lol **
 
 https://youtu.be/ZNra8eK0K6k [顯示視頻圖片，請點擊]
 
-london @ london @ [並鏈接到http://london.atomjump.com]
+london@ london@ [並鏈接到http://london.atomjump.com]
 
-london.atomjump.com london @ [具有指向http://london.atomjump.com的鏈接]
+london.atomjump.com london@ [具有指向http://london.atomjump.com的鏈接]
 
 http://a.very.long.link.with.lots.of.text.com展開[包含指向http://a.very.long.link.with.lots.of.text.com的鏈接]
 
