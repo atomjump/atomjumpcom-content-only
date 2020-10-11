@@ -211,6 +211,8 @@ Anyone can delete any message on AtomJump.com, and we allow this so that forums 
 
 To delete a message, tap or click on the message itself, and you will be shown the message with a rubbish bin icon underneath. Tap the rubbish bin icon, and the message should be removed in a few seconds.
 
+<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
+
 Note: After a message has been posted you have 20 minutes (for a default installation of AtomJump, and that includes AtomJump.com) to delete the message before other robot feeds have a chance to copy the message.
 
 ## To Stop Flickering Images on Android
