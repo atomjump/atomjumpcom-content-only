@@ -33,33 +33,33 @@ AtomJump मैसेजिंग एक ‘हाइब्रिड ump सं�
 ## संदेश लिखने के लिए
 आप विभिन्न प्रकार के मीडिया के लिए कुछ सामान्य मैसेजिंग शॉर्टकट दर्ज कर सकते हैं।
 
-बनाता दर्ज
+__``बनाता``__ दर्ज
 
-http://link.com http://link.com
+``http://link.com``	http://link.com
 
-link.com link.com
+``link.com``	<a href="http://link.com">link.com</a>
 
-:) **
+``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **
+``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;) **
+``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-lol **
+``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
-कृपया मुझे 5 डॉलर का भुगतान करें कृपया मुझे 5 डॉलर का भुगतान करें [पेपैल के लिंक के साथ]
+``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [पेपैल के लिंक के साथ]
 
-कृपया मुझे 3.30 पाउंड का भुगतान करें। कृपया मुझे 3.30 पाउंड का भुगतान करें [पेपैल से लिंक के साथ]
+``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [पेपैल से लिंक के साथ]
 
-https://youtu.be/ZNra8eK0K6k [वीडियो की एक तस्वीर दिखाता है, जिस पर क्लिक करना है]
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [वीडियो की एक तस्वीर दिखाता है, जिस पर क्लिक करना है]
 
-लंदन @ लंदन @ [http://london.atomjump.com के लिंक के साथ]
+``london@``	<a href="http://london.atomjump.com">london@</a> [http://london.atomjump.com के लिंक के साथ]
 
-london.atomjump.com london @ [http://london.atomjump.com के लिंक के साथ]
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [http://london.atomjump.com के लिंक के साथ]
 
-http://a.very.long.link.with.lots.of.text.com [http://a.very.long.link.with.lots.of.text.com के लिंक के साथ विस्तार करें]
+``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [http://a.very.long.link.with.lots.of.text.com के लिंक के साथ विस्तार करें]
 
-http://yoururl.com/yourpic.jpg [चित्र दिखाता है]
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg"> [चित्र दिखाता है]
 
 
 
