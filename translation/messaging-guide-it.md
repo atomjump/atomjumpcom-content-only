@@ -24,6 +24,13 @@ Essendo un ibrido, ci sono alcuni vantaggi rispetto alle app dedicate:
 * Affinché una nuova persona si unisca alla conversazione, non è necessario scaricare un app di grandi dimensioni, con molte richieste di sicurezza sul telefono.
 * Ogni forum diverso può essere gestito da un'organizzazione diversa e la funzionalità di quel forum viene scelta dall'operatore, essendo composta da blocchi di costruzione di base (chiamati "plug-in").
 
+Per iniziare puoi provare un forum su es. https://atomjump.com
+
+Per ottenere l'app AtomJump Messaging opzionale:
+
+* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
+* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+
 ## Pubblica un messaggio
 Se sei su AtomJump.com, fai clic sul grande pulsante blu "chat" per entrare in un forum. Altri siti che utilizzano il software AtomJump mostreranno il messaggio pop-up dopo aver fatto clic su un particolare collegamento.
 
