@@ -1,3 +1,5 @@
+<img src="https://atomjump.com/images/logo80.png">
+
 # atomjumpcom-content-only
 이 저장소는 https://atomjump.com 에있는 중요한 콘텐츠의 공개 사본입니다.
 서버가 다운되어야하는 경우.
