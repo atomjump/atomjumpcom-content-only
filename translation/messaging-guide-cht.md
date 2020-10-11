@@ -1,5 +1,5 @@
 # atomjumpcom-content-only
-該存儲庫是https://atomjump.com上重要內容的公共副本，
+該存儲庫是 https://atomjump.com 上重要內容的公共副本，
 以防服務器停機。
 
 
@@ -8,7 +8,7 @@
 
 # 消息傳遞用戶指南
 
-__注意：__本指南是英文版的機器翻譯，網址為http://atomjump.org/wp/user-guide/。如果您可以確定翻譯對您有意義，或者可以改進翻譯，請直接通過http://atomjump.org/wp/contact/與我們聯繫，或通過https://github.com/atomjump進行更改。 /改變語言。非常感謝您的投入。
+__注意__ 本指南是英文版的機器翻譯，網址為 http://atomjump.org/wp/user-guide/ 。如果您可以確定翻譯對您有意義，或者可以改進翻譯，請直接通過 http://atomjump.org/wp/contact/ 與我們聯繫，或通過 https://github.com/atomjump/change_language 進行更改。 /改變語言。非常感謝您的投入。
 
 
 
@@ -43,7 +43,7 @@ link.com link.com
 
 ;）**
 
-大聲笑 **
+lol **
 
 請給我5美元請給我5美元[包含指向Paypal的鏈接]
 
@@ -196,9 +196,9 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
 
 ## 全屏顯示**
 
-在** Android手機**上，當您經常訪問AtomJump消息頁面時，進入瀏覽器的“設置”（通常在頂部地址附近的3欄圖標），然後選擇“添加到主屏幕”選項或類似的內容。
+在**Android手機**上，當您經常訪問AtomJump消息頁面時，進入瀏覽器的“設置”（通常在頂部地址附近的3欄圖標），然後選擇“添加到主屏幕”選項或類似的內容。
 
-在您的** iPhone **上，當您經常訪問AtomJump消息頁面時，請點擊頁面底部的“共享”圖標，然後點擊底部的“添加至主屏幕”圖標，或類似的圖標。
+在您的**iPhone**上，當您經常訪問AtomJump消息頁面時，請點擊頁面底部的“共享”圖標，然後點擊底部的“添加至主屏幕”圖標，或類似的圖標。
 
 然後返回手機的主屏幕，然後點擊圖標。然後，它將在消息傳遞期間使用全屏房地產。
 
@@ -218,4 +218,4 @@ https://play.google.com/store/apps/details?id=com.atomjump.messaging
  
  
 
-**默認情況下，此功能已在AtomJump.com上啟用，但如果您的提供者未包含這些插件，則可能不會啟用。
+__**默認情況下，此功能已在AtomJump.com上啟用，但如果您的提供者未包含這些插件，則可能不會啟用。__
