@@ -1,10 +1,10 @@
-* English __en__ <a href="messaging-guide-en.txt">English</a>
-* Deutsche __de__ German 
-* Français __fr__ French 
-* 日本語 __ja__ Japanese 
-* 简体中文 __ch__ Chinese (Simplified)  
-* 中國傳統的 __cht__ Chinese (Traditional) 
-* Italiano __it__ Italian 
+* <a href="messaging-guide-en.txt">English</a> __en__ English
+* <a href="messaging-guide-de.md">Deutsche</a> __de__ German 
+* <a href="messaging-guide-fr.md">Français</a> __fr__ French 
+* <a href="messaging-guide-ja.md">日本語</a> __ja__ Japanese 
+* <a href="messaging-guide-ch.md">简体中文</a> __ch__ Chinese (Simplified)  
+* <a href="messaging-guide-cht.md">中國傳統的</a> __cht__ Chinese (Traditional) 
+* <a href="messaging-guide-it.md">Italiano</a> __it__ Italian 
 * বাংলা __bg__ Bengali  
 * 한국어 __ko__ Korean  
 * русский __ru__ Russian 
