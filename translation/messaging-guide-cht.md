@@ -33,33 +33,33 @@ AtomJump Messaging是一種“混合”消息解決方案。即使看起來有�
 ## 撰寫郵件
 您可以為各種類型的媒體輸入一些常用的消息傳遞快捷方式。
 
-輸入創建
+``輸入`` 創建
 
-http://link.com http://link.com
+``http://link.com``	http://link.com
 
-link.com link.com
+``link.com``	<a href="http://link.com">link.com</a>
 
-:) **
+``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-:( **
+``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-;）**
+``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-lol **
+``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
 
-Please pay 5 dollars to me	Please pay 5 dollars to me [包含指向Paypal的鏈接]
+``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [包含指向Paypal的鏈接]
 
-lease pay 3.30 pounds to me	Please pay 3.30 pounds to me [包含貝寶的鏈接]
+``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [包含貝寶的鏈接]
 
-https://youtu.be/ZNra8eK0K6k [顯示視頻圖片，請點擊]
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [顯示視頻圖片，請點擊]
 
-london@ london@ [並鏈接到http://london.atomjump.com]
+``london@``	<a href="http://london.atomjump.com">london@</a> [並鏈接到http://london.atomjump.com]
 
-london.atomjump.com london@ [具有指向http://london.atomjump.com的鏈接]
+``london.atomjump.com``	<a href="http://london.atomjump.com">london@</a> [具有指向http://london.atomjump.com的鏈接]
 
-http://a.very.long.link.with.lots.of.text.com展開[包含指向http://a.very.long.link.with.lots.of.text.com的鏈接]
+``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [包含指向http://a.very.long.link.with.lots.of.text.com的鏈接]
 
-http://yoururl.com/yourpic.jpg [顯示圖片]
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg"> [顯示圖片]
 
 
 
