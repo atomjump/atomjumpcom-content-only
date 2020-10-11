@@ -108,7 +108,7 @@ Note: each different AtomJump Server installation has it’s own private users d
 ## To Write a Private Message to One Person
 Click or tap on the person’s name next to one of their messages. Then enter a message and tap ‘Send to [their name]’.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 You will need to click ‘Go Public’ to start posting messages for everyone to see again.
 
