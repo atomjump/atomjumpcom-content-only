@@ -187,7 +187,7 @@ You can choose to see a zoom-able preview of the photo by tapping the thumbnail 
 ## To Post a Sticker **
 Click the smiley face in the bottom left corner. Then click your sticker.
 
-
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## To Download Messages
 Log in with your account. Click the ‘Upload’ icon in the bottom left corner. Click the ‘Download’ button. It will download an .xlsx spreadsheet file, which can be opened by any spreadsheet software e.g. Open Office, Google Docs, Microsoft Office.
