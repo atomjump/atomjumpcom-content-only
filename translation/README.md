@@ -15,4 +15,4 @@
 * bahasa Indonesia __in__ Indonesian  
 
 
-This is a translation of the English file messaging-guide-en.txt into each of the above langauges.
+This is a translation of the English file messaging-guide-en.txt into each of the above languages.
