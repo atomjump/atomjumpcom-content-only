@@ -51,11 +51,11 @@ link.com link.com
 
 https://youtu.be/ZNra8eK0K6k [显示视频图片，请点击]
 
-london @ london @ [并链接到http://london.atomjump.com]
+london@ london@ [并链接到 http://london.atomjump.com]
 
-london.atomjump.com london @ [具有指向http://london.atomjump.com的链接]
+london.atomjump.com london @ [具有指向 http://london.atomjump.com 的链接]
 
-http://a.very.long.link.with.lots.of.text.com展开[包含指向http://a.very.long.link.with.lots.of.text.com的链接]
+http://a.very.long.link.with.lots.of.text.com 展开[包含指向 http://a.very.long.link.with.lots.of.text.com 的链接]
 
 http://yoururl.com/yourpic.jpg [显示图片]
 
