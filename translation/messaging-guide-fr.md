@@ -104,7 +104,7 @@ En option, vous pouvez ajouter un mot de passe sur le compte (ce qui empêche qu
 
 Cliquez sur "Enregistrer les paramètres".
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 Vous recevrez des notifications par e-mail sur les messages privés, mais nous n'utilisons pas votre adresse e-mail à d'autres fins.
 
@@ -186,11 +186,9 @@ Si vous utilisez un ordinateur de bureau, vous pouvez enregistrer un «signet» 
 ## Pour publier une photo
 Cliquez sur l'icône "importer" dans le coin inférieur gauche. Sélectionnez une photo .jpg de votre lecteur et cliquez sur "Importer". Remarque: vous pouvez choisir plus d'une photo.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 Remarque: si vous utilisez un appareil mobile, par ex. Android, pour accéder à votre galerie plutôt qu'à "Appareil photo", sélectionnez "Documents", puis "Galerie".
-
-Remarque: les photos sont mieux téléchargées en tant que photos de paysage.
 
 Vous pouvez choisir d'afficher un aperçu zoomable de la photo en appuyant sur les aperçus miniatures qui apparaissent. Appuyez à nouveau sur la photo pour fermer l'aperçu complet.
 
