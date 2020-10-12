@@ -104,7 +104,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 點擊“保存設置”。
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 您將收到有關私人消息的電子郵件通知，但我們不會將您的電子郵件地址用於任何其他目的。
 
@@ -186,11 +186,9 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 ## 發布照片
 點擊左下角的“上傳”圖標。從驅動器中選擇一個.jpg照片，然後單擊“上傳”。注意：您可以選擇一張以上的照片。
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 注意：如果您使用的是移動設備，例如Android，要訪問您的圖庫而不是“相機”，請選擇“文檔”，然後選擇“圖庫”。
-
-注意：最好將照片作為風景照片上傳。
 
 您可以通過點擊顯示的縮略圖預覽來選擇查看照片的可縮放預覽。再次點擊照片以關閉完整預覽。
 
