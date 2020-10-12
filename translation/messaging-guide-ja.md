@@ -104,7 +104,7 @@ iPhoneとiPadのユーザーは、別のアプリをダウンロードする必�
 
 [設定を保存]をクリックします。
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 プライベートメッセージで電子メール通知を受け取りますが、他の目的であなたの電子メールアドレスを使用することはありません。
 
@@ -186,7 +186,7 @@ iPhoneで通知を受け取らない場合は、電話の[設定]> [通知]> [At
 ## 写真を投稿するには
 左下隅にある「アップロード」アイコンをクリックします。ドライブから.jpg写真を選択し、[アップロード]をクリックします。注：複数の写真を選択できます。
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 注：モバイルデバイスを使用している場合（例： Androidの場合、「カメラ」ではなくギャラリーにアクセスするには、「ドキュメント」、「ギャラリー」の順に選択します。
 
