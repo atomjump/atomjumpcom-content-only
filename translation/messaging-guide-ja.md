@@ -10,8 +10,7 @@
 
 # メッセージングユーザーガイド
 
-__注__ このガイドは、http://atomjump.org/wp/user-guide/ にある英語版からの機械翻訳です。翻訳に意味があることを確認できる場合、または翻訳を改善できる場合は、http://atomjump.org/wp/contact/ で直接お問い合わせいただくか、https://github.com/atomjump/change_language で変更を加えてください/言語を変えてください。ご意見をいただければ幸いです。
-
+__注__ このガイドは、http：//atomjump.org/wp/user-guide/にある英語版からの機械翻訳です。翻訳があなたにとって意味があることを確認できる場合、または翻訳を改善できる場合は、 http://atomjump.org/wp/contact/ で直接お問い合わせいただくか、https://github.com/atomjump/atomjumpcom-content-only/。ご意見をお待ちしております。
 
 
 ## 前書き
