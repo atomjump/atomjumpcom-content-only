@@ -10,8 +10,7 @@
 
 # 메시징 사용자 가이드
 
-__ 참고 : __이 가이드는 http://atomjump.org/wp/user-guide/ 에있는 영어 버전의 기계 번역입니다. 번역이 의미가 있음을 확인하거나 번역을 개선 할 수있는 경우 http://atomjump.org/wp/contact/에서 직접 문의하거나 https://github.com/atomjump/change_language 에서 변경하십시오. / 언어 변경. 귀하의 의견은 대단히 감사합니다.
-
+__참고 :__ 이 가이드는 http://atomjump.org/wp/user-guide/ 에있는 영어 버전의 기계 번역입니다. 번역이 의미가 있음을 확인하거나 번역을 개선 할 수있는 경우 http://atomjump.org/wp/contact/ 에서 직접 문의하거나 https://github.com/atomjump/atomjumpcom-content-only/. 귀하의 의견은 대단히 감사합니다.
 
 
 ## 소개
