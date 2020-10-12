@@ -101,7 +101,7 @@ Optionally, you can add a password on the account (which prevents someone else b
 
 Click ‘Save Settings’.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 You will get e-mail notifications on private messages, but we do not use your email address for any other purpose.
 
@@ -183,11 +183,9 @@ If you are on a desktop, you can save a ‘Bookmark’ in your browser to the cu
 ## To Post a Photo
 Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’. Note: you can choose more than one photo.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 Note: if you are using a mobile device e.g. Android, to get access to your Gallery rather than the ‘Camera’, select ‘Documents’ and then ‘Gallery’.
-
-Note: photos are best uploaded as landscape photos.
 
 You can choose to see a zoom-able preview of the photo by tapping the thumbnail previews that appear. Tap the photo again to close the full preview.
 
