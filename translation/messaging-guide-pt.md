@@ -10,9 +10,8 @@ no caso de os servidores estarem inativos.
 
 # Guia do usuário de mensagens
 
-__Nota:__ este guia é uma tradução automática da versão em inglês em http://atomjump.org/wp/user-guide/. Se você pode confirmar que a tradução faz sentido para você, ou melhorar a tradução, entre em contato conosco diretamente em http://atomjump.org/wp/contact/ ou faça as alterações em https://github.com/atomjump /change_language mudar idioma. Sua opinião é muito apreciada.
 
-
+__Nota:__ este guia é uma tradução automática da versão em inglês em http://atomjump.org/wp/user-guide/. Se você puder confirmar que a tradução faz sentido para você ou melhorar a tradução, entre em contato conosco diretamente em http://atomjump.org/wp/contact/ ou faça as alterações em https://github.com/atomjump/atomjumpcom-content-only/. Sua opinião é muito apreciada.
 
 ## Introdução
 AtomJump Messaging é uma solução de mensagens ‘híbrida’. Ele é amplamente operado como um "serviço da web" a partir de um site, mesmo que pareça um pouco com um aplicativo de telefone. Mas também tem um aplicativo opcional, que oferece alguns recursos adicionais, como notificações de ping e atalhos para os fóruns visitados com frequência. Ambos os componentes são de código aberto e gratuitos.
