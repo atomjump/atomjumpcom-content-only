@@ -10,8 +10,7 @@ au cas où les serveurs seraient en panne.
 
 # Guide de l'utilisateur de la messagerie
 
-__Remarque:__ ce guide est une traduction automatique de la version anglaise à http://atomjump.org/wp/user-guide/. Si vous pouvez confirmer que la traduction a du sens pour vous, ou améliorer la traduction, veuillez nous contacter directement à http://atomjump.org/wp/contact/, ou apporter les modifications à https://github.com/atomjump/change_language. Votre contribution est très appréciée.
-
+__Remarque:__ ce guide est une traduction automatique de la version anglaise à http://atomjump.org/wp/user-guide/. Si vous pouvez confirmer que la traduction a du sens pour vous, ou améliorer la traduction, veuillez nous contacter directement à http://atomjump.org/wp/contact/, ou apporter les modifications à https://github.com/atomjump/atomjumpcom-content-only/. Votre contribution est très appréciée.
 
 
 ## Introduction
