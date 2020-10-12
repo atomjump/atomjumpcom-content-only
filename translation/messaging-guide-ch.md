@@ -104,7 +104,7 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 点击“保存设置”。
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 您将收到有关私人消息的电子邮件通知，但我们不会将您的电子邮件地址用于任何其他目的。
 
@@ -186,11 +186,9 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 ## 发布照片
 点击左下角的“上传”图标。从驱动器中选择一个.jpg照片，然后单击“上传”。注意：您可以选择一张以上的照片。
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 注意：如果您使用的是移动设备，例如Android，要访问您的图库而不是“相机”，请选择“文档”，然后选择“图库”。
-
-注意：最好将照片作为风景照片上传。
 
 您可以通过点击显示的缩略图预览来选择查看照片的可缩放预览。再次点击照片以关闭完整预览。
 
