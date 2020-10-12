@@ -106,7 +106,7 @@ Opcionalmente, puede agregar una contraseña a la cuenta (lo que evita que otra 
 
 Haga clic en "Guardar configuración".
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 Recibirá notificaciones por correo electrónico sobre mensajes privados, pero no usamos su dirección de correo electrónico para ningún otro propósito.
 
@@ -188,11 +188,9 @@ Si está en un escritorio, puede guardar un "Marcador" en su navegador en la pá
 ## Para publicar una foto
 Haga clic en el icono "cargar" en la esquina inferior izquierda. Seleccione una foto .jpg de su disco y haga clic en "Subir". Nota: puede elegir más de una foto.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 Nota: si está utilizando un dispositivo móvil, p. Ej. Android, para acceder a su Galería en lugar de a la "Cámara", seleccione "Documentos" y luego "Galería".
-
-Nota: las fotos se cargan mejor como fotos de paisajes.
 
 Puede elegir ver una vista previa con zoom de la foto tocando las vistas previas en miniatura que aparecen. Toque la foto nuevamente para cerrar la vista previa completa.
 
