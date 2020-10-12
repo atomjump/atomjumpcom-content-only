@@ -104,7 +104,7 @@ Optional können Sie dem Konto ein Kennwort hinzufügen (wodurch verhindert wird
 
 Klicken Sie auf "Einstellungen speichern".
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 Sie erhalten E-Mail-Benachrichtigungen zu privaten Nachrichten, aber wir verwenden Ihre E-Mail-Adresse nicht für andere Zwecke.
 
@@ -186,11 +186,9 @@ Wenn Sie sich auf einem Desktop befinden, können Sie ein Lesezeichen in Ihrem B
 ## Um ein Foto zu posten
 Klicken Sie unten links auf das Symbol "Hochladen". Wählen Sie ein JPG-Foto von Ihrem Laufwerk aus und klicken Sie auf "Hochladen". Hinweis: Sie können mehr als ein Foto auswählen.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 Hinweis: Wenn Sie ein mobiles Gerät verwenden, z. Android, um Zugriff auf Ihre Galerie anstatt auf die "Kamera" zu erhalten, wählen Sie "Dokumente" und dann "Galerie".
-
-Hinweis: Fotos werden am besten als Landschaftsfotos hochgeladen.
 
 Sie können eine zoomfähige Vorschau des Fotos anzeigen, indem Sie auf die angezeigten Miniaturansichten tippen. Tippen Sie erneut auf das Foto, um die vollständige Vorschau zu schließen.
 
