@@ -10,8 +10,7 @@ nel caso in cui i server dovessero essere inattivi.
 
 # Guida dell'utente alla messaggistica
 
-__Nota:__ questa guida è una traduzione automatica dalla versione inglese su http://atomjump.org/wp/user-guide/. Se puoi confermare che la traduzione ha senso per te o migliorare la traduzione, contattaci direttamente su http://atomjump.org/wp/contact/ o apporta le modifiche su https://github.com/atomjump/change_language. Il tuo contributo è molto apprezzato.
-
+__Nota:__ questa guida è una traduzione automatica dalla versione inglese su http://atomjump.org/wp/user-guide/. Se puoi confermare che la traduzione ha senso per te o migliorare la traduzione, contattaci direttamente su http://atomjump.org/wp/contact/ o apporta le modifiche su https://github.com/atomjump/atomjumpcom-content-only/. Il tuo contributo è molto apprezzato.
 
 
 ## Introduzione
