@@ -104,7 +104,7 @@ iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 
 '설정 저장'을 클릭합니다.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 개인 메시지에 대한 이메일 알림을 받게되지만 다른 용도로 이메일 주소를 사용하지 않습니다.
 
@@ -186,11 +186,9 @@ iPhone에서 알림을받지 못하는 경우 휴대 전화의 '설정> 알림> 
 ## 사진을 게시하려면
 왼쪽 하단에있는 '업로드'아이콘을 클릭합니다. 드라이브에서 .jpg 사진을 선택하고 '업로드'를 클릭합니다. 참고 : 하나 이상의 사진을 선택할 수 있습니다.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 참고 : 모바일 장치를 사용하는 경우 (예 : Android의 경우 '카메라'가 아닌 갤러리에 액세스하려면 '문서'를 선택한 다음 '갤러리'를 선택하세요.
-
-참고 : 사진은 풍경 사진으로 업로드하는 것이 가장 좋습니다.
 
 표시되는 축소판 미리보기를 탭하여 사진의 확대 / 축소 가능한 미리보기를 보도록 선택할 수 있습니다. 전체 미리보기를 닫으려면 사진을 다시 탭하십시오.
 
