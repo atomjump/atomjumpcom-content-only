@@ -104,7 +104,7 @@ Secara opsional, Anda dapat menambahkan kata sandi pada akun (yang mencegah oran
 
 Klik 'Simpan Pengaturan'.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/create-account-271x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 Anda akan mendapatkan pemberitahuan email pada pesan pribadi, tetapi kami tidak menggunakan alamat email Anda untuk tujuan lain.
 
@@ -186,11 +186,9 @@ Jika Anda menggunakan desktop, Anda dapat menyimpan 'Bookmark' di browser Anda k
 ## Untuk Memposting Foto
 Klik ikon 'unggah' di sudut kiri bawah. Pilih foto .jpg dari drive Anda dan klik 'Unggah'. Catatan: Anda dapat memilih lebih dari satu foto.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/download-246x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
 
 Catatan: jika Anda menggunakan perangkat seluler, mis. Android, untuk mendapatkan akses ke Galeri Anda daripada 'Kamera', pilih 'Dokumen' dan kemudian 'Galeri'.
-
-Catatan: foto sebaiknya diunggah sebagai foto lanskap.
 
 Anda dapat memilih untuk melihat pratinjau foto yang dapat diperbesar dengan mengetuk pratinjau gambar kecil yang muncul. Ketuk foto lagi untuk menutup pratinjau penuh.
 
