@@ -85,7 +85,7 @@ Pengguna iPhone dan iPad perlu mengunduh aplikasi terpisah.
 
 Untuk bertemu seseorang, sebaiknya Anda mengirimkan URL forum AtomJump kepada orang lain (di AtomJump.com Anda dapat mengklik ikon bagikan) dan meminta mereka untuk mengklik kamera. Anda akan menemukan petunjuk lebih lanjut di Jitsi. https://jitsi.org/user-faq/
 
-Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai sesi satu kali, atau membeli forum pribadi.
+Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai <a href="http://ajmp.co/">sesi satu kali </a>, atau <a href="https://atomjump.com/wp/introduction/">beli forum pribadi</a>.
 
 Metode Alternatif: Meskipun Anda seharusnya dapat mengklik ke forum video di sebagian besar platform, beberapa platform misalnya terutama iPads / Internet Explorer, Anda dapat menjalankan desktop / aplikasi secara langsung, dan memasukkan nama forum. Untuk halaman AtomJump.com, nama forum akan menjadi 'aj- [a unique code] -ajps_' diikuti dengan subdomain. Anda juga dapat menemukannya dengan melihat alamat link video, setelah '/' terakhir.
 
@@ -142,7 +142,7 @@ Untuk berhenti berlangganan dari forum langganan, klik 'Pengaturan' dan kemudian
 Bagikan alamat web forum Anda dengan grup Anda. Anda dapat menemukannya dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya. Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
 
 ## Untuk Menyiapkan Grup Pribadi
-Di atomjump.org, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini secara otomatis akan mengisi email untuk kita. Harap ganti kata sandi grup sebelum mengirim email. Di atomjump.org, biayanya $ US 10 / tahun, dan Anda dapat mendaftar di halaman ini. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
+Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/"> halaman ini </a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
 
 Catatan: kata sandi forum ini berbeda dari kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota grup dengan nyaman.
 
@@ -164,7 +164,9 @@ Catatan: Anda hanya dapat masuk di satu perangkat dalam satu waktu.
 
 Untuk menghentikan pemberitahuan pesan kapan saja Anda dapat keluar dari aplikasi. Pemberitahuan pesan akan dibuat melalui email saat Anda keluar. Masuk kembali akan memulai pemberitahuan lagi.
 
-Anda dapat berlangganan ke sejumlah forum. Lihat 'Menjadi Pelanggan Forum' di atas.
+Anda dapat berlangganan ke sejumlah forum. Lihat <a href="#become-owner">‘Menjadi Pelanggan Forum’</a> di atas.
+
+Lihat <a href="https://youtu.be/HncohJFIA7E">video ini</a> untuk contoh aksinya.
 
 **Penyelesaian masalah**
 
@@ -214,7 +216,7 @@ Kemudian kembali ke layar beranda ponsel Anda dan ketuk ikon. Ini kemudian akan 
 
 ## Untuk Menghapus Pesan
 
-Siapa pun dapat menghapus pesan apa pun di AtomJump.com, dan kami mengizinkannya sehingga sebagian besar forum dapat mengatur sendiri. Meskipun itu mungkin berarti bahwa pesan Anda dihapus secara tidak adil oleh seseorang, itu berarti bahwa hanya pesan yang disetujui oleh semua orang yang akan tetap ada di forum. Jika Anda memiliki masalah yang tidak dapat diselesaikan dengan kebijakan ini, silakan hubungi kami di halaman Privasi.
+Siapa pun dapat menghapus pesan apa pun di AtomJump.com, dan kami mengizinkannya sehingga sebagian besar forum dapat mengatur sendiri. Meskipun itu mungkin berarti bahwa pesan Anda dihapus secara tidak adil oleh seseorang, itu berarti bahwa hanya pesan yang disetujui oleh semua orang yang akan tetap ada di forum. Jika Anda memiliki masalah yang tidak dapat diselesaikan dengan kebijakan ini, silakan hubungi kami di <a href="https://atomjump.com/wp/privacy-policy/">halaman Privasi.</a>
 
 Untuk menghapus pesan, ketuk atau klik pesan itu sendiri, dan Anda akan diperlihatkan pesan dengan ikon tempat sampah di bawahnya. Ketuk ikon tempat sampah, dan pesan akan dihapus dalam beberapa detik.
 
