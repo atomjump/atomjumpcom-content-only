@@ -80,7 +80,7 @@ ko:
 AtomJump.com에서 그룹 이름을 입력하고 하단 항목 '비공개 그룹 만들기'를 탭할 수 있습니다. 그러면 그룹 이름이 자동으로 채워지거나 <a href="https://atomjump.com/wp/introduction/">이 페이지</a>에서 직접 가입 할 수 있습니다. AtomJump․com에서는 연간 $ US 10입니다. 다른 포럼에서는 시스템 관리자에게 문의하여 포럼 암호를 추가해야합니다.
 
 fr:
-Sur AtomJump.com, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement le nom de votre groupe pour nous, ou vous pouvez vous inscrire directement sur <a href="https://atomjump.com/wp/introduction/"> cette page </a>. Sur AtomJump․com, cela coûte 10 $ US / an. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
+Sur AtomJump.com, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement le nom de votre groupe pour nous, ou vous pouvez vous inscrire directement sur <a href="https://atomjump.com/wp/introduction/">cette page</a>. Sur AtomJump․com, cela coûte 10 $ US / an. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
 
 es:
 En AtomJump.com, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente el nombre de su grupo por nosotros, o puede registrarse directamente en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En AtomJump․com, esto cuesta 10 dólares estadounidenses al año. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro.

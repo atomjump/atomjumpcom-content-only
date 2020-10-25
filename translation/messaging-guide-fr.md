@@ -142,7 +142,7 @@ Pour vous désabonner d'un forum auquel vous êtes abonné, cliquez sur "Paramè
 Partagez l'adresse Web de votre forum avec votre groupe. Vous pouvez le trouver rapidement sur atomjump.com en appuyant sur l'icône «partager» dans le coin supérieur droit de la page sous-jacente. Chaque individu peut alors choisir de devenir abonné au forum pour recevoir des notifications en cours.
 
 ## Pour configurer un groupe privé
-Sur atomjump.org, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement un e-mail pour nous. Veuillez remplacer le mot de passe du groupe avant d'envoyer l'e-mail. Sur AtomJump․com, cela coûte 10 $US / an et vous pouvez vous inscrire sur <a href="https://atomjump.com/wp/introduction/">cette page</a>. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
+Sur AtomJump.com, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement le nom de votre groupe pour nous, ou vous pouvez vous inscrire directement sur <a href="https://atomjump.com/wp/introduction/">cette page</a>. Sur AtomJump․com, cela coûte 10 $ US / an. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
 
 Remarque: ce mot de passe de forum est différent de votre mot de passe personnel et devrait être celui que vous pouvez envoyer par e-mail à chaque membre du groupe confortablement.
 
