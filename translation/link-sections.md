@@ -22,7 +22,7 @@ es:
 Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una <a href="http://ajmp.co/">sesión única</a> o <a href="https://atomjump.com/wp/introduction/">compra un foro privado</a>.
 
 it:
-Nota: questi forum video sono pubblici, a meno che tu non sia su un forum privato e sebbene tu debba accettare nuovi utenti prima che si uniscano, dopo questo dovresti essere cauto con ciò che mostri alle altre persone. Se desideri la privacy qui, dovresti avviare una <a href="http://ajmp.co/">sessione una tantum</a> o <a href = "https://atomjump.com/wp/introduction/">acquista un forum privato</a>.
+Nota: questi forum video sono pubblici, a meno che tu non sia su un forum privato e sebbene tu debba accettare nuovi utenti prima che si uniscano, dopo questo dovresti essere cauto con ciò che mostri alle altre persone. Se desideri la privacy qui, dovresti avviare una <a href="http://ajmp.co/">sessione una tantum</a> o <a href="https://atomjump.com/wp/introduction/">acquista un forum privato</a>.
 
 in:
 Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai <a href="http://ajmp.co/">sesi satu kali </a>, atau <a href="https://atomjump.com/wp/introduction/">beli forum pribadi</a>.
