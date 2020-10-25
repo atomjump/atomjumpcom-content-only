@@ -86,7 +86,7 @@ es:
 En AtomJump.com, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente el nombre de su grupo por nosotros, o puede registrarse directamente en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En AtomJump․com, esto cuesta 10 dólares estadounidenses al año. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro.
 
 hi:
-AtomJump.com पर, आप एक समूह नाम दर्ज कर सकते हैं, और नीचे प्रविष्टि bottom एक निजी समूह बनाएँ ’पर टैप करें। यह हमारे लिए आपके समूह नाम में स्वतः भर जाएगा, या आप सीधे <a href="https://atomjump.com/wp/introduction/">इस पृष्ठ</a> पर साइन अप कर सकते हैं। AtomJump Atcom पर, इसकी लागत $ 10 / वर्ष है। अन्य फ़ोरम पर, फ़ोरम पासवर्ड जोड़ने के लिए आपको अपने सिस्टम एडमिनिस्ट्रेटर से संपर्क करना चाहिए।
+AtomJump.com पर, आप एक समूह नाम दर्ज कर सकते हैं, और नीचे प्रविष्टि bottom एक निजी समूह बनाएँ ’पर टैप करें। यह हमारे लिए आपके समूह नाम में स्वतः भर जाएगा, या आप सीधे <a href="https://atomjump.com/wp/introduction/">इस पृष्ठ</a> पर साइन अप कर सकते हैं। AtomJump.com पर, इसकी लागत $ 10 / वर्ष है। अन्य फ़ोरम पर, फ़ोरम पासवर्ड जोड़ने के लिए आपको अपने सिस्टम एडमिनिस्ट्रेटर से संपर्क करना चाहिए।
 
 pu:
 ਐਟਮ ਜੰਪ.ਕਾੱਮ 'ਤੇ, ਤੁਸੀਂ ਇੱਕ ਸਮੂਹ ਦਾ ਨਾਮ ਦਰਜ ਕਰ ਸਕਦੇ ਹੋ, ਅਤੇ ਹੇਠਾਂ ਐਂਟਰੀ' ਇੱਕ ਨਿਜੀ ਸਮੂਹ ਬਣਾਓ 'ਤੇ ਟੈਪ ਕਰ ਸਕਦੇ ਹੋ. ਇਹ ਸਾਡੇ ਲਈ ਆਪਣੇ ਸਮੂਹ ਦਾ ਨਾਮ ਆਪਣੇ ਆਪ ਭਰ ਦੇਵੇਗਾ, ਜਾਂ ਤੁਸੀਂ <a href="https://atomjump.com/wp/introduction/">ਇਸ ਪੰਨੇ</a> ਤੇ ਸਿੱਧਾ ਸਾਈਨ ਅਪ ਕਰ ਸਕਦੇ ਹੋ. ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਇਸਦਾ ਮੁੱਲ 10 / ਅਮਰੀਕੀ ਡਾਲਰ ਹੈ. ਦੂਜੇ ਫੋਰਮਾਂ ਤੇ, ਤੁਹਾਨੂੰ ਫੋਰਮ ਪਾਸਵਰਡ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਆਪਣੇ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਨਾਲ ਸੰਪਰਕ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.
@@ -231,6 +231,8 @@ jp:
 
 ko:
 이 정책으로 해결할 수없는 문제가있는 경우 <a href="https://atomjump.com/wp/privacy-policy/">개인 정보 보호 페이지 </a>에서 Google에 문의하세요.
+
+
 
 
 bg:
