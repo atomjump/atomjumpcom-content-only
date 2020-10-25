@@ -228,7 +228,7 @@ pu:
 
 
 jp:
-このポリシーでは解決できない問題がある場合は、<ahref = "https://atomjump.com/wp/privacy-policy/">プライバシーページ</a>からお問い合わせください。
+このポリシーでは解決できない問題がある場合は、<a href = "https://atomjump.com/wp/privacy-policy/">プライバシーページ</a>からお問い合わせください。
 
 ko:
 이 정책으로 해결할 수없는 문제가있는 경우 <a href="https://atomjump.com/wp/privacy-policy/">개인 정보 보호 페이지 </a>에서 Google에 문의하세요.
