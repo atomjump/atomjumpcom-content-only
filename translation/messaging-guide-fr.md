@@ -85,7 +85,7 @@ Les utilisateurs d'iPhone et d'iPad devront télécharger une application distin
 
 Pour rencontrer quelqu'un, il vaut mieux envoyer à d'autres personnes une URL du forum AtomJump (sur AtomJump.com vous pouvez cliquer sur l'icône de partage) et leur dire de cliquer sur la caméra. Vous trouverez plus d'instructions sur Jitsi. https://jitsi.org/user-faq/
 
-Remarque: ces forums vidéo sont publics, sauf si vous êtes sur un forum privé, et bien que vous deviez accepter de nouveaux utilisateurs avant qu'ils ne se joignent, vous devez ensuite faire attention à ce que vous montrez aux autres. Si vous voulez la confidentialité ici, vous devez démarrer une <a href="http://ajmp.co/">session ponctuelle </a>, ou <a href="https://atomjump.com/wp/introduction/">acheter un forum privé</a>.
+Remarque: ces forums vidéo sont publics, sauf si vous êtes sur un forum privé, et bien que vous deviez accepter de nouveaux utilisateurs avant qu'ils ne se joignent, vous devez ensuite faire attention à ce que vous montrez aux autres. Si vous voulez la confidentialité ici, vous devez démarrer une <a href="http://ajmp.co/">session ponctuelle</a>, ou <a href="https://atomjump.com/wp/introduction/">acheter un forum privé</a>.
 
 Méthode alternative: alors que vous devriez pouvoir cliquer sur le forum vidéo sur la plupart des plates-formes, certaines plates-formes, par exemple en particulier les iPad / Internet Explorer, vous pouvez également exécuter directement le bureau / l'application et saisir le nom du forum. Pour les pages AtomJump.com, le nom du forum sera «aj- [un code unique] -ajps_» suivi du sous-domaine. Vous pouvez également le trouver en regardant l'adresse du lien vidéo, après le dernier «/».
 
