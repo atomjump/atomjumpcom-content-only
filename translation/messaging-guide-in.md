@@ -85,7 +85,7 @@ Pengguna iPhone dan iPad perlu mengunduh aplikasi terpisah.
 
 Untuk bertemu seseorang, sebaiknya Anda mengirimkan URL forum AtomJump kepada orang lain (di AtomJump.com Anda dapat mengklik ikon bagikan) dan meminta mereka untuk mengklik kamera. Anda akan menemukan petunjuk lebih lanjut di Jitsi. https://jitsi.org/user-faq/
 
-Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai <a href="http://ajmp.co/">sesi satu kali </a>, atau <a href="https://atomjump.com/wp/introduction/">beli forum pribadi</a>.
+Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai <a href="http://ajmp.co/">sesi satu kali</a>, atau <a href="https://atomjump.com/wp/introduction/">beli forum pribadi</a>.
 
 Metode Alternatif: Meskipun Anda seharusnya dapat mengklik ke forum video di sebagian besar platform, beberapa platform misalnya terutama iPads / Internet Explorer, Anda dapat menjalankan desktop / aplikasi secara langsung, dan memasukkan nama forum. Untuk halaman AtomJump.com, nama forum akan menjadi 'aj- [a unique code] -ajps_' diikuti dengan subdomain. Anda juga dapat menemukannya dengan melihat alamat link video, setelah '/' terakhir.
 
