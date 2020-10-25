@@ -85,7 +85,7 @@ Les utilisateurs d'iPhone et d'iPad devront télécharger une application distin
 
 Pour rencontrer quelqu'un, il vaut mieux envoyer à d'autres personnes une URL du forum AtomJump (sur AtomJump.com vous pouvez cliquer sur l'icône de partage) et leur dire de cliquer sur la caméra. Vous trouverez plus d'instructions sur Jitsi. https://jitsi.org/user-faq/
 
-Remarque: ces forums vidéo sont publics, sauf si vous êtes sur un forum privé, et bien que vous deviez accepter de nouveaux utilisateurs avant qu'ils ne se joignent, vous devez ensuite faire attention à ce que vous montrez aux autres. Si vous voulez la confidentialité ici, vous devriez démarrer une session ponctuelle ou acheter un forum privé.
+Remarque: ces forums vidéo sont publics, sauf si vous êtes sur un forum privé, et bien que vous deviez accepter de nouveaux utilisateurs avant qu'ils ne se joignent, vous devez ensuite faire attention à ce que vous montrez aux autres. Si vous voulez la confidentialité ici, vous devez démarrer une <a href="http://ajmp.co/">session ponctuelle </a>, ou <a href="https://atomjump.com/wp/introduction/">acheter un forum privé</a>.
 
 Méthode alternative: alors que vous devriez pouvoir cliquer sur le forum vidéo sur la plupart des plates-formes, certaines plates-formes, par exemple en particulier les iPad / Internet Explorer, vous pouvez également exécuter directement le bureau / l'application et saisir le nom du forum. Pour les pages AtomJump.com, le nom du forum sera «aj- [un code unique] -ajps_» suivi du sous-domaine. Vous pouvez également le trouver en regardant l'adresse du lien vidéo, après le dernier «/».
 
@@ -142,7 +142,7 @@ Pour vous désabonner d'un forum auquel vous êtes abonné, cliquez sur "Paramè
 Partagez l'adresse Web de votre forum avec votre groupe. Vous pouvez le trouver rapidement sur atomjump.com en appuyant sur l'icône «partager» dans le coin supérieur droit de la page sous-jacente. Chaque individu peut alors choisir de devenir abonné au forum pour recevoir des notifications en cours.
 
 ## Pour configurer un groupe privé
-Sur atomjump.org, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement un e-mail pour nous. Veuillez remplacer le mot de passe du groupe avant d'envoyer l'e-mail. Sur atomjump.org, cela coûte 10 $ US / an, et vous pouvez vous inscrire sur cette page. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
+Sur atomjump.org, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement un e-mail pour nous. Veuillez remplacer le mot de passe du groupe avant d'envoyer l'e-mail. Sur AtomJump․com, cela coûte 10 $US / an et vous pouvez vous inscrire sur <a href="https://atomjump.com/wp/introduction/">cette page</a>. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
 
 Remarque: ce mot de passe de forum est différent de votre mot de passe personnel et devrait être celui que vous pouvez envoyer par e-mail à chaque membre du groupe confortablement.
 
@@ -164,7 +164,9 @@ Remarque: vous ne pouvez être connecté que sur un appareil à la fois.
 
 Pour arrêter les notifications de message à tout moment, vous pouvez vous déconnecter de l'application. Les notifications de message seront envoyées par e-mail lorsque vous êtes déconnecté. La reconnexion redémarrera les notifications.
 
-Vous pouvez vous abonner à un nombre illimité de forums. Voir «Pour devenir abonné au forum» ci-dessus.
+Vous pouvez vous abonner à un nombre illimité de forums. Voir <a href="#become-owner">«Pour devenir abonné au forum»</a> ci-dessus.
+
+Regardez <a href="https://youtu.be/HncohJFIA7E">cette vidéo</a> pour un exemple de ceci en action.
 
 **Dépannage**
 
@@ -214,7 +216,7 @@ Revenez ensuite à l'écran d'accueil de votre téléphone et appuyez sur l'icô
 
 ## Pour supprimer des messages
 
-N'importe qui peut supprimer n'importe quel message sur AtomJump.com, et nous autorisons cela afin que les forums soient en grande partie auto-modérés. Bien que cela puisse signifier que votre message est injustement supprimé par quelqu'un, cela signifie que seuls les messages que tout le monde approuve resteront sur le forum. Si vous rencontrez des problèmes qui ne peuvent pas être résolus avec cette politique, veuillez nous contacter sur la page Confidentialité.
+N'importe qui peut supprimer n'importe quel message sur AtomJump.com, et nous autorisons cela afin que les forums soient en grande partie auto-modérés. Bien que cela puisse signifier que votre message est injustement supprimé par quelqu'un, cela signifie que seuls les messages que tout le monde approuve resteront sur le forum. Si vous rencontrez des problèmes qui ne peuvent pas être résolus avec cette politique, veuillez nous contacter sur la <a href="https://atomjump.com/wp/privacy-policy/">page de confidentialité.</a>
 
 Pour supprimer un message, appuyez ou cliquez sur le message lui-même, et vous verrez le message avec une icône de poubelle en dessous. Appuyez sur l'icône de la poubelle et le message devrait être supprimé dans quelques secondes.
 
