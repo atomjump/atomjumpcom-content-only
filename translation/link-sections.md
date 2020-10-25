@@ -8,44 +8,44 @@ Note: These video forums are public, unless you are on a private forum, and whil
 
 
 fr:
-Remarque: ces forums vidéo sont publics, sauf si vous êtes sur un forum privé, et bien que vous deviez accepter de nouveaux utilisateurs avant qu'ils ne se joignent, vous devez ensuite faire attention à ce que vous montrez aux autres. Si vous voulez la confidentialité ici, vous devez démarrer une <a href="http://ajmp.co/"> session ponctuelle </a>, ou <a href = "https://atomjump.com/wp/ introduction / "> acheter un forum privé </a>.
+Remarque: ces forums vidéo sont publics, sauf si vous êtes sur un forum privé, et bien que vous deviez accepter de nouveaux utilisateurs avant qu'ils ne se joignent, vous devez ensuite faire attention à ce que vous montrez aux autres. Si vous voulez la confidentialité ici, vous devez démarrer une <a href="http://ajmp.co/">session ponctuelle </a>, ou <a href = "https://atomjump.com/wp/introduction/">acheter un forum privé</a>.
 
 de:
-Hinweis: Diese Videoforen sind öffentlich, es sei denn, Sie befinden sich in einem privaten Forum. Während Sie neue Benutzer akzeptieren müssen, bevor sie beitreten, sollten Sie danach vorsichtig sein, was Sie anderen Personen zeigen. Wenn Sie hier Privatsphäre wünschen, sollten Sie eine einmalige <a href="http://ajmp.co/"> Sitzung </a> oder <a href = "https://atomjump.com/wp/ starten. Einführung / "> Kauf eines privaten Forums </a>.
+Hinweis: Diese Videoforen sind öffentlich, es sei denn, Sie befinden sich in einem privaten Forum. Während Sie neue Benutzer akzeptieren müssen, bevor sie beitreten, sollten Sie danach vorsichtig sein, was Sie anderen Personen zeigen. Wenn Sie hier Privatsphäre wünschen, sollten Sie eine einmalige <a href="http://ajmp.co/"> Sitzung </a> oder <a href = "https://atomjump.com/wp/introduction/"> Kauf eines privaten Forums </a>.
 
 es:
-Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una <a href="http://ajmp.co/"> sesión única </a> o <a href = "https://atomjump.com/wp/ introducción / "> compra un foro privado </a>.
+Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una <a href="http://ajmp.co/"> sesión única </a> o <a href = "https://atomjump.com/wp/introduction/"> compra un foro privado </a>.
 
 it:
-Nota: questi forum video sono pubblici, a meno che tu non sia su un forum privato e sebbene tu debba accettare nuovi utenti prima che si uniscano, dopo questo dovresti essere cauto con ciò che mostri alle altre persone. Se desideri la privacy qui, dovresti avviare una <a href="http://ajmp.co/"> sessione una tantum </a> o <a href = "https://atomjump.com/wp/ introduzione / "> acquista un forum privato </a>.
+Nota: questi forum video sono pubblici, a meno che tu non sia su un forum privato e sebbene tu debba accettare nuovi utenti prima che si uniscano, dopo questo dovresti essere cauto con ciò che mostri alle altre persone. Se desideri la privacy qui, dovresti avviare una <a href="http://ajmp.co/"> sessione una tantum </a> o <a href = "https://atomjump.com/wp/introduction/"> acquista un forum privato </a>.
 
 in:
-Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai <a href="http://ajmp.co/"> sesi satu kali </a>, atau <a href = "https://atomjump.com/wp/ perkenalan / "> beli forum pribadi </a>.
+Catatan: Forum video ini bersifat publik, kecuali Anda berada di forum pribadi, dan meskipun Anda harus menerima pengguna baru sebelum mereka bergabung, setelah ini Anda harus berhati-hati dengan apa yang Anda tunjukkan kepada orang lain. Jika Anda menginginkan privasi di sini, Anda harus memulai <a href="http://ajmp.co/"> sesi satu kali </a>, atau <a href = "https://atomjump.com/wp/introduction/"> beli forum pribadi </a>.
 
 ko:
-참고 : 이러한 비디오 포럼은 비공개 포럼에 있지 않는 한 공개되어 있으며, 새 사용자가 가입하기 전에 수락해야하지만 이후에는 다른 사람에게 보여줄 내용에주의해야합니다. 여기에서 개인 정보를 보호하려면 <a href="http://ajmp.co/"> 일회성 세션 </a> 또는 <a href = "https://atomjump.com/wp/을 시작해야합니다. 소개 / "> 비공개 포럼 구입 </a>.
+참고 : 이러한 비디오 포럼은 비공개 포럼에 있지 않는 한 공개되어 있으며, 새 사용자가 가입하기 전에 수락해야하지만 이후에는 다른 사람에게 보여줄 내용에주의해야합니다. 여기에서 개인 정보를 보호하려면 <a href="http://ajmp.co/"> 일회성 세션 </a> 또는 <a href = "https://atomjump.com/wp/introduction/"> 비공개 포럼 구입 </a>.
 
 hi:
-नोट: ये वीडियो फ़ोरम सार्वजनिक हैं, जब तक कि आप एक निजी फ़ोरम पर नहीं हैं, और जब आप शामिल होने से पहले नए उपयोगकर्ताओं को स्वीकार करते हैं, तो इसके बाद आपको अन्य लोगों को दिखाने के साथ सतर्क रहना चाहिए। यदि आप यहां गोपनीयता चाहते हैं, तो आपको <a href="http://ajmp.co/"> एक-बंद सत्र </a>, या <a href = "https://atomjump.com/wp/ शुरू करना चाहिए परिचय / "> एक निजी मंच खरीद </a>।
+नोट: ये वीडियो फ़ोरम सार्वजनिक हैं, जब तक कि आप एक निजी फ़ोरम पर नहीं हैं, और जब आप शामिल होने से पहले नए उपयोगकर्ताओं को स्वीकार करते हैं, तो इसके बाद आपको अन्य लोगों को दिखाने के साथ सतर्क रहना चाहिए। यदि आप यहां गोपनीयता चाहते हैं, तो आपको <a href="http://ajmp.co/"> एक-बंद सत्र </a>, या <a href = "https://atomjump.com/wp/introduction/"> एक निजी मंच खरीद </a>।
 
 pu:
-ਨੋਟ: ਇਹ ਵੀਡੀਓ ਫੋਰਮ ਜਨਤਕ ਹਨ, ਜਦ ਤੱਕ ਕਿ ਤੁਸੀਂ ਇੱਕ ਨਿੱਜੀ ਫੋਰਮ ਤੇ ਨਹੀਂ ਹੋ, ਅਤੇ ਜਦੋਂ ਤੱਕ ਤੁਹਾਨੂੰ ਨਵੇਂ ਉਪਭੋਗਤਾ ਸ਼ਾਮਲ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੁੰਦਾ ਹੈ, ਇਸ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਦੂਸਰੇ ਲੋਕਾਂ ਨੂੰ ਕਿਵੇਂ ਦਿਖਾਉਂਦੇ ਹੋ. ਜੇ ਤੁਸੀਂ ਇੱਥੇ ਨਿੱਜਤਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ <a href="http://ajmp.co/"> ਇੱਕ-ਬੰਦ ਸ਼ੈਸ਼ਨ </a>, ਜਾਂ <a href = "https://atomjump.com/wp/ ਨੂੰ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ਜਾਣ ਪਛਾਣ / "> ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਫੋਰਮ ਖਰੀਦੋ </a>.
+ਨੋਟ: ਇਹ ਵੀਡੀਓ ਫੋਰਮ ਜਨਤਕ ਹਨ, ਜਦ ਤੱਕ ਕਿ ਤੁਸੀਂ ਇੱਕ ਨਿੱਜੀ ਫੋਰਮ ਤੇ ਨਹੀਂ ਹੋ, ਅਤੇ ਜਦੋਂ ਤੱਕ ਤੁਹਾਨੂੰ ਨਵੇਂ ਉਪਭੋਗਤਾ ਸ਼ਾਮਲ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੁੰਦਾ ਹੈ, ਇਸ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਦੂਸਰੇ ਲੋਕਾਂ ਨੂੰ ਕਿਵੇਂ ਦਿਖਾਉਂਦੇ ਹੋ. ਜੇ ਤੁਸੀਂ ਇੱਥੇ ਨਿੱਜਤਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ <a href="http://ajmp.co/"> ਇੱਕ-ਬੰਦ ਸ਼ੈਸ਼ਨ </a>, ਜਾਂ <a href = "https://atomjump.com/wp/introduction/"> ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਫੋਰਮ ਖਰੀਦੋ </a>.
 
 bg:
-রষ্টব্য: এই ভিডিও ফোরামগুলি সর্বজনীন, আপনি যদি কোনও ব্যক্তিগত ফোরামে না থাকেন এবং নতুন ব্যবহারকারীদের যোগদানের আগে আপনাকে অবশ্যই তাদের গ্রহণ করতে হবে, এর পরে আপনি অন্য লোকদের যা দেখান সে সম্পর্কে আপনাকে সতর্ক হওয়া উচিত। আপনি যদি এখানে গোপনীয়তা চান তবে আপনার <a href="http://ajmp.co/"> এক-অফ সেশন </a> বা <a href = "https://atomjump.com/wp/ শুরু করা উচিত ভূমিকা / "> একটি ব্যক্তিগত ফোরাম কিনুন </a>।
+রষ্টব্য: এই ভিডিও ফোরামগুলি সর্বজনীন, আপনি যদি কোনও ব্যক্তিগত ফোরামে না থাকেন এবং নতুন ব্যবহারকারীদের যোগদানের আগে আপনাকে অবশ্যই তাদের গ্রহণ করতে হবে, এর পরে আপনি অন্য লোকদের যা দেখান সে সম্পর্কে আপনাকে সতর্ক হওয়া উচিত। আপনি যদি এখানে গোপনীয়তা চান তবে আপনার <a href="http://ajmp.co/"> এক-অফ সেশন </a> বা <a href = "https://atomjump.com/wp/introduction/"> একটি ব্যক্তিগত ফোরাম কিনুন </a>।
 
 ru:
-Примечание. Эти видеофорумы являются общедоступными, если вы не находитесь на частном форуме, и хотя вы должны принимать новых пользователей, прежде чем они присоединятся, после этого вы должны быть осторожны с тем, что вы показываете другим людям. Если вы хотите конфиденциальности здесь, вам следует начать <a href="http://ajmp.co/"> одноразовый сеанс </a> или <a href = "https://atomjump.com/wp/ Introduction / "> купить частный форум </a>.
+Примечание. Эти видеофорумы являются общедоступными, если вы не находитесь на частном форуме, и хотя вы должны принимать новых пользователей, прежде чем они присоединятся, после этого вы должны быть осторожны с тем, что вы показываете другим людям. Если вы хотите конфиденциальности здесь, вам следует начать <a href="http://ajmp.co/"> одноразовый сеанс </a> или <a href = "https://atomjump.com/wp/introduction/"> купить частный форум </a>.
 
 
 ch:
-注意：这些视频论坛是公共的，除非您是在私人论坛上，并且在新用户加入之前必须接受他们，但在此之后，您对显示给他人的内容应保持谨慎。如果您希望在此处获得隐私，则应该开始<a href="http://ajmp.co/">一次性会议</a>或<a href =“ https://atomjump.com/wp/简介/“>购买私人论坛</a>。
+注意：这些视频论坛是公共的，除非您是在私人论坛上，并且在新用户加入之前必须接受他们，但在此之后，您对显示给他人的内容应保持谨慎。如果您希望在此处获得隐私，则应该开始<a href="http://ajmp.co/">一次性会议</a>或<a href ="https://atomjump.com/wp/introduction/">购买私人论坛</a>。
 
 cht:
-注意：這些視頻論壇是公共的，除非您是在私人論壇上，並且在新用戶加入之前必須接受他們，但是此後，您對顯示給他人的內容應保持謹慎。如果您希望在此處獲得隱私，則應該開始<a href="http://ajmp.co/">一次性會議</a>或<a href =“ https://atomjump.com/wp/簡介/“>購買私人論壇</a>。
+注意：這些視頻論壇是公共的，除非您是在私人論壇上，並且在新用戶加入之前必須接受他們，但是此後，您對顯示給他人的內容應保持謹慎。如果您希望在此處獲得隱私，則應該開始<a href="http://ajmp.co/">一次性會議</a>或<a href ="https://atomjump.com/wp/introduction/">購買私人論壇</a>。
 
 jp:
-注：これらのビデオフォーラムは、プライベートフォーラムに参加していない限り公開されており、新しいユーザーを受け入れる前に受け入れる必要がありますが、その後は他の人に見せることに注意する必要があります。ここでプライバシーが必要な場合は、<a href="http://ajmp.co/"> 1回限りのセッション</a>、または<a href = "https://atomjump.com/wp/はじめに/ ">プライベートフォーラムを購入</a>。
+注：これらのビデオフォーラムは、プライベートフォーラムに参加していない限り公開されており、新しいユーザーを受け入れる前に受け入れる必要がありますが、その後は他の人に見せることに注意する必要があります。ここでプライバシーが必要な場合は、<a href="http://ajmp.co/"> 1回限りのセッション</a>、または<a href = "https://atomjump.com/wp/introduction/">プライベートフォーラムを購入</a>。
 
 
 
@@ -66,7 +66,7 @@ de:
 Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr, und Sie können sich auf <a href="https://atomjump.com/wp/introduction/"> dieser Seite </a> anmelden.
 
 bg:
-এটমজম্পকমে, এর দাম 10 / বছর মার্কিন ডলার এবং আপনি <a href="https://atomjump.com/wp/intr پيداوار/"> এই পৃষ্ঠাটিতে </a> সাইন আপ করতে পারেন।
+এটমজম্পকমে, এর দাম 10 / বছর মার্কিন ডলার এবং আপনি <a href="https://atomjump.com/wp/introduction/"> এই পৃষ্ঠাটিতে </a> সাইন আপ করতে পারেন।
 
 jp:
 AtomJump․comでは、これは年間10米ドルの費用がかかり、<a href= "https://atomjump.com/wp/introduction/">このページ</a>でサインアップできます。
@@ -87,7 +87,7 @@ hi:
 AtomJump Atcom पर, इसकी लागत $ US / वर्ष है, और आप <a href="https://atomjump.com/wp/introduction/"> इस पृष्ठ </a> पर साइन अप कर सकते हैं।
 
 pu:
-ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਇਸਦੀ ਕੀਮਤ 10 / ਅਮਰੀਕੀ ਡਾਲਰ ਹੈ, ਅਤੇ ਤੁਸੀਂ <a href="https://atomjump.com/wp/intr त्यसो/"> ਇਸ ਪੇਜ </a> ਤੇ ਸਾਈਨ ਅਪ ਕਰ ਸਕਦੇ ਹੋ.
+ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਇਸਦੀ ਕੀਮਤ 10 / ਅਮਰੀਕੀ ਡਾਲਰ ਹੈ, ਅਤੇ ਤੁਸੀਂ <a href="https://atomjump.com/wp/introduction/"> ਇਸ ਪੇਜ </a> ਤੇ ਸਾਈਨ ਅਪ ਕਰ ਸਕਦੇ ਹੋ.
 
 pt:
 No AtomJump․com, isso custa US $ 10 / ano e você pode se inscrever <a href="https://atomjump.com/wp/introduction/"> nesta página </a>.
@@ -192,7 +192,7 @@ cht:
 
 
 jp:
-フォーラムはいくつでも購読できます。上記の<ahref = "＃become-owner">「フォーラムの購読者になるには」</a>をご覧ください。
+フォーラムはいくつでも購読できます。上記の<a href = "＃become-owner">「フォーラムの購読者になるには」</a>をご覧ください。
 
 実際の動作例については、<ahref = "https://youtu.be/HncohJFIA7E">この動画</a>をご覧ください。
 
