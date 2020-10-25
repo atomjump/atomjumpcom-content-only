@@ -14,7 +14,7 @@ de:
 Hinweis: Diese Videoforen sind öffentlich, es sei denn, Sie befinden sich in einem privaten Forum. Während Sie neue Benutzer akzeptieren müssen, bevor sie beitreten, sollten Sie danach vorsichtig sein, was Sie anderen Personen zeigen. Wenn Sie hier Privatsphäre wünschen, sollten Sie eine einmalige <a href="http://ajmp.co/">Sitzung</a> oder <a href ="https://atomjump.com/wp/introduction/">Kauf eines privaten Forums</a>.
 
 es:
-Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una <a href="http://ajmp.co/">sesión única</a> o <a href = "https://atomjump.com/wp/introduction/">compra un foro privado</a>.
+Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una <a href="http://ajmp.co/">sesión única</a> o <a href="https://atomjump.com/wp/introduction/">compra un foro privado</a>.
 
 it:
 Nota: questi forum video sono pubblici, a meno che tu non sia su un forum privato e sebbene tu debba accettare nuovi utenti prima che si uniscano, dopo questo dovresti essere cauto con ciò che mostri alle altre persone. Se desideri la privacy qui, dovresti avviare una <a href="http://ajmp.co/">sessione una tantum</a> o <a href = "https://atomjump.com/wp/introduction/">acquista un forum privato</a>.

@@ -87,7 +87,7 @@ Los usuarios de iPhone y iPad deberán descargar una aplicación separada.
 
 Para conocer a alguien, es mejor enviar a otras personas una URL del foro de AtomJump (en AtomJump.com puede hacer clic en el icono de compartir) y decirles que hagan clic en la cámara. Encontrarás más instrucciones en Jitsi. https://jitsi.org/user-faq/
 
-Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una sesión única o comprar un foro privado.
+Nota: Estos foros de video son públicos, a menos que esté en un foro privado, y aunque debe aceptar nuevos usuarios antes de que se unan, después de esto, debe tener cuidado con lo que muestra a otras personas. Si desea privacidad aquí, debe iniciar una <a href="http://ajmp.co/">sesión única</a> o <a href="https://atomjump.com/wp/introduction/">compra un foro privado</a>.
 
 Método alternativo: si bien debería poder hacer clic en el foro de video en la mayoría de las plataformas, algunas plataformas, por ejemplo, particularmente iPads / Internet Explorer, alternativamente puede ejecutar el escritorio / aplicación directamente e ingresar el nombre del foro. Para las páginas de AtomJump.com, el nombre del foro será "aj- [un código único] -ajps_" seguido del subdominio. También puede encontrarlo mirando la dirección del enlace del video, después de la última "/".
 
@@ -144,7 +144,7 @@ Para cancelar la suscripción a un foro suscrito, haga clic en "Configuración" 
 Comparta la dirección web de su foro con su grupo. Puede encontrar esto rápidamente en atomjump.com tocando el icono 'compartir' en la esquina superior derecha de la página subyacente. Cada individuo puede optar por convertirse en un suscriptor del foro para recibir notificaciones continuas.
 
 ## Para configurar un grupo privado
-En atomjump.org, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente un correo electrónico para nosotros. Reemplace la contraseña del grupo antes de enviar el correo electrónico. En atomjump.org, esto cuesta $ US 10 / año, y puede registrarse en esta página. En otros foros, debe comunicarse con el administrador de su sistema para agregar una contraseña de foro.
+En atomjump.org, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente un correo electrónico para nosotros. Reemplace la contraseña del grupo antes de enviar el correo electrónico. En AtomJump․com, cuesta 10 USD al año y puede registrarse en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En otros foros, debe comunicarse con el administrador de su sistema para agregar una contraseña de foro.
 
 Nota: esta contraseña del foro es diferente de su contraseña personal y debe ser una que pueda enviar por correo electrónico a todos los miembros del grupo cómodamente.
 
@@ -166,7 +166,9 @@ Nota: solo puede iniciar sesión en un dispositivo a la vez.
 
 Para detener las notificaciones de mensajes en cualquier momento, puede cerrar sesión en la aplicación. Las notificaciones de mensajes se enviarán por correo electrónico mientras esté desconectado. Al volver a iniciar sesión, se iniciarán las notificaciones nuevamente.
 
-Puede suscribirse a cualquier número de foros. Consulte "Para convertirse en un suscriptor del foro" más arriba.
+Puede suscribirse a cualquier número de foros. Consulte <a href="#become-owner">"Para convertirse en un suscriptor del foro"</a> más arriba.
+
+Vea <a href="https://youtu.be/HncohJFIA7E">este video</a> para ver un ejemplo de esto en acción.
 
 **Solución de problemas**
 
@@ -216,7 +218,7 @@ Luego regrese a la pantalla de inicio de su teléfono y toque el ícono. Esto lu
 
 ## Para eliminar mensajes
 
-Cualquiera puede eliminar cualquier mensaje en AtomJump.com, y lo permitimos para que los foros se moderen en gran medida. Si bien puede significar que alguien eliminó tu mensaje injustamente, significa que solo los mensajes que todos aprueben permanecerán en el foro. Si tiene problemas que no se pueden resolver con esta política, contáctenos en la página de Privacidad.
+Cualquiera puede eliminar cualquier mensaje en AtomJump.com, y lo permitimos para que los foros se moderen en gran medida. Si bien puede significar que alguien eliminó tu mensaje injustamente, significa que solo los mensajes que todos aprueben permanecerán en el foro. Si tiene problemas que no se pueden resolver con esta política, comuníquese con nosotros en la <a href="https://atomjump.com/wp/privacy-policy/">página de privacidad</a>.
 
 Para eliminar un mensaje, toque o haga clic en el mensaje en sí y se le mostrará el mensaje con un icono de papelera debajo. Toque el icono de la papelera y el mensaje debería eliminarse en unos segundos.
 
