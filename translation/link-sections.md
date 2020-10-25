@@ -95,7 +95,7 @@ pt:
 Em AtomJump.com, você pode inserir um nome de grupo e tocar na entrada inferior ‘Criar um grupo privado’. Isso preencherá automaticamente o nome do seu grupo para nós, ou você pode se inscrever diretamente <a href="https://atomjump.com/wp/introduction/"> nesta página </a>. No AtomJump․com, isso custa US $ 10 / ano. Em outros fóruns, você deve entrar em contato com o administrador do sistema para adicionar uma senha ao fórum.
 
 in:
-Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/"> halaman ini </a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
+Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
 
 it:
 Su AtomJump.com, puoi inserire un nome di gruppo e toccare la voce in basso "Crea un gruppo privato". Questo inserirà automaticamente il nome del tuo gruppo per noi oppure puoi registrarti direttamente su <a href="https://atomjump.com/wp/introduction/"> questa pagina </a>. Su AtomJump․com, questo costa $ US 10 all'anno. In altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum.

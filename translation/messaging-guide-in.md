@@ -142,7 +142,7 @@ Untuk berhenti berlangganan dari forum langganan, klik 'Pengaturan' dan kemudian
 Bagikan alamat web forum Anda dengan grup Anda. Anda dapat menemukannya dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya. Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
 
 ## Untuk Menyiapkan Grup Pribadi
-Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/"> halaman ini </a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
+Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
 
 Catatan: kata sandi forum ini berbeda dari kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota grup dengan nyaman.
 
