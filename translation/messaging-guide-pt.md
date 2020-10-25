@@ -85,7 +85,7 @@ Os usuários de iPhone e iPad precisarão baixar um aplicativo separado.
 
 Para conhecer alguém, é melhor enviar a outras pessoas um URL do fórum AtomJump (em AtomJump.com você pode clicar no ícone de compartilhamento) e dizer a elas para clicarem na câmera. Você encontrará mais instruções no Jitsi. https://jitsi.org/user-faq/
 
-Nota: Esses fóruns de vídeo são públicos, a menos que você esteja em um fórum privado e, embora deva aceitar novos usuários antes de eles entrarem, depois disso, você deve ter cuidado com o que mostra a outras pessoas. Se você deseja privacidade aqui, deve iniciar uma sessão única ou adquirir um fórum privado.
+Nota: Esses fóruns de vídeo são públicos, a menos que você esteja em um fórum privado e, embora deva aceitar novos usuários antes de eles entrarem, depois disso, você deve ter cuidado com o que mostra às outras pessoas. Se quiser privacidade aqui, você deve iniciar uma <a href="http://ajmp.co/">sessão única</a> ou <a href="https://atomjump.com/wp/introduction/">compre um fórum privado</a>.
 
 Método alternativo: embora você deva ser capaz de clicar para acessar o fórum de vídeo na maioria das plataformas, algumas plataformas, por exemplo, particularmente iPads / Internet Explorer, você pode alternativamente executar a área de trabalho / aplicativo diretamente e inserir o nome do fórum. Para as páginas AtomJump.com, o nome do fórum será ‘aj- [um código exclusivo] -ajps_’ seguido pelo subdomínio. Você também pode encontrar isso olhando para o endereço do link do vídeo, após o último ‘/’.
 
@@ -142,7 +142,7 @@ Para cancelar a inscrição em um fórum inscrito, clique em "Configurações" e
 Compartilhe o endereço da web de seu fórum com seu grupo. Você pode encontrar isso rapidamente em atomjump.com tocando no ícone 'compartilhar' no canto superior direito da página subjacente. Cada indivíduo pode então optar por se tornar um assinante do fórum para obter notificações contínuas.
 
 ## Para configurar um grupo privado
-Em atomjump.org, você pode inserir um nome de grupo e tocar na entrada inferior "Criar um grupo privado". Isso preencherá automaticamente um e-mail para nós. Substitua a senha do grupo antes de enviar o e-mail. Em atomjump.org, isso custa US $ 10 / ano, e você pode se inscrever nesta página. Em outros fóruns, você deve entrar em contato com o administrador do sistema para adicionar uma senha de fórum.
+Em AtomJump.com, você pode inserir um nome de grupo e tocar na entrada inferior ‘Criar um grupo privado’. Isso preencherá automaticamente o nome do seu grupo para nós, ou você pode se inscrever diretamente <a href="https://atomjump.com/wp/introduction/"> nesta página </a>. No AtomJump․com, isso custa US $ 10 / ano. Em outros fóruns, você deve entrar em contato com o administrador do sistema para adicionar uma senha ao fórum.
 
 Nota: esta senha do fórum é diferente da sua senha pessoal e deve ser aquela que você pode enviar por e-mail para cada membro do grupo confortavelmente.
 
@@ -164,7 +164,9 @@ Nota: você só pode estar conectado em um dispositivo por vez.
 
 Para interromper as notificações de mensagens a qualquer momento, você pode sair do aplicativo. As notificações de mensagens serão feitas por e-mail enquanto você estiver desconectado. O login novamente iniciará as notificações novamente.
 
-Você pode se inscrever em qualquer número de fóruns. Consulte ‘Para se tornar um assinante do fórum’ acima.
+Você pode se inscrever em qualquer número de fóruns. Consulte <a href="#become-owner">‘Para se tornar um assinante do fórum’</a> acima.
+
+Veja <a href="https://youtu.be/HncohJFIA7E">este vídeo</a> para ver um exemplo disso em ação.
 
 **Solução de problemas**
 
@@ -214,7 +216,7 @@ Em seguida, volte para a tela inicial do telefone e toque no ícone. Isso então
 
 ## Para Excluir Mensagens
 
-Qualquer pessoa pode excluir qualquer mensagem no AtomJump.com, e permitimos isso para que os fóruns sejam moderados automaticamente. Embora possa significar que sua mensagem foi excluída injustamente por alguém, isso significa que apenas as mensagens que todos aprovarem permanecerão no fórum. Se você tiver problemas que não podem ser resolvidos com esta política, entre em contato conosco na página de Privacidade.
+Qualquer pessoa pode excluir qualquer mensagem no AtomJump.com, e permitimos isso para que os fóruns sejam moderados automaticamente. Embora possa significar que sua mensagem foi excluída injustamente por alguém, isso significa que apenas as mensagens que todos aprovarem permanecerão no fórum. Se você tiver problemas que não podem ser resolvidos com esta política, entre em contato conosco na <a href="https://atomjump.com/wp/privacy-policy/">página de privacidade.</a>
 
 Para excluir uma mensagem, toque ou clique na própria mensagem, e você verá a mensagem com um ícone de lixeira embaixo. Toque no ícone da lata de lixo e a mensagem deve ser removida em alguns segundos.
 

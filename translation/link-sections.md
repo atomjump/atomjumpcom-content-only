@@ -1,10 +1,3 @@
-## To create a private group
-
-
-NEEDS NEW ENGLISH
-
-
-
 
 ## To Video Conference
 
@@ -51,6 +44,9 @@ cht:
 
 jp:
 注：これらのビデオフォーラムは、プライベートフォーラムに参加していない限り公開されており、新しいユーザーを受け入れる前に受け入れる必要がありますが、その後は他の人に見せることに注意する必要があります。ここでプライバシーが必要な場合は、<a href="http://ajmp.co/">1回限りのセッション</a>、または<a href = "https://atomjump.com/wp/introduction/">プライベートフォーラムを購入</a>。
+
+pt: 
+Nota: Esses fóruns de vídeo são públicos, a menos que você esteja em um fórum privado e, embora deva aceitar novos usuários antes de eles entrarem, depois disso, você deve ter cuidado com o que mostra às outras pessoas. Se quiser privacidade aqui, você deve iniciar uma <a href="http://ajmp.co/">sessão única</a> ou <a href="https://atomjump.com/wp/introduction/">compre um fórum privado</a>.
 
 
 
@@ -262,3 +258,6 @@ Si tiene problemas que no se pueden resolver con esta política, comuníquese co
 
 in:
 Jika Anda memiliki masalah yang tidak dapat diselesaikan dengan kebijakan ini, silakan hubungi kami di <a href="https://atomjump.com/wp/privacy-policy/">halaman Privasi.</a>
+
+pt:
+Se você tiver problemas que não podem ser resolvidos com esta política, entre em contato conosco na <a href="https://atomjump.com/wp/privacy-policy/">página de privacidade.</a>
