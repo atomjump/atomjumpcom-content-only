@@ -142,7 +142,7 @@ Per annullare l'iscrizione a un forum a cui si è iscritti, fare clic su "Impost
 Condividi l'indirizzo web del tuo forum con il tuo gruppo. Puoi trovarlo rapidamente su atomjump.com toccando l'icona 'condividi' nell'angolo in alto a destra della pagina sottostante. Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notifiche continue.
 
 ## Per impostare un gruppo privato
-Su atomjump.org, puoi inserire un nome di gruppo e toccare la voce in basso "Crea un gruppo privato". Questo compilerà automaticamente un'e-mail per noi. Si prega di sostituire la password del gruppo prima di inviare l'email. Su AtomJump․com, costa $ US 10 all'anno e puoi registrarti su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>. Su altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum.
+Su AtomJump.com, puoi inserire un nome di gruppo e toccare la voce in basso "Crea un gruppo privato". Questo inserirà automaticamente il nome del tuo gruppo per noi oppure puoi registrarti direttamente su <a href="https://atomjump.com/wp/introduction/"> questa pagina </a>. Su AtomJump․com, questo costa $ US 10 all'anno. In altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum.
 
 Nota: questa password del forum è diversa dalla tua password personale e dovrebbe essere quella che puoi inviare via email a ogni membro del gruppo comodamente.
 
