@@ -57,51 +57,54 @@ jp:
 
 ## To Set up a Private Group
 
-en:
-On AtomJump․com, this costs $US 10 / year, and you can sign up on <a href="https://atomjump.com/wp/introduction/">this page</a>.
 
+en:
+On AtomJump.com, you can enter a group name, and tap the bottom entry ‘Create a private group’. This will automatically fill in your group name for us, or you can sign up directly on <a href="https://atomjump.com/wp/introduction/">this page</a>. On AtomJump․com, this costs $US 10 / year. On other forums, you should contact your system administrator to add a forum password.
 
 ch:
-在AtomJump․com上，这是每年10美元的费用，您可以在<a href="https://atomjump.com/wp/introduction/">此页面</a>上注册。
+在AtomJump.com上，您可以输入群组名称，然后点击底部的“创建私人群组”。这将自动为我们填写您的论坛名称，或者您可以直接在<a href="https://atomjump.com/wp/introduction/">此页面</a>上注册。在AtomJump․com上，这笔费用为每年10美元。在其他论坛上，您应该与系统管理员联系以添加论坛密码。
 
 cht:
-在AtomJump․com上，這是每年10美元的費用，您可以在<a href="https://atomjump.com/wp/introduction/">此頁面</a>上註冊。
+在AtomJump.com上，您可以輸入群組名稱，然後點擊底部的“創建私人群組”。這將自動為您填寫您的論壇名稱，或者您可以直接在<a href="https://atomjump.com/wp/introduction/">此頁面</a>上註冊。在AtomJump․com上，這筆費用為每年10美元。在其他論壇上，您應該與系統管理員聯繫以添加論壇密碼。
 
 de:
-Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr, und Sie können sich auf <a href="https://atomjump.com/wp/introduction/">dieser Seite</a> anmelden.
+Auf AtomJump.com können Sie einen Gruppennamen eingeben und auf den unteren Eintrag "Private Gruppe erstellen" tippen. Dadurch wird Ihr Gruppenname automatisch für uns eingegeben, oder Sie können sich direkt auf <a href="https://atomjump.com/wp/introduction/"> dieser Seite </a> anmelden. Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Forumkennwort hinzuzufügen.
+
 
 bg:
-এটমজম্পকমে, এর দাম 10 / বছর মার্কিন ডলার এবং আপনি <a href="https://atomjump.com/wp/introduction/">এই পৃষ্ঠাটিতে</a> সাইন আপ করতে পারেন।
+এটমজম্প.কম এ আপনি একটি গোষ্ঠীর নাম লিখতে পারেন এবং নীচের প্রবেশদ্বারটি "একটি ব্যক্তিগত গোষ্ঠী তৈরি করুন" ট্যাপ করতে পারেন। এটি স্বয়ংক্রিয়ভাবে আমাদের জন্য আপনার গোষ্ঠীর নাম পূরণ করবে, বা আপনি <a href="https://atomjump.com/wp/intr پيداوار/"> এই পৃষ্ঠা </a> এ সরাসরি সাইন আপ করতে পারেন। এটমজম্পককম-এ, প্রতি বছর 10 মার্কিন ডলার খরচ হয়। অন্য ফোরামে ফোরামের পাসওয়ার্ড যুক্ত করতে আপনার সিস্টেম প্রশাসকের সাথে যোগাযোগ করা উচিত।
 
 jp:
-AtomJump․comでは、これは年間10米ドルの費用がかかり、<a href= "https://atomjump.com/wp/introduction/">このページ</a>でサインアップできます。
+AtomJump.comで、グループ名を入力し、下部のエントリ[プライベートグループの作成]をタップできます。これにより、グループ名が自動的に入力されます。または、<ahref = "https://atomjump.com/wp/introduction/">このページ</a>から直接サインアップすることもできます。 AtomJump․comでは、これは年間10ドルかかります。他のフォーラムでは、システム管理者に連絡してフォーラムのパスワードを追加する必要があります。
 
 ru:
-На AtomJump․com это стоит 10 долларов США в год, и вы можете зарегистрироваться на <a href="https://atomjump.com/wp/introduction/">этой странице</a>.
+На AtomJump.com вы можете ввести имя группы и нажать на нижнюю запись «Создать частную группу». Это автоматически заполнит ваше имя группы для нас, или вы можете зарегистрироваться прямо на <a href="https://atomjump.com/wp/introduction/"> этой странице </a>. На AtomJump․com это стоит 10 долларов США в год. На других форумах вам следует обратиться к системному администратору, чтобы добавить пароль форума.
 
 ko:
-AtomJump․com에서는 연간 $ US 10이며 <a href="https://atomjump.com/wp/introduction/">이 페이지</a>에서 가입 할 수 있습니다.
+AtomJump.com에서 그룹 이름을 입력하고 하단 항목 '비공개 그룹 만들기'를 탭할 수 있습니다. 그러면 그룹 이름이 자동으로 채워지거나 <a href="https://atomjump.com/wp/introduction/">이 페이지 </a>에서 직접 가입 할 수 있습니다. AtomJump․com에서는 연간 $ US 10입니다. 다른 포럼에서는 시스템 관리자에게 문의하여 포럼 암호를 추가해야합니다.
 
 fr:
-Sur AtomJump․com, cela coûte 10 $ US / an et vous pouvez vous inscrire sur <a href="https://atomjump.com/wp/introduction/">cette page</a>.
+Sur AtomJump.com, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement le nom de votre groupe pour nous, ou vous pouvez vous inscrire directement sur <a href="https://atomjump.com/wp/introduction/"> cette page </a>. Sur AtomJump․com, cela coûte 10 $ US / an. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
 
 es:
-En AtomJump․com, cuesta 10 USD al año y puede registrarse en <a href="https://atomjump.com/wp/introduction/">esta página</a>.
+En AtomJump.com, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente el nombre de su grupo por nosotros, o puede registrarse directamente en <a href="https://atomjump.com/wp/introduction/"> esta página </a>. En AtomJump․com, esto cuesta 10 dólares estadounidenses al año. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro.
 
 hi:
-AtomJump.com पर, इसकी लागत $ US / वर्ष है, और आप <a href="https://atomjump.com/wp/introduction/">इस पृष्ठ</a> पर साइन अप कर सकते हैं।
+AtomJump.com पर, आप एक समूह नाम दर्ज कर सकते हैं, और नीचे प्रविष्टि bottom एक निजी समूह बनाएँ ’पर टैप करें। यह हमारे लिए आपके समूह नाम में स्वतः भर जाएगा, या आप सीधे <a href="https://atomjump.com/wp/introduction/"> इस पृष्ठ </a> पर साइन अप कर सकते हैं। AtomJump Atcom पर, इसकी लागत $ 10 / वर्ष है। अन्य फ़ोरम पर, फ़ोरम पासवर्ड जोड़ने के लिए आपको अपने सिस्टम एडमिनिस्ट्रेटर से संपर्क करना चाहिए।
 
 pu:
-ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਇਸਦੀ ਕੀਮਤ 10 / ਅਮਰੀਕੀ ਡਾਲਰ ਹੈ, ਅਤੇ ਤੁਸੀਂ <a href="https://atomjump.com/wp/introduction/">ਇਸ ਪੇਜ</a> ਤੇ ਸਾਈਨ ਅਪ ਕਰ ਸਕਦੇ ਹੋ.
+ਐਟਮ ਜੰਪ.ਕਾੱਮ 'ਤੇ, ਤੁਸੀਂ ਇੱਕ ਸਮੂਹ ਦਾ ਨਾਮ ਦਰਜ ਕਰ ਸਕਦੇ ਹੋ, ਅਤੇ ਹੇਠਾਂ ਐਂਟਰੀ' ਇੱਕ ਨਿਜੀ ਸਮੂਹ ਬਣਾਓ 'ਤੇ ਟੈਪ ਕਰ ਸਕਦੇ ਹੋ. ਇਹ ਸਾਡੇ ਲਈ ਆਪਣੇ ਸਮੂਹ ਦਾ ਨਾਮ ਆਪਣੇ ਆਪ ਭਰ ਦੇਵੇਗਾ, ਜਾਂ ਤੁਸੀਂ <a href="https://atomjump.com/wp/intr پيداوار/"> ਇਸ ਪੰਨੇ </a> ਤੇ ਸਿੱਧਾ ਸਾਈਨ ਅਪ ਕਰ ਸਕਦੇ ਹੋ. ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਇਸਦਾ ਮੁੱਲ 10 / ਅਮਰੀਕੀ ਡਾਲਰ ਹੈ. ਦੂਜੇ ਫੋਰਮਾਂ ਤੇ, ਤੁਹਾਨੂੰ ਫੋਰਮ ਪਾਸਵਰਡ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਆਪਣੇ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਨਾਲ ਸੰਪਰਕ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.
 
 pt:
-No AtomJump․com, isso custa US $ 10 / ano e você pode se inscrever <a href="https://atomjump.com/wp/introduction/">nesta página</a>.
+Em AtomJump.com, você pode inserir um nome de grupo e tocar na entrada inferior ‘Criar um grupo privado’. Isso preencherá automaticamente o nome do seu grupo para nós, ou você pode se inscrever diretamente <a href="https://atomjump.com/wp/introduction/"> nesta página </a>. No AtomJump․com, isso custa US $ 10 / ano. Em outros fóruns, você deve entrar em contato com o administrador do sistema para adicionar uma senha ao fórum.
 
 in:
-Di AtomJump․com, biayanya $ US 10 / tahun, dan Anda dapat mendaftar di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>.
+Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/"> halaman ini </a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
 
 it:
-Su AtomJump․com, costa $ US 10 all'anno e puoi registrarti su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>.
+Su AtomJump.com, puoi inserire un nome di gruppo e toccare la voce in basso "Crea un gruppo privato". Questo inserirà automaticamente il nome del tuo gruppo per noi oppure puoi registrarti direttamente su <a href="https://atomjump.com/wp/introduction/"> questa pagina </a>. Su AtomJump․com, questo costa $ US 10 all'anno. In altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum.
+
+
 
 
 
