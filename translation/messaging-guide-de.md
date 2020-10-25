@@ -142,8 +142,7 @@ Um sich von einem abonnierten Forum abzumelden, klicken Sie auf "Einstellungen" 
 Teilen Sie die Webadresse Ihres Forums mit Ihrer Gruppe. Sie können dies schnell auf atomjump.com finden, indem Sie auf das Symbol "Teilen" in der oberen rechten Ecke der zugrunde liegenden Seite tippen. Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fortlaufende Benachrichtigungen zu erhalten.
 
 ## So richten Sie eine private Gruppe ein
-Auf atomjump.org können Sie einen Gruppennamen eingeben und auf den unteren Eintrag "Private Gruppe erstellen" tippen. Dadurch wird automatisch eine E-Mail für uns ausgefüllt. Bitte ersetzen Sie das Gruppenpasswort, bevor Sie die E-Mail senden. Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr, und Sie können sich auf <a href="https://atomjump.com/wp/introduction/">dieser Seite</a> anmelden. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Forumkennwort hinzuzufügen.
-
+Auf AtomJump.com können Sie einen Gruppennamen eingeben und auf den unteren Eintrag "Private Gruppe erstellen" tippen. Dadurch wird Ihr Gruppenname automatisch für uns eingegeben, oder Sie können sich direkt auf <a href="https://atomjump.com/wp/introduction/">dieser Seite</a> anmelden. Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Forumkennwort hinzuzufügen.
 
 Hinweis: Dieses Forum-Passwort unterscheidet sich von Ihrem persönlichen Passwort und sollte eines sein, das Sie bequem per E-Mail an jedes Mitglied der Gruppe senden können.
 

@@ -144,7 +144,7 @@ Para cancelar la suscripción a un foro suscrito, haga clic en "Configuración" 
 Comparta la dirección web de su foro con su grupo. Puede encontrar esto rápidamente en atomjump.com tocando el icono 'compartir' en la esquina superior derecha de la página subyacente. Cada individuo puede optar por convertirse en un suscriptor del foro para recibir notificaciones continuas.
 
 ## Para configurar un grupo privado
-En atomjump.org, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente un correo electrónico para nosotros. Reemplace la contraseña del grupo antes de enviar el correo electrónico. En AtomJump․com, cuesta 10 USD al año y puede registrarse en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En otros foros, debe comunicarse con el administrador de su sistema para agregar una contraseña de foro.
+En AtomJump.com, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente el nombre de su grupo por nosotros, o puede registrarse directamente en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En AtomJump․com, esto cuesta 10 dólares estadounidenses al año. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro.
 
 Nota: esta contraseña del foro es diferente de su contraseña personal y debe ser una que pueda enviar por correo electrónico a todos los miembros del grupo cómodamente.
 
