@@ -142,7 +142,7 @@ To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubsc
 Share the web address of your forum with your group.  You can find this quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
 ## To Set up a Private Group
-On atomjump.org, you can enter a group name, and tap the bottom entry ‘Create a private group’. This will automatically fill in an email for us. Please replace the group password before sending the email. On atomjump.org, this costs $US 10 / year, and you can sign up on this page. On other forums, you should contact your system administrator to add a forum password.
+On atomjump.org, you can enter a group name, and tap the bottom entry ‘Create a private group’. This will automatically fill in an email for us. Please replace the group password before sending the email. On AtomJump․com, this costs $US 10 / year, and you can sign up on <a href="https://atomjump.com/wp/introduction/">this page</a>. On other forums, you should contact your system administrator to add a forum password.
 
 Note: this forum password is different from your personal password and should be one that you can email to every member of the group comfortably.
 
@@ -216,7 +216,7 @@ Then go back to your phone's home screen and tap the icon. This will then use th
 
 ## To Delete Messages
 
-Anyone can delete any message on AtomJump.com, and we allow this so that forums are largely self moderating. While it may mean that your message is unfairly deleted by someone, it does mean that only the messages that everyone approves of will stay on the forum. If you have issues that cannot be resolved with this policy, please contact us on the Privacy page.
+Anyone can delete any message on AtomJump.com, and we allow this so that forums are largely self moderating. While it may mean that your message is unfairly deleted by someone, it does mean that only the messages that everyone approves of will stay on the forum. If you have issues that cannot be resolved with this policy, please contact us on the <a href="https://atomjump.com/wp/privacy-policy/">Privacy page.</a>
 
 To delete a message, tap or click on the message itself, and you will be shown the message with a rubbish bin icon underneath. Tap the rubbish bin icon, and the message should be removed in a few seconds.
 
