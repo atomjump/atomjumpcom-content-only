@@ -85,7 +85,7 @@ iPhone- und iPad-Benutzer müssen eine separate App herunterladen.
 
 Um jemanden zu treffen, senden Sie am besten anderen Personen eine URL des AtomJump-Forums (auf AtomJump.com können Sie auf das Freigabesymbol klicken) und weisen Sie sie an, auf die Kamera zu klicken. Weitere Anweisungen finden Sie bei Jitsi. https://jitsi.org/user-faq/
 
-Hinweis: Diese Videoforen sind öffentlich, es sei denn, Sie befinden sich in einem privaten Forum. Während Sie neue Benutzer akzeptieren müssen, bevor sie beitreten, sollten Sie danach vorsichtig sein, was Sie anderen Personen zeigen. Wenn Sie hier Privatsphäre wünschen, sollten Sie eine einmalige Sitzung starten oder ein privates Forum erwerben.
+Hinweis: Diese Videoforen sind öffentlich, es sei denn, Sie befinden sich in einem privaten Forum. Während Sie neue Benutzer akzeptieren müssen, bevor sie beitreten, sollten Sie danach vorsichtig sein, was Sie anderen Personen zeigen. Wenn Sie hier Privatsphäre wünschen, sollten Sie eine einmalige <a href="http://ajmp.co/">Sitzung</a> oder <a href ="https://atomjump.com/wp/introduction/">Kauf eines privaten Forums</a>.
 
 Alternative Methode: Während Sie auf den meisten Plattformen in der Lage sein sollten, sich zum Videoforum durchzuklicken, können einige Plattformen, z. Insbesondere bei iPads / Internet Explorer können Sie alternativ den Desktop / die App direkt ausführen und den Namen des Forums eingeben. Für AtomJump.com-Seiten lautet der Forenname "aj- [ein eindeutiger Code] -ajps_", gefolgt von der Subdomain. Sie finden dies auch, indem Sie die Adresse des Videolinks nach dem letzten "/" anzeigen.
 
@@ -142,7 +142,8 @@ Um sich von einem abonnierten Forum abzumelden, klicken Sie auf "Einstellungen" 
 Teilen Sie die Webadresse Ihres Forums mit Ihrer Gruppe. Sie können dies schnell auf atomjump.com finden, indem Sie auf das Symbol "Teilen" in der oberen rechten Ecke der zugrunde liegenden Seite tippen. Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fortlaufende Benachrichtigungen zu erhalten.
 
 ## So richten Sie eine private Gruppe ein
-Auf atomjump.org können Sie einen Gruppennamen eingeben und auf den unteren Eintrag "Private Gruppe erstellen" tippen. Dadurch wird automatisch eine E-Mail für uns ausgefüllt. Bitte ersetzen Sie das Gruppenpasswort, bevor Sie die E-Mail senden. Auf atomjump.org kostet dies 10 US-Dollar pro Jahr und Sie können sich auf dieser Seite anmelden. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Forumkennwort hinzuzufügen.
+Auf atomjump.org können Sie einen Gruppennamen eingeben und auf den unteren Eintrag "Private Gruppe erstellen" tippen. Dadurch wird automatisch eine E-Mail für uns ausgefüllt. Bitte ersetzen Sie das Gruppenpasswort, bevor Sie die E-Mail senden. Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr, und Sie können sich auf <a href="https://atomjump.com/wp/introduction/">dieser Seite</a> anmelden. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Forumkennwort hinzuzufügen.
+
 
 Hinweis: Dieses Forum-Passwort unterscheidet sich von Ihrem persönlichen Passwort und sollte eines sein, das Sie bequem per E-Mail an jedes Mitglied der Gruppe senden können.
 
@@ -164,7 +165,9 @@ Hinweis: Sie können jeweils nur auf einem Gerät angemeldet sein.
 
 Um Nachrichtenbenachrichtigungen jederzeit zu stoppen, können Sie sich von der App abmelden. Nachrichtenbenachrichtigungen werden per E-Mail gesendet, während Sie abgemeldet sind. Wenn Sie sich erneut anmelden, werden die Benachrichtigungen erneut gestartet.
 
-Sie können beliebig viele Foren abonnieren. Siehe oben unter "Abonnent eines Forums werden".
+Sie können beliebig viele Foren abonnieren. Siehe oben <a href="#become-owner">"Forum-Abonnent werden"</a>.
+
+Ein Beispiel hierfür finden Sie in <a href="https://youtu.be/HncohJFIA7E">diesem Video</a>.
 
 **Fehlerbehebung**
 
@@ -214,7 +217,8 @@ Kehren Sie dann zum Startbildschirm Ihres Telefons zurück und tippen Sie auf da
 
 ## Nachrichten löschen
 
-Jeder kann jede Nachricht auf AtomJump.com löschen, und wir erlauben dies, damit die Foren weitgehend selbstmoderierend sind. Während dies bedeuten kann, dass Ihre Nachricht von jemandem zu Unrecht gelöscht wird, bedeutet dies, dass nur die Nachrichten, die jeder genehmigt, im Forum verbleiben. Wenn Sie Probleme haben, die mit dieser Richtlinie nicht gelöst werden können, kontaktieren Sie uns bitte auf der Datenschutzseite.
+Jeder kann jede Nachricht auf AtomJump.com löschen, und wir erlauben dies, damit die Foren weitgehend selbstmoderierend sind. Während dies bedeuten kann, dass Ihre Nachricht von jemandem zu Unrecht gelöscht wird, bedeutet dies, dass nur die Nachrichten, die jeder genehmigt, im Forum verbleiben. Wenn Sie Probleme haben, die mit dieser Richtlinie nicht behoben werden können, kontaktieren Sie uns bitte auf der Seite <a href="https://atomjump.com/wp/privacy-policy/">Datenschutz</a>
+
 
 Um eine Nachricht zu löschen, tippen oder klicken Sie auf die Nachricht selbst. Daraufhin wird die Nachricht mit einem Papierkorbsymbol angezeigt. Tippen Sie auf das Papierkorbsymbol. Die Meldung sollte in wenigen Sekunden entfernt werden.
 
