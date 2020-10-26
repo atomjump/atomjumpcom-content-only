@@ -181,7 +181,7 @@ These instructions may change over time, depending on the particular cloud provi
 * AWS   https://aws.amazon.com/ec2/vm-import/
 * Google   https://cloud.google.com/compute/docs/import/importing-virtual-disks
 * Microsoft Azure   https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-oPHg9cbsAhXXbX0KHcz7A9gQFjADegQIExAC&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fvirtual-machines%2Fwindows%2Fprepare-for-upload-vhd-image&usg=AOvVaw15_gAzV7euEtgaNceUOUmC
-* DigitalOcean   https://www.digitalocean.com/blog/custom-images/?
+* DigitalOcean   https://www.digitalocean.com/blog/custom-images/
 * IBM Cloud   https://cloud.ibm.com/docs/image-templates?topic=image-templates-preparing-and-importing-images
 * Oracle Cloud   https://blogs.oracle.com/cloud-infrastructure/import-a-vmware-virtual-machine-to-oracle-cloud-infrastructure
 * Alibaba Cloud   https://www.alibabacloud.com/help/doc-detail/127285.htm?spm=a2c63.p38356.b99.223.3b792ff1TyM2Ji
