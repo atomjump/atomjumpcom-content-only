@@ -180,7 +180,7 @@ These instructions may change over time, depending on the particular cloud provi
 
 * <a href="https://aws.amazon.com/ec2/vm-import/">AWS</a>   
 * <a href="https://cloud.google.com/compute/docs/import/importing-virtual-disks">Google</a>   
-* <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-oPHg9cbsAhXXbX0KHcz7A9gQFjADegQIExAC&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fvirtual-machines%2Fwindows%2Fprepare-for-upload-vhd-image&usg=AOvVaw15_gAzV7euEtgaNceUOUmC">Microsoft Azure</a>   
+* <a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image">Microsoft Azure</a>   
 * <a href="https://www.digitalocean.com/blog/custom-images/">DigitalOcean</a>   
 * <a href="https://cloud.ibm.com/docs/image-templates?topic=image-templates-preparing-and-importing-images">IBM Cloud</a>   
 * <a href="https://blogs.oracle.com/cloud-infrastructure/import-a-vmware-virtual-machine-to-oracle-cloud-infrastructure">Oracle Cloud</a>   
