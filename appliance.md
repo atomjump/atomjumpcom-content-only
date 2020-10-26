@@ -1,13 +1,14 @@
 
 # AtomJump Messaging Appliance
 
-Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. 
+Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. Alternatively, for cloud users, you can import this file into your cloud system, once it is unzipped (see 'Importing Into Cloud Systems', below).
+
 * https://www.virtualbox.org/wiki/Downloads
 * https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.6.zip
 * [alternative source] https://atomjump-frontcdn-sng.sgp1.cdn.digitaloceanspaces.com/atomjump-live-wiki-0.7.6.zip
 
 
-Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle).
+Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle). 
 
 Run VirtualBox on your platform, and add a 'New' project.
 Enter:
@@ -129,8 +130,14 @@ We also recommend updating your core Messaging Server software  immediately afte
 Log in and enter the command:
 
 ```
-sudo git -C /jet/www/default/vendor/atomjump/loop-server pull
+eval "$(curl -fsSL -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/atomjump/live-wiki-updates/master/update)"
 ```
+
+Then, click the following link to run a one-time update of your database:
+http://127.0.0.1:5100/vendor/atomjump/loop-server/update-indexes.php
+ 
+[or using your own IP address at http://myipaddress:5100/vendor/atomjump/loop-server/update-indexes.php]
+
 
 
 ## Notifications
@@ -166,6 +173,23 @@ Note: you can see a sample certficate file with:
 ```
 sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/pushcertSAMPLE.pem
 ```
+
+## Importing Into Cloud Systems
+
+These instructions may change over time, depending on the particular cloud provider. The AtomJump Messaging appliance is a .vdmk file (once it is unzipped).
+
+AWS   https://aws.amazon.com/ec2/vm-import/
+Google   https://cloud.google.com/compute/docs/import/importing-virtual-disks
+Microsoft Azure   https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-oPHg9cbsAhXXbX0KHcz7A9gQFjADegQIExAC&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fvirtual-machines%2Fwindows%2Fprepare-for-upload-vhd-image&usg=AOvVaw15_gAzV7euEtgaNceUOUmC
+DigitalOcean   https://www.digitalocean.com/blog/custom-images/?
+IBM Cloud   https://cloud.ibm.com/docs/image-templates?topic=image-templates-preparing-and-importing-images
+Oracle Cloud   https://blogs.oracle.com/cloud-infrastructure/import-a-vmware-virtual-machine-to-oracle-cloud-infrastructure
+Alibaba Cloud   https://www.alibabacloud.com/help/doc-detail/127285.htm?spm=a2c63.p38356.b99.223.3b792ff1TyM2Ji
+
+Note: AtomJump has no affiliation with any of these providers.
+
+You are welcome to let us know if you manage to successfully import an AtomJump Messaging .vdmk, or not, with your provider.  https://atomjump.com/wp/contact/
+
 
 ## Known Issues
 1. On an Android phone, if you are using a private IP address for your server, and your phone browser's setting's 'Lite Mode' is switched on, you may find images seem to flicker every 5 seconds or so.
