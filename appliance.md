@@ -59,7 +59,7 @@ Important Note: the first user to be created on the system will become the admin
 
 If you are using the AtomJump Messaging app, and you want notifications on your phone:
 
-Your phone should be connected to the same company Wifi or VPN network as the server. The 'Loop Server URL' address to use under the 'Private Server' link on the app login page is:
+Your phone should be connected to the same company Wifi or VPN network as the server. The address to use under the 'Private Server' link, or the 'Pair with a Private Server' address on the app homepage, is:
 
 ```
 http://[your server IP or host]:5100/vendor/atomjump/loop-server/
