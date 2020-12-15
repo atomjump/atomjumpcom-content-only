@@ -1,14 +1,14 @@
 
 # AtomJump Messaging Appliance
 
-Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. Alternatively, for cloud users, you can import this file into your cloud system, once it is unzipped (see 'Importing Into Cloud Systems', below).
+Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. On a Mac / Linux, we recommend that you download the Gzipped version of the Appliance, because the unzipped file is larger than some unzip software can handle.
 
 * https://www.virtualbox.org/wiki/Downloads
 * https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.6.zip
 * [alternative source] https://atomjump-frontcdn-sng.sgp1.cdn.digitaloceanspaces.com/atomjump-live-wiki-0.7.6.zip
+* [Mac / Linux Gzipped version] https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.6.vmdk.gz
 
-
-Unzip the Appliance file, which should create a .vmdk file. (On a Mac, you will need to use the 'Unarchiver' app since it is a larger file than the native Mac Unzipper can handle). 
+Unzip the Appliance file, which should create a .vmdk file. For cloud users, you can import this .vmdk file into your cloud system (see 'Importing Into Cloud Systems', below), rather than import it into VirtualBox.
 
 Run VirtualBox on your platform, and add a 'New' project.
 Enter:
