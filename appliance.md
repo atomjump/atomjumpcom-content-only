@@ -58,6 +58,7 @@ Technical Domain Note: You should decide on a domain/IP address that users of th
 
 Technical Port Note: rather than running this on port 5100, you may be able to run this on the standard http and https ports (80 or 443) via port forwarding, which will save you having to enter the port number. We will use the port 5100 in the examples below, however, as this should work in the simple situation. If you decide to use secure transport, i.e. over https, you will also need to configure your secure key files manually on your server.
 
+Technical Firewall Note: To be visible across the LAN you will likely need to open your machine's firewall for the port number used by your LiveWiki (e.g. 5100).
 
 
 Once you have chosen this and set this up, run the LiveWiki from your chosen domain in a browser. Now click the ‘Update the server config’ link from the home page, which configures the messaging to run from the current domain, click 'Go Back', and try the large messaging button. Follow the instructions to set up the admin user. Then click through to the LiveWiki.
