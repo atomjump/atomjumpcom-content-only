@@ -4,9 +4,9 @@
 Download VirtualBox for your platform (Windows / Linux / Mac), and the Messaging Appliance. On a Mac / Linux, we recommend that you download the Gzipped version of the Appliance, because the unzipped file is larger than some unzip software can handle.
 
 * https://www.virtualbox.org/wiki/Downloads
-* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.6.zip
-* [alternative source] https://atomjump-frontcdn-sng.sgp1.cdn.digitaloceanspaces.com/atomjump-live-wiki-0.7.6.zip
-* [Mac / Linux Gzipped version] https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.6.vmdk.gz
+* https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.7.zip
+* [alternative source] https://atomjump-frontcdn-sng.sgp1.cdn.digitaloceanspaces.com/atomjump-live-wiki-0.7.7.zip
+* [Mac / Linux Gzipped version] https://frontcdn.atomjump.com/atomjump-live-wiki-0.7.7.vmdk.gz
 
 Unzip the Appliance file, which should create a .vmdk file. For cloud users, you can import this .vmdk file into your cloud system (see 'Importing Into Cloud Systems', below), rather than import it into VirtualBox.
 
@@ -52,6 +52,20 @@ Guest Port: 80
 
 The LiveWiki should now be accessible within a browser on http://127.0.0.1:5100	
 You should click the ‘Update the server config’ link on this page, go back, and click through to the LiveWiki.
+
+
+Technical Domain Note: You should decide on a domain/IP address that users of the system will enter to access your LiveWiki e.g. http://my.intranet.domain. Setting this up is beyond the scope of this guide, but there are several approaches. One option is to set a LAN domain on your router using DD-WRT (detailed here), or you can edit your 'hosts' file on each machine to point your chosen local domain at the server, or simply use a LAN-based IP address e.g 192.168.0.10. It is often a good idea to manually assign the IP of your server to your machine address (known as the 'mac address') within the router. For non-live situations, or if it is accessible on your own machine only, you can still use the default 127.0.0.1, but you won't be able to change this address later, quite so easily. You can also use a public-level domain e.g. mywiki.mycompany.com if your machine is serving over the internet.
+
+Technical Port Note: rather than running this on port 5100, you may be able to run this on the standard http and https ports (80 or 443) via port forwarding, which will save you having to enter the port number. We will use the port 5100 in the examples below, however, as this should work in the simple situation. If you decide to use secure transport, i.e. over https, you will also need to configure your secure key files manually on your server.
+
+
+
+Once you have chosen this and set this up, run the LiveWiki from your chosen domain in a browser. Now click the ‘Update the server config’ link from the home page, which configures the messaging to run from the current domain, click 'Go Back', and try the large messaging button. Follow the instructions to set up the admin user. Then click through to the LiveWiki.
+
+The main appliance target page is http://your.domain.or.ip:port/livewiki/
+
+Important Note: the chosen admin user will have rights to enter passwords on a particular forum, limit subscribers to a particular group of people (based on their email domain), and rename forums. 
+
 
 The main appliance target page is http://127.0.0.1:5100/livewiki/
 
