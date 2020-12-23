@@ -156,7 +156,9 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/update-indexes.php
 
 
 ## Notifications
-By default, your Appliance will notify you if you are subscribed to a forum via your email.
+
+By default, your Appliance will not be able to send emails (even if it gives some messages to say that you should confirm your email address. You presently do not have to confirm your email address to keep your account). To enable email sending you should see the 'Configuration' section, above.
+
 In order to get popup-notifications to your Android or iPhones from your Messaging Appliance, you will need to add your 'push notification' certificate keys from Google and Apple.
 
 __For Android:__
