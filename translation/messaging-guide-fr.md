@@ -112,7 +112,7 @@ Utilisez la même adresse e-mail et le même mot de passe que ceux que vous avez
 
 N'oubliez pas que si vous êtes sur un PC public, vous devez vous déconnecter chaque fois que vous quittez le PC, car vos informations de connexion seront mémorisées.
 
-Remarque: chaque installation AtomJump Server possède sa propre base de données d'utilisateurs privés. Si votre compte a été configuré sur AtomJump.com, le compte sera cohérent dans toutes les propriétés d'atomjump.com, mais il ne fonctionnera pas nécessairement dans toutes les versions de la fenêtre contextuelle de messagerie que vous pourriez trouver, car celles-ci sont gérées par d'autres sociétés. .
+Remarque: chaque installation différente d'AtomJump Server possède sa propre base de données d'utilisateurs privés. Si votre compte a été configuré sur AtomJump.com, le compte peut être partagé entre d'autres propriétés d'atomjump.com, mais il ne fonctionnera pas nécessairement dans toutes les versions de la fenêtre contextuelle de messagerie que vous pourriez trouver, car celles-ci sont gérées par d'autres sociétés.
 
 ## Pour écrire un message privé à une personne
 Cliquez ou appuyez sur le nom de la personne à côté de l'un de ses messages. Saisissez ensuite un message et appuyez sur «Envoyer à [leur nom]».
@@ -139,12 +139,12 @@ Si vous avez un compte, vous devez d'abord vous connecter (avec votre email et v
 Pour vous désabonner d'un forum auquel vous êtes abonné, cliquez sur "Paramètres", puis sur "Se désabonner" (une fois que vous êtes connecté), ou cliquez sur l'icône verte "oreille" sur la page de messagerie.
 
 ## Pour créer un groupe
-Partagez l'adresse Web de votre forum avec votre groupe. Vous pouvez le trouver rapidement sur atomjump.com en appuyant sur l'icône «partager» dans le coin supérieur droit de la page sous-jacente. Chaque individu peut alors choisir de devenir abonné au forum pour recevoir des notifications en cours.
+Entrez votre propre nom de groupe, ou un nom de groupe public existant, où il est dit "Entrez un nom de groupe" sur atomjump.com, par exemple "sailinglondon", et cliquez sur "AtomJump". Partagez le lien Web de votre forum, par exemple "https://sailinglondon.atomjump.com", avec votre groupe par e-mail, SMS, message instantané ou tout autre moyen. Vous pouvez trouver ce lien rapidement sur atomjump.com en appuyant sur l'icône «partager» dans le coin supérieur droit de la page sous-jacente. Chaque individu peut alors choisir de devenir abonné au forum pour recevoir des notifications en cours.
 
-## Pour configurer un groupe privé
-Sur AtomJump.com, vous pouvez saisir un nom de groupe et appuyer sur l’entrée du bas «Créer un groupe privé». Cela remplira automatiquement le nom de votre groupe pour nous, ou vous pouvez vous inscrire directement sur <a href="https://atomjump.com/wp/introduction/">cette page</a>. Sur AtomJump․com, cela coûte 10 $ US / an. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum.
+## Pour configurer une salle privée
+Sur AtomJump․com, vous pouvez entrer votre propre nom de pièce unique où il est dit "Entrez un nom de groupe", par exemple "fredfamily" et appuyez sur l'entrée du bas "Créer une salle privée". Sur AtomJump․com, cela coûte 15 $ NZ / an (environ 10 $ US / an), et vous pouvez vous inscrire sur <a href="https://atomjump.com/wp/introduction/">cette page</a>. Sur les autres forums, vous devez contacter votre administrateur système pour ajouter un mot de passe de forum privé.
 
-Remarque: ce mot de passe de forum est différent de votre mot de passe personnel et devrait être celui que vous pouvez envoyer par e-mail à chaque membre du groupe confortablement.
+Remarque: le mot de passe du forum que vous décidez d'avoir est différent de votre mot de passe personnel et devrait être celui que vous pouvez envoyer par e-mail à chaque membre de la salle confortablement.
 
 ## Pour recevoir des notifications par SMS
 Notez que sur AtomJump.com, cela a été remplacé par l'application, qui est gratuite, et fournit des fenêtres contextuelles de messages graphiques. Ces instructions peuvent cependant s'appliquer à d'autres installations du serveur.
@@ -153,7 +153,7 @@ Cliquez sur "Paramètres" dans le coin inférieur gauche. Cliquez sur "Plus", pu
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-Le coût est de 16c par message. Nous facturons mensuellement.
+Il y aura probablement un coût de votre fournisseur (par exemple 16c par message), veuillez donc vérifier les instructions de votre fournisseur.
 
 ## Pour recevoir des notifications d'application
 Saisissez votre adresse e-mail et votre mot de passe dans "Paramètres". Cliquez sur "Plus". Il existe des liens vers "Obtenir des notifications contextuelles" pour Android et iOS. Cliquez et téléchargez l'application sur votre appareil Android ou iPhone. S'il s'agit d'un serveur privé, vous devrez également copier l'adresse du serveur mentionnée.
@@ -204,7 +204,7 @@ Connectez-vous avec votre compte. Cliquez sur l'icône "Importer" dans le coin i
 ## Pour changer de langue **
 Cliquez sur "Paramètres" dans le coin inférieur gauche. Cliquez ensuite sur "Plus" et déroulez la zone "Langue". Choisissez votre langue. Cliquez ensuite sur "Enregistrer les paramètres". Vous devrez peut-être saisir à nouveau votre mot de passe si vous êtes connecté.
 
-Remarque: la case grise avant avec le mot «Paramètres» ne changera de langue que si le site environnant a mis en œuvre cette fonctionnalité. Le changement de langue modifiera les messages du «guide» dans la boîte centrale. Cela n'affecte pas le texte saisi par les autres utilisateurs.
+Remarque: la zone grise avant avec l'icône «Paramètres» ne changera de langue que si le site environnant a implémenté cette fonctionnalité, et vous devrez peut-être actualiser la page dans votre navigateur. Changer la langue changera les messages du «guide» dans la boîte centrale. Cela n'affecte pas le texte saisi par les autres utilisateurs.
 
 ## Pour aller en plein écran **
 
