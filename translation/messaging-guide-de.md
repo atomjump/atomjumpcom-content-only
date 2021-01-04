@@ -112,7 +112,7 @@ Verwenden Sie dieselbe E-Mail-Adresse und dasselbe Kennwort, die Sie beim Einric
 
 Denken Sie daran, wenn Sie sich auf einem öffentlichen PC befinden, sollten Sie sich abmelden, wenn Sie den PC verlassen, da Ihre Anmeldedaten gespeichert werden.
 
-Hinweis: Jede andere AtomJump Server-Installation verfügt über eine eigene Datenbank für private Benutzer. Wenn Ihr Konto auf AtomJump.com eingerichtet wurde, ist das Konto über alle atomjump.com-Eigenschaften hinweg konsistent. Es funktioniert jedoch nicht unbedingt in jeder Version des Messaging-Popups, die Sie möglicherweise finden, da diese von anderen Unternehmen ausgeführt werden .
+Hinweis: Jede andere AtomJump Server-Installation verfügt über eine eigene Datenbank für private Benutzer. Wenn Ihr Konto auf AtomJump.com eingerichtet wurde, kann das Konto für andere atomjump.com-Eigenschaften freigegeben werden. Es funktioniert jedoch nicht unbedingt in jeder Version des Messaging-Popups, die Sie möglicherweise finden, da diese von anderen Unternehmen ausgeführt werden.
 
 ## Eine private Nachricht an eine Person schreiben
 Klicken oder tippen Sie auf den Namen der Person neben einer ihrer Nachrichten. Geben Sie dann eine Nachricht ein und tippen Sie auf "An [ihren Namen] senden".
@@ -139,12 +139,12 @@ Wenn Sie ein Konto haben, sollten Sie sich zuerst anmelden (mit Ihrer E-Mail-Adr
 Um sich von einem abonnierten Forum abzumelden, klicken Sie auf "Einstellungen" und dann auf "Abmelden" (nachdem Sie angemeldet sind) oder klicken Sie auf das grüne "Ohr" -Symbol auf der Nachrichtenseite.
 
 ## So richten Sie eine Gruppe ein
-Teilen Sie die Webadresse Ihres Forums mit Ihrer Gruppe. Sie können dies schnell auf atomjump.com finden, indem Sie auf das Symbol "Teilen" in der oberen rechten Ecke der zugrunde liegenden Seite tippen. Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fortlaufende Benachrichtigungen zu erhalten.
+Geben Sie Ihren eigenen Gruppennamen oder einen vorhandenen öffentlichen Gruppennamen ein, auf dem auf atomjump.com "Gruppennamen eingeben" steht, z. "sailinglondon" und klicken Sie auf "AtomJump". Teilen Sie den Weblink Ihres Forums, z. "https://sailinglondon.atomjump.com", mit Ihrer Gruppe per E-Mail, SMS, Sofortnachricht oder auf andere Weise. Sie finden diesen Link schnell auf atomjump.com, indem Sie auf das Symbol "Teilen" in der oberen rechten Ecke der zugrunde liegenden Seite tippen. Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fortlaufende Benachrichtigungen zu erhalten.
 
-## So richten Sie eine private Gruppe ein
-Auf AtomJump.com können Sie einen Gruppennamen eingeben und auf den unteren Eintrag "Private Gruppe erstellen" tippen. Dadurch wird Ihr Gruppenname automatisch für uns eingegeben, oder Sie können sich direkt auf <a href="https://atomjump.com/wp/introduction/">dieser Seite</a> anmelden. Auf AtomJump․com kostet dies 10 US-Dollar pro Jahr. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Forumkennwort hinzuzufügen.
+## So richten Sie einen privaten Raum ein
+Auf AtomJump․com können Sie Ihren eigenen eindeutigen Raumnamen eingeben, auf dem "Geben Sie einen Gruppennamen ein" steht, z. "fredfamily" und tippen Sie auf den unteren Eintrag "Create a private room". Auf AtomJump․com kostet dies NZ $ 15 / Jahr (ca. US $ 10 / Jahr), und Sie können sich auf dieser Seite anmelden. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Kennwort für ein privates Forum hinzuzufügen.
 
-Hinweis: Dieses Forum-Passwort unterscheidet sich von Ihrem persönlichen Passwort und sollte eines sein, das Sie bequem per E-Mail an jedes Mitglied der Gruppe senden können.
+Hinweis: Das Forum-Passwort, für das Sie sich entscheiden, unterscheidet sich von Ihrem persönlichen Passwort und sollte eines sein, das Sie bequem per E-Mail an jedes Mitglied des Raums senden können.
 
 ## Um SMS-Benachrichtigungen zu erhalten
 Beachten Sie, dass dies auf AtomJump.com durch die kostenlose App ersetzt wurde, die grafische Popups für Nachrichten bereitstellt. Diese Anweisungen gelten jedoch möglicherweise weiterhin für andere Installationen des Servers.
@@ -153,7 +153,7 @@ Klicken Sie unten links auf "Einstellungen". Klicken Sie auf "Mehr" und geben Si
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-Die Kosten betragen 16c pro Nachricht. Wir rechnen monatlich ab.
+Ihr Anbieter wird wahrscheinlich Kosten verursachen (z. B. 16 Cent pro Nachricht). Lesen Sie daher die Anweisungen Ihres Anbieters.
 
 ## Um App-Benachrichtigungen zu erhalten
 Geben Sie Ihre E-Mail-Adresse und Ihr Passwort unter "Einstellungen" ein. Klicken Sie auf "Mehr". Es gibt einige Links zu "Popup-Benachrichtigungen abrufen" für Android und iOS. Klicken Sie auf und laden Sie die App auf Ihr Android- oder iPhone-Gerät herunter. Wenn sich dies auf einem privaten Server befindet, müssen Sie auch die angegebene Serveradresse kopieren.
@@ -204,7 +204,7 @@ Melden Sie sich mit Ihrem Konto an. Klicken Sie auf das Symbol "Hochladen" in de
 ## Sprache ändern **
 Klicken Sie unten links auf "Einstellungen". Klicken Sie dann auf "Mehr" und lassen Sie das Feld "Sprache" fallen. Wähle deine Sprache. Klicken Sie anschließend auf "Einstellungen speichern". Möglicherweise müssen Sie Ihr Passwort erneut eingeben, wenn Sie angemeldet sind.
 
-Hinweis: Das vordere graue Feld mit dem Wort "Einstellungen" ändert die Sprache nur, wenn die umgebende Site diese Funktion implementiert hat. Durch Ändern der Sprache werden die Leitmeldungen in der zentralen Box geändert. Der von anderen Benutzern eingegebene Text wird nicht beeinflusst.
+Hinweis: Das vordere graue Feld mit dem Symbol "Einstellungen" ändert die Sprache nur, wenn die umgebende Site diese Funktion implementiert hat und Sie die Seite möglicherweise in Ihrem Browser aktualisieren müssen. Durch Ändern der Sprache werden die "Leitmeldungen" in der zentralen Box geändert. Der von anderen Benutzern eingegebene Text wird nicht beeinflusst.
 
 ## Vollbild anzeigen **
 
