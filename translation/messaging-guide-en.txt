@@ -112,7 +112,7 @@ Use the same email and password that you entered on your first device when you s
 
 Remember, if you are on a public PC, you should log out whenever you leave the PC, as your login details will be remembered.
 
-Note: each different AtomJump Server installation has it’s own private users database. If your account was set up on AtomJump.com, then the account will be consistent across all atomjump.com properties, but, it will not necessarily work in every version of the messaging popup that you might find, because these are run by other companies.
+Note: each different AtomJump Server installation has it's own private users database. If your account was set up on AtomJump.com, then the account may be shared across other atomjump.com properties, but, it will not necessarily work in every version of the messaging popup that you might find, because these are run by other companies.
 
 ## To Write a Private Message to One Person
 Click or tap on the person’s name next to one of their messages. Then enter a message and tap ‘Send to [their name]’.
@@ -139,12 +139,12 @@ If you do have an account, you should log in first (with your email and password
 To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in), or click the green ‘ear’ icon on the messaging page.
 
 ## To Set up a Group
-Share the web address of your forum with your group.  You can find this quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
+Enter your own group name, or an existing public group name, where it says "Enter a group name" on atomjump.com e.g. "sailinglondon", and click "AtomJump". Share the web link of your forum e.g. "https://sailinglondon.atomjump.com", with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
-## To Set up a Private Group
-On AtomJump.com, you can enter a group name, and tap the bottom entry ‘Create a private group’. This will automatically fill in your group name for us, or you can sign up directly on <a href="https://atomjump.com/wp/introduction/">this page</a>. On AtomJump․com, this costs $US 10 / year. On other forums, you should contact your system administrator to add a forum password.
+## To Set up a Private Room
+On AtomJump․com, you can enter your own unique room name where it says "Enter a group name", e.g. "fredfamily" and tap the bottom entry 'Create a private room'.  On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year), and you can sign up on <a href="https://atomjump.com/wp/introduction/">this page</a>. On other forums, you should contact your system administrator to add a private forum password.
 
-Note: this forum password is different from your personal password and should be one that you can email to every member of the group comfortably.
+Note: the forum password you decide to have is different from your personal password and should be one that you can email to every member of the room comfortably.
 
 ## To Get SMS Notifications
 Note, on AtomJump.com this has been superseded by the app, which is free, and provides graphical message popups. These instructions may still apply to other installations of the server, however.
@@ -153,7 +153,7 @@ Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-The cost is 16c per message. We bill on a monthly basis.
+There will likely be a cost from your provider (e.g. 16c per message), so please check the instructions from your provider.
 
 ## To Get App Notifications
 Enter your email and password in ‘Settings’. Click ‘More’. There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
@@ -204,7 +204,7 @@ Log in with your account. Click the ‘Upload’ icon in the bottom left corner.
 ## To Change Language **
 Click ‘Settings’ in the bottom left corner. Then click ‘More’ and drop down the ‘Language’ box. Choose your language. Then click ‘Save Settings’. You may need to enter your password again if you are logged in.
 
-Note: the front grey box with the word ‘Settings’ will only change language if the surrounding site has implemented this feature. Changing language will change the ‘guide’ messages in the central box. It does not affect the text entered by other users.
+Note: the front grey box with the icon 'Settings' will only change language if the surrounding site has implemented this feature, and you may need to refresh the page in your browser. Changing language will change the 'guide' messages in the central box. It does not affect the text entered by other users.
 
 ## To Go Full-Screen **
 
