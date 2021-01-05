@@ -114,7 +114,7 @@ Use el mismo correo electrónico y contraseña que ingresó en su primer disposi
 
 Recuerde, si está en una PC pública, debe cerrar la sesión cada vez que salga de la PC, ya que se recordarán sus datos de inicio de sesión.
 
-Nota: cada instalación de AtomJump Server diferente tiene su propia base de datos de usuarios privados. Si su cuenta se configuró en AtomJump.com, entonces la cuenta será coherente en todas las propiedades de atomjump.com, pero no necesariamente funcionará en todas las versiones de la ventana emergente de mensajería que pueda encontrar, ya que son administradas por otras empresas. .
+Nota: cada instalación de AtomJump Server diferente tiene su propia base de datos de usuarios privados. Si su cuenta se configuró en AtomJump.com, entonces la cuenta puede compartirse entre otras propiedades de atomjump.com, pero no necesariamente funcionará en todas las versiones de la ventana emergente de mensajería que pueda encontrar, ya que son administradas por otras compañías.
 
 ## Para escribir un mensaje privado a una persona
 Haz clic o toca el nombre de la persona junto a uno de sus mensajes. Luego, ingrese un mensaje y toque "Enviar a [su nombre]".
@@ -141,12 +141,12 @@ Si tiene una cuenta, primero debe iniciar sesión (con su correo electrónico y 
 Para cancelar la suscripción a un foro suscrito, haga clic en "Configuración" y luego en "cancelar suscripción" (después de iniciar sesión), o haga clic en el icono verde "oreja" en la página de mensajes.
 
 ## Para configurar un grupo
-Comparta la dirección web de su foro con su grupo. Puede encontrar esto rápidamente en atomjump.com tocando el icono 'compartir' en la esquina superior derecha de la página subyacente. Cada individuo puede optar por convertirse en un suscriptor del foro para recibir notificaciones continuas.
+Ingrese su propio nombre de grupo, o un nombre de grupo público existente, donde dice "Ingrese un nombre de grupo" en atomjump.com p. Ej. "sailinglondon" y haga clic en "AtomJump". Comparta el enlace web de su foro, p. Ej. "https://sailinglondon.atomjump.com", con su grupo por correo electrónico, SMS, mensajería instantánea o cualquier otro medio. Puede encontrar este enlace rápidamente en atomjump.com tocando el icono 'compartir' en la esquina superior derecha de la página subyacente. Cada individuo puede elegir convertirse en un suscriptor del foro para recibir notificaciones continuas.
 
-## Para configurar un grupo privado
-En AtomJump.com, puede ingresar un nombre de grupo y tocar la entrada inferior "Crear un grupo privado". Esto completará automáticamente el nombre de su grupo por nosotros, o puede registrarse directamente en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En AtomJump․com, esto cuesta 10 dólares estadounidenses al año. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro.
+## Para configurar una habitación privada
+En AtomJump․com, puede ingresar su propio nombre de habitación único donde dice "Ingrese un nombre de grupo", p. Ej. "fredfamily" y toca la entrada inferior 'Crear una habitación privada'. En AtomJump․com, cuesta NZ $ 15 / año (aproximadamente $ US 10 / año), y puede registrarse en <a href="https://atomjump.com/wp/introduction/"> esta página </a>. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro privado.
 
-Nota: esta contraseña del foro es diferente de su contraseña personal y debe ser una que pueda enviar por correo electrónico a todos los miembros del grupo cómodamente.
+Nota: la contraseña del foro que decida tener es diferente de su contraseña personal y debe ser una que pueda enviar por correo electrónico a todos los miembros de la sala cómodamente.
 
 ## Para recibir notificaciones por SMS
 Tenga en cuenta que en AtomJump.com esto ha sido reemplazado por la aplicación, que es gratuita y proporciona ventanas emergentes de mensajes gráficos. Sin embargo, estas instrucciones aún pueden aplicarse a otras instalaciones del servidor.
@@ -155,7 +155,7 @@ Haga clic en "Configuración" en la esquina inferior izquierda. Haga clic en "M�
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-El costo es de 16 centavos por mensaje. Facturamos mensualmente.
+Es probable que su proveedor deba pagar un costo (p. Ej., 16 centavos por mensaje), así que consulte las instrucciones de su proveedor.
 
 ## Para recibir notificaciones de aplicaciones
 Ingrese su correo electrónico y contraseña en "Configuración". Haga clic en "Más". Hay algunos enlaces a "Recibir notificaciones emergentes" para Android e iOS. Haga clic y descargue la aplicación en su dispositivo Android o iPhone. Si se encuentra en un servidor privado, también deberá copiar la dirección del servidor mencionada.
@@ -206,7 +206,7 @@ Inicie sesión con su cuenta. Haga clic en el icono "Subir" en la esquina inferi
 ## Para cambiar el idioma **
 Haga clic en "Configuración" en la esquina inferior izquierda. Luego haga clic en "Más" y despliegue el cuadro "Idioma". Elige tu idioma. Luego, haga clic en "Guardar configuración". Es posible que deba ingresar su contraseña nuevamente si ha iniciado sesión.
 
-Nota: el cuadro gris frontal con la palabra "Configuración" solo cambiará el idioma si el sitio circundante ha implementado esta función. El cambio de idioma cambiará los mensajes de "guía" en el cuadro central. No afecta el texto ingresado por otros usuarios.
+Nota: el cuadro gris frontal con el ícono 'Configuración' solo cambiará el idioma si el sitio circundante ha implementado esta función, y es posible que deba actualizar la página en su navegador. El cambio de idioma cambiará los mensajes de 'guía' en el cuadro central. No afecta el texto ingresado por otros usuarios.
 
 ## Para ir a pantalla completa **
 
