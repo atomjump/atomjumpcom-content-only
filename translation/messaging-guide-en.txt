@@ -139,7 +139,7 @@ If you do have an account, you should log in first (with your email and password
 To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in), or click the green ‘ear’ icon on the messaging page.
 
 ## To Set up a Group
-Enter your own group name, or an existing public group name, where it says "Enter a group name" on atomjump.com e.g. "sailinglondon", and click "AtomJump". Share the web link of your forum e.g. "https://sailinglondon.atomjump.com", with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
+Enter your own group name, or an existing public group name, where it says "Enter a group name" on AtomJump.com e.g. "sailinglondon", and click "AtomJump". Share the web link of your forum e.g. "https://sailinglondon.AtomJump.com", with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
 ## To Set up a Private Room
 On AtomJump․com, you can enter your own unique room name where it says "Enter a group name", e.g. "fredfamily" and tap the bottom entry 'Create a private room'.  On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year), and you can sign up on <a href="https://atomjump.com/wp/introduction/">this page</a>. On other forums, you should contact your system administrator to add a private forum password.
