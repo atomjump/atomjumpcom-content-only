@@ -112,7 +112,7 @@ Gunakan email dan kata sandi yang sama dengan yang Anda masukkan di perangkat pe
 
 Ingat, jika Anda menggunakan PC publik, Anda harus logout setiap kali Anda meninggalkan PC, karena detail login Anda akan diingat.
 
-Catatan: setiap penginstalan Server AtomJump memiliki database pengguna pribadinya sendiri. Jika akun Anda disiapkan di AtomJump.com, maka akun tersebut akan konsisten di semua properti atomjump.com, tetapi, ini belum tentu berfungsi di setiap versi munculan perpesanan yang mungkin Anda temukan, karena ini dijalankan oleh perusahaan lain .
+Catatan: setiap instalasi AtomJump Server memiliki database pengguna privatnya sendiri. Jika akun Anda disiapkan di AtomJump.com, maka akun tersebut dapat dibagikan ke properti atomjump.com lainnya, tetapi, akun tersebut tidak selalu berfungsi di setiap versi munculan perpesanan yang mungkin Anda temukan, karena ini dijalankan oleh perusahaan lain.
 
 ## Untuk Menulis Pesan Pribadi ke Satu Orang
 Klik atau ketuk nama orang di samping salah satu pesan mereka. Kemudian masukkan pesan dan ketuk 'Kirim ke [nama mereka]'.
@@ -139,12 +139,12 @@ Jika Anda memang memiliki akun, Anda harus masuk terlebih dahulu (dengan email d
 Untuk berhenti berlangganan dari forum langganan, klik 'Pengaturan' dan kemudian 'berhenti berlangganan' (setelah Anda masuk), atau klik ikon 'telinga' hijau di halaman pesan.
 
 ## Untuk Menyiapkan Grup
-Bagikan alamat web forum Anda dengan grup Anda. Anda dapat menemukannya dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya. Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
+Masukkan nama grup Anda sendiri, atau nama grup publik yang sudah ada, dengan tulisan "Masukkan nama grup" di atomjump.com mis. "sailinglondon", dan klik "AtomJump". Bagikan tautan web forum Anda, mis. "https://sailinglondon.atomjump.com", dengan grup Anda melalui email, SMS, pesan instan, atau cara lain. Anda dapat menemukan tautan ini dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya. Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
 
-## Untuk Menyiapkan Grup Pribadi
-Di AtomJump.com, Anda dapat memasukkan nama grup, dan ketuk entri bawah 'Buat grup pribadi'. Ini akan secara otomatis mengisi nama grup Anda untuk kami, atau Anda dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>. Di AtomJump․com, biayanya $ US 10 / tahun. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum.
+## Untuk Mengatur Kamar Pribadi
+Di AtomJump․com, Anda dapat memasukkan nama ruangan unik Anda sendiri yang bertuliskan "Masukkan nama grup", mis. "fredfamily" dan tap entri bawah 'Buat ruang pribadi'. Di AtomJump․com, biayanya NZ $ 15 / tahun (sekitar $ US 10 / tahun), dan Anda dapat mendaftar di <a href="https://atomjump.com/wp/introduction/"> halaman ini </a>. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum pribadi.
 
-Catatan: kata sandi forum ini berbeda dari kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota grup dengan nyaman.
+Catatan: kata sandi forum yang Anda putuskan berbeda dari kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota ruang dengan nyaman.
 
 ## Untuk Mendapatkan Pemberitahuan SMS
 Catatan, di AtomJump.com ini telah digantikan oleh aplikasi, yang gratis, dan menyediakan popup pesan grafis. Namun, petunjuk ini mungkin masih berlaku untuk penginstalan server lainnya.
@@ -153,7 +153,7 @@ Klik 'Pengaturan' di pojok kiri bawah. Klik 'Lainnya', dan masukkan nomor telepo
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-Biayanya 16c per pesan. Kami menagih setiap bulan.
+Kemungkinan akan ada biaya dari penyedia Anda (mis. 16c per pesan), jadi harap periksa petunjuk dari penyedia Anda.
 
 ## Untuk Mendapatkan Notifikasi Aplikasi
 Masukkan email dan sandi Anda di 'Pengaturan'. Klik 'Lainnya'. Ada beberapa tautan ke 'Dapatkan pemberitahuan munculan' untuk Android dan iOS. Klik dan unduh aplikasi ke perangkat Android atau iPhone Anda. Jika ini ada di server pribadi, Anda juga perlu menyalin alamat server yang disebutkan.
@@ -204,7 +204,7 @@ Masuk dengan akun Anda. Klik ikon 'Unggah' di sudut kiri bawah. Klik tombol 'Und
 ## Untuk Mengubah Bahasa **
 Klik 'Pengaturan' di pojok kiri bawah. Lalu klik 'Lainnya' dan tarik turun kotak 'Bahasa'. Pilih bahasamu. Kemudian klik 'Simpan Pengaturan'. Anda mungkin perlu memasukkan kata sandi Anda lagi jika Anda sudah masuk.
 
-Catatan: kotak abu-abu depan dengan kata 'Settings' hanya akan mengubah bahasa jika situs di sekitarnya telah menerapkan fitur ini. Mengubah bahasa akan mengubah pesan 'panduan' di kotak tengah. Itu tidak mempengaruhi teks yang dimasukkan oleh pengguna lain.
+Catatan: kotak abu-abu depan dengan ikon 'Pengaturan' hanya akan mengubah bahasa jika situs di sekitarnya telah menerapkan fitur ini, dan Anda mungkin perlu menyegarkan halaman di browser Anda. Mengubah bahasa akan mengubah pesan 'panduan' di kotak tengah. Itu tidak mempengaruhi teks yang dimasukkan oleh pengguna lain.
 
 ## Untuk Menggunakan Layar Penuh **
 
