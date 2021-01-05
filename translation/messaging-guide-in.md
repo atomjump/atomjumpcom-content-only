@@ -142,7 +142,7 @@ Untuk berhenti berlangganan dari forum langganan, klik 'Pengaturan' dan kemudian
 Masukkan nama grup Anda sendiri, atau nama grup publik yang sudah ada, dengan tulisan "Enter a group name" di AtomJump.com mis. "sailinglondon", dan klik "AtomJump". Bagikan tautan web forum Anda, mis. "https://sailinglondon.AtomJump.com", dengan grup Anda melalui email, SMS, pesan instan, atau cara lain. Anda dapat menemukan tautan ini dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya. Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
 
 ## Untuk Mengatur Kamar Pribadi
-Di AtomJump․com, Anda dapat memasukkan nama ruangan unik Anda sendiri yang bertuliskan "Masukkan nama grup", mis. "fredfamily" dan tap entri bawah 'Buat ruang pribadi'. Di AtomJump․com, biayanya NZ $ 15 / tahun (sekitar $ US 10 / tahun), dan Anda dapat mendaftar di <a href="https://atomjump.com/wp/introduction/"> halaman ini </a>. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum pribadi.
+Di AtomJump․com, Anda dapat memasukkan nama ruangan unik Anda sendiri yang bertuliskan "Enter a group name", mis. "fredfamily" dan ketuk entri bawah 'Create a PRIVATE room'. Di AtomJump․com, biayanya NZ $ 15 / tahun (sekitar $ US 10 / tahun), dan Anda dapat mendaftar di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum pribadi.
 
 Catatan: kata sandi forum yang Anda putuskan berbeda dari kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota ruang dengan nyaman.
 

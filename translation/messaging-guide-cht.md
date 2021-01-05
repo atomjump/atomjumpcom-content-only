@@ -142,7 +142,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 輸入您自己的群組名稱，或現有的公共群組名稱，在AtomJump.com上顯示“Enter a group name”，例如 “sailinglondon”，然後單擊“AtomJump”。 共享您論壇的Web鏈接，例如 “https://sailinglondon.AtomJump.com”，並通過電子郵件，短信，即時消息或其他方式與您的小組聯繫。 您可以通過點擊底層頁面右上角的“共享”圖標，在atomjump.com上快速找到此鏈接。 然後，每個人都可以選擇成為論壇訂戶以獲取正在進行的通知。
 
 ## 設置私人房間
-在AtomJump․com上，您可以輸入自己的唯一房間名稱，並顯示“輸入群組名稱”，例如 “fredfamily”，然後點擊底部的“創建私人房間”。 在AtomJump․com上，這筆費用為每年NZ $ 15（約合每年10美元），您可以在<a href="https://atomjump.com/wp/introduction/">此頁面上註冊</a>。 在其他論壇上，您應該與系統管理員聯繫以添加私人論壇密碼。
+在AtomJump․com上，您可以輸入自己的唯一房間名稱，其中會顯示“Enter a group name”，例如 “fredfamily”，然後點擊底部條目“Create a PRIVATE room“。 在AtomJump․com上，這筆費用為每年NZ $ 15（約合每年10美元），您可以在<a href="https://atomjump.com/wp/introduction/">此頁面上註冊</a>。 在其他論壇上，您應該與系統管理員聯繫以添加私人論壇密碼。
 
 注意：您決定使用的論壇密碼與您的個人密碼不同，應該是您可以舒適地通過電子郵件發送給會議室中每個成員的密碼。
 

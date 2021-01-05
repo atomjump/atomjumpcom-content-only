@@ -142,7 +142,7 @@ Per annullare l'iscrizione a un forum a cui si è iscritti, fare clic su "Impost
 Inserisci il nome del tuo gruppo o un nome di gruppo pubblico esistente, dove su AtomJump.com viene visualizzato "Enter a group name", ad es. "sailinglondon" e fai clic su "AtomJump". Condividi il link web del tuo forum, ad es. "https://sailinglondon.AtomJump.com", con il tuo gruppo tramite e-mail, SMS, messaggio istantaneo o altri mezzi. Puoi trovare rapidamente questo collegamento su atomjump.com toccando l'icona "condividi" nell'angolo in alto a destra della pagina sottostante. Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notifiche continue.
 
 ## Per impostare una stanza privata
-Su AtomJump․com, puoi inserire il nome della tua stanza univoco dove dice "Inserisci un nome di gruppo", ad es. "fredfamily" e tocca la voce in basso "Crea una stanza privata". Su AtomJump․com, questo costa NZ $ 15 / anno (circa $ US 10 / anno) e puoi registrarti su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>. Su altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum privato.
+Su AtomJump․com, puoi inserire il nome della tua stanza univoco dove dice "Enter a group name", ad es. "fredfamily" e tocca la voce in basso 'Create a PRIVATE room'. Su AtomJump․com, questo costa NZ $ 15 / anno (circa $ US 10 / anno) e puoi registrarti su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>. Su altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum privato.
 
 Nota: la password del forum che decidi di avere è diversa dalla tua password personale e dovrebbe essere quella che puoi inviare via email a ogni membro della stanza comodamente.
 
