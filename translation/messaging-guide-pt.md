@@ -112,7 +112,7 @@ Use o mesmo e-mail e senha que você inseriu em seu primeiro dispositivo ao conf
 
 Lembre-se, se você estiver em um PC público, deverá fazer logout sempre que sair do PC, pois seus detalhes de login serão lembrados.
 
-Nota: cada instalação diferente do AtomJump Server tem seu próprio banco de dados de usuários privados. Se sua conta foi configurada no AtomJump.com, ela será consistente em todas as propriedades do atomjump.com, mas não funcionará necessariamente em todas as versões do pop-up de mensagens que você encontrar, porque são administradas por outras empresas .
+Nota: cada instalación de AtomJump Server diferente tiene su propia base de datos de usuarios privados. Si su cuenta se configuró en AtomJump.com, entonces la cuenta puede compartirse entre otras propiedades de atomjump.com, pero no necesariamente funcionará en todas las versiones de la ventana emergente de mensajería que pueda encontrar, ya que son administradas por otras compañías.
 
 ## Para escrever uma mensagem privada para uma pessoa
 Clique ou toque no nome da pessoa ao lado de uma de suas mensagens. Em seguida, digite uma mensagem e toque em ‘Enviar para [nome]’.
@@ -139,12 +139,12 @@ Se você tiver uma conta, deverá primeiro fazer o login (com seu e-mail e senha
 Para cancelar a inscrição em um fórum inscrito, clique em "Configurações" e depois em "cancelar" (depois de fazer login) ou clique no ícone de "orelha" verde na página de mensagens.
 
 ## Para configurar um grupo
-Compartilhe o endereço da web de seu fórum com seu grupo. Você pode encontrar isso rapidamente em atomjump.com tocando no ícone 'compartilhar' no canto superior direito da página subjacente. Cada indivíduo pode então optar por se tornar um assinante do fórum para obter notificações contínuas.
+Ingrese su propio nombre de grupo, o un nombre de grupo público existente, donde dice "Ingrese un nombre de grupo" en atomjump.com p. Ej. "sailinglondon" y haga clic en "AtomJump". Comparta el enlace web de su foro, p. Ej. "https://sailinglondon.atomjump.com", con su grupo por correo electrónico, SMS, mensajería instantánea o cualquier otro medio. Puede encontrar este enlace rápidamente en atomjump.com tocando el icono 'compartir' en la esquina superior derecha de la página subyacente. Cada individuo puede elegir convertirse en un suscriptor del foro para recibir notificaciones continuas.
 
-## Para configurar um grupo privado
-Em AtomJump.com, você pode inserir um nome de grupo e tocar na entrada inferior ‘Criar um grupo privado’. Isso preencherá automaticamente o nome do seu grupo para nós, ou você pode se inscrever diretamente <a href="https://atomjump.com/wp/introduction/"> nesta página </a>. No AtomJump․com, isso custa US $ 10 / ano. Em outros fóruns, você deve entrar em contato com o administrador do sistema para adicionar uma senha ao fórum.
+## Para configurar una habitación privada
+En AtomJump․com, puede ingresar su propio nombre de habitación único donde dice "Ingrese un nombre de grupo", p. Ej. "fredfamily" y toca la entrada inferior 'Crear una habitación privada'. En AtomJump․com, cuesta NZ $ 15 / año (aproximadamente $ US 10 / año), y puede registrarse en <a href="https://atomjump.com/wp/introduction/"> esta página </a>. En otros foros, debe comunicarse con el administrador del sistema para agregar una contraseña de foro privado.
 
-Nota: esta senha do fórum é diferente da sua senha pessoal e deve ser aquela que você pode enviar por e-mail para cada membro do grupo confortavelmente.
+Nota: la contraseña del foro que decida tener es diferente de su contraseña personal y debe ser una que pueda enviar por correo electrónico a todos los miembros de la sala cómodamente.
 
 ## Para obter notificações por SMS
 Observe que no AtomJump.com isso foi substituído pelo aplicativo, que é gratuito e fornece pop-ups de mensagens gráficas. Essas instruções ainda podem se aplicar a outras instalações do servidor, no entanto.
@@ -153,7 +153,7 @@ Clique em "Configurações" no canto inferior esquerdo. Clique em ‘Mais’ e i
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-O custo é de 16 c por mensagem. Faturamos mensalmente.
+Es probable que su proveedor deba pagar un costo (p. Ej., 16 centavos por mensaje), así que consulte las instrucciones de su proveedor.
 
 ## Para obter notificações de aplicativos
 Digite seu e-mail e senha em ‘Configurações’. Clique em ‘Mais’. Existem alguns links para ‘Obter notificações pop-up’ para Android e iOS. Clique e baixe o aplicativo para o seu dispositivo Android ou iPhone. Se estiver em um servidor privado, você também precisará copiar o endereço do servidor mencionado.
@@ -204,7 +204,7 @@ Faça login com sua conta. Clique no ícone ‘Upload’ no canto inferior esque
 ## Para mudar o idioma **
 Clique em "Configurações" no canto inferior esquerdo. Em seguida, clique em "Mais" e selecione a caixa "Idioma". Escolha o seu idioma. Em seguida, clique em "Salvar configurações". Pode ser necessário inserir sua senha novamente se estiver conectado.
 
-Observação: a caixa cinza frontal com a palavra ‘Configurações’ só mudará de idioma se o site ao redor tiver implementado esse recurso. Mudar o idioma mudará as mensagens do 'guia' na caixa central. Não afeta o texto inserido por outros usuários.
+Nota: el cuadro gris frontal con el ícono 'Configuración' solo cambiará el idioma si el sitio circundante ha implementado esta función, y es posible que deba actualizar la página en su navegador. El cambio de idioma cambiará los mensajes de 'guía' en el cuadro central. No afecta el texto ingresado por otros usuarios.
 
 ## To Go Full-Screen **
 
