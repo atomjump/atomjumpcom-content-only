@@ -139,7 +139,7 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 要取消订阅已订阅的论坛，请单击“设置”，然后单击“取消订阅”（登录后），或单击消息页面上绿色的“耳朵”图标。
 
 ## 设置组
-输入您自己的群组名称，或现有的公共群组名称，在AtomJump.com上显示“Enter a group name”，例如 “sailinglondon”，然后单击“AtomJump”。 共享您论坛的Web链接，例如 “https://sailinglondon.atomjump.com”，并通过电子邮件，短信，即时消息或其他方式与您的小组联系。 您可以通过点击底层页面右上角的“共享”图标，在atomjump.com上快速找到此链接。 然后，每个人都可以选择成为论坛订户以获取正在进行的通知。
+输入您自己的群组名称，或现有的公共群组名称，在AtomJump.com上显示“Enter a group name”，例如 “sailinglondon”，然后单击“AtomJump”。 共享您论坛的Web链接，例如 “https://sailinglondon.AtomJump.com”，并通过电子邮件，短信，即时消息或其他方式与您的小组联系。 您可以通过点击底层页面右上角的“共享”图标，在atomjump.com上快速找到此链接。 然后，每个人都可以选择成为论坛订户以获取正在进行的通知。
 
 ## 设置私人房间
 在AtomJump․com上，您可以输入自己的唯一房间名称，并显示“输入群组名称”，例如 “fredfamily”，然后点击底部的“创建私人房间”。 在AtomJump․com上，这笔费用为每年NZ $ 15（约合每年10美元），您可以在<a href="https://atomjump.com/wp/introduction/">此页面上注册</a>。 在其他论坛上，您应该与系统管理员联系以添加私人论坛密码。
