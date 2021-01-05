@@ -112,7 +112,7 @@ Usa la stessa email e password che hai inserito sul tuo primo dispositivo quando
 
 Ricorda, se sei su un PC pubblico, dovresti disconnetterti ogni volta che esci dal PC, poiché i tuoi dati di accesso verranno ricordati.
 
-Nota: ogni diversa installazione di AtomJump Server ha il proprio database di utenti privati. Se il tuo account è stato impostato su AtomJump.com, l'account sarà coerente in tutte le proprietà di atomjump.com, ma non funzionerà necessariamente in ogni versione del popup di messaggistica che potresti trovare, perché questi sono gestiti da altre società .
+Nota: ogni diversa installazione di AtomJump Server ha il proprio database di utenti privati. Se il tuo account è stato impostato su AtomJump.com, l'account potrebbe essere condiviso tra altre proprietà di atomjump.com, ma non funzionerà necessariamente in ogni versione del popup di messaggistica che potresti trovare, perché questi sono gestiti da altre società.
 
 ## Scrivere un messaggio privato a una persona
 Fai clic o tocca il nome della persona accanto a uno dei suoi messaggi. Quindi inserisci un messaggio e tocca "Invia a [il loro nome]".
@@ -139,12 +139,12 @@ Se hai un account, devi prima accedere (con la tua email e password). Fai clic s
 Per annullare l'iscrizione a un forum a cui si è iscritti, fare clic su "Impostazioni" e quindi su "Annulla iscrizione" (dopo aver effettuato l'accesso) oppure fare clic sull'icona verde "orecchio" nella pagina dei messaggi.
 
 ## Per impostare un gruppo
-Condividi l'indirizzo web del tuo forum con il tuo gruppo. Puoi trovarlo rapidamente su atomjump.com toccando l'icona 'condividi' nell'angolo in alto a destra della pagina sottostante. Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notifiche continue.
+Inserisci il nome del tuo gruppo o un nome di gruppo pubblico esistente, dove su atomjump.com viene visualizzato "Inserisci un nome di gruppo", ad es. "sailinglondon" e fai clic su "AtomJump". Condividi il link web del tuo forum, ad es. "https://sailinglondon.atomjump.com", con il tuo gruppo tramite e-mail, SMS, messaggio istantaneo o altri mezzi. Puoi trovare rapidamente questo collegamento su atomjump.com toccando l'icona "condividi" nell'angolo in alto a destra della pagina sottostante. Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notifiche continue.
 
-## Per impostare un gruppo privato
-Su AtomJump.com, puoi inserire un nome di gruppo e toccare la voce in basso "Crea un gruppo privato". Questo inserirà automaticamente il nome del tuo gruppo per noi oppure puoi registrarti direttamente su <a href="https://atomjump.com/wp/introduction/"> questa pagina </a>. Su AtomJump․com, questo costa $ US 10 all'anno. In altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum.
+## Per impostare una stanza privata
+Su AtomJump․com, puoi inserire il nome della tua stanza univoco dove dice "Inserisci un nome di gruppo", ad es. "fredfamily" e tocca la voce in basso "Crea una stanza privata". Su AtomJump․com, questo costa NZ $ 15 / anno (circa $ US 10 / anno) e puoi registrarti su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>. Su altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum privato.
 
-Nota: questa password del forum è diversa dalla tua password personale e dovrebbe essere quella che puoi inviare via email a ogni membro del gruppo comodamente.
+Nota: la password del forum che decidi di avere è diversa dalla tua password personale e dovrebbe essere quella che puoi inviare via email a ogni membro della stanza comodamente.
 
 ## Per ricevere notifiche SMS
 Nota, su AtomJump.com questo è stato sostituito dall'app, che è gratuita e fornisce popup grafici dei messaggi. Tuttavia, queste istruzioni possono essere ancora valide per altre installazioni del server.
@@ -153,7 +153,7 @@ Fare clic su "Impostazioni" nell'angolo inferiore sinistro. Fai clic su "Altro" 
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
 
-Il costo è di 16 centesimi per messaggio. Fatturiamo su base mensile.
+Probabilmente ci sarà un costo dal tuo provider (ad esempio 16 centesimi per messaggio), quindi controlla le istruzioni del tuo provider.
 
 ## Per ricevere le notifiche dell'app
 Inserisci la tua email e password in "Impostazioni". Fare clic su "Altro". Ci sono alcuni link a "Ricevi notifiche popup" per Android e iOS. Fai clic e scarica l'app sul tuo dispositivo Android o iPhone. Se si trova su un server privato, sarà necessario copiare anche l'indirizzo del server menzionato.
@@ -204,7 +204,7 @@ Accedi con il tuo account. Fare clic sull'icona "Carica" ​​nell'angolo infer
 ## Per cambiare lingua **
 Fare clic su "Impostazioni" nell'angolo inferiore sinistro. Quindi fare clic su "Altro" e selezionare la casella "Lingua". Scegli la tua LINGUA. Quindi fare clic su "Salva impostazioni". Potrebbe essere necessario inserire nuovamente la password se si è effettuato l'accesso.
 
-Nota: la casella grigia anteriore con la parola "Impostazioni" cambierà la lingua solo se il sito circostante ha implementato questa funzione. La modifica della lingua cambierà i messaggi di "guida" nella casella centrale. Non influisce sul testo inserito da altri utenti.
+Nota: la casella grigia anteriore con l'icona "Impostazioni" cambierà la lingua solo se il sito circostante ha implementato questa funzione e potrebbe essere necessario aggiornare la pagina nel browser. La modifica della lingua cambierà i messaggi di "guida" nel riquadro centrale. Non influisce sul testo inserito da altri utenti.
 
 ## Per passare a schermo intero **
 
