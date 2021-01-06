@@ -132,17 +132,46 @@ Klicken oder tippen Sie auf den Namen der Person neben einer ihrer Nachrichten. 
 Beachten Sie, dass eine Twitter-Antwort immer öffentlich ist und Sie kein Twitter-Konto benötigen. Von unserem AtomJump-Konto wird automatisch eine Nachricht gesendet, dass in dem Forum, in dem Sie sich gerade befinden, eine Nachricht auf sie wartet. Es liegt an ihnen, ob sie ihre Twitter-Nachrichten lesen und antworten.
 
 ## Um ein Forum-Abonnent zu werden
-Wenn Sie noch kein Konto haben oder nicht sofort eines möchten, können Sie dies tun, indem Sie auf das rote "durchgestrichene" Ohrsymbol klicken oder auf "Einstellungen" klicken und Ihre E-Mail-Adresse in "E-Mail" eingeben. Feld. Klicken Sie anschließend auf "Abonnieren".
 
-Wenn Sie ein Konto haben, sollten Sie sich zuerst anmelden (mit Ihrer E-Mail-Adresse und Ihrem Passwort). Klicken Sie im Kennwortfeld auf "Mehr", geben Sie Ihr Kennwort ein, klicken Sie auf "Anmelden" und dann auf der Seite "Einstellungen" auf "Abonnieren" oder auf der Nachrichtenseite auf das rote "durchgestrichene" Ohrsymbol.
+Wenn Sie <b><i>kein Konto</i></b> haben und nur Benachrichtigungen per E-Mail erhalten möchten (ohne sich anmelden zu müssen), können Sie sich anmelden, indem Sie auf das Ohr tippen und es auf Grün stellen "Abhören" im Nachrichtenfenster, in dem Sie nach Ihrer E-Mail-Adresse gefragt werden. Klicken Sie anschließend auf "Abonnieren".
 
-Um sich von einem abonnierten Forum abzumelden, klicken Sie auf "Einstellungen" und dann auf "Abmelden" (nachdem Sie angemeldet sind) oder klicken Sie auf das grüne "Ohr" -Symbol auf der Nachrichtenseite.
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+<i>Nicht abonniert. Tippen Sie zum Abonnieren auf.</i>
+
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+<i>Abonniert. Tippen Sie auf, um sich abzumelden.</i>
+
+Wenn Sie <b><i>ein Konto</i></b> haben, sollten Sie sich zuerst anmelden. Klicken Sie dazu auf "Einstellungen", klicken Sie auf "Mehr" für das Kennwortfeld und geben Sie Ihre E-Mail-Adresse und Ihr Kennwort ein. Klicken Sie anschließend auf "Anmelden".
+
+Tippen Sie nun auf der Nachrichtenseite auf das Ohr und schalten Sie es auf das grüne "Abhörohr", um dieses eine Forum zu abonnieren.
+
+Um sich von einem abonnierten Forum <b>abzumelden</b>, tippen Sie auf der Nachrichtenseite auf und lesen Sie auf "Nicht hörend".
 
 ## So richten Sie eine Gruppe ein
-Geben Sie Ihren eigenen Gruppennamen oder einen vorhandenen öffentlichen Gruppennamen ein, auf dem auf atomjump.com "Gruppennamen eingeben" steht, z. "sailinglondon" und klicken Sie auf "AtomJump". Teilen Sie den Weblink Ihres Forums, z. "https://sailinglondon.atomjump.com", mit Ihrer Gruppe per E-Mail, SMS, Sofortnachricht oder auf andere Weise. Sie finden diesen Link schnell auf atomjump.com, indem Sie auf das Symbol "Teilen" in der oberen rechten Ecke der zugrunde liegenden Seite tippen. Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fortlaufende Benachrichtigungen zu erhalten.
+
+Geben Sie Ihren eigenen Gruppennamen oder einen vorhandenen öffentlichen Gruppennamen mit der Aufschrift "Geben Sie einen Gruppennamen ein" auf AtomJump.com ein und klicken Sie auf <span class="notranslate">"AtomJump"</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+
+z.B. Wenn Sie <span class="notranslate">"sailinglondon"</span> eingeben und auf <span class="notranslate">"AtomJump"</span> tippen, wird Ihr Browser an die folgende Adresse weitergeleitet:
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+
+Teilen Sie den Weblink Ihres Forums mit Ihrer Gruppe per E-Mail, SMS, Sofortnachricht oder auf andere Weise. Sie finden diesen Link schnell auf atomjump.com, indem Sie auf das Symbol "Teilen" in der oberen rechten Ecke der zugrunde liegenden Seite tippen.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+
+Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fortlaufende Benachrichtigungen zu erhalten.
+
+<b>Erweiterter Tipp:</b> Sie können optional <span class="notranslate">"/go/"</span> am Ende Ihres Weblinks hinzufügen, wodurch das Live-Forum für Ihre Gäste sofort geöffnet wird (damit sie nicht auf die große blaue Schaltfläche "Los" tippen müssen).
 
 ## So richten Sie einen privaten Raum ein
-Auf AtomJump․com können Sie Ihren eigenen eindeutigen Raumnamen eingeben, auf dem "Enter a group name" ein, z. "fredfamily" und tippen Sie auf den unteren Eintrag 'Create a PRIVATE room'. Auf AtomJump․com kostet dies NZ $ 15 / Jahr (ca. US $ 10 / Jahr), und Sie können sich unter <a href="https://atomjump.com/wp/introduction/">dieser Seite</a>. In anderen Foren sollten Sie sich an Ihren Systemadministrator wenden, um ein Kennwort für ein privates Forum hinzuzufügen.
+
+Auf AtomJump․com können Sie Ihren eigenen eindeutigen Raumnamen eingeben, in dem <span class="notranslate">“Enter a group name”</span> steht, z. <span class="notranslate">“fredfamily”</span> und tippen Sie auf den unteren Eintrag <span class="notranslate">‘Create a PRIVATE room’</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+
+Auf AtomJump․com kostet dies 15 NZ $ / Jahr (ca. 10 USD / Jahr). Sie können sich auch direkt auf <a href="https://atomjump.com/wp/introduction/">dieser Seite</a> anmelden. Auf anderen Websites sollten Sie sich an Ihren Systemadministrator wenden, um ein Kennwort für ein privates Forum hinzuzufügen.
 
 Hinweis: Das Forum-Passwort, für das Sie sich entscheiden, unterscheidet sich von Ihrem persönlichen Passwort und sollte eines sein, das Sie bequem per E-Mail an jedes Mitglied des Raums senden können.
 
@@ -156,21 +185,40 @@ Klicken Sie unten links auf "Einstellungen". Klicken Sie auf "Mehr" und geben Si
 Ihr Anbieter wird wahrscheinlich Kosten verursachen (z. B. 16 Cent pro Nachricht). Lesen Sie daher die Anweisungen Ihres Anbieters.
 
 ## Um App-Benachrichtigungen zu erhalten
-Geben Sie Ihre E-Mail-Adresse und Ihr Passwort unter "Einstellungen" ein. Klicken Sie auf "Mehr". Es gibt einige Links zu "Popup-Benachrichtigungen abrufen" für Android und iOS. Klicken Sie auf und laden Sie die App auf Ihr Android- oder iPhone-Gerät herunter. Wenn sich dies auf einem privaten Server befindet, müssen Sie auch die angegebene Serveradresse kopieren.
 
-Tippen Sie erneut auf den App-Link in den Einstellungen und anschließend im App-Store auf "App öffnen". Tippen Sie in der App auf die Schaltfläche "AtomJump.com koppeln" oder fügen Sie sie in Ihren privaten Server ein und tippen Sie auf die Schaltfläche "Pairing von privaten Servern". Wenn alles richtig funktioniert hat, sollte die App "Abhören von Nachrichten" anzeigen und der Browser sollte anzeigen, dass Sie Ihre App mit Ihrer E-Mail-Adresse verknüpft haben. Dies bedeutet, dass alle privaten Nachrichten angezeigt werden.
+Gehen Sie zur Webadresse des Forums. Klicken Sie auf "Einstellungen" und geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+
+Es gibt einige Links zu "Popup-Benachrichtigungen abrufen" für Android und iOS. Klicken Sie auf und laden Sie die App auf Ihr Android- oder iPhone-Gerät herunter. Wenn sich dies auf einem privaten Server befindet, müssen Sie auch die angegebene Serveradresse kopieren.
+
+Öffnen Sie die App (indem Sie beispielsweise erneut auf den App-Link in den Einstellungen tippen und dann im App-Store auf "App öffnen" tippen).
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+
+Tippen Sie in der App auf die Schaltfläche <span class="notranslate">‘Pair with AtomJump.com’</span> oder für einen privaten Server auf die <span class="notranslate"> ‘Pair with a Private Server’</span> und fügen Sie Ihre private Serveradresse ein.
+
+Wenn alles richtig funktioniert hat, sollte die App <span class="notranslate">‘Listening for Messages’</span> anzeigen und der Browser sollte anzeigen, dass Sie Ihre App mit Ihrer E-Mail-Adresse verknüpft haben.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+
+Dies bedeutet, dass alle persönlichen Nachrichten für dieses Konto einen Ping-Ton auf Ihrem Telefon erzeugen und ein kleines AtomJump-Symbol oben auf dem Bildschirm anzeigen. Wenn Sie mit dem Finger den oberen Bildschirmrand nach unten schieben, wird die Meldung angezeigt.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+
+Tippen Sie auf diese Registerkarte, um eine Vollversion der Nachricht anzuzeigen, und tippen Sie anschließend auf <span class="notranslate">‘Open Forum’</span>, um das Forum selbst aufzurufen, in dem Sie antworten können.
 
 Hinweis: Sie können jeweils nur auf einem Gerät angemeldet sein.
 
-Um Nachrichtenbenachrichtigungen jederzeit zu stoppen, können Sie sich von der App abmelden. Nachrichtenbenachrichtigungen werden per E-Mail gesendet, während Sie abgemeldet sind. Wenn Sie sich erneut anmelden, werden die Benachrichtigungen erneut gestartet.
+Um <b>Nachrichtenbenachrichtigungen</b> jederzeit zu stoppen, können Sie sich von der App abmelden. Nachrichtenbenachrichtigungen werden per E-Mail gesendet, während Sie abgemeldet sind. Wenn Sie sich erneut anmelden, werden die Benachrichtigungen erneut gestartet.
 
-Sie können beliebig viele Foren abonnieren. Siehe oben <a href="#become-owner">"Forum-Abonnent werden"</a>.
+Sie können beliebig viele Foren abonnieren. Siehe oben <a href="#become-owner"> "Forum-Abonnent werden" </a>.
 
-Ein Beispiel hierfür finden Sie in <a href="https://youtu.be/HncohJFIA7E">diesem Video</a>.
+Ein Beispiel hierfür finden Sie in <a href="https://youtu.be/HncohJFIA7E"> diesem Video </a>.
 
-**Fehlerbehebung**
+<b>Fehlerbehebung</b>
 
-Wenn Sie auf einem iPhone keine Benachrichtigungen erhalten, müssen Sie möglicherweise unter "Einstellungen> Benachrichtigungen> AtomJump Messaging" Ihres Telefons die Benachrichtigungseinstellungen auf "Benachrichtigungen zulassen" ändern.
+Wenn Sie auf einem iPhone keine Benachrichtigungen erhalten, müssen Sie möglicherweise die Einstellungen Ihres Telefons unter "Einstellungen> Benachrichtigungen> AtomJump Messaging" aufrufen und die Benachrichtigungseinstellungen auf "Benachrichtigungen zulassen" ändern.
 
 ## So speichern Sie eine Forum-Verknüpfung
 Wenn Sie auf Ihrem Telefon sind, empfehlen wir Ihnen, die AtomJump Messaging-App herunterzuladen.
