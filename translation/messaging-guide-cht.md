@@ -171,7 +171,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
-在AtomJump․com上，這筆費用為每年15新西蘭元（約合10美元/年）。您也可以直接在<a href="https://staging.atomjump.com/wp/introduction/">此頁面</a>上註冊。在其他站點上，您應該與系統管理員聯繫以添加私人論壇密碼。
+在AtomJump․com上，這筆費用為每年15新西蘭元（約合10美元/年）。您也可以直接在<a href="https://atomjump.com/wp/introduction/">此頁面</a>上註冊。在其他站點上，您應該與系統管理員聯繫以添加私人論壇密碼。
 
 注意：您決定擁有的論壇密碼與您的個人密碼不同，應該是您可以舒適地通過電子郵件發送給會議室中每個成員的密碼。
 
