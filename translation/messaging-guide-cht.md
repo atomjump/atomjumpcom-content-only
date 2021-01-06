@@ -132,19 +132,48 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 注意，Twitter回復始終是公開的，並且您不需要Twitter帳戶。將從我們的AtomJump帳戶自動發送一條消息，表明您當前所在的論壇上有一條消息在等待他們。由他們決定是否閱讀他們的Twitter消息並作出響應。
 
 ## 成為論壇訂戶
-如果您還沒有帳戶，或者不想立即使用帳戶，可以通過單擊紅色的“劃掉”的耳朵圖標或單擊“設置”，然後在“電子郵件”中輸入您的電子郵件地址來進行操作。領域。然後點擊“訂閱”。
 
-如果您有帳戶，則應先登錄（使用您的電子郵件和密碼）。單擊“更多”作為密碼框，輸入密碼，單擊“登錄”，然後在“設置”頁面中單擊“訂閱”，或者在郵件頁面中，單擊紅色的“劃掉的”耳朵圖標。
+如果您<b><i>沒有帳戶</i></b>，並且只想接收通過電子郵件發送的通知（而無需登錄），則可以通過點擊並將耳朵切換為綠色來進行訂閱在消息傳遞窗口中“聽耳朵”，它將詢問您的電子郵件地址。然後點擊“訂閱”。
 
-要取消訂閱已訂閱的論壇，請單擊“設置”，然後單擊“取消訂閱”（登錄後），或單擊消息頁面上綠色的“耳朵”圖標。
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+<i>未訂閱。點按即可訂閱。</i>
+
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+<i>已訂閱。點擊即可取消訂閱。</i>
+
+如果您<b><i>有一個帳戶</i></b>，則應先登錄。為此，請單擊“設置”，在“密碼”框中單擊“更多”，然後輸入您的電子郵件和密碼。然後點擊“登錄”。
+
+現在，在消息頁面中，點擊並將耳朵切換為綠色的“聽耳朵”以訂閱該論壇。
+
+要從訂閱的論壇中<b>取消訂閱</b>，請點擊並切換到消息頁面上的已讀“不聽耳朵”。
 
 ## 設置組
-輸入您自己的群組名稱，或現有的公共群組名稱，在AtomJump.com上顯示“Enter a group name”，例如 “sailinglondon”，然後單擊“AtomJump”。 共享您論壇的Web鏈接，例如 “https://sailinglondon.AtomJump.com”，並通過電子郵件，短信，即時消息或其他方式與您的小組聯繫。 您可以通過點擊底層頁面右上角的“共享”圖標，在atomjump.com上快速找到此鏈接。 然後，每個人都可以選擇成為論壇訂戶以獲取正在進行的通知。
+
+輸入您自己的組名或現有的公共組名，在AtomJump.com上顯示“輸入組名”，然後單擊<span class="notranslate">“AtomJump”</span>。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+
+例如輸入<span class="notranslate">“sailinglondon”</span>並點擊<span class="notranslate">“ AtomJump”</span>，您的瀏覽器將進入以下地址：
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+
+通過電子郵件，短信，即時消息或其他方式與論壇共享論壇的網絡鏈接。您可以通過點擊底層頁面右上角的“共享”圖標，在atomjump.com上快速找到此鏈接。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+
+然後，每個人都可以選擇成為論壇訂戶以獲取正在進行的通知。
+
+<b>高級提示：</b>您可以選擇將<span class="notranslate">“/go/”</span>添加到您的網絡鏈接的末尾，這將立即為您的訪客打開實時論壇（這樣，他們就不必點擊藍色的大“開始”按鈕）。
 
 ## 設置私人房間
-在AtomJump․com上，您可以輸入自己的唯一房間名稱，其中會顯示“Enter a group name”，例如 “fredfamily”，然後點擊底部條目“Create a PRIVATE room”。 在AtomJump․com上，這筆費用為每年NZ $ 15（約合每年10美元），您可以在<a href="https://atomjump.com/wp/introduction/">此頁面上註冊</a>。 在其他論壇上，您應該與系統管理員聯繫以添加私人論壇密碼。
 
-注意：您決定使用的論壇密碼與您的個人密碼不同，應該是您可以舒適地通過電子郵件發送給會議室中每個成員的密碼。
+在AtomJump․com上，您可以輸入自己的唯一房間名稱，其中會顯示<span class="notranslate">“Enter a group name”</span>，例如<span class="notranslate">“fredfamily”</span>，然後點擊底部條目<span class="notranslate">‘Create a PRIVATE room’</span>。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+
+在AtomJump․com上，這筆費用為每年15新西蘭元（約合10美元/年）。您也可以直接在<a href="https://staging.atomjump.com/wp/introduction/">此頁面</a>上註冊。在其他站點上，您應該與系統管理員聯繫以添加私人論壇密碼。
+
+注意：您決定擁有的論壇密碼與您的個人密碼不同，應該是您可以舒適地通過電子郵件發送給會議室中每個成員的密碼。
 
 ## 獲取短信通知
 請注意，在AtomJump.com上，此應用已被免費的應用取代，並提供了圖形消息彈出窗口。但是，這些說明可能仍然適用於服務器的其他安裝。
@@ -156,19 +185,38 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 您的提供商可能會收取一定的費用（例如每封郵件16c），因此請查看提供商的說明。
 
 ## 獲取應用通知
-在“設置”中輸入您的電子郵件和密碼。點擊“更多”。有些鏈接指向Android和iOS的“獲取彈出通知”。單擊並將該應用程序下載到您的Android或iPhone設備。如果是在專用服務器上，則還需要復制提到的服務器地址。
 
-再次點擊“設置”中的應用鏈接，然後點擊應用商店中的“打開應用”。在應用程序中，點擊“ Pair AtomJump.com”按鈕，或粘貼到您的私人服務器中，然後點擊“私人服務器配對”按鈕。如果一切正常，應用程序應顯示“ Listening for Messages”，瀏覽器應顯示您已將應用程序與電子郵件地址相關聯。這意味著將彈出任何私人消息。
+轉到論壇的網址。點擊“設置”，然後輸入您的電子郵件和密碼。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+
+有些鏈接指向Android和iOS的“獲取彈出通知”。單擊並將該應用程序下載到您的Android或iPhone設備。如果是在專用服務器上，則還需要復制提到的服務器地址。
+
+打開應用程序（例如，再次點擊“設置”中的應用程序鏈接，然後點擊應用程序商店中的“打開應用程序”）。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+
+在應用程序中，點擊<span class="notranslate">‘Pair with AtomJump.com’</span>按鈕，或者對於私有服務器，點擊<span class="notranslate">‘Pair with a Private Server’</span>按鈕，然後粘貼您的私人服務器地址。
+
+如果一切正常，則應用程序應顯示<span class="notranslate">‘Listening for Messages’</span>，瀏覽器應顯示您已將應用程序與電子郵件地址相關聯。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+
+這意味著此帳戶的任何個人消息都會在您的手機上發出ping聲音，並在屏幕頂部顯示一個小的AtomJump圖標。當您用手指在屏幕頂部滑動時，您會看到此消息。
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+
+點擊此標籤可查看郵件的完整版本，然後點擊<span class="notranslate">“打開論壇”</span>進入論壇本身，以便您進行回复。
 
 注意：一次只能登錄一台設備。
 
-要隨時停止消息通知，您可以註銷該應用程序。登出後，將通過電子郵件發出消息通知。重新登錄將再次啟動通知。
+要隨時<b>停止消息通知</b>，您可以退出該應用。登出後，將通過電子郵件發出消息通知。重新登錄將再次啟動通知。
 
 您可以訂閱任意數量的論壇。請參閱上方的<a href="#become-owner">“成為論壇訂戶”</a>。
 
 請參見<a href="https://youtu.be/HncohJFIA7E">此視頻</a>，以獲取有關此操作的示例。
 
-**故障排除**
+<b>故障排除</b>
 
 如果您沒有在iPhone上收到通知，則可能需要進入手機的“設置>通知> AtomJump消息傳遞”，然後將通知設置切換為“允許通知”。
 
