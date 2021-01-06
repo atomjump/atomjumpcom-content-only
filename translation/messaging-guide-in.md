@@ -132,19 +132,48 @@ Klik atau ketuk nama orang di samping salah satu pesan mereka. Lalu masukkan pes
 Perhatikan, balasan Twitter akan selalu publik, dan Anda tidak memerlukan akun Twitter. Sebuah pesan akan secara otomatis dikirim dari akun AtomJump kami yang mengatakan bahwa ada pesan yang menunggu mereka di forum tempat Anda saat ini. Terserah mereka apakah mereka akan membaca pesan Twitter mereka dan menanggapinya.
 
 ## Untuk Menjadi Pelanggan Forum
-Jika Anda belum memiliki akun, atau Anda tidak menginginkannya segera, Anda dapat melakukannya dengan mengklik ikon telinga 'dicoret' merah, atau mengklik 'Pengaturan', dan memasukkan alamat email Anda di 'Email' bidang. Lalu klik 'Berlangganan'.
 
-Jika Anda memang memiliki akun, Anda harus masuk terlebih dahulu (dengan email dan kata sandi Anda). Klik 'Lainnya' untuk kotak kata sandi, masukkan kata sandi Anda, klik 'Masuk', lalu di halaman 'Pengaturan' klik 'berlangganan', atau di halaman pesan, klik ikon telinga merah 'dicoret'.
+Jika Anda <b><i>tidak memiliki akun</i></b>, dan hanya ingin menerima notifikasi email (tanpa harus masuk), Anda dapat berlangganan dengan mengetuk dan mengalihkan telinga ke warna hijau 'mendengarkan telinga' di jendela pesan, yang akan menanyakan alamat email Anda. Lalu klik 'Berlangganan'.
 
-Untuk berhenti berlangganan dari forum langganan, klik 'Pengaturan' dan kemudian 'berhenti berlangganan' (setelah Anda masuk), atau klik ikon 'telinga' hijau di halaman pesan.
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+<i>Tidak berlangganan. Ketuk untuk berlangganan.</i>
+
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+<i>Berlangganan. Ketuk untuk berhenti berlangganan.</i>
+
+Jika Anda <b><i>memiliki akun</i></b>, Anda harus login terlebih dahulu. Untuk melakukan ini, klik 'Pengaturan', klik 'Lainnya' untuk kotak kata sandi, dan masukkan email dan kata sandi Anda. Kemudian klik 'Masuk'.
+
+Sekarang di halaman pesan, ketuk dan alihkan telinga ke 'telinga mendengarkan' hijau untuk berlangganan ke satu forum itu.
+
+Untuk <b>berhenti berlangganan</b> dari forum langganan, ketuk dan alihkan ke tulisan 'tidak mendengarkan' di halaman perpesanan.
 
 ## Untuk Menyiapkan Grup
-Masukkan nama grup Anda sendiri, atau nama grup publik yang sudah ada, dengan tulisan "Enter a group name" di AtomJump.com mis. "sailinglondon", dan klik "AtomJump". Bagikan tautan web forum Anda, mis. "https://sailinglondon.AtomJump.com", dengan grup Anda melalui email, SMS, pesan instan, atau cara lain. Anda dapat menemukan tautan ini dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya. Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
 
-## Untuk Mengatur Kamar Pribadi
-Di AtomJump․com, Anda dapat memasukkan nama ruangan unik Anda sendiri yang bertuliskan "Enter a group name", mis. "fredfamily" dan ketuk entri bawah 'Create a PRIVATE room'. Di AtomJump․com, biayanya NZ $ 15 / tahun (sekitar $ US 10 / tahun), dan Anda dapat mendaftar di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>. Di forum lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum pribadi.
+Masukkan nama grup Anda sendiri, atau nama grup publik yang sudah ada, yang bertuliskan "Masukkan nama grup" di AtomJump.com, dan klik <span class="notranslate">“AtomJump”</span>.
 
-Catatan: kata sandi forum yang Anda putuskan berbeda dari kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota ruang dengan nyaman.
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+
+misalnya Memasukkan <span class="notranslate">“sailinglondon”</span> dan mengetuk <span class="notranslate">“AtomJump”</span> akan membawa browser Anda ke alamat berikut:
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+
+Bagikan tautan web forum Anda, dengan grup Anda melalui email, SMS, pesan instan, atau cara lain. Anda dapat menemukan tautan ini dengan cepat di atomjump.com dengan mengetuk ikon 'bagikan' di pojok kanan atas halaman yang mendasarinya.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+
+Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk mendapatkan pemberitahuan berkelanjutan.
+
+<b>Kiat Lanjutan:</b> Anda dapat menambahkan <span class="notranslate">“/go/”</span> di akhir tautan web Anda, yang akan segera membuka forum langsung untuk tamu Anda (sehingga mereka tidak perlu mengetuk tombol 'pergi' biru besar).
+
+## Untuk Mengatur Ruang Pribadi
+
+Di AtomJump․com, Anda dapat memasukkan nama ruangan unik Anda sendiri yang bertuliskan <span class="notranslate">“Enter a group name”</span>, mis. <span class="notranslate">“fredfamily”</span>, dan ketuk entri bawah <span class="notranslate">‘Create a PRIVATE room’</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+
+Di AtomJump․com, biayanya NZ $ 15 / tahun (sekitar $ US 10 / tahun). Anda juga dapat mendaftar langsung di <a href="https://atomjump.com/wp/introduction/">halaman ini</a>. Di situs lain, Anda harus menghubungi administrator sistem Anda untuk menambahkan kata sandi forum pribadi.
+
+Catatan: kata sandi forum yang Anda putuskan berbeda dengan kata sandi pribadi Anda dan harus menjadi kata sandi yang dapat Anda kirim melalui email ke setiap anggota ruang dengan nyaman.
 
 ## Untuk Mendapatkan Pemberitahuan SMS
 Catatan, di AtomJump.com ini telah digantikan oleh aplikasi, yang gratis, dan menyediakan popup pesan grafis. Namun, petunjuk ini mungkin masih berlaku untuk penginstalan server lainnya.
@@ -156,21 +185,40 @@ Klik 'Pengaturan' di pojok kiri bawah. Klik 'Lainnya', dan masukkan nomor telepo
 Kemungkinan akan ada biaya dari penyedia Anda (mis. 16c per pesan), jadi harap periksa petunjuk dari penyedia Anda.
 
 ## Untuk Mendapatkan Notifikasi Aplikasi
-Masukkan email dan sandi Anda di 'Pengaturan'. Klik 'Lainnya'. Ada beberapa tautan ke 'Dapatkan pemberitahuan munculan' untuk Android dan iOS. Klik dan unduh aplikasi ke perangkat Android atau iPhone Anda. Jika ini ada di server pribadi, Anda juga perlu menyalin alamat server yang disebutkan.
 
-Ketuk tautan aplikasi dalam Pengaturan sekali lagi, dan ketuk 'buka aplikasi' di dalam toko aplikasi. Di dalam aplikasi, ketuk tombol 'Pasangkan AtomJump.com', atau tempel di server pribadi Anda dan ketuk tombol 'Penyandingan Server Pribadi'. Jika semuanya telah bekerja dengan benar, aplikasi akan mengatakan 'Mendengarkan Pesan', dan browser harus menunjukkan bahwa Anda telah menghubungkan aplikasi dengan alamat email Anda. Ini berarti pesan pribadi apa pun akan muncul.
+Buka alamat web forum. Klik 'Pengaturan' dan masukkan email dan kata sandi Anda.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+
+Ada beberapa tautan ke 'Dapatkan pemberitahuan munculan' untuk Android dan iOS. Klik dan unduh aplikasi ke perangkat Android atau iPhone Anda. Jika ini ada di server pribadi, Anda juga perlu menyalin alamat server yang disebutkan.
+
+Buka aplikasi (dengan, misalnya, mengetuk tautan aplikasi dalam Pengaturan sekali lagi, lalu mengetuk 'buka aplikasi' di dalam app-store).
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+
+Di dalam aplikasi, ketuk tombol <span class="notranslate">‘Pair with AtomJump.com’</span>, atau untuk server pribadi, ketuk <span class="notranslate">‘Pair with a Private Server’</span> dan tempelkan di alamat server pribadi Anda.
+
+Jika semuanya telah bekerja dengan benar, aplikasi akan mengatakan <span class="notranslate">‘Listening for Messages’</span>, dan browser akan menunjukkan bahwa Anda telah mengaitkan aplikasi dengan alamat email Anda.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+
+Artinya, setiap pesan pribadi untuk akun ini akan membuat suara ping di ponsel Anda, dan menampilkan ikon AtomJump kecil di bagian atas layar. Saat Anda menggeser bagian atas layar dengan jari Anda, Anda akan melihat pesan.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+
+Ketuk tab ini untuk versi lengkap dari pesan, lalu ketuk <span class="notranslate">‘Open Forum’</span> untuk masuk ke forum itu sendiri, yang memungkinkan Anda untuk merespons.
 
 Catatan: Anda hanya dapat masuk di satu perangkat dalam satu waktu.
 
-Untuk menghentikan pemberitahuan pesan kapan saja Anda dapat keluar dari aplikasi. Pemberitahuan pesan akan dibuat melalui email saat Anda keluar. Masuk kembali akan memulai pemberitahuan lagi.
+Untuk <b>menghentikan pemberitahuan pesan</b> kapan pun Anda dapat keluar dari aplikasi. Pemberitahuan pesan akan dibuat melalui email saat Anda keluar. Masuk kembali akan memulai pemberitahuan lagi.
 
 Anda dapat berlangganan ke sejumlah forum. Lihat <a href="#become-owner">‘Menjadi Pelanggan Forum’</a> di atas.
 
 Lihat <a href="https://youtu.be/HncohJFIA7E">video ini</a> untuk contoh aksinya.
 
-**Penyelesaian masalah**
+<b>Mengatasi Masalah</b>
 
-Jika Anda tidak mendapatkan notifikasi pada iPhone, Anda mungkin perlu masuk ke 'Settings> Notifications> AtomJump Messaging', dan mengalihkan pengaturan notifikasi ke 'Allow Notifications'.
+Jika Anda tidak mendapatkan notifikasi di iPhone, Anda mungkin perlu membuka 'Settings> Notifications> AtomJump Messaging', dan mengalihkan setelan notifikasi ke 'Allow Notifications'.
 
 ## Untuk Menyimpan Pintasan Forum
 Jika Anda sedang menggunakan ponsel, kami sarankan untuk mengunduh aplikasi AtomJump Messaging.
