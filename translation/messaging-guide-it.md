@@ -132,19 +132,48 @@ Fai clic o tocca il nome della persona accanto a uno dei suoi messaggi. Quindi i
 Nota, una risposta di Twitter sarà sempre pubblica e non è necessario un account Twitter. Un messaggio verrà automaticamente inviato dal nostro account AtomJump dicendo che c'è un messaggio in attesa di loro sul forum in cui ti trovi attualmente. Spetta a loro decidere se leggere i messaggi di Twitter e rispondere.
 
 ## Per diventare un abbonato al forum
-Se non hai ancora un account o non ne desideri uno immediatamente, puoi farlo facendo clic sull'icona a forma di orecchio rossa "barrata" o facendo clic su "Impostazioni" e inserendo il tuo indirizzo e-mail in "E-mail" campo. Quindi fare clic su "Iscriviti".
 
-Se hai un account, devi prima accedere (con la tua email e password). Fai clic su "Altro" per la casella della password, inserisci la tua password, fai clic su "Accedi", quindi nella pagina "Impostazioni" fai clic su "iscriviti" oppure, nella pagina dei messaggi, fai clic sull'icona a forma di orecchio rossa "barrata".
+Se <b><i>non disponi di un account</i></b>e desideri ricevere solo notifiche via email (senza dover accedere), puoi iscriverti toccando e spostando l'orecchio sul verde "orecchio in ascolto" nella finestra di messaggistica, che chiederà il tuo indirizzo email. Quindi fare clic su "Iscriviti".
 
-Per annullare l'iscrizione a un forum a cui si è iscritti, fare clic su "Impostazioni" e quindi su "Annulla iscrizione" (dopo aver effettuato l'accesso) oppure fare clic sull'icona verde "orecchio" nella pagina dei messaggi.
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+<i>Non iscritto. Tocca per iscriverti.</i>
+
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+<i>Iscritto. Tocca per annullare l'iscrizione.</i>
+
+Se <b><i>hai un account</i></b>, devi prima accedere. Per fare ciò, fai clic su "Impostazioni", fai clic su "Altro" per la casella della password e inserisci la tua email e password. Quindi fare clic su "Accedi".
+
+Ora nella pagina dei messaggi, tocca e sposta l'orecchio su "orecchio in ascolto" verde per iscriverti a quel forum.
+
+Per <b>annullare l'iscrizione</b>a un forum a cui sei iscritto, tocca e passa alla lettura "orecchio che non ascolta" nella pagina dei messaggi.
 
 ## Per impostare un gruppo
-Inserisci il nome del tuo gruppo o un nome di gruppo pubblico esistente, dove su AtomJump.com viene visualizzato "Enter a group name", ad es. "sailinglondon" e fai clic su "AtomJump". Condividi il link web del tuo forum, ad es. "https://sailinglondon.AtomJump.com", con il tuo gruppo tramite e-mail, SMS, messaggio istantaneo o altri mezzi. Puoi trovare rapidamente questo collegamento su atomjump.com toccando l'icona "condividi" nell'angolo in alto a destra della pagina sottostante. Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notifiche continue.
+
+Inserisci il nome del tuo gruppo o un nome di gruppo pubblico esistente, dove dice "Inserisci un nome di gruppo" su AtomJump.com e fai clic su <span class="notranslate"> “AtomJump”</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+
+per esempio. Inserendo <span class="notranslate">“sailinglondon”</span> e toccando <span class="notranslate">“AtomJump”</span>, il browser verrà indirizzato al seguente indirizzo:
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+
+Condividi il link web del tuo forum con il tuo gruppo tramite email, SMS, messaggio istantaneo o altri mezzi. Puoi trovare rapidamente questo link su atomjump.com toccando l'icona "condividi" nell'angolo in alto a destra della pagina sottostante.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+
+Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notifiche continue.
+
+<b>Suggerimento avanzato:</b>puoi facoltativamente aggiungere <span class="notranslate"> “/go/”</span> alla fine del tuo link web, che aprirà immediatamente il forum live per i tuoi ospiti (in modo che non debbano toccare il grande pulsante blu "vai").
 
 ## Per impostare una stanza privata
-Su AtomJump․com, puoi inserire il nome della tua stanza univoco dove dice "Enter a group name", ad es. "fredfamily" e tocca la voce in basso 'Create a PRIVATE room'. Su AtomJump․com, questo costa NZ $ 15 / anno (circa $ US 10 / anno) e puoi registrarti su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>. Su altri forum, dovresti contattare il tuo amministratore di sistema per aggiungere una password del forum privato.
 
-Nota: la password del forum che decidi di avere è diversa dalla tua password personale e dovrebbe essere quella che puoi inviare via email a ogni membro della stanza comodamente.
+Su AtomJump․com, puoi inserire il nome della tua stanza univoco dove dice <span class="notranslate">“Enter a group name”</span>, ad es. <span class="notranslate">“fredfamily”</span> e tocca la voce in basso <span class="notranslate">‘Create a PRIVATE room’</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+
+Su AtomJump․com, questo costa NZ $ 15 / anno (circa $ US 10 / anno). Puoi anche registrarti direttamente su <a href="https://atomjump.com/wp/introduction/">questa pagina</a>. Su altri siti, dovresti contattare l'amministratore di sistema per aggiungere una password del forum privato.
+
+Nota: la password del forum che decidi di avere è diversa dalla tua password personale e dovrebbe essere quella che puoi inviare via e-mail a ogni membro della stanza comodamente.
 
 ## Per ricevere notifiche SMS
 Nota, su AtomJump.com questo è stato sostituito dall'app, che è gratuita e fornisce popup grafici dei messaggi. Tuttavia, queste istruzioni possono essere ancora valide per altre installazioni del server.
@@ -156,21 +185,40 @@ Fare clic su "Impostazioni" nell'angolo inferiore sinistro. Fai clic su "Altro" 
 Probabilmente ci sarà un costo dal tuo provider (ad esempio 16 centesimi per messaggio), quindi controlla le istruzioni del tuo provider.
 
 ## Per ricevere le notifiche dell'app
-Inserisci la tua email e password in "Impostazioni". Fare clic su "Altro". Ci sono alcuni link a "Ricevi notifiche popup" per Android e iOS. Fai clic e scarica l'app sul tuo dispositivo Android o iPhone. Se si trova su un server privato, sarà necessario copiare anche l'indirizzo del server menzionato.
 
-Tocca ancora una volta il collegamento dell'app in Impostazioni e tocca "apri l'app" nell'app store. All'interno dell'app, tocca il pulsante "Associa AtomJump.com" o incolla il tuo server privato e tocca il pulsante "Accoppiamento server privato". Se tutto ha funzionato correttamente, l'app dovrebbe dire "Ascolto di messaggi" e il browser dovrebbe mostrare che hai associato la tua app al tuo indirizzo email. Ciò significa che verranno visualizzati tutti i messaggi privati.
+Vai all'indirizzo web del forum. Fai clic su "Impostazioni" e inserisci la tua email e la password.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+
+Ci sono alcuni link a "Ricevi notifiche popup" per Android e iOS. Fai clic e scarica l'app sul tuo dispositivo Android o iPhone. Se si trova su un server privato, sarà necessario copiare anche l'indirizzo del server menzionato.
+
+Apri l'app (ad esempio, toccando ancora una volta il collegamento dell'app in Impostazioni, quindi toccando "apri l'app" nell'app store).
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+
+All'interno dell'app, tocca il pulsante <span class="notranslate">‘Pair with AtomJump.com’</span> oppure, per un server privato, tocca <span class="notranslate">‘Pair with a Private Server’</span> e incolla il tuo indirizzo del server privato.
+
+Se tutto ha funzionato correttamente, l'app dovrebbe indicare <span class="notranslate">‘Listening for Messages’</span> e il browser dovrebbe mostrare che hai associato la tua app al tuo indirizzo email.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+
+Ciò significa che qualsiasi messaggio personale per questo account emetterà un suono ping sul tuo telefono e visualizzerà una piccola icona AtomJump nella parte superiore dello schermo. Quando scorri verso il basso nella parte superiore dello schermo con il dito, vedrai il messaggio.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+
+Tocca questa scheda per una versione completa del messaggio, quindi tocca <span class="notranslate">‘Open Forum’</span> per accedere al forum stesso, che ti consente di rispondere.
 
 Nota: puoi accedere solo su un dispositivo alla volta.
 
-Per interrompere le notifiche dei messaggi in qualsiasi momento puoi disconnetterti dall'app. Le notifiche dei messaggi verranno inviate tramite e-mail mentre sei disconnesso. Effettuando nuovamente l'accesso, le notifiche verranno nuovamente avviate.
+Per <b>interrompere le notifiche dei messaggi</b>in qualsiasi momento puoi disconnetterti dall'app. Le notifiche dei messaggi verranno inviate tramite e-mail mentre sei disconnesso. Effettuando nuovamente l'accesso, le notifiche verranno nuovamente avviate.
 
 Puoi iscriverti a qualsiasi numero di forum. Vedi <a href="#become-owner">"Per diventare un abbonato al forum"</a> sopra.
 
 Guarda <a href="https://youtu.be/HncohJFIA7E">questo video</a> per un esempio di questo in azione.
 
-**Risoluzione dei problemi**
+<b>Risoluzione dei problemi </b>
 
-Se non ricevi notifiche su un iPhone, potresti dover andare nelle "Impostazioni> Notifiche> AtomJump Messaging" del tuo telefono e cambiare le impostazioni di notifica su "Consenti notifiche".
+Se non ricevi notifiche su un iPhone, potresti dover andare in "Impostazioni> Notifiche> AtomJump Messaging" del tuo telefono e cambiare le impostazioni di notifica su "Consenti notifiche".
 
 ## Per salvare un collegamento al forum
 Se sei sul tuo telefono, ti consigliamo di scaricare l'app AtomJump Messaging.
