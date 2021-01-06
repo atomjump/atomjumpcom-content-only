@@ -132,17 +132,46 @@ iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 트위터 답장은 항상 공개되며 트위터 계정이 필요하지 않습니다. AtomJump 계정에서 현재 진행중인 포럼에 대기중인 메시지가 있다는 메시지가 자동으로 전송됩니다. 트위터 메시지를 읽고 응답할지 여부는 그들에게 달려 있습니다.
 
 ## 포럼 구독자가 되려면
-아직 계정이 없거나 즉시 계정을 원하지 않는 경우 빨간색 '줄이 그어진'귀 아이콘을 클릭하거나 '설정'을 클릭 한 다음 '이메일'에 이메일 주소를 입력하면됩니다. 들. 그런 다음 '구독'을 클릭하십시오.
 
-계정이있는 경우 먼저 이메일과 비밀번호로 로그인해야합니다. 비밀번호 상자의 '더보기'를 클릭하고 비밀번호를 입력하고 '로그인'을 클릭 한 다음 '설정'페이지에서 '구독'을 클릭하거나 메시지 페이지에서 빨간색 '줄이 그어진'귀 아이콘을 클릭합니다.
+<b><i>계정이없고</i></b> 이메일 알림 만 받고 싶은 경우 (로그인 할 필요 없음) 귀를 탭하고 녹색으로 전환하여 구독 할 수 있습니다. 이메일 주소를 묻는 메시지 창에서 '듣기 귀'. 그런 다음 '구독'을 클릭하십시오.
 
-구독 한 포럼에서 구독을 취소하려면 '설정'을 클릭 한 다음 '구독 취소'(로그인 한 후)를 클릭하거나 메시지 페이지에서 녹색 '귀'아이콘을 클릭하십시오.
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+<i>구독하지 않았습니다. 구독하려면 탭하세요.</i>
+
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+<i>구독했습니다. 구독을 취소하려면 탭하세요.</i>
+
+<b><i>계정이있는 경우</i></b> 먼저 로그인해야합니다. 이렇게하려면 '설정'을 클릭하고 비밀번호 상자에 '더보기'를 클릭 한 다음 이메일과 비밀번호를 입력합니다. 그런 다음 '로그인'을 클릭합니다.
+
+이제 메시지 페이지에서 탭하고 귀를 녹색 '듣는 귀'로 전환하여 해당 포럼에 가입하세요.
+
+구독 한 포럼에서 <b>수신 거부</b>하려면 메시지 페이지에서 '듣지 않는 귀'를 탭하고 읽기로 전환하세요.
 
 ## 그룹을 설정하려면
-자신의 그룹 이름을 입력하거나 AtomJump.com에서 "Enter a group name"이라고 표시된 기존 공개 그룹 이름 (예 : "sailinglondon"을 클릭하고 "AtomJump"를 클릭합니다. 포럼의 웹 링크를 공유하십시오. "https://sailinglondon.AtomJump.com", 이메일, SMS, 인스턴트 메시지 또는 기타 수단을 통해 그룹과 함께. 기본 페이지의 오른쪽 상단 모서리에있는 '공유'아이콘을 탭하면 atomjump.com에서이 링크를 빠르게 찾을 수 있습니다. 그런 다음 각 개인은 포럼 구독자가되어 지속적인 알림을받을 수 있습니다.
+
+자신의 그룹 이름 또는 AtomJump.com에서 "그룹 이름 입력"이라고 표시된 기존 공개 그룹 이름을 입력하고 <span class="notranslate">“AtomJump”</span>를 클릭합니다.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+
+예 : <span class="notranslate">“sailinglondon”</span>을 입력하고 <span class="notranslate"> “AtomJump”</span>를 탭하면 브라우저가 다음 주소로 이동합니다.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+
+이메일, SMS, 인스턴트 메시지 또는 기타 수단을 통해 포럼의 웹 링크를 그룹과 공유합니다. 기본 페이지의 오른쪽 상단에있는 '공유'아이콘을 탭하면 atomjump.com에서이 링크를 빠르게 찾을 수 있습니다.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+
+각 개인은 포럼 구독자가되어 지속적인 알림을받을 수 있습니다.
+
+<b>고급 팁 :</b> 선택적으로 웹 링크 끝에 <span class="notranslate">“/go/”</span>를 추가하면 게스트를위한 라이브 포럼이 즉시 열립니다. (그러면 큰 파란색 '이동'버튼을 누를 필요가 없습니다).
 
 ## 개인 실을 설정하려면
-AtomJump․com에서 "Enter a group name"이라고 표시된 고유 한 방 이름을 입력 할 수 있습니다. "fredfamily"를 클릭하고 하단 항목 'Create a PRIVATE room'를 탭합니다. AtomJump․com에서는 연간 NZ $ 15 (약 $ US 10 / 년)이며 <a href="https://atomjump.com/wp/introduction/">이 페이지 </에서 가입 할 수 있습니다.</a>. 다른 포럼에서는 시스템 관리자에게 문의하여 비공개 포럼 암호를 추가해야합니다.
+
+AtomJump․com에서 <span class="notranslate">“Enter a group name”</span>이라고 표시된 고유 한 방 이름을 입력 할 수 있습니다. <span class="notranslate">“fredfamily”</span>를 탭하고 하단 항목 <span class="notranslate">‘Create a PRIVATE room’</span>를 탭합니다.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+
+AtomJump․com에서이 비용은 연간 NZ $ 15 (약 $ US 10 / 년)입니다. <a href="https://atomjump.com/wp/introduction/">이 페이지 </a>에서 직접 가입 할 수도 있습니다. 다른 사이트에서는 시스템 관리자에게 문의하여 비공개 포럼 암호를 추가해야합니다.
 
 참고 : 사용하기로 결정한 포럼 비밀번호는 개인 비밀번호와 다르며 회의실의 모든 구성원에게 편안하게 이메일을 보낼 수있는 비밀번호 여야합니다.
 
@@ -156,21 +185,40 @@ AtomJump.com에서이 앱은 무료이며 그래픽 메시지 팝업을 제공�
 공급자의 비용 (예 : 메시지 당 16c)이있을 수 있으므로 공급자의 지침을 확인하십시오.
 
 ## 앱 알림 받기
-'설정'에서 이메일과 비밀번호를 입력합니다. '더보기'를 클릭합니다. Android 및 iOS 용 '팝업 알림 받기'링크가 있습니다. 앱을 클릭하여 Android 또는 iPhone 장치에 다운로드하십시오. 개인 서버에있는 경우 언급 된 서버 주소도 복사해야합니다.
 
-설정에서 앱 링크를 한 번 더 탭하고 앱 스토어에서 '앱 열기'를 탭합니다. 앱 내에서 'Pair AtomJump.com'버튼을 누르거나 개인 서버에 붙여넣고 'Private Server Pairing'버튼을 탭합니다. 모든 것이 제대로 작동하면 앱에 '메시지 수신 중'이라고 표시되고 브라우저에 앱과 이메일 주소가 연결되었음을 표시해야합니다. 이것은 모든 개인 메시지가 팝업된다는 것을 의미합니다.
+포럼의 웹 주소로 이동하십시오. '설정'을 클릭하고 이메일과 비밀번호를 입력하십시오.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+
+Android 및 iOS 용 '팝업 알림 받기'링크가 있습니다. 앱을 클릭하여 Android 또는 iPhone 장치에 다운로드하십시오. 개인 서버에있는 경우 언급 된 서버 주소도 복사해야합니다.
+
+앱을 엽니 다 (예 : 설정에서 앱 링크를 한 번 더 탭한 다음 앱 스토어에서 '앱 열기'를 탭).
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+
+앱 내에서 <span class="notranslate">‘Pair with AtomJump.com’</span> 버튼을 탭하거나 개인 서버의 경우 <span class="notranslate">‘Pair with a Private Server’</span>를 탭합니다. 버튼을 누르고 개인 서버 주소에 붙여 넣으십시오.
+
+모든 것이 올바르게 작동하면 앱에 <span class="notranslate">‘Listening for Messages’</span>이 표시되고 브라우저에 앱을 이메일 주소와 연결했음을 표시해야합니다.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+
+즉,이 계정에 대한 모든 개인 메시지는 전화기에서 핑 소리를 내고 화면 상단에 작은 AtomJump 아이콘을 표시합니다. 손가락으로 화면 상단을 아래로 내리면 메시지가 표시됩니다.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+
+메시지의 전체 버전을 보려면이 탭을 탭한 다음 <span class="notranslate">‘Open Forum’</span>를 탭하여 포럼 자체에 들어가면 응답 할 수 있습니다.
 
 참고 : 한 번에 하나의 장치에만 로그인 할 수 있습니다.
 
-언제든지 메시지 알림을 중지하려면 앱에서 로그 아웃 할 수 있습니다. 로그 아웃하는 동안 메시지 알림이 이메일로 전송됩니다. 다시 로그인하면 알림이 다시 시작됩니다.
+<b>메시지 알림을 중지</b>하려면 언제든지 앱에서 로그 아웃 할 수 있습니다. 로그 아웃하는 동안 메시지 알림이 이메일로 전송됩니다. 다시 로그인하면 알림이 다시 시작됩니다.
 
 여러 포럼에 가입 할 수 있습니다. 위의 <a href="#become-owner">‘포럼 구독자가 되려면’</a>을 참조하세요.
 
-실제 작동의 예는 <a href="https://youtu.be/HncohJFIA7E">이 동영상</a>을 참조하세요.
+실제 작동의 예는 <a href="https://youtu.be/HncohJFIA7E">이 동영상 </a>을 참조하세요.
 
-**문제 해결**
+<b>문제 해결</b>
 
-iPhone에서 알림을받지 못하는 경우 휴대 전화의 '설정> 알림> AtomJump 메시지'로 이동하여 알림 설정을 '알림 허용'으로 전환해야 할 수 있습니다.
+iPhone에서 알림을받지 못한 경우 휴대 전화의 '설정> 알림> AtomJump 메시지'로 이동하여 알림 설정을 '알림 허용'으로 전환해야 할 수 있습니다.
 
 ## 포럼 바로 가기를 저장하려면
 휴대 전화를 사용 중이라면 AtomJump Messaging 앱을 다운로드하는 것이 좋습니다.
