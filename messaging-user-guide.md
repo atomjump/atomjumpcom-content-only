@@ -130,17 +130,46 @@ Click or tap on the person’s name next to one of their messages. Then enter a 
 Note, a Twitter reply will always be public, and you do not need a Twitter account. A message will automatically be sent from our AtomJump account saying that there is a message waiting for them on the forum you are currently on. It is up to them as to whether they will read their Twitter messages and respond.
 
 ## To Become a Forum Subscriber
-If you don’t yet have an account, or you don’t want one immediately, you can do this by clicking the red ‘crossed out’ ear icon, or clicking ‘Settings’, and entering your email address in the ‘Email’ field. Then click ‘Subscribe’.
 
-If you do have an account, you should log in first (with your email and password). Click ‘More’ for the password box, enter your password, click ‘Login’, and then in the ‘Settings’ page click ‘subscribe’, or on the messaging page, click the red ‘crossed out’ ear icon.
+If you <b><i>don’t have an account</i></b>, and only want to receive emailed notifications (without having to sign in), you can subscribe by tapping and switching the ear to the green ‘listening ear’ in the messaging window, which will ask for your email address. Then click ‘Subscribe’.
 
-To unsubscribe from a subscribed forum, click ‘Settings’ and then ‘unsubscribe’ (after you are logged in), or click the green ‘ear’ icon on the messaging page.
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+<i>Not subscribed. Tap to subscribe.</i>
+
+* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+<i>Subscribed. Tap to unsubscribe.</i>
+
+If you <b><i>do have an account</i></b>, you should log in first. To do this, click into ‘Settings’, click ‘More’ for the password box, and enter your email and password. Then click ‘Login’.
+
+Now in the messaging page, tap and switch the ear to the green ‘listening ear’ to subscribe to that one forum.
+
+To <b>unsubscribe</b> from a subscribed forum, tap and switch to the read ‘non-listening ear’ on the messaging page.
 
 ## To Set up a Group
-Enter your own group name, or an existing public group name, where it says "Enter a group name" on atomjump.com e.g. "sailinglondon", and click "AtomJump". Share the web link of your forum e.g. "https://sailinglondon.atomjump.com", with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the 'share' icon in the top right hand corner of the underlying page. Each individual can then choose to become a forum subscriber to get ongoing notifications.
+
+Enter your own group name, or an existing public group name, where it says “Enter a group name” on AtomJump.com, and click <span class="notranslate">“AtomJump”</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+
+e.g. Entering <span class="notranslate">“sailinglondon”</span> and tapping <span class="notranslate">“AtomJump”</span> will take your browser to the following address:
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+
+Share your forum’s web link, with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the ‘share’ icon in the top right hand corner of the underlying page.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+
+Each individual can then choose to become a forum subscriber to get ongoing notifications.
+
+<b>Advanced Tip:</b> you can optionally add <span class="notranslate">“/go/”</span> to the end of your web link, which will open up the live forum for your guests immediately (so that they don’t have to tap the large blue ‘go’ button).
 
 ## To Set up a Private Room
-On AtomJump․com, you can enter your own unique room name where it says "Enter a group name", e.g. "fredfamily" and tap the bottom entry 'Create a private room'.  On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year), and you can sign up on this page https://atomjump.com/wp/introduction/. On other forums, you should contact your system administrator to add a private forum password.
+
+On AtomJump․com, you can enter your own unique room name where it says <span class="notranslate">“Enter a group name”</span>, e.g. <span class="notranslate">“fredfamily”</span>, and tap the bottom entry <span class="notranslate">‘Create a PRIVATE room’</span>.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+
+On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year). You can also sign up directly on <a href="https://staging.atomjump.com/wp/introduction/">this page</a>. On other sites, you should contact your system administrator to add a private forum password.
 
 Note: the forum password you decide to have is different from your personal password and should be one that you can email to every member of the room comfortably.
 
@@ -154,19 +183,39 @@ Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your
 There will likely be a cost from your provider (e.g. 16c per message), so please check the instructions from your provider.
 
 ## To Get App Notifications
-Enter your email and password in ‘Settings’. Click ‘More’. There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
+Go to the web address of the forum. Click ‘Settings’ and enter your email and password.
 
-Tap the app link within Settings once more, and tap ‘open the app’ within the app-store. Within the app, tap the ‘Pair AtomJump.com’ button, or paste in your private server and tap the ‘Private Server Pairing’ button. If everything has worked correctly, the app should say ‘Listening for Messages’, and the browser should show that you have associated your app with your email address. This means any private messages will pop up.
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+
+There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
+
+Open the app (by, for example, tapping the app link within Settings once more, and then tapping ‘open the app’ within the app-store).
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+
+Within the app, tap the <span class="notranslate">‘Pair with AtomJump.com’</span> button, or for a private server, tap the <span class="notranslate">‘Pair with a Private Server’</span> button and paste in your private server address.
+
+If everything has worked correctly, the app should say <span class="notranslate">‘Listening for Messages’</span>, and the browser should show that you have associated your app with your email address.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+
+This means any personal messages for this account will make a ping sound on your phone, and display a small AtomJump icon at the top of the screen. When you slide down the top of the screen with your finger, you will see the message.
+
+<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+
+Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 
 Note: you can only be logged in on one device at a time.
 
-To stop message notifications at any time you can log out of the app. Message notifications will be made by email while you are logged out. Logging back in will start notifications again.
+To <b>stop message notifications</b> at any time you can log out of the app. Message notifications will be made by email while you are logged out. Logging back in will start notifications again.
 
-You can subscribe to any number of forums. See ‘To Become a Forum Subscriber’ above.
+You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.
 
-**Troubleshooting**
+See <a href="https://youtu.be/HncohJFIA7E">this video</a> for an example of this in action.
 
-If you aren't getting notifications on an iPhone, you may need to go into your phone's 'Settings > Notifications > AtomJump Messaging', and switch notification settings to 'Allow Notifications'.
+<b>Troubleshooting</b>
+
+If you aren’t getting notifications on an iPhone, you may need to go into your phone’s ‘Settings > Notifications > AtomJump Messaging’, and switch notification settings to ‘Allow Notifications’.
 
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend downloading the AtomJump Messaging app.
