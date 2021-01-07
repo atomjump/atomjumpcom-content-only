@@ -135,10 +135,10 @@ Twitterの返信は常に公開され、Twitterアカウントは必要ありま
 
 <b><i>アカウントをお持ちでない</i></b>、メールでの通知のみを受け取りたい場合（サインインせずに）、耳をタップして緑色に切り替えることで登録できますメールアドレスを尋ねるメッセージングウィンドウの「耳を聞く」。次に、[購読]をクリックします。
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>購読していません。タップして登録します。</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>購読済み。タップして登録を解除します。</i>
 
 <b><i>アカウントを持っている</i></b>場合は、最初にログインする必要があります。これを行うには、[設定]をクリックし、パスワードボックスの[その他]をクリックして、メールアドレスとパスワードを入力します。次に、[ログイン]をクリックします。
@@ -151,15 +151,15 @@ Twitterの返信は常に公開され、Twitterアカウントは必要ありま
 
 AtomJump.comで「グループ名を入力してください」と表示されている独自のグループ名または既存のパブリックグループ名を入力し、<span class="notranslate">「AtomJump」</span>をクリックします。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 例えば<span class="notranslate">「sailinglondon」</span>と入力して<span class="notranslate">「AtomJump」</span>をタップすると、ブラウザは次のアドレスに移動します。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 メール、SMS、インスタントメッセージ、またはその他の方法で、フォーラムのWebリンクをグループと共有します。下にあるページの右上隅にある「共有」アイコンをタップすると、atomjump.comでこのリンクをすばやく見つけることができます。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 その後、各個人は、継続的な通知を受け取るためにフォーラムのサブスクライバーになることを選択できます。
 
@@ -169,7 +169,7 @@ AtomJump.comで「グループ名を入力してください」と表示され�
 
 AtomJump․comでは、<span class="notranslate">「Enter a group name」</span>と表示されている独自の部屋名を入力できます。例： <span class="notranslate">「fredfamily」</span>をクリックし、下部のエントリ<span class="notranslate">「Create a PRIVATE room」</span>をタップします。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
 AtomJump․comでは、これはNZ $ 15 /年（約$ US 10 /年）かかります。 <a href="https://atomjump.com/wp/introduction/">このページ</a>から直接サインアップすることもできます。他のサイトでは、システム管理者に連絡してプライベートフォーラムのパスワードを追加する必要があります。
 
@@ -188,23 +188,23 @@ AtomJump.comでは、これは無料のアプリに取って代わられ、グ�
 
 フォーラムのWebアドレスにアクセスします。 [設定]をクリックして、メールアドレスとパスワードを入力します。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 AndroidおよびiOSの「ポップアップ通知を取得する」へのリンクがいくつかあります。アプリをクリックして、AndroidまたはiPhoneデバイスにダウンロードします。これがプライベートサーバー上にある場合は、記載されているサーバーアドレスもコピーする必要があります。
 
 アプリを開きます（たとえば、[設定]内のアプリのリンクをもう一度タップしてから、アプリストア内の[アプリを開く]をタップします）。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 アプリ内で、<span class="notranslate">「Pair with AtomJump.com」</span>ボタンをタップするか、プライベートサーバーの場合は<span class="notranslate">「Pair with a Private Server」</span>をタップしますボタンを押して、プライベートサーバーアドレスを貼り付けます。
 
 すべてが正常に機能している場合、アプリは<span class="notranslate">「Listening for Messages」</span>と表示し、ブラウザはアプリがメールアドレスに関連付けられていることを示します。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 これは、このアカウントの個人的なメッセージが電話でping音を鳴らし、画面の上部に小さなAtomJumpアイコンを表示することを意味します。指で画面の上部を下にスライドすると、メッセージが表示されます。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 メッセージの完全版を表示するにはこのタブをタップしてから、<span class="notranslate">「Open Forum」</span>をタップしてフォーラム自体に入り、返信できるようにします。
 

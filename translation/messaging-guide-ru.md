@@ -135,10 +135,10 @@ __``Войти``__ Создает
 
 Если у вас <b><i>нет учетной записи</i></b> и вы хотите получать уведомления по электронной почте (без входа в систему), вы можете подписаться, нажав и переключив ухо на зеленый "слушающее ухо" в окне обмена сообщениями, которое запросит ваш адрес электронной почты. Затем нажмите «Подписаться».
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>Не подписан. Нажмите, чтобы подписаться.</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>Подписка оформлена. Нажмите, чтобы отказаться от подписки.</i>
 
 Если у вас <b><i>есть учетная запись</i></b>, вы должны сначала войти в систему. Для этого нажмите «Настройки», нажмите «Еще» рядом с полем пароля и введите свой адрес электронной почты и пароль. Затем нажмите «Войти».
@@ -151,15 +151,15 @@ __``Войти``__ Создает
 
 Введите собственное имя группы или имя существующей общедоступной группы с надписью «Введите имя группы» на сайте AtomJump.com и нажмите <span class="notranslate">«AtomJump»</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 например Если вы введете <span class="notranslate">«sailinglondon»</span> и нажмете <span class="notranslate">«AtomJump»</span>, ваш браузер перейдет на следующий адрес:
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 Поделитесь ссылкой на форум со своей группой по электронной почте, SMS, мгновенным сообщениям или другим способом. Эту ссылку можно быстро найти на сайте atomjump.com, нажав значок «Поделиться» в правом верхнем углу соответствующей страницы.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 После этого каждый может стать подписчиком форума и получать постоянные уведомления.
 
@@ -169,7 +169,7 @@ __``Войти``__ Создает
 
 На AtomJump․com вы можете ввести свое собственное уникальное имя комнаты, где сказано <span class="notranslate">«Enter a group name»</span>, например <span class="notranslate"> «fredfamily» </span> и нажмите на нижнюю запись <span class="notranslate">«Create a PRIVATE room»</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
 На AtomJump․com это стоит 15 новозеландских долларов в год (примерно 10 долларов США в год). Вы также можете зарегистрироваться прямо на <a href="https://atomjump.com/wp/introduction/">этой странице</a>. На других сайтах вам следует обратиться к системному администратору, чтобы добавить пароль приватного форума.
 
@@ -188,23 +188,23 @@ __``Войти``__ Создает
 
 Перейдите на веб-адрес форума. Нажмите «Настройки» и введите свой адрес электронной почты и пароль.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 Есть несколько ссылок на «Получить всплывающие уведомления» для Android и iOS. Щелкните и загрузите приложение на свое устройство Android или iPhone. Если это на частном сервере, вам также необходимо скопировать указанный адрес сервера.
 
 Откройте приложение (например, еще раз нажав ссылку на приложение в разделе «Настройки», а затем нажав «открыть приложение» в магазине приложений).
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 В приложении нажмите кнопку <span class="notranslate">«Pair with AtomJump.com»</span>, либо для частного сервера нажмите <span class="notranslate">«Pair with a Private Server»</span> и вставьте адрес своего частного сервера.
 
 Если все работает правильно, приложение должно сказать <span class="notranslate">«Listening for Messages»</span>, а браузер должен показать, что вы связали свое приложение со своим адресом электронной почты.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 Это означает, что любые личные сообщения для этой учетной записи будут издавать звуковой сигнал на вашем телефоне и отображать небольшой значок AtomJump в верхней части экрана. Когда вы проведете пальцем вниз по верхней части экрана, вы увидите сообщение.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 Коснитесь этой вкладки, чтобы просмотреть полную версию сообщения, а затем нажмите <span class="notranslate">«Open Forum»</span>, чтобы войти в сам форум, где вы сможете ответить.
 

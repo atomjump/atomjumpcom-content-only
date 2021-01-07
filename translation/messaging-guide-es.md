@@ -137,10 +137,10 @@ Tenga en cuenta que una respuesta de Twitter siempre será pública y no necesit
 
 Si <b><i>no tiene una cuenta</i></b> y solo desea recibir notificaciones por correo electrónico (sin tener que iniciar sesión), puede suscribirse tocando y cambiando la oreja a verde 'escuchando oído' en la ventana de mensajería, que le pedirá su dirección de correo electrónico. Luego, haga clic en "Suscribirse".
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>No suscrito. Toca para suscribirte.</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>Suscrito. Toca para cancelar la suscripción.</i>
 
 Si <b><i>sí tiene una cuenta</i></b>, primero debe iniciar sesión. Para hacer esto, haga clic en "Configuración", haga clic en "Más" para el cuadro de contraseña e ingrese su correo electrónico y contraseña. Luego haga clic en "Iniciar sesión".
@@ -153,15 +153,15 @@ Para <b>darse de baja</b> de un foro suscrito, toque y cambie al "oído que no e
 
 Ingrese su propio nombre de grupo, o un nombre de grupo público existente, donde dice "Ingrese un nombre de grupo" en AtomJump.com, y haga clic en <span class="notranslate">“AtomJump”</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 p.ej. Si ingresa <span class="notranslate">“sailinglondon”</span> y toca <span class="notranslate">“AtomJump”</span>, su navegador irá a la siguiente dirección:
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 Comparta el enlace web de su foro con su grupo por correo electrónico, SMS, mensajería instantánea o cualquier otro medio. Puede encontrar este enlace rápidamente en atomjump.com tocando el icono "compartir" en la esquina superior derecha de la página subyacente.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 Cada individuo puede elegir convertirse en un suscriptor del foro para recibir notificaciones continuas.
 
@@ -171,7 +171,7 @@ Cada individuo puede elegir convertirse en un suscriptor del foro para recibir n
 
 En AtomJump․com, puede ingresar su propio nombre de habitación único donde dice <span class="notranslate">“Enter a group name”</span>, p. Ej. <span class="notranslate">“fredfamily”</span> y toca la entrada inferior <span class="notranslate">‘Create a PRIVATE room’</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
 En AtomJump․com, esto cuesta NZ $ 15 / año (aproximadamente $ US 10 / año). También puede registrarse directamente en <a href="https://atomjump.com/wp/introduction/">esta página</a>. En otros sitios, debe comunicarse con el administrador del sistema para agregar una contraseña de foro privado.
 
@@ -190,23 +190,23 @@ Es probable que su proveedor deba pagar un costo (p. Ej., 16 centavos por mensaj
 
 Vaya a la dirección web del foro. Haga clic en "Configuración" e ingrese su correo electrónico y contraseña.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 Hay algunos enlaces a "Recibir notificaciones emergentes" para Android e iOS. Haga clic y descargue la aplicación a su dispositivo Android o iPhone. Si se encuentra en un servidor privado, también deberá copiar la dirección del servidor mencionada.
 
 Abra la aplicación (por ejemplo, tocando el enlace de la aplicación dentro de Configuración una vez más y luego tocando "abrir la aplicación" dentro de la tienda de aplicaciones).
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 Dentro de la aplicación, toca el botón <span class="notranslate">‘Pair with AtomJump.com’</span>, o para un servidor privado, toca el <span class="notranslate">‘Pair with a Private Server’</span> y pegue la dirección de su servidor privado.
 
 Si todo ha funcionado correctamente, la aplicación debería decir <span class="notranslate">‘Listening for Messages’</span>, y el navegador debería mostrar que ha asociado su aplicación con su dirección de correo electrónico.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 Esto significa que cualquier mensaje personal para esta cuenta emitirá un sonido de ping en su teléfono y mostrará un pequeño icono de AtomJump en la parte superior de la pantalla. Cuando deslice hacia abajo la parte superior de la pantalla con el dedo, verá el mensaje.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 Toque esta pestaña para obtener una versión completa del mensaje y luego toque <span class="notranslate">‘Open Forum’</span> para ingresar al foro en sí, lo que le permite responder.
 

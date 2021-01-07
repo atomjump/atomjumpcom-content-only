@@ -135,10 +135,10 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 如果您<b><i>沒有帳戶</i></b>，並且只想接收通過電子郵件發送的通知（而無需登錄），則可以通過點擊並將耳朵切換為綠色來進行訂閱在消息傳遞窗口中“聽耳朵”，它將詢問您的電子郵件地址。然後點擊“訂閱”。
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>未訂閱。點按即可訂閱。</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>已訂閱。點擊即可取消訂閱。</i>
 
 如果您<b><i>有一個帳戶</i></b>，則應先登錄。為此，請單擊“設置”，在“密碼”框中單擊“更多”，然後輸入您的電子郵件和密碼。然後點擊“登錄”。
@@ -151,15 +151,15 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 輸入您自己的組名或現有的公共組名，在AtomJump.com上顯示“輸入組名”，然後單擊<span class="notranslate">“AtomJump”</span>。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 例如輸入<span class="notranslate">“sailinglondon”</span>並點擊<span class="notranslate">“ AtomJump”</span>，您的瀏覽器將進入以下地址：
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 通過電子郵件，短信，即時消息或其他方式與論壇共享論壇的網絡鏈接。您可以通過點擊底層頁面右上角的“共享”圖標，在atomjump.com上快速找到此鏈接。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 然後，每個人都可以選擇成為論壇訂戶以獲取正在進行的通知。
 
@@ -169,7 +169,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 在AtomJump․com上，您可以輸入自己的唯一房間名稱，其中會顯示<span class="notranslate">“Enter a group name”</span>，例如<span class="notranslate">“fredfamily”</span>，然後點擊底部條目<span class="notranslate">‘Create a PRIVATE room’</span>。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
 在AtomJump․com上，這筆費用為每年15新西蘭元（約合10美元/年）。您也可以直接在<a href="https://atomjump.com/wp/introduction/">此頁面</a>上註冊。在其他站點上，您應該與系統管理員聯繫以添加私人論壇密碼。
 
@@ -188,23 +188,23 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 轉到論壇的網址。點擊“設置”，然後輸入您的電子郵件和密碼。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 有些鏈接指向Android和iOS的“獲取彈出通知”。單擊並將該應用程序下載到您的Android或iPhone設備。如果是在專用服務器上，則還需要復制提到的服務器地址。
 
 打開應用程序（例如，再次點擊“設置”中的應用程序鏈接，然後點擊應用程序商店中的“打開應用程序”）。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 在應用程序中，點擊<span class="notranslate">‘Pair with AtomJump.com’</span>按鈕，或者對於私有服務器，點擊<span class="notranslate">‘Pair with a Private Server’</span>按鈕，然後粘貼您的私人服務器地址。
 
 如果一切正常，則應用程序應顯示<span class="notranslate">‘Listening for Messages’</span>，瀏覽器應顯示您已將應用程序與電子郵件地址相關聯。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 這意味著此帳戶的任何個人消息都會在您的手機上發出ping聲音，並在屏幕頂部顯示一個小的AtomJump圖標。當您用手指在屏幕頂部滑動時，您會看到此消息。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 點擊此標籤可查看郵件的完整版本，然後點擊<span class="notranslate">“打開論壇”</span>進入論壇本身，以便您進行回复。
 

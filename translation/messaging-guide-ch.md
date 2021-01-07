@@ -135,10 +135,10 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 如果您<b><i>没有帐户</i></b>，并且只想接收通过电子邮件发送的通知（而无需登录），则可以通过点击并将耳朵切换为绿色来进行订阅在消息传递窗口中“听耳朵”，它将询问您的电子邮件地址。然后点击“订阅”。
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>未订阅。点按即可订阅。</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>已订阅。点击即可取消订阅。</i>
 
 如果您<b><i>有一个帐户</i></b>，则应先登录。为此，请单击“设置”，在“密码”框中单击“更多”，然后输入您的电子邮件和密码。然后点击“登录”。
@@ -151,15 +151,15 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 输入您自己的组名或现有的公共组名，在AtomJump.com上显示“输入组名”，然后单击<span class="notranslate">“AtomJump”</span>。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 例如输入<span class="notranslate">“sailinglondon”</span>并点击<span class="notranslate">“AtomJump” </span>，您的浏览器将进入以下地址：
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 通过电子邮件，短信，即时消息或其他方式与论坛共享论坛的网络链接。您可以通过点击底层页面右上角的“共享”图标，在atomjump.com上快速找到此链接。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 然后，每个人都可以选择成为论坛订户以获取正在进行的通知。
 
@@ -169,9 +169,9 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 在AtomJump․com上，您可以输入自己的唯一房间名称，其中会显示<span class="notranslate">“Enter a group name”</span>，例如<span class="notranslate">“fredfamily”</span>，然后点击底部条目<span class="notranslate">‘Create a PRIVATE room’</span>。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
-在AtomJump․com上，这笔费用为每年15新西兰元（约合10美元/年）。您也可以直接在<a href="https://staging.atomjump.com/wp/introduction/">此页面</a>上注册。在其他站点上，您应该与系统管理员联系以添加私人论坛密码。
+在AtomJump․com上，这笔费用为每年15新西兰元（约合10美元/年）。您也可以直接在<a href="http://atomjump.org/wp/introduction/">此页面</a>上注册。在其他站点上，您应该与系统管理员联系以添加私人论坛密码。
 
 注意：您决定拥有的论坛密码与您的个人密码不同，应该是您可以舒适地通过电子邮件发送给会议室中每个成员的密码。
 
@@ -189,23 +189,23 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 转到论坛的网址。点击“设置”，然后输入您的电子邮件和密码。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 有些链接指向Android和iOS的“获取弹出通知”。单击并将该应用程序下载到您的Android或iPhone设备。如果是在专用服务器上，则还需要复制提到的服务器地址。
 
 打开应用程序（例如，再次点击“设置”中的应用程序链接，然后点击应用程序商店中的“打开应用程序”）。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 在应用程序中，点击<span class="notranslate">‘Pair with AtomJump.com’</span>按钮，或者对于私有服务器，点击<span class="notranslate">‘Pair with a Private Server’ </span>按钮，然后粘贴您的私人服务器地址。
 
 如果一切正常，则应用程序应显示<span class="notranslate">‘Listening for Messages’</span>，浏览器应显示您已将应用程序与电子邮件地址相关联。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 这意味着此帐户的任何个人消息都会在您的手机上发出ping声音，并在屏幕顶​​部显示一个小的AtomJump图标。当您用手指在屏幕顶部滑动时，您会看到此消息。
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 点击此标签可查看邮件的完整版本，然后点击<span class="notranslate">‘Open Forum’</span>进入论坛本身，以便您进行回复。
 

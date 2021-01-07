@@ -1,4 +1,4 @@
-<img src="https://atomjump.com/images/logo80.png">
+<img src="http://atomjump.org/images/logo80.png">
 
 # atomjumpcom-content-only
 This repository is a public copy of the important content on https://atomjump.com, 
@@ -133,10 +133,10 @@ Note, a Twitter reply will always be public, and you do not need a Twitter accou
 
 If you <b><i>don’t have an account</i></b>, and only want to receive emailed notifications (without having to sign in), you can subscribe by tapping and switching the ear to the green ‘listening ear’ in the messaging window, which will ask for your email address. Then click ‘Subscribe’.
 
-* <img src="https://atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>Not subscribed. Tap to subscribe.</i>
 
-* <img src="https://atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>Subscribed. Tap to unsubscribe.</i>
 
 If you <b><i>do have an account</i></b>, you should log in first. To do this, click into ‘Settings’, click ‘More’ for the password box, and enter your email and password. Then click ‘Login’.
@@ -149,15 +149,15 @@ To <b>unsubscribe</b> from a subscribed forum, tap and switch to the read ‘non
 
 Enter your own group name, or an existing public group name, where it says “Enter a group name” on AtomJump.com, and click <span class="notranslate">“AtomJump”</span>.
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 e.g. Entering <span class="notranslate">“sailinglondon”</span> and tapping <span class="notranslate">“AtomJump”</span> will take your browser to the following address:
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 Share your forum’s web link, with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the ‘share’ icon in the top right hand corner of the underlying page.
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
@@ -167,9 +167,9 @@ Each individual can then choose to become a forum subscriber to get ongoing noti
 
 On AtomJump․com, you can enter your own unique room name where it says <span class="notranslate">“Enter a group name”</span>, e.g. <span class="notranslate">“fredfamily”</span>, and tap the bottom entry <span class="notranslate">‘Create a PRIVATE room’</span>.
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
-On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year). You can also sign up directly on <a href="https://atomjump.com/wp/introduction/">this page</a>. On other sites, you should contact your system administrator to add a private forum password.
+On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year). You can also sign up directly on <a href="http://atomjump.org/wp/introduction/">this page</a>. On other sites, you should contact your system administrator to add a private forum password.
 
 Note: the forum password you decide to have is different from your personal password and should be one that you can email to every member of the room comfortably.
 
@@ -185,23 +185,23 @@ There will likely be a cost from your provider (e.g. 16c per message), so please
 ## To Get App Notifications
 Go to the web address of the forum. Click ‘Settings’ and enter your email and password.
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
 
 Open the app (by, for example, tapping the app link within Settings once more, and then tapping ‘open the app’ within the app-store).
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 Within the app, tap the <span class="notranslate">‘Pair with AtomJump.com’</span> button, or for a private server, tap the <span class="notranslate">‘Pair with a Private Server’</span> button and paste in your private server address.
 
 If everything has worked correctly, the app should say <span class="notranslate">‘Listening for Messages’</span>, and the browser should show that you have associated your app with your email address.
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 This means any personal messages for this account will make a ping sound on your phone, and display a small AtomJump icon at the top of the screen. When you slide down the top of the screen with your finger, you will see the message.
 
-<img src="https://atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 

@@ -133,10 +133,10 @@ __``ਬਣਾਓ``__ ਦਿਓ
 
 ਜੇ ਤੁਹਾਡੇ ਕੋਲ <b><i>ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ</i></b>, ਅਤੇ ਤੁਸੀਂ ਸਿਰਫ ਈਮੇਲ ਕੀਤੀਆਂ ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ (ਬਿਨਾਂ ਸਾਈਨ ਇਨ ਕੀਤੇ), ਤੁਸੀਂ ਟੇਪ ਲਗਾ ਕੇ ਅਤੇ ਕੰਨ ਨੂੰ ਹਰੀ ਵਿਚ ਬਦਲਣ ਨਾਲ ਗਾਹਕ ਬਣ ਸਕਦੇ ਹੋ. ਮੈਸੇਜਿੰਗ ਵਿੰਡੋ ਵਿਚ 'ਸੁਣਨ ਵਾਲਾ ਕੰਨ', ਜੋ ਤੁਹਾਡੇ ਈਮੇਲ ਪਤੇ ਲਈ ਪੁੱਛੇਗਾ. ਤਦ "ਗਾਹਕ ਬਣੋ" ਤੇ ਕਲਿਕ ਕਰੋ.
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>ਸਬਸਕ੍ਰਾਈਬ ਨਹੀਂ ਕੀਤਾ. ਗਾਹਕੀ ਲੈਣ ਲਈ ਟੈਪ ਕਰੋ.</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>ਸਬਸਕ੍ਰਾਈਬ ਕੀਤਾ. ਗਾਹਕੀ ਰੱਦ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ.</i>
 
 ਜੇ ਤੁਹਾਡੇ ਕੋਲ <b><i>ਕੋਈ ਖਾਤਾ ਹੈ</i></b>, ਤਾਂ ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਲੌਗ ਇਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ. ਅਜਿਹਾ ਕਰਨ ਲਈ, 'ਸੈਟਿੰਗਜ਼' ਵਿਚ ਕਲਿਕ ਕਰੋ, ਪਾਸਵਰਡ ਬਾਕਸ ਲਈ 'ਹੋਰ' ਤੇ ਕਲਿਕ ਕਰੋ, ਅਤੇ ਆਪਣਾ ਈਮੇਲ ਅਤੇ ਪਾਸਵਰਡ ਭਰੋ. ਫਿਰ 'ਲੌਗਇਨ' ਤੇ ਕਲਿਕ ਕਰੋ.
@@ -149,15 +149,15 @@ __``ਬਣਾਓ``__ ਦਿਓ
 
 ਆਪਣਾ ਸਮੂਹ ਨਾਮ, ਜਾਂ ਇੱਕ ਮੌਜੂਦਾ ਜਨਤਕ ਸਮੂਹ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ, ਜਿੱਥੇ ਇਹ ਐਟਮ ਜੰਪ ਡਾਟ ਕਾਮ 'ਤੇ "ਇੱਕ ਸਮੂਹ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ" ਕਹਿੰਦਾ ਹੈ, ਅਤੇ <span class="notranslate">“AtomJump”</span> ਤੇ ਕਲਿਕ ਕਰੋ.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 ਉਦਾ. <span class="notranslate">“sailinglondon”</span> ਅਤੇ <span class="notranslate">“AtomJump”</span> ਨੂੰ ਟੈਪ ਕਰਨਾ ਤੁਹਾਡੇ ਬ੍ਰਾ browserਜ਼ਰ ਨੂੰ ਹੇਠ ਦਿੱਤੇ ਪਤੇ ਤੇ ਲੈ ਜਾਵੇਗਾ:
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 ਆਪਣੇ ਫੋਰਮ ਦਾ ਵੈੱਬ ਲਿੰਕ, ਈਮੇਲ, ਐਸਐਮਐਸ, ਤਤਕਾਲ ਸੰਦੇਸ਼, ਜਾਂ ਕਿਸੇ ਹੋਰ ਸਾਧਨਾਂ ਰਾਹੀਂ ਆਪਣੇ ਸਮੂਹ ਨਾਲ ਸਾਂਝਾ ਕਰੋ. ਤੁਸੀਂ ਇਸ ਲਿੰਕ ਨੂੰ atomjump.com ਤੇ ਜਲਦੀ ਪਾ ਸਕਦੇ ਹੋ ਅੰਡਰਲਾਈੰਗ ਪੇਜ ਦੇ ਉਪਰਲੇ ਸੱਜੇ ਕੋਨੇ ਵਿੱਚ 'ਸ਼ੇਅਰ' ਆਈਕਨ 'ਤੇ ਟੈਪ ਕਰਕੇ.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 ਹਰ ਵਿਅਕਤੀ ਤਦ ਜਾਰੀ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਫੋਰਮ ਗਾਹਕ ਬਣਨ ਦੀ ਚੋਣ ਕਰ ਸਕਦਾ ਹੈ.
 
@@ -167,7 +167,7 @@ __``ਬਣਾਓ``__ ਦਿਓ
 
 ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਤੁਸੀਂ ਆਪਣੇ ਖੁਦ ਦੇ ਵਿਲੱਖਣ ਕਮਰੇ ਦਾ ਨਾਮ ਦਾਖਲ ਕਰ ਸਕਦੇ ਹੋ ਜਿੱਥੇ ਇਹ ਲਿਖਿਆ ਹੈ <span class="notranslate">“Enter a group name”</span>, ਉਦਾ. <span class="notranslate">“fredfamily”</span>, ਅਤੇ ਤਲ ਇੰਦਰਾਜ਼ ਟੈਪ ਕਰੋ <span class="notranslate">‘Create a PRIVATE room’</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
 ਐਟਮ ਜੰਪਕੌਮ ਤੇ, ਇਸਦੀ ਕੀਮਤ NZ $ 15 / ਸਾਲ ਹੈ (ਲਗਭਗ US / 10 / ਸਾਲ). ਤੁਸੀਂ <a href="https://atomjump.com/wp/introduction/"> ਇਸ ਪੇਜ </a> ਤੇ ਸਿੱਧੇ ਸਾਈਨ ਅਪ ਵੀ ਕਰ ਸਕਦੇ ਹੋ. ਹੋਰ ਸਾਈਟਾਂ ਤੇ, ਤੁਹਾਨੂੰ ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਫੋਰਮ ਪਾਸਵਰਡ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਆਪਣੇ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਨਾਲ ਸੰਪਰਕ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.
 
@@ -186,23 +186,23 @@ __``ਬਣਾਓ``__ ਦਿਓ
 
 ਫੋਰਮ ਦੇ ਵੈਬ ਐਡਰੈਸ ਤੇ ਜਾਓ. 'ਸੈਟਿੰਗਜ਼' ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਆਪਣਾ ਈਮੇਲ ਅਤੇ ਪਾਸਵਰਡ ਭਰੋ.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 ਐਂਡਰਾਇਡ ਅਤੇ ਆਈਓਐਸ ਲਈ 'ਪੌਪ-ਅਪ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ' ਦੇ ਕੁਝ ਲਿੰਕ ਹਨ. ਆਪਣੇ ਐਂਡਰਾਇਡ ਜਾਂ ਆਈਫੋਨ ਡਿਵਾਈਸ ਤੇ ਐਪ ਨੂੰ ਕਲਿਕ ਅਤੇ ਡਾਉਨਲੋਡ ਕਰੋ. ਜੇ ਇਹ ਕਿਸੇ ਪ੍ਰਾਈਵੇਟ ਸਰਵਰ ਤੇ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਵੀ ਦੱਸੇ ਗਏ ਸਰਵਰ ਐਡਰੈੱਸ ਦੀ ਨਕਲ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੋਏਗੀ.
 
 ਐਪ ਖੋਲ੍ਹੋ (ਉਦਾਹਰਣ ਵਜੋਂ, ਸੈਟਿੰਗਜ਼ ਦੇ ਅੰਦਰ ਐਪ ਲਿੰਕ ਨੂੰ ਇੱਕ ਵਾਰ ਫਿਰ ਟੈਪ ਕਰਨਾ, ਅਤੇ ਫਿਰ ਐਪ-ਸਟੋਰ ਦੇ ਅੰਦਰ 'ਐਪ ਖੋਲ੍ਹੋ' ਤੇ ਟੈਪ ਕਰਨਾ).
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 ਐਪ ਦੇ ਅੰਦਰ, <span class="notranslate">‘Pair with AtomJump.com’</span> ਬਟਨ 'ਤੇ ਟੈਪ ਕਰੋ, ਜਾਂ ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਸਰਵਰ ਲਈ, <span class="notranslate">‘Pair with a Private Server’</span> ਬਟਨ ਅਤੇ ਆਪਣੇ ਪ੍ਰਾਈਵੇਟ ਸਰਵਰ ਐਡਰੈਸ ਵਿੱਚ ਪੇਸਟ ਕਰੋ.
 
 ਜੇ ਹਰ ਚੀਜ਼ ਨੇ ਸਹੀ hasੰਗ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ, ਤਾਂ ਐਪ ਨੂੰ <span class="notranslate">‘Listening for Messages’</span> ਕਹਿਣਾ ਚਾਹੀਦਾ ਹੈ, ਅਤੇ ਬ੍ਰਾ browserਜ਼ਰ ਨੂੰ ਦਿਖਾਉਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਐਪ ਨੂੰ ਆਪਣੇ ਈਮੇਲ ਪਤੇ ਨਾਲ ਜੋੜਿਆ ਹੈ.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 ਇਸਦਾ ਅਰਥ ਹੈ ਕਿ ਇਸ ਖਾਤੇ ਲਈ ਕੋਈ ਵੀ ਨਿੱਜੀ ਸੰਦੇਸ਼ ਤੁਹਾਡੇ ਫੋਨ 'ਤੇ ਪਿੰਗ ਆਵਾਜ਼ ਦੇਵੇਗਾ, ਅਤੇ ਸਕ੍ਰੀਨ ਦੇ ਸਿਖਰ' ਤੇ ਇਕ ਛੋਟਾ ਜਿਹਾ ਐਟਮ ਜੰਪ ਆਈਕਾਨ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੇਗਾ. ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੀ ਉਂਗਲ ਨਾਲ ਸਕ੍ਰੀਨ ਦੇ ਉਪਰਲੇ ਹਿੱਸੇ ਨੂੰ ਘਸੀਟਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਸੁਨੇਹਾ ਵੇਖੋਗੇ.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 ਸੰਦੇਸ਼ ਦੇ ਪੂਰੇ ਸੰਸਕਰਣ ਲਈ ਇਸ ਟੈਬ ਨੂੰ ਟੈਪ ਕਰੋ, ਅਤੇ ਫਿਰ ਫੋਰਮ ਵਿਚ ਦਾਖਲ ਹੋਣ ਲਈ <span class="notranslate">‘Open Forum’</span> 'ਤੇ ਟੈਪ ਕਰੋ, ਜੋ ਤੁਹਾਨੂੰ ਜਵਾਬ ਦੇਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ.
 

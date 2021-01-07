@@ -135,10 +135,10 @@ Allyচ্ছিকভাবে, আপনি অ্যাকাউন্টে 
 
 যদি আপনার <b><i>কোনও অ্যাকাউন্ট না থাকে</i></b>, এবং কেবল ইমেল বিজ্ঞপ্তিগুলি (সাইন ইন না করেই) পেতে চান, আপনি কানটি ট্যাপ করে এবং সবুজটিতে পরিবর্তন করে সাবস্ক্রাইব করতে পারেন মেসেজিং উইন্ডোতে 'শ্রবণ শ্রুতি', যা আপনার ইমেল ঠিকানা জিজ্ঞাসা করবে। তারপরে ‘সাবস্ক্রাইব’ ক্লিক করুন।
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>সাবস্ক্রাইব করা হয়নি। সাবস্ক্রাইব করতে আলতো চাপুন</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="http://atomjump.org/wp/wp-content/uploads/2021/01/listening.png">
 <i>সাবস্ক্রাইব করা হয়েছে। সাবস্ক্রাইব করতে আলতো চাপুন</i>
 
 যদি আপনার <b><i>একটি অ্যাকাউন্ট থাকে</i></b> তবে আপনার প্রথমে লগ ইন করা উচিত। এটি করতে, 'সেটিংস' এ ক্লিক করুন, পাসওয়ার্ড বাক্সের জন্য 'আরও' ক্লিক করুন এবং আপনার ইমেল এবং পাসওয়ার্ড প্রবেশ করুন। তারপরে ‘লগইন’ ক্লিক করুন।
@@ -151,15 +151,15 @@ Allyচ্ছিকভাবে, আপনি অ্যাকাউন্টে 
 
 আপনার নিজস্ব গোষ্ঠীর নাম বা একটি বিদ্যমান পাবলিক গোষ্ঠীর নাম লিখুন যেখানে এটি অ্যাটমম্প্প.কম এ "একটি গোষ্ঠীর নাম লিখুন" বলে এবং তারপরে <span class="notranslate">"AtomJump"</span> ক্লিক করুন।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 যেমন <span class="notranslate">“sailinglondon”</span> প্রবেশ এবং <span class= "notranslate">“AtomJump”</span> আলতো চাপতে আপনার ব্রাউজারটি নিম্নলিখিত ঠিকানায় নিয়ে যাবে:
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 ইমেল, এসএমএস, তাত্ক্ষণিক বার্তা বা অন্য কোনও মাধ্যমে আপনার ফোরামের ওয়েব লিঙ্কটি আপনার গ্রুপের সাথে ভাগ করুন। অন্তর্নিহিত পৃষ্ঠার উপরের ডানদিকে কোণায় "ভাগ করুন" আইকনটি আলতো চাপ দিয়ে আপনি atomjump.com এ এই লিঙ্কটি দ্রুত খুঁজে পেতে পারেন।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 এরপরে প্রতিটি ব্যক্তি চলমান বিজ্ঞপ্তিগুলি পেতে ফোরামের গ্রাহক হতে বেছে নিতে পারেন।
 
@@ -169,7 +169,7 @@ Allyচ্ছিকভাবে, আপনি অ্যাকাউন্টে 
 
 অ্যাটমম্প্পকমে আপনি নিজের অনন্য ঘরের নাম লিখতে পারেন যেখানে এটি <span class="notranslate">“Enter a group name”</span>, যেমন says <span class="notranslate">“fredfamily”</span>, এবং নীচের এন্ট্রি ট্যাপ করুন <span class="notranslate">‘Create a PRIVATE room’</span>।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
 এটমজম্পকমে, এর ব্যয় NZ $ 15 / বছর (আনুমানিক মার্কিন ডলার 10 / বছর)। আপনি <a href="https://atomjump.com/wp/introduction/">এই পৃষ্ঠা</a> এ সরাসরি সাইন আপ করতে পারেন। অন্য সাইটগুলিতে, আপনার কোনও ব্যক্তিগত ফোরামের পাসওয়ার্ড যুক্ত করতে আপনার সিস্টেম প্রশাসকের সাথে যোগাযোগ করা উচিত।
 
@@ -189,23 +189,23 @@ Allyচ্ছিকভাবে, আপনি অ্যাকাউন্টে 
 
 ফোরামের ওয়েব ঠিকানায় যান। ‘সেটিংস’ এ ক্লিক করুন এবং আপনার ইমেল এবং পাসওয়ার্ড লিখুন।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
 অ্যান্ড্রয়েড এবং আইওএসের জন্য 'পপআপ বিজ্ঞপ্তিগুলি পান' এর কয়েকটি লিঙ্ক রয়েছে। আপনার অ্যান্ড্রয়েড বা আইফোন ডিভাইসে অ্যাপ্লিকেশনটি ক্লিক করুন এবং ডাউনলোড করুন। এটি যদি কোনও ব্যক্তিগত সার্ভারে থাকে তবে আপনাকে উল্লিখিত সার্ভারের ঠিকানাটিও অনুলিপি করতে হবে।
 
 অ্যাপ্লিকেশনটি খুলুন (উদাহরণস্বরূপ, সেটিংসের মধ্যে অ্যাপ্লিকেশন লিঙ্কটি আরও একবার আলতো চাপুন এবং তারপরে অ্যাপ-স্টোরের মধ্যে 'অ্যাপ্লিকেশনটি খুলুন' আলতো চাপুন)।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 অ্যাপ্লিকেশনটির মধ্যে, <span class= "notranslate">‘Pair with AtomJump.com’</span> বোতামটি আলতো চাপুন বা একটি ব্যক্তিগত সার্ভারের জন্য <span class="notranslate">‘Pair with a Private Server’</span> এ আলতো চাপুন আপনার ব্যক্তিগত সার্ভারের ঠিকানায় বোতামটি আটকে দিন।
 
 যদি সবকিছু সঠিকভাবে কাজ করে থাকে তবে অ্যাপটিকে <span class="notranslate">‘Listening for Messages’</span> বলা উচিত এবং ব্রাউজারটি দেখানো উচিত যে আপনি নিজের অ্যাপ্লিকেশনটিকে আপনার ইমেল ঠিকানার সাথে যুক্ত করেছেন।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 এর অর্থ এই অ্যাকাউন্টের জন্য কোনও ব্যক্তিগত বার্তাগুলি আপনার ফোনে একটি পিং শব্দ করবে এবং স্ক্রিনের শীর্ষে একটি ছোট এটমজ্যাম্প আইকন প্রদর্শন করবে display আপনি যখন আঙুল দিয়ে স্ক্রিনের উপরের অংশটি স্লাইড করবেন তখন আপনি বার্তাটি দেখতে পাবেন।
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 বার্তাটির পুরো সংস্করণের জন্য এই ট্যাবটি আলতো চাপুন এবং তারপরে ফোরামে প্রবেশ করতে <span class="notranslate">‘Open Forum’</span> এ আলতো চাপুন, যা আপনাকে প্রতিক্রিয়া জানাতে দেয়।
 
