@@ -42,19 +42,19 @@ __``Enter``__	Creates
 
 ``link.com``	<a href="http://link.com">link.com</a>
 
-``:)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/smiley.png"> **	
+``:)`` <img src="http://atomjump.com/wp/wp-content/uploads/2017/01/smiley.png"> **	
 
-``:(`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sad.png"> **	
+``:(`` <img src="http://atomjump.com/wp/wp-content/uploads/2017/01/sad.png"> **	
 
-``;)`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/wink.png"> **	
+``;)`` <img src="http://atomjump.com/wp/wp-content/uploads/2017/01/wink.png"> **	
 
-``lol`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/lol.png"> **	
+``lol`` <img src="http://atomjump.com/wp/wp-content/uploads/2017/01/lol.png"> **	
 
 ``Please pay 5 dollars to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwVHJ5JTI1MjBwYXklMjUyMDUlMmUlMmUlMmUlMjZhbW91bnQlM2Q1JTI2Y3VycmVuY3lfY29kZSUzZFVTRCUyNmJ1dHRvbl9zdWJ0eXBlJTNkc2VydmljZXMlMjZub19ub3RlJTNkMCUyNmJuJTNkUFAlMmRCdXlOb3dCRiUyNTNhYnRuX2J1eW5vd0NDX0xHJTJlZ2lmJTI1M2FOb25Ib3N0ZWRHdWVzdCUyNiUyNndhX3R5cGUlM2RCdXlOb3clMjY&flowlogging_id=e9fa8a7c2f07f#/checkout/login">Please pay 5 dollars to me</a> [with link to Paypal]
 
 ``Please pay 3.30 pounds to me``	<a href="https://www.paypal.com/webapps/xorouter/paymentstandard?xclick_params=JTI2QXV0b1JldHVybiUzZHRydWUlMjZjbWQlM2RfeGNsaWNrJTI2YnVzaW5lc3MlM2RwZXRlciUyNTQwYXRvbWp1bXAlMmVjb20lMjZsYyUzZFVTJTI2aXRlbV9uYW1lJTNkQXRvbUp1bXAlMjUzYSUyNTIwUGxlYXNlJTI1MjBwYXklMmUlMmUlMmUlMjZhbW91bnQlM2QzJTJlMzAlMjZjdXJyZW5jeV9jb2RlJTNkR0JQJTI2YnV0dG9uX3N1YnR5cGUlM2RzZXJ2aWNlcyUyNm5vX25vdGUlM2QwJTI2Ym4lM2RQUCUyZEJ1eU5vd0JGJTI1M2FidG5fYnV5bm93Q0NfTEclMmVnaWYlMjUzYU5vbkhvc3RlZEd1ZXN0JTI2JTI2d2FfdHlwZSUzZEJ1eU5vdyUyNg&flowlogging_id=2edf7cf13321e#/checkout/login">Please pay 3.30 pounds to me</a> [with link to Paypal]
 
-``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [shows a picture of the video, to be clicked on]	
+``https://youtu.be/ZNra8eK0K6k`` <a href="https://youtu.be/ZNra8eK0K6k"><img src="http://atomjump.com/wp/wp-content/uploads/2017/01/video-300x239.jpeg"></a> [shows a picture of the video, to be clicked on]	
 
 ``london@``	<a href="http://london.atomjump.com">london@</a> [with link to http://london.atomjump.com]
 
@@ -62,7 +62,7 @@ __``Enter``__	Creates
 
 ``http://a.very.long.link.with.lots.of.text.com``	<a href="http://a.very.long.link.with.lots.of.text.com">Expand</a> [with link to http://a.very.long.link.with.lots.of.text.com] 
 
-``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg">	[shows picture]
+``http://yoururl.com/yourpic.jpg`` <img src="http://atomjump.com/wp/wp-content/uploads/2017/01/sunset_nelson-150x150.jpg">	[shows picture]
 
 
 
@@ -72,7 +72,7 @@ __``Enter``__	Creates
 
 When you’re in a forum, click on the camera icon next to the ‘Send’ button. This will provide a confirmation screen before entering the video forum. Some browsers need the camera to be accepted in your browser permissions first.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/video-cam.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2017/01/video-cam.png">
 
 iPhone and iPad users will need to download a separate app.
 
@@ -90,7 +90,7 @@ Alternative Method: While you should be able to click through to the video forum
 ## To Name Yourself
 Click ‘Settings’ in the bottom left corner. Write your name into ‘Your Name’ and click ‘Save Settings’. You don’t need a full account, but if you want to receive notifications when you get a private message, you will need one (see below).
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/your-name.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2017/01/your-name.png">
 
 
 ## To Set up an Account
@@ -101,7 +101,7 @@ Optionally, you can add a password on the account (which prevents someone else b
 
 Click ‘Save Settings’.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
 
 You will get e-mail notifications on private messages, but we do not use your email address for any other purpose.
 
@@ -115,7 +115,7 @@ Note: each different AtomJump Server installation has it's own private users dat
 ## To Write a Private Message to One Person
 Click or tap on the person’s name next to one of their messages. Then enter a message and tap ‘Send to [their name]’.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2017/01/send-privately-288x300.png">
 
 You will need to click ‘Go Public’ to start posting messages for everyone to see again.
 
@@ -133,10 +133,10 @@ Note, a Twitter reply will always be public, and you do not need a Twitter accou
 
 If you <b><i>don’t have an account</i></b>, and only want to receive emailed notifications (without having to sign in), you can subscribe by tapping and switching the ear to the green ‘listening ear’ in the messaging window, which will ask for your email address. Then click ‘Subscribe’.
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
+* <img src="https://atomjump.com/wp/wp-content/uploads/2021/01/not-listening.png">
 <i>Not subscribed. Tap to subscribe.</i>
 
-* <img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
+* <img src="https://atomjump.com/wp/wp-content/uploads/2021/01/listening.png">
 <i>Subscribed. Tap to unsubscribe.</i>
 
 If you <b><i>do have an account</i></b>, you should log in first. To do this, click into ‘Settings’, click ‘More’ for the password box, and enter your email and password. Then click ‘Login’.
@@ -149,15 +149,15 @@ To <b>unsubscribe</b> from a subscribed forum, tap and switch to the read ‘non
 
 Enter your own group name, or an existing public group name, where it says “Enter a group name” on AtomJump.com, and click <span class="notranslate">“AtomJump”</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
+<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/group-name-290x300.png">
 
 e.g. Entering <span class="notranslate">“sailinglondon”</span> and tapping <span class="notranslate">“AtomJump”</span> will take your browser to the following address:
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
+<img src="https://atomjump.com/wp/wp-content/uploads/2021/01/sailinglondon.png">
 
 Share your forum’s web link, with your group via email, SMS, instant message, or some other means. You can find this link quickly on atomjump.com by tapping the ‘share’ icon in the top right hand corner of the underlying page.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
+<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/share-300x192.png">
 
 Each individual can then choose to become a forum subscriber to get ongoing notifications.
 
@@ -167,9 +167,9 @@ Each individual can then choose to become a forum subscriber to get ongoing noti
 
 On AtomJump․com, you can enter your own unique room name where it says <span class="notranslate">“Enter a group name”</span>, e.g. <span class="notranslate">“fredfamily”</span>, and tap the bottom entry <span class="notranslate">‘Create a PRIVATE room’</span>.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
+<img src="https://atomjump.com/wp/wp-content/uploads/2021/01/fredfamily-208x300.png">
 
-On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year). You can also sign up directly on <a href="https://staging.atomjump.com/wp/introduction/">this page</a>. On other sites, you should contact your system administrator to add a private forum password.
+On AtomJump․com, this costs NZ$ 15 / year (approx $US 10 / year). You can also sign up directly on <a href="https://atomjump.com/wp/introduction/">this page</a>. On other sites, you should contact your system administrator to add a private forum password.
 
 Note: the forum password you decide to have is different from your personal password and should be one that you can email to every member of the room comfortably.
 
@@ -178,30 +178,30 @@ Note, on AtomJump.com this has been superseded by the app, which is free, and pr
 
 Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your international phone number without the leading plus sign ‘+’ and without spaces, e.g. ‘+64 3 384 5613’ should be entered as ‘6433845613’.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/sms-phone.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2017/01/sms-phone.png">
 
 There will likely be a cost from your provider (e.g. 16c per message), so please check the instructions from your provider.
 
 ## To Get App Notifications
 Go to the web address of the forum. Click ‘Settings’ and enter your email and password.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
+<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/settings.png">
 
 There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
 
 Open the app (by, for example, tapping the app link within Settings once more, and then tapping ‘open the app’ within the app-store).
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
+<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
 Within the app, tap the <span class="notranslate">‘Pair with AtomJump.com’</span> button, or for a private server, tap the <span class="notranslate">‘Pair with a Private Server’</span> button and paste in your private server address.
 
 If everything has worked correctly, the app should say <span class="notranslate">‘Listening for Messages’</span>, and the browser should show that you have associated your app with your email address.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
+<img src="https://atomjump.com/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
 This means any personal messages for this account will make a ping sound on your phone, and display a small AtomJump icon at the top of the screen. When you slide down the top of the screen with your finger, you will see the message.
 
-<img src="https://staging.atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+<img src="https://atomjump.com/wp/wp-content/uploads/2021/01/notifications-300x250.png">
 
 Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 
@@ -232,7 +232,7 @@ If you are on a desktop, you can save a ‘Bookmark’ in your browser to the cu
 ## To Post a Photo
 Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’. Note: you can choose more than one photo.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2020/10/upload.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2020/10/upload.png">
 
 Note: if you are using a mobile device e.g. Android, to get access to your Gallery rather than the ‘Camera’, select ‘Documents’ and then ‘Gallery’.
 
@@ -241,7 +241,7 @@ You can choose to see a zoom-able preview of the photo by tapping the thumbnail 
 ## To Post a Sticker **
 Click the smiley face in the bottom left corner. Then click your sticker.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
+<img src="http://atomjump.com/wp/wp-content/uploads/2017/01/laugh1-150x150.jpg">
 
 ## To Download Messages
 Log in with your account. Click the ‘Upload’ icon in the bottom left corner. Click the ‘Download’ button. It will download an .xlsx spreadsheet file, which can be opened by any spreadsheet software e.g. Open Office, Google Docs, Microsoft Office.
@@ -265,7 +265,7 @@ Anyone can delete any message on AtomJump.com, and we allow this so that forums 
 
 To delete a message, tap or click on the message itself, and you will be shown the message with a rubbish bin icon underneath. Tap the rubbish bin icon, and the message should be removed in a few seconds.
 
-<img src="http://atomjump.org/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
+<img src="http://atomjump.com/wp/wp-content/uploads/2019/03/delete-example-150x150.png">
 
 Note: After a message has been posted you have 20 minutes (for a default installation of AtomJump, and that includes AtomJump.com) to delete the message before other robot feeds have a chance to copy the message.
 
