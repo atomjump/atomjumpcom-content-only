@@ -110,7 +110,7 @@ Use the same email and password that you entered on your first device when you s
 
 Remember, if you are on a public PC, you should log out whenever you leave the PC, as your login details will be remembered.
 
-Note: each different AtomJump Server installation has it's own private users database. If your account was set up on AtomJump.com, then the account may be shared across other atomjump.com properties, but, it will not necessarily work in every version of the messaging popup that you might find, because these are run by other companies.
+Note: each different AtomJump Server installation has it's own private users database. If your account was set up on AtomJump.com, then the account may be shared across other AtomJump.com properties, but, it will not necessarily work in every version of the messaging popup that you might find, because these are run by other companies.
 
 ## To Write a Private Message to One Person
 Click or tap on the person’s name next to one of their messages. Then enter a message and tap ‘Send to [their name]’.
@@ -249,7 +249,7 @@ Log in with your account. Click the ‘Upload’ icon in the bottom left corner.
 ## To Change Language **
 Click ‘Settings’ in the bottom left corner. Then click ‘More’ and drop down the ‘Language’ box. Choose your language. Then click ‘Save Settings’. You may need to enter your password again if you are logged in.
 
-Note: the front grey box with the icon 'Settings' will only change language if the surrounding site has implemented this feature and you may need to refresh the page in your browser. Changing language will change the 'guide' messages in the central box. It does not affect the text entered by other users.
+Note: the front grey box with the icon 'Settings' will only change language if the surrounding site has implemented this feature, and you may need to refresh the page in your browser. Changing language will change the 'guide' messages in the central box. It does not affect the text entered by other users.
 
 ## To Go Full-Screen **
 
