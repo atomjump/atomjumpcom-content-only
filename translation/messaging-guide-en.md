@@ -145,7 +145,7 @@ If you <b><i>do have an account</i></b>, you should log in first. To do this, cl
 
 Now in the messaging page, tap and switch the ear to the green ‘listening ear’ to subscribe to that one forum.
 
-To <b>unsubscribe</b> from a subscribed forum, tap and switch to the read ‘non-listening ear’ on the messaging page.
+To <b>unsubscribe</b> from a subscribed forum, tap and switch to the red ‘non-listening ear’ on the messaging page.
 
 ## To Set up a Group
 

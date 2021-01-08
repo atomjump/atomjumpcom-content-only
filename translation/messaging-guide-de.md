@@ -145,7 +145,7 @@ Wenn Sie <b><i>ein Konto</i></b> haben, sollten Sie sich zuerst anmelden. Klicke
 
 Tippen Sie nun auf der Nachrichtenseite auf das Ohr und schalten Sie es auf das grüne "Abhörohr", um dieses eine Forum zu abonnieren.
 
-Um sich von einem abonnierten Forum <b>abzumelden</b>, tippen Sie auf der Nachrichtenseite auf und lesen Sie auf "Nicht hörend".
+Um sich von einem abonnierten Forum <b>abzumelden</b>, tippen Sie auf der Nachrichtenseite auf und rot Sie auf "Nicht hörend".
 
 ## So richten Sie eine Gruppe ein
 

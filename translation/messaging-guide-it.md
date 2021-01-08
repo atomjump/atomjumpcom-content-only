@@ -145,7 +145,7 @@ Se <b><i>hai un account</i></b>, devi prima accedere. Per fare ciò, fai clic su
 
 Ora nella pagina dei messaggi, tocca e sposta l'orecchio su "orecchio in ascolto" verde per iscriverti a quel forum.
 
-Per <b>annullare l'iscrizione</b>a un forum a cui sei iscritto, tocca e passa alla lettura "orecchio che non ascolta" nella pagina dei messaggi.
+Per <b>annullare l'iscrizione</b> a un forum a cui sei iscritto, tocca e passa all'orecchio rosso "che non ascolta" nella pagina dei messaggi.
 
 ## Per impostare un gruppo
 

@@ -147,7 +147,7 @@ Si <b><i>sí tiene una cuenta</i></b>, primero debe iniciar sesión. Para hacer 
 
 Ahora, en la página de mensajes, toque y cambie la oreja al "oído que escucha" verde para suscribirse a ese foro.
 
-Para <b>darse de baja</b> de un foro suscrito, toque y cambie al "oído que no escucha" en la página de mensajes.
+Para <b> darse de baja </b> de un foro suscrito, toque y cambie al "oído que no escucha" rojo en la página de mensajes.
 
 ## Para configurar un grupo
 

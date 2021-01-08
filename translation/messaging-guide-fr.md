@@ -145,7 +145,7 @@ Si vous <b><i>avez un compte</i></b>, vous devez d'abord vous connecter. Pour ce
 
 Maintenant, dans la page de messagerie, touchez et basculez l'oreille sur «l'oreille d'écoute» verte pour vous abonner à ce forum.
 
-Pour <b>vous désabonner</b> d'un forum auquel vous êtes abonné, appuyez sur et passez à la lecture «oreille qui n'écoute pas» sur la page de messagerie.
+Pour <b>vous désabonner</b> d'un forum auquel vous êtes abonné, appuyez sur et passez à l'oreille rouge «non-écoutant» sur la page de messagerie.
 
 ## Pour créer un groupe
 

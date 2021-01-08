@@ -145,7 +145,7 @@ Jika Anda <b><i>memiliki akun</i></b>, Anda harus login terlebih dahulu. Untuk m
 
 Sekarang di halaman pesan, ketuk dan alihkan telinga ke 'telinga mendengarkan' hijau untuk berlangganan ke satu forum itu.
 
-Untuk <b>berhenti berlangganan</b> dari forum langganan, ketuk dan alihkan ke tulisan 'tidak mendengarkan' di halaman perpesanan.
+Untuk <b>berhenti berlangganan</b> dari forum langganan, ketuk dan alihkan ke 'telinga yang tidak mendengarkan' berwarna merah di halaman pesan.
 
 ## Untuk Menyiapkan Grup
 

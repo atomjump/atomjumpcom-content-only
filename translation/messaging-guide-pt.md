@@ -145,7 +145,7 @@ Se você <b><i>possui uma conta</i></b>, você deve fazer login primeiro. Para f
 
 Agora, na página de mensagens, toque e mude o ouvido para o "ouvido atento" verde para se inscrever naquele fórum.
 
-Para <b>cancelar a inscrição</b> de um fórum inscrito, toque e mude para a opção "ouvido que não escuta" na página de mensagens.
+Para <b>cancelar a inscrição</b> de um fórum inscrito, toque em e mude para o 'ouvido que não escuta' na página de mensagens.
 
 ## Para configurar um grupo
 
