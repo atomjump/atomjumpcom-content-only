@@ -4,7 +4,7 @@
 
 The AtomJump Foundation is a non-profit organization, which publishes free and open source software to allow messaging communications over the web. The Foundation provides the ability to freely download this software is various forms e.g. an Appliance http://atomjump.org/wp/atomjump-messaging-appliance/, or as server software http://atomjump.org/wp/server-installation-guide/, and it also offers a free hosted version on publicly open forums https://atomjump.com.
 
-AtomJump Messaging Private Rooms are one hosted option that the Foundation provides, where we maintain the physical servers (currently located in New Zealand), and paying customers rent a space on these servers to host a messaging forum for their own private group conversations. Any income we earn from this rental relationship is fed back into the infrastructure for this service, i.e. the server hardware, power, network bandwidth, and essential Foundation staff salaries. There are no shareholders in the Foundation, and therefore no individuals who are financially motivated (at least, over-and-above their industry standard salary).
+AtomJump Messaging Private Rooms are one hosted option that the Foundation provides, where we maintain the physical servers (currently located in New Zealand), and paying customers rent a space on these servers to host a messaging forum for their own private group conversations. Any income we earn from this rental relationship is fed back into the infrastructure for this service, i.e. the server hardware, power, network bandwidth, and essential Foundation staff salaries. There are no shareholders in the Foundation, and therefore no individuals who are financially motivated (at least, over-and-above their industry-standard salary).
 
 ## House Rules
 
@@ -34,9 +34,9 @@ If you wish to complain about these actions, you can make a complaint to the Fou
 
 ## Privacy
 
-We make our best efforts to keep your content and password away from outside intruders, but there is always a chance that your private information could be intercepted. Please see out Privacy Policy for more information.
+We make our best efforts to keep your content and password away from outside intruders, but there is always a chance that your private information could be intercepted. Please see out Privacy Policy https://atomjump.com/wp/privacy-policy/ for more information.
 
-If you wish to have a high level of privacy, we would suggest that you download and host the software on your own server, and keep it within your own network. While our messaging software does not have a “back-door” into Government communications systems, organizations such as Five Eyes track communications information over public internet routers, and therefore your information could potentially be intercepted. We use encryption between your browser and our Private Room servers, and this offers a fairly strong level of protection, but this is not a perfect guarantee of privacy.
+If you wish to have a high level of privacy, we would suggest that you download and host AtomJump software on your own server, and keep all communications within your own network. While our messaging software does not have a “back-door” into Government communications systems, organizations such as Five Eyes https://en.wikipedia.org/wiki/Five_Eyes track communications information over public internet routers, and therefore your information could potentially be intercepted. We use encryption between your browser and our Private Room servers, and this offers a fairly strong level of protection, but this is not a perfect guarantee of privacy.
 
 ## Financial Terms
 
