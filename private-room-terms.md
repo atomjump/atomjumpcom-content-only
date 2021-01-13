@@ -21,11 +21,10 @@ Generally speaking, we wish to give you as much privacy as possible within your 
 
 We therefore keep a ‘spare key’ to your property (i.e. the password), and selected staff within our organization have a right to use this key when appropriate. However, like a good landlord, we won’t call on this spare key without giving you some prior warning, or if there is a solid legal reason to do so. For example, if we’ve been handed a court order to investigate your communications.
 
-But, to ensure that you are not misusing our service, we will carry out some spot checks, after:
+But, to ensure that you are not misusing our service, we may carry out some spot checks, after the first:
 
 * 1 week
-* 1 month
-* 3 months
+* 2 months
 * 12 months
 
 1 week prior to each spot check, we will give you a reminder of the upcoming check by email. On the day of the spot check, one of our staff will then open the forum, and do a visual check on the messages. If there are any serious issues with the content, we reserve the right to reset the group password at this point, and lock you out of the forum. Note: We would then also cancel any of your future payments.
@@ -45,3 +44,7 @@ If you wish to have a high level of privacy, we would suggest that you download 
 * __Timeframe__ 	Please allow up to 1 working day for manual checks on your room’s name. If it is a trademarked name, we may need some evidence that you have ownership of the name.
 * __Renewal__ 	An invoice will be sent by email annually, which can be paid within 30 days.
 * __Refunds__ 	If you are unhappy with the service please let us know at https://atomjump.com/wp/contact/ and, on agreement, we will refund the current annual fee. If not, you can also follow these NZ Government suggestions to raise an ISP complaint: https://www.govt.nz/browse/consumer-rights-and-complaints/how-to-complain/complain-about-your-isp/
+
+## Late Payments
+
+We are sympathetic with late payments if you can communicate a reason to us, prior to the due date of any unpaid invoices. However, if you cannot communicate this to us, or you are not responding to emails, we reserve the right to cancel your service and change the password of your forum.
