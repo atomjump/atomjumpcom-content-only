@@ -33,7 +33,7 @@ If you wish to complain about these actions, you can make a complaint to the Fou
 
 ## Privacy
 
-We make our best efforts to keep your content and password away from outside intruders, but there is always a chance that your private information could be intercepted. Please see out Privacy Policy https://atomjump.com/wp/privacy-policy/ for more information.
+We make our best efforts to keep your content and password away from outside intruders, but there is always a chance that your private information could be intercepted. Please see our Privacy Policy https://atomjump.com/wp/privacy-policy/ for more information.
 
 If you wish to have a high level of privacy, we would suggest that you download and host AtomJump software on your own server, and keep all communications within your own network. While our messaging software does not have a “back-door” into Government communications systems, organizations such as Five Eyes https://en.wikipedia.org/wiki/Five_Eyes track communications information over public internet routers, and therefore your information could potentially be intercepted. We use encryption between your browser and our Private Room servers, and this offers a fairly strong level of protection, but this is not a perfect guarantee of privacy.
 
