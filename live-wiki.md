@@ -53,7 +53,10 @@ https://atomjump.com/demo/livewiki/
 * __Timeframe__ 	You can expect up to one working day (Monday to Friday) before your basic order is handled.
 * __Add-ons__ We may need to question you via email to assist with configuration. Low-end monthly services (< $3 / month) are paid for annually.
 * __Trial__ 	All orders have a 7 day free-trial period to ensure you are completely satisfied with the service.
+* __Cancellation__    The service can be cancelled at any time, without additional fees.
+* __Renewel__   This is done monthly, automatically, via our payment processor
 
+Additional terms are available in the file private-room-terms.md (But replace the words 'Private Room' with 'Live Wiki')
 
 # Addons
 
