@@ -26,7 +26,7 @@ You can share a group with your friends via e.g. SMS by tapping the 3 circle 'sh
 Accepting payments from other users off a forum is as easy as writing e.g. 'pay 5 dollars to me' in a message (this will accept payments in $US). Your AtomJump email address must match your Paypal account email. AtomJump take no commission, but standard Paypal charges apply. For UK users, you can also write e.g. 'pay 3.50 pounds' to accept British pounds.
 
 ## Private Forums
-Private forums at xxxx.AtomJump.com are purchased at $US10 / year per page. You can set a password on a forum for a private discussion within a family, team or company. With this, you have any volume of messages and any number of users. Note: If this is a trademarked name, we may require proof of ownership.
+Private forums at xxxx.AtomJump.com are purchased at NZ$15 / year per page. You can set a password on a forum for a private discussion within a family, team or company. With this, you have any volume of messages and any number of users. Note: If this is a trademarked name, we may require proof of ownership.
 
 
 
@@ -38,12 +38,12 @@ Private forums at xxxx.AtomJump.com are purchased at $US10 / year per page. You 
 
 
 
-### ATOMJUMP.COM SUBDOMAIN
+### ATOMJUMP.COM PRIVATE ROOM
 
-* $10 per year
+* NZ$15 per year
 * Group Chat in Private
 * Personalised Backdrop
-* BUY NOW (contact atomjumpcom AT gmail.com)
+* BUY NOW (contact webmaster AT atomjump.com)
 
 
 ### VIP ATOMJUMP.COM HOSTING
@@ -55,6 +55,18 @@ Private forums at xxxx.AtomJump.com are purchased at $US10 / year per page. You 
 * Choice of Plugins
 * MORE INFO 
 
+Note: All prices are in New Zealand Dollars. As a guide, NZ$15 = US$10
+
 https://github.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
 
-Or contact atomjumpcom AT gmail.com
+Or contact webmaster AT atomjump.com.com
+
+### Terms
+
+* __Trial Period__	An optional 1 month free trial can be applied for, and then the first annual payment is invoiced.
+* __Cancellation__ 	The service can be cancelled at any time, without additional fees.
+* __Timeframe__	Please allow up to 1 working day for manual checks on your room's name. If it is a trademarked name, we may need some evidence that you have ownership of the name.
+* __Renewal__ An invoice will be sent by email annually, which can be paid within 30 days.
+* __Refunds__ 	If you are unhappy with the service please let us know and, on agreement, we will refund the current annual fee. If not, you can also follow these NZ Government suggestions to raise an ISP complaint.
+
+There is also a complete list of terms in private-room-terms.md, that explains our relationship with you, and what content you can and can't put on your private room.
