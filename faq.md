@@ -41,7 +41,7 @@ A. Yes, and there are some key benefits.
 
 ### The Old-Style Approach 
 
-__High Noise Levels__.  Once you are subscribed to a typical messaging app, you become ‘open season’ for all of your contacts to start chatting with you, at any time. While most good apps have some controls over this, the general tendency is for people to message you at all hours, and most people don’t put limits on their own usage. This leads to constant interruptions, loss of sleep, loss of concentration, and ‘message addiction’.
+* __High Noise Levels__.  Once you are subscribed to a typical messaging app, you become ‘open season’ for all of your contacts to start chatting with you, at any time. While most good apps have some controls over this, the general tendency is for people to message you at all hours, and most people don’t put limits on their own usage. This leads to constant interruptions, loss of sleep, loss of concentration, and ‘message addiction’.
 
 ### The AtomJump approach	
 
@@ -51,7 +51,7 @@ __High Noise Levels__.  Once you are subscribed to a typical messaging app, you 
 
 ### The Old-Style Approach 
 
-__Extreme Privacy__. There has been a trend towards more and more privacy for your messages, to the extent that anyone can say anything to anyone else, without any consequences. Even the police can no longer access your messages. This can lead to online bullying, crime, and even terrorism.
+* __Extreme Privacy__. There has been a trend towards more and more privacy for your messages, to the extent that anyone can say anything to anyone else, without any consequences. Even the police can no longer access your messages. This can lead to online bullying, crime, and even terrorism.
 
 ### The AtomJump approach
 
