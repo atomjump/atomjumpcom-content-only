@@ -1,6 +1,6 @@
 <img src="https://atomjump.com/images/logo80.png">
 
-* <a href="https://github.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English</a> __en__ English
+* <a href="https://src.atomjump.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English</a> __en__ English
 * <a href="messaging-guide-de.md">Deutsche</a> __de__ German 
 * <a href="messaging-guide-fr.md">Français</a> __fr__ French 
 * <a href="messaging-guide-jp.md">日本語</a> __jp__ Japanese 
@@ -17,4 +17,4 @@
 * <a href="messaging-guide-in.md">bahasa Indonesia</a> __in__ Indonesian  
 
 
-Click the language above for a translation of the <a href="https://github.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English AtomJump Messaging User Guide</a>.
+Click the language above for a translation of the <a href="https://src.atomjump.com/atomjump/atomjumpcom-content-only/blob/master/messaging-user-guide.md">English AtomJump Messaging User Guide</a>.

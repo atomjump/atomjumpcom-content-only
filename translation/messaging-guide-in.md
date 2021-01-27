@@ -10,7 +10,7 @@ seandainya server mati.
 
 # Pesan Panduan Pengguna
 
-__Note:__ panduan ini adalah terjemahan mesin dari versi bahasa Inggris di http://atomjump.org/wp/user-guide/. Jika Anda dapat mengonfirmasi bahwa terjemahan tersebut masuk akal bagi Anda, atau meningkatkan terjemahan, silakan hubungi kami langsung di http://atomjump.org/wp/contact/, atau buat perubahan di https://github.com/atomjump/atomjumpcom-content-only/. Masukan Anda sangat kami hargai.
+__Note:__ panduan ini adalah terjemahan mesin dari versi bahasa Inggris di http://atomjump.org/wp/user-guide/. Jika Anda dapat mengonfirmasi bahwa terjemahan tersebut masuk akal bagi Anda, atau meningkatkan terjemahan, silakan hubungi kami langsung di http://atomjump.org/wp/contact/, atau buat perubahan di https://src.atomjump.com/atomjump/atomjumpcom-content-only/. Masukan Anda sangat kami hargai.
 
 
 ## Pengantar

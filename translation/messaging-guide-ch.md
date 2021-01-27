@@ -10,7 +10,7 @@
 
 # 消息传递用户指南
 
-__注意：__ 本指南是英文版的机器翻译，网址为 http://atomjump.org/wp/user-guide/ 。如果您可以确定翻译对您有意义，或者可以改进翻译，请直接通过 http://atomjump.org/wp/contact/ 与我们联系，或通过 https://github.com/atomjump/atomjumpcom-content-only/ 。非常感谢您的投入。
+__注意：__ 本指南是英文版的机器翻译，网址为 http://atomjump.org/wp/user-guide/ 。如果您可以确定翻译对您有意义，或者可以改进翻译，请直接通过 http://atomjump.org/wp/contact/ 与我们联系，或通过 https://src.atomjump.com/atomjump/atomjumpcom-content-only/ 。非常感谢您的投入。
 
 
 ## 介绍

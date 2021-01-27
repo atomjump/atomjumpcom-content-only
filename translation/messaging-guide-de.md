@@ -10,7 +10,7 @@ falls die Server ausfallen sollten.
 
 # Messaging-Benutzerhandbuch
 
-__Hinweis:__ Dieses Handbuch ist eine maschinelle Übersetzung aus der englischen Version unter http://atomjump.org/wp/user-guide/. Wenn Sie bestätigen können, dass die Übersetzung für Sie sinnvoll ist, oder die Übersetzung verbessern können, kontaktieren Sie uns entweder direkt unter http://atomjump.org/wp/contact/ oder nehmen Sie die Änderungen unter https://github.com/atomjump/atomjumpcom-content-only/. Ihre Eingabe wird sehr geschätzt.
+__Hinweis:__ Dieses Handbuch ist eine maschinelle Übersetzung aus der englischen Version unter http://atomjump.org/wp/user-guide/. Wenn Sie bestätigen können, dass die Übersetzung für Sie sinnvoll ist, oder die Übersetzung verbessern können, kontaktieren Sie uns entweder direkt unter http://atomjump.org/wp/contact/ oder nehmen Sie die Änderungen unter https://src.atomjump.com/atomjump/atomjumpcom-content-only/. Ihre Eingabe wird sehr geschätzt.
 
 
 ## Einführung
