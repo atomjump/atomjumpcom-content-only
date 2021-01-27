@@ -8,31 +8,32 @@ in case the servers should be down.
 # Source Code
 
 ## Web Service Connector
-https://github.com/atomjump/loop
+https://src.atomjump.com/atomjump/loop
 
 ## Server
-https://github.com/atomjump/loop-server
+https://src.atomjump.com/atomjump/loop-server
 
 ## Fast Server
-https://github.com/atomjump/loop-server-fast
+https://src.atomjump.com/atomjump/loop-server-fast
 
 ## App
-https://github.com/atomjump/messaging
+https://src.atomjump.com/atomjump/messaging
 
 
 ## AtomJump's own plugins
 
 
-* https://github.com/atomjump/livewiki
-* https://github.com/atomjump/shortmail
-* https://github.com/atomjump/emoticons_large
-* https://github.com/atomjump/nags_reporter
-* https://github.com/atomjump/notifications
-* https://github.com/atomjump/sms_accept
-* https://github.com/atomjump/change_language
-* https://github.com/atomjump/help_is_coming
-* https://github.com/atomjump/rss_feed
-* https://github.com/atomjump/emoticons_basic
-* https://github.com/atomjump/inserter
-* https://github.com/atomjump/db_searcher
+* https://src.atomjump.com/atomjump/livewiki
+* https://src.atomjump.com/atomjump/shortmail
+* https://src.atomjump.com/atomjump/emoticons_large
+* https://src.atomjump.com/atomjump/nags_reporter
+* https://src.atomjump.com/atomjump/notifications
+* https://src.atomjump.com/atomjump/sms_accept
+* https://src.atomjump.com/atomjump/change_language
+* https://src.atomjump.com/atomjump/help_is_coming
+* https://src.atomjump.com/atomjump/rss_feed
+* https://src.atomjump.com/atomjump/emoticons_basic
+* https://src.atomjump.com/atomjump/inserter
+* https://src.atomjump.com/atomjump/db_searcher
+* https://src.atomjump.com/atomjump/hate_speech_detector
 

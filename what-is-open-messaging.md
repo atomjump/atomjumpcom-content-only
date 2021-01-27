@@ -24,7 +24,7 @@ You can sit back and relax. You don't have to be at the desk 24/7. We email or n
 ## It's flexible
 As a website owner, you can easily match the look and feel to your website; start up any number of unique messaging forums on the same site, and add any number of people into the discussion. See a Market Comparison of product features.
 
-https://docs.google.com/spreadsheets/d/17ioU7cVq2XnEieQEDWA-MJRhsPMlejepBBjz80vp07Q/edit#gid=0
+https://atomjump.com/wp/wp-content/uploads/2020/11/Open-Messaging-Feature-Comparison.pdf
 
 ## It's built to suit your lifestyle
 Relaxing on a beach? No problem. We're mobile first, but we also work on any device including desktops and tablets (yes iPads too!). Anybody from corporate IE desktop users, to Android or iPhone mobile users can enter their comments just as effectively.
@@ -35,17 +35,17 @@ But you choose whether you're sending publicly or privately. And you can respond
 ## Did we say, it's free?
 The server is available to download and install now.
 
-https://github.com/atomjump/loop-server/releases
+https://src.atomjump.com/atomjump/loop-server/releases
 
 However, if you prefer an easier life, you can choose our existing hosted version of the server at https://atomJump.com. You'll only pay for a hosted version if you want to read a subdomain's private messages or run a private forum. With this, you have any volume of messages and any number of operators.
 
 ## It's developer friendly
 If you're a front-end person, our simple 10 minute installation is the place to start.
-https://github.com/atomjump/loop#loop
+https://src.atomjump.com/atomjump/loop#loop
 
 Then add the messaging class to any one of your hyperlinks. You can optionally dig deep into the CSS to modify the look and feel to match your site. Or, for back-end, or administrators, you can install your own AtomJump Loop Server, 
 
-https://github.com/atomjump/loop-server/releases
+https://src.atomjump.com/atomjump/loop-server/releases
 
 which is completely free and open source, built in PHP/NodeJS. Add one of the many plugins, or develop a plugin yourself. If a plugin you need is not available yet, you can also add it to the Plugin Wishlist.
 
