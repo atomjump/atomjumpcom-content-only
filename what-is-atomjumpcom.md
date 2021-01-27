@@ -57,7 +57,7 @@ Private forums at xxxx.AtomJump.com are purchased at NZ$15 / year per page. You 
 
 Note: All prices are in New Zealand Dollars. As a guide, NZ$15 = US$10
 
-https://github.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
+https://src.atomjump.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
 
 Or contact webmaster AT atomjump.com.com
 

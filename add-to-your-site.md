@@ -61,4 +61,4 @@ Now, try adding this to your own site, by following the 3 steps below.
 <a class="comment-open" href="javascript:">Click me for messaging</a>
 ```
 
-Or for more details on integration with your site, see the AtomJump Loop project: https://github.com/atomjump/loop#loop
+Or for more details on integration with your site, see the AtomJump Loop project: https://src.atomjump.com/atomjump/loop#loop
