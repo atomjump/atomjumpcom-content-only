@@ -9,17 +9,17 @@ in case the servers should be down.
 
 * Demo: https://atomjump.com/wp/atomjump/demo.html
 * You can also use this jsfiddle https://jsfiddle.net/atomjump/a6cu5tv8/
-* Or see the full source https://github.com/atomjump/atomjump-messaging-example/blob/master/index.html of this demo page.
+* Or see the full source https://src.atomjump.com/atomjump/atomjump-messaging-example/blob/master/index.html of this demo page.
 
 Now, try adding this to your own site, by following the 3 steps below.
 1. Copy and paste the following into the <head> section of your HTML page:
 
 ```
 <!-- AtomJump Feedback Starts -->
-   <link rel="StyleSheet" href="https://d1kqf1zz9xutpn.cloudfront.net/atomjump-frontend/bootstrap.min.css" rel="stylesheet">
+   <link rel="StyleSheet" href="https://frontcdn.atomjump.com/atomjump-frontend/bootstrap.min.css" rel="stylesheet">
 	
 	<!-- AtomJump Feedback CSS -->
-	<link rel="StyleSheet" href="https://d1kqf1zz9xutpn.cloudfront.net/atomjump-frontend/comments-1.0.4.css?ver=1">
+	<link rel="StyleSheet" href="https://frontcdn.atomjump.com/atomjump-frontend/comments-1.0.4.css?ver=1">
 	
 	<!-- Bootstrap HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
@@ -33,17 +33,17 @@ Now, try adding this to your own site, by following the 3 steps below.
 	<script>
 		//Add your configuration here for AtomJump Feedback
 		var ajFeedback = {
-			"uniqueFeedbackId" : "aj_public_changeme",		//This can be anything globally unique to your company/page	
+			"uniqueFeedbackId" : "api0_public_changeme",		//This can be anything globally unique to your company/page (starting with apix)	
 			"myMachineUser" : "192.104.113.117:8",			
-			"server":  "https://AtomJump.com/api",
-			"cssFeedback": "https://d1kqf1zz9xutpn.cloudfront.net/atomjump-frontend/comments-1.0.4.css?ver=1",
-			"cssBootstrap": "https://d1kqf1zz9xutpn.cloudfront.net/atomjump-frontend/bootstrap.min.css"
+			"server":  "https://clst0.atomjump.com/api",
+			"cssFeedback": "https://frontcdn.atomjump.com/atomjump-frontend/comments-1.0.4.css?ver=1",
+			"cssBootstrap": "https://frontcdn.atomjump.com/atomjump-frontend/bootstrap.min.css"
 		}
 	</script>
-	<script type="text/javascript" src="https://d1kqf1zz9xutpn.cloudfront.net/atomjump-frontend/chat-1.0.9.js"></script>
+	<script type="text/javascript" src="https://frontcdn.atomjump.com/atomjump-frontend/chat-1.0.9.js"></script>
         <!--No svg support -->
         <!--[if lt IE 9]>
-          <script src="https://d1kqf1zz9xutpn.cloudfront.net/atomjump-frontend/chat-1.0.7.js"></script>
+          <script src="https://frontcdn.atomjump.com/atomjump-frontend/chat-1.0.7.js"></script>
         <![endif]-->
 <!-- AtomJump Feedback Ends -->
 ```

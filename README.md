@@ -21,14 +21,14 @@ A single-click-to-download (alpha) LiveWiki AtomJump Messaging appliance for Win
 
 ## VIP Service
 Do you want  dozens of server nodes, to handle high traffic loads? Try our VIP service.
-https://github.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
+https://src.atomjump.com/atomjump/atomjumpcom-content-only/blob/master/vip-hosting.md
 
 ## Download the Server
 The server software is free and open source, available for PHP5 or PHP7 on Apache & Linux servers. Or fine-tune your installation with NodeJS.
 
 Latest PHP server:
 
-https://github.com/atomjump/loop-server/releases
+https://src.atomjump.com/atomjump/loop-server/releases
 
 NoteJS fast server:
 
@@ -40,26 +40,26 @@ Select from a range of existing plugins. Then build your own additions to AtomJu
 
 Some current plugins:
 
-* https://github.com/atomjump/livewiki
-* https://github.com/atomjump/shortmail
-* https://github.com/atomjump/emoticons_large
-* https://github.com/atomjump/nags_reporter
-* https://github.com/atomjump/notifications
-* https://github.com/atomjump/sms_accept
-* https://github.com/atomjump/change_language
-* https://github.com/atomjump/help_is_coming
-* https://github.com/atomjump/rss_feed
-* https://github.com/atomjump/emoticons_basic
+* https://src.atomjump.com/atomjump/livewiki
+* https://src.atomjump.com/atomjump/shortmail
+* https://src.atomjump.com/atomjump/emoticons_large
+* https://src.atomjump.com/atomjump/nags_reporter
+* https://src.atomjump.com/atomjump/notifications
+* https://src.atomjump.com/atomjump/sms_accept
+* https://src.atomjump.com/atomjump/change_language
+* https://src.atomjump.com/atomjump/help_is_coming
+* https://src.atomjump.com/atomjump/rss_feed
+* https://src.atomjump.com/atomjump/emoticons_basic
 
 
 Plugin development details:
 
-https://github.com/atomjump/loop-server#plugins
+https://src.atomjump.com/atomjump/loop-server#plugins
 
 ## Front-end Integration
 Refer to our free AtomJump web-service to simplify your messaging installation. HTML and CSS, with an optional Wordpress integration. 
 
-https://github.com/atomjump/loop#loop
+https://src.atomjump.com/atomjump/loop#loop
 
 
 ## Feature Comparison
@@ -71,7 +71,7 @@ https://docs.google.com/spreadsheets/d/17ioU7cVq2XnEieQEDWA-MJRhsPMlejepBBjz80vp
 
 See AtomJumpMessagingSystemOverview.pdf in this repository.
 
-https://github.com/atomjump/atomjumpcom-content-only/blob/master/AtomJumpMessagingSystemOverview.pdf
+https://src.atomjump.com/atomjump/atomjumpcom-content-only/blob/master/AtomJumpMessagingSystemOverview.pdf
 
 
 
