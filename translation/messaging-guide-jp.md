@@ -28,7 +28,7 @@ AtomJumpメッセージングは​​、「ハイブリッド」メッセージ
 オプションのAtomJumpメッセージングアプリを入手するには：
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## メッセージを投稿します
 AtomJump.comを使用している場合は、大きな青い「チャット」ボタンをクリックしてフォーラムに参加してください。 AtomJumpソフトウェアを使用している他のサイトでは、特定のリンクをクリックすると、メッセージングポップアップが表示されます。
@@ -224,7 +224,7 @@ iPhoneで通知が届かない場合は、スマートフォンの[設定]> [通
 電話を使用している場合は、AtomJumpメッセージングアプリをダウンロードすることをお勧めします。
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 まず、ウェブ版のフォーラムの[設定]でアカウントを作成する必要があります。
 

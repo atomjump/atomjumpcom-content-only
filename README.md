@@ -81,4 +81,4 @@ iPhone:
 https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
 
 Android:
-https://play.google.com/store/apps/details?id=com.atomjump.messaging
+https://play.google.com/store/apps/details?id=org.atomjump.messaging

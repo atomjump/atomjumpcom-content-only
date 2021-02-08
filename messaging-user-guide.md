@@ -25,7 +25,7 @@ To get started you can try a forum on e.g. https://atomjump.com
 To get the optional AtomJump Messaging app: 
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## Post a Message
 If you’re on AtomJump.com click on the large blue ‘chat’ button to enter a forum. Other sites using AtomJump software will show the messaging pop-up after you click a particular link.
@@ -221,7 +221,7 @@ If you aren’t getting notifications on an iPhone, you may need to go into your
 If you are on your phone, we would recommend downloading the AtomJump Messaging app.
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 You will first need to create an account on the web version of your forum, in ‘Settings’.
 

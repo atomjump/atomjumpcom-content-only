@@ -28,7 +28,7 @@ __দ্রষ্টব্য:__ এই গাইডটি http://atomjump.org/w
 Alচ্ছিক অ্যাটমম্প্প মেসেজিং অ্যাপটি পেতে:
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## একটি বার্তা পোস্ট করুন
 আপনি যদি অ্যাটমজম্প.কম এ থাকেন তবে ফোরামে প্রবেশের জন্য বড় নীল ‘চ্যাট’ বোতামে ক্লিক করুন। অ্যাটমম্প্প সফ্টওয়্যার ব্যবহার করে অন্যান্য সাইটগুলি আপনি কোনও নির্দিষ্ট লিঙ্কটি ক্লিক করার পরে বার্তাপ্রেরণ পপ-আপ দেখায়।
@@ -225,7 +225,7 @@ Allyচ্ছিকভাবে, আপনি অ্যাকাউন্টে 
 আপনি যদি আপনার ফোনে থাকেন তবে আমরা অ্যাটমম্প্প মেসেজিং অ্যাপটি ডাউনলোড করার পরামর্শ দেব।
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 আপনাকে প্রথমে আপনার ফোরামের ওয়েব সংস্করণে, "সেটিংসে" একটি অ্যাকাউন্ট তৈরি করতে হবে।
 

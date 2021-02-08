@@ -28,7 +28,7 @@ AtomJump Messaging是一种“混合”消息解决方案。即使看起来有�
 要获取可选的AtomJump Messaging应用程序：
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## 发表信息
 如果您在AtomJump.com上，请点击蓝色的大“聊天”按钮以进入论坛。单击特定链接后，其他使用AtomJump软件的站点将显示消息弹出窗口。
@@ -225,7 +225,7 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 如果您正在使用手机，我们建议您下载AtomJump Messaging应用程序。
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 您首先需要在论坛的网络版本的“设置”中创建一个帐户。
 

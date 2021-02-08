@@ -145,7 +145,7 @@ We also recommend updating your core Messaging Server software  immediately afte
 Log in and enter the command:
 
 ```
-eval "$(curl -fsSL -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/atomjump/live-wiki-updates/master/update)"
+eval "$(curl -fsSL  https://raw.githubusercontent.com/atomjump/live-wiki-updates/master/update)"
 ```
 
 Then, click the following link to run a one-time update of your database:
@@ -153,6 +153,7 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/update-indexes.php
  
 [or using your own IP address at http://myipaddress:5100/vendor/atomjump/loop-server/update-indexes.php]
 
+Next Step: You should now carry out a software update, to resolve known security issues (see the section below).
 
 
 ## Notifications
@@ -216,9 +217,9 @@ Alternatively, once you associate a domain with the server, the problem usually 
 
 2. You cannot use ampersands '&' in the title of a forum. Please use an alternative.
 
-3. Versions prior to 0.6.1 have a known security issue, so we strongly recommend using versions >= 0.6.1
+3. Vertically oriented images might be blurry. Please see 'Software Updates' above, and run an update on the Messaging Server software to resolve this issue.
 
-4. Vertically oriented images might be blurry. Please see 'Software Updates' above, and run an update on the Messaging Server software to resolve this issue.
+4. Versions prior to 0.7.8 have a security issue, if notifications are set up via the app, so we strongly recommend carrying out a software update immediately. Please see 'Software Updates' above to resolve this issue.
 
 
 ## Prior Versions

@@ -28,7 +28,7 @@ Untuk memulai, Anda dapat mencoba forum di mis. https://atomjump.com
 Untuk mendapatkan aplikasi Olahpesan AtomJump:
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## Posting Pesan
 Jika Anda berada di AtomJump.com, klik tombol 'chat' biru besar untuk masuk ke forum. Situs lain yang menggunakan perangkat lunak AtomJump akan menampilkan pesan pop-up setelah Anda mengklik link tertentu.
@@ -224,7 +224,7 @@ Jika Anda tidak mendapatkan notifikasi di iPhone, Anda mungkin perlu membuka 'Se
 Jika Anda sedang menggunakan ponsel, kami sarankan untuk mengunduh aplikasi AtomJump Messaging.
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 Pertama-tama Anda perlu membuat akun di versi web forum Anda, di 'Pengaturan'.
 

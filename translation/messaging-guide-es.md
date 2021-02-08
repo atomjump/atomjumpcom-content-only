@@ -28,7 +28,7 @@ Para comenzar, puede probar un foro en, por ejemplo, https://atomjump.com
 Para obtener la aplicación de mensajería AtomJump opcional:
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## Deja un mensaje
 Si estás en AtomJump.com, haz clic en el botón azul grande "chat" para ingresar a un foro. Otros sitios que utilizan el software AtomJump mostrarán la ventana emergente de mensajes después de hacer clic en un enlace en particular.
@@ -226,7 +226,7 @@ Si no recibe notificaciones en un iPhone, es posible que deba ir a "Configuraci�
 Si está en su teléfono, le recomendamos que descargue la aplicación de mensajería AtomJump.
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 Primero deberá crear una cuenta en la versión web de su foro, en "Configuración".
 

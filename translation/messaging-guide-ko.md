@@ -28,7 +28,7 @@ AtomJump Messaging은‘하이브리드’메시징 솔루션입니다. 휴대�
 선택적 AtomJump 메시징 앱을 얻으려면 :
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 ## 문자를 보내다
 AtomJump.com에있는 경우 큰 파란색 '채팅'버튼을 클릭하여 포럼에 입장하세요. AtomJump 소프트웨어를 사용하는 다른 사이트에서는 특정 링크를 클릭하면 메시지 팝업이 표시됩니다.
@@ -224,7 +224,7 @@ iPhone에서 알림을받지 못한 경우 휴대 전화의 '설정> 알림> Ato
 휴대 전화를 사용 중이라면 AtomJump Messaging 앱을 다운로드하는 것이 좋습니다.
 
 * https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=com.atomjump.messaging
+* https://play.google.com/store/apps/details?id=org.atomjump.messaging
 
 먼저 포럼의 웹 버전 인 '설정'에서 계정을 만들어야합니다.
 
