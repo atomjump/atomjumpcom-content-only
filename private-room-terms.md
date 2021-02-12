@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The AtomJump Foundation is a non-profit organization, which publishes free and open source software to allow messaging communications over the web. The Foundation provides the ability to freely download this software is various forms e.g. an Appliance http://atomjump.org/wp/atomjump-messaging-appliance/, or as server software http://atomjump.org/wp/server-installation-guide/, and it also offers a free hosted version on publicly open forums https://atomjump.com.
+The AtomJump Foundation is a non-profit organization, which publishes free and open source software to allow messaging communications over the web. The Foundation provides the ability to freely download this software in various forms e.g. an Appliance http://atomjump.org/wp/atomjump-messaging-appliance/, or as server software http://atomjump.org/wp/server-installation-guide/, and it also offers a free hosted version on publicly open forums https://atomjump.com.
 
 AtomJump Messaging Private Rooms are one hosted option that the Foundation provides, where we maintain the physical servers (currently located in New Zealand), and paying customers rent a space on these servers to host a messaging forum for their own private group conversations. Any income we earn from this rental relationship is fed back into the infrastructure for this service, i.e. the server hardware, power, network bandwidth, and essential Foundation staff salaries. There are no shareholders in the Foundation, and therefore no individuals who are financially motivated (at least, over-and-above their industry-standard salary).
 
