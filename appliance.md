@@ -160,37 +160,8 @@ Next Step: You should now carry out a software update, to resolve known security
 
 By default, your Appliance will not be able to send emails (even if it gives some messages to say that you should confirm your email address. You presently do not have to confirm your email address to keep your account). To enable email sending you should see the 'Configuration' section, above.
 
-In order to get popup-notifications to your Android or iPhones from your Messaging Appliance, you will need to add your 'push notification' certificate keys from Google and Apple.
+In order to get popup-notifications to your Android or iPhones from your Messaging Appliance, we currently recommend using an email address that you don't mind having an audible/popup notification on from an email app. We are working on extending the AtomJump Messaging app itself for live notifications from your appliance. You can expect this feature to be released in 2021.
 
-__For Android:__
-Create a Firebase project on Google.
-Go to https://console.firebase.google.com/project/(your-project-id)/settings/cloudmessaging
-You can find the API KEY in: (gear-next-to-project-name) > Project Settings > Cloud Messaging Server Key is the API key.
-
-Then log in to your server,
-
-```
-sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/config/config.json
-```
-
-Please see the 'Configuration' instructions above for details on entering your keys.
-
-__For iPhones:__
-These instructions may help getting a key from Apple, but you can also try searching the internet for 'Apple push notification certificates'.
-
-Once you have your .pem file, log in to your server,
-
-```
-sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/pushcert.pem
-```
-
-and write in your file.
-
-Note: you can see a sample certficate file with:
-
-```
-sudo nano /jet/www/default/vendor/atomjump/loop-server/plugins/notifications/pushcertSAMPLE.pem
-```
 
 ## Importing Into Cloud Systems
 
