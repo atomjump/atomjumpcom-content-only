@@ -114,7 +114,58 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/
 * __Security__ 	The software should be run within an internal intranet, for any secure applications. A secure https server can also be used, although it needs an individual key installation.
 
 
-## Configuration
+
+
+## Software Updates and Configuration
+We recommend bringing your system up-to-date immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation.
+
+Log in and enter the commands:
+
+```
+sudo apt-get update; sudo apt-get upgrade
+```
+
+
+We also recommend updating your core Messaging Server software immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation. It will also fix some known issues (as listed below).
+
+Log in and enter the command:
+
+```
+eval "$(curl -fsSL  https://raw.githubusercontent.com/atomjump/live-wiki-updates/master/update)"
+```
+
+It will give you options to update:
+1. Language files
+2. Notification software for popup messages on phones/desktops  (can be installed, and also see the port forwarding section in 'Notifications', below)
+3. Notification settings
+4. Email configurations   (have an 'SMTP' server ready to use prior to configuring this e.g. an account with smtp2go.com)
+
+
+
+## Notifications
+
+To enable email sending you should see the 'Software Updates and Configuration' section, above. Note: by default, your Appliance will not be able to send emails (and without email configured, it will give some messages to say that you should confirm your email address once you sign up; although presently you do not have to confirm your email address to keep your account).
+
+In order to get popup-notifications to your Android or iPhones (or your desktop) from your Messaging Appliance, install the Notification software in the 'Software Updates and Configuration', above. Once this is done, you need to open two more Port Forwards in VirtualBox > Network Settings > Advanced > Port Forwarding. Ports 8000 and 5566:
+
+```
+Protocol: TCP
+Host IP: 127.0.0.1
+Host Port: 8000
+Guest IP: 10.0.2.15 (or the IP address found after running 'hostname -I' within the server)
+Guest Port: 8000
+```
+
+```
+Protocol: TCP
+Host IP: 127.0.0.1
+Host Port: 5566
+Guest IP: 10.0.2.15 (or the IP address found after running 'hostname -I' within the server)
+Guest Port: 5566
+```
+
+
+## Advanced Configuration
 Log in, and enter the command:
 ```
 sudo nano /jet/www/default/vendor/atomjump/loop-server/config/config.json
@@ -129,38 +180,6 @@ Warning: changes to the configuration files can make your system in-operable. We
 ```
 sudo cp /jet/www/default/vendor/atomjump/loop-server/config/config.json /jet/www/default/vendor/atomjump/loop-server/config/config-backup.json
 ```
-
-## Software Updates
-We recommend bringing your system up-to-date immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation.
-
-Log in and enter the commands:
-
-```
-sudo apt-get update; sudo apt-get upgrade
-```
-
-
-We also recommend updating your core Messaging Server software  immediately after installation, and then at regular intervals (e.g. monthly) after that. This is particularly important if this instance is visible over the internet, as opposed to a local intranet installation. It will also fix some known issues (as listed below).
-
-Log in and enter the command:
-
-```
-eval "$(curl -fsSL  https://raw.githubusercontent.com/atomjump/live-wiki-updates/master/update)"
-```
-
-Then, click the following link to run a one-time update of your database:
-http://127.0.0.1:5100/vendor/atomjump/loop-server/update-indexes.php
- 
-[or using your own IP address at http://myipaddress:5100/vendor/atomjump/loop-server/update-indexes.php]
-
-Next Step: You should now carry out a software update, to resolve known security issues (see the section below).
-
-
-## Notifications
-
-By default, your Appliance will not be able to send emails (even if it gives some messages to say that you should confirm your email address. You presently do not have to confirm your email address to keep your account). To enable email sending you should see the 'Configuration' section, above.
-
-In order to get popup-notifications to your Android or iPhones from your Messaging Appliance, we currently recommend using an email address that you don't mind having an audible/popup notification on from an email app. We are working on extending the AtomJump Messaging app itself for live notifications from your appliance. You can expect this feature to be released in 2021.
 
 
 ## Importing Into Cloud Systems
@@ -191,6 +210,10 @@ Alternatively, once you associate a domain with the server, the problem usually 
 3. Vertically oriented images might be blurry. Please see 'Software Updates' above, and run an update on the Messaging Server software to resolve this issue.
 
 4. Versions prior to 0.7.8 have a security issue, if notifications are set up via the app, so we strongly recommend carrying out a software update immediately. Please see 'Software Updates' above to resolve this issue.
+
+5. For versions prior to 0.7.7 see Software Updates above, and then click the following link to run a one-time update of your database:
+http://127.0.0.1:5100/vendor/atomjump/loop-server/update-indexes.php
+[or using your own IP address at http://myipaddress:5100/vendor/atomjump/loop-server/update-indexes.php]
 
 
 ## Prior Versions
