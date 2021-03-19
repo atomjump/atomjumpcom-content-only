@@ -103,15 +103,16 @@ http://127.0.0.1:5100/vendor/atomjump/loop-server/
 * __Simultaneous Users__ 	1 up to an approx maximum of 100, depending on usage patterns
 * __Application Software__	AtomJump Messaging Server 2.6.7
 * __Client Software__  Mobile browsers (e.g. iPhone or Android) / Desktop browsers (incl. Chrome / Firefox / Safari / Edge /IE). Optional AtomJump Messaging app for mobile notifications.
-* __Default Plugins__ 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (English and Spanish included), Immediate Auto-Responder
+* __Default Plugins__ 	Large Stickers, App Notifications, Basic Emoticons, Language Switcher (15 languages: English, French, Japanese, German, Italian, Chinese Simplified, Chinese Traditional, Hindi, Punjabi, Bengali, Korean, Spanish, Portuguese, Russian, Indonesian), Immediate Auto-Responder
 * __Default Interface__ 	LiveWiki
 * __Access__ 	Super-user file-level access, Database access on request, AtomJump support access.
 * __Support__ 	US$ 64 (NZ$100) for TeamViewer-based remote access, plus prices for individual tasks (see the LiveWiki add-ons)
 * __Price__ 	Free
 * __Number of messages__ 	Approx 10 million under standard disk space
 * __Number of shared images__ 	Approx 50,000 under standard disk space
-* __Software Updates__ 	Manual, Debian OS updates. Application updates can be done by Support.
+* __Software Updates__ 	Manual updates, Debian OS updates. Updates can optionally be done by Support.
 * __Security__ 	The software should be run within an internal intranet, for any secure applications. A secure https server can also be used, although it needs an individual key installation.
+* __Client Software__ Mobile browsers (e.g. iPhone or Android), Desktop browsers (incl. Chrome / Firefox / Safari / Edge /IE). AtomJump Messaging app for mobile/desktop notifications.
 
 
 
