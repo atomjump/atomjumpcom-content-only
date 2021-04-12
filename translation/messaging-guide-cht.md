@@ -218,7 +218,8 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 <b>故障排除</b>
 
-如果您沒有在iPhone上收到通知，則可能需要進入手機的“設置>通知> AtomJump消息傳遞”，然後將通知設置切換為“允許通知”。
+* 如果您沒有在__iPhone__上收到通知，則可能需要進入手機的“設置>通知>AtomJump Messaging”，然後將通知設置切換為“允許通知”。
+* 如果您沒有在__Android__手機上收到通知，請使用“AtomJump”樣式的消息（而不是Android本機樣式的消息），直到打開該應用程序為止，否則您的應用程序可能是 設置為在後台休眠。 尤其是在三星手機上可能會發生這種情況，您可能需要將“AtomJump Messaging”應用添加到“從不睡覺”應用列表中。 請參閱<a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">更多詳細信息</a>這裡。如果仍然無法解決問題，則可以嘗試“設置＆gt; 出廠設置”，並在詢問時選擇“ Android”本機樣式消息，這是您首次配對時的結果。
 
 ## 保存論壇快捷方式
 如果您正在使用手機，我們建議您下載AtomJump Messaging應用程序。

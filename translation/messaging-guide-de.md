@@ -218,7 +218,8 @@ Ein Beispiel hierfür finden Sie in <a href="https://youtu.be/HncohJFIA7E"> dies
 
 <b>Fehlerbehebung</b>
 
-Wenn Sie auf einem iPhone keine Benachrichtigungen erhalten, müssen Sie möglicherweise die Einstellungen Ihres Telefons unter "Einstellungen> Benachrichtigungen> AtomJump Messaging" aufrufen und die Benachrichtigungseinstellungen auf "Benachrichtigungen zulassen" ändern.
+* Wenn Sie auf einem __iPhone__ keine Benachrichtigungen erhalten, müssen Sie möglicherweise die Einstellungen &gt; Benachrichtigungen &gt; AtomJump Messaging' und ändern Sie die Benachrichtigungseinstellungen auf' Benachrichtigungen zulassen '. 
+* Wenn Sie auf einem __Android__ -Telefon keine Benachrichtigungen erhalten, indem Sie die Nachrichten im AtomJump-Stil (anstelle der Nachrichten im nativen Android-Stil) verwenden, bis Sie die App öffnen, ist dies möglicherweise Ihre App im Hintergrund schlafen. Dies kann insbesondere auf Samsung-Handys vorkommen, und Sie müssen möglicherweise die App "AtomJump Messaging" zu Ihrer Liste der Apps "Nie schlafen" hinzufügen. Weitere Informationen finden Sie unter <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">weitere Details</a> Hier. Wenn dies immer noch nicht funktioniert, können Sie versuchen, "Einstellungen &gt; Auf Werkseinstellungen zurücksetzen und beim ersten Pairing die Nachrichten im nativen Android-Stil auswählen, wenn Sie dazu aufgefordert werden. 
 
 ## So speichern Sie eine Forum-Verknüpfung
 Wenn Sie auf Ihrem Telefon sind, empfehlen wir Ihnen, die AtomJump Messaging-App herunterzuladen.

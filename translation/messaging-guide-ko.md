@@ -218,7 +218,8 @@ Android 및 iOS 용 '팝업 알림 받기'링크가 있습니다. 앱을 클릭�
 
 <b>문제 해결</b>
 
-iPhone에서 알림을받지 못한 경우 휴대 전화의 '설정> 알림> AtomJump 메시지'로 이동하여 알림 설정을 '알림 허용'으로 전환해야 할 수 있습니다.
+* __iPhone__에서 알림을받지 못하는 경우 휴대 전화의 '설정 &gt; 알림 &gt; AtomJump Messaging '을 선택하고 알림 설정을'알림 허용 '으로 전환합니다. 
+* __Android__ 휴대 전화에서 알림을받지 못하는 경우 'AtomJump'스타일 메시지 (Android 기본 스타일 메시지가 아님)를 사용하여 앱을 열 때까지 앱이 백그라운드에서 절전 모드로 설정합니다. 이는 특히 삼성 휴대폰에서 발생할 수 있으며 '절대 잠들지 않는'앱 목록에 'AtomJump Messaging'앱을 추가해야 할 수 있습니다. <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">자세한 내용</a>을 참조하세요. 여기. 그래도 작동하지 않으면 '설정 &gt; 초기화 '를 클릭하고 처음 페어링 할 때'Android '네이티브 스타일 메시지를 선택합니다. 
 
 ## 포럼 바로 가기를 저장하려면
 휴대 전화를 사용 중이라면 AtomJump Messaging 앱을 다운로드하는 것이 좋습니다.

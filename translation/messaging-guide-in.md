@@ -218,7 +218,8 @@ Lihat <a href="https://youtu.be/HncohJFIA7E">video ini</a> untuk contoh aksinya.
 
 <b>Mengatasi Masalah</b>
 
-Jika Anda tidak mendapatkan notifikasi di iPhone, Anda mungkin perlu membuka 'Settings> Notifications> AtomJump Messaging', dan mengalihkan setelan notifikasi ke 'Allow Notifications'.
+*  Jika Anda tidak mendapatkan pemberitahuan pada __iPhone__, Anda mungkin perlu membuka 'Pengaturan &gt; Pemberitahuan &gt; AtomJump Messaging', dan alihkan pengaturan notifikasi ke 'Izinkan Notifikasi'. 
+*  Jika Anda tidak mendapatkan pemberitahuan di ponsel __Android__, menggunakan pesan gaya 'AtomJump' (bukan pesan gaya asli Android) hingga Anda membuka aplikasi, aplikasi Anda mungkin diatur untuk tidur di latar belakang. Hal ini dapat terjadi pada ponsel Samsung, khususnya, dan Anda mungkin perlu menambahkan aplikasi 'AtomJump Messaging' ke daftar aplikasi 'tidak pernah tidur'. Lihat <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">detail selengkapnya</a> sini. Jika ini masih tidak berhasil, Anda dapat mencoba 'Pengaturan &gt; Factory Reset', dan pilih pesan bergaya asli 'Android' ketika ditanya, saat Anda memasangkan untuk pertama kalinya.
 
 ## Untuk Menyimpan Pintasan Forum
 Jika Anda sedang menggunakan ponsel, kami sarankan untuk mengunduh aplikasi AtomJump Messaging.

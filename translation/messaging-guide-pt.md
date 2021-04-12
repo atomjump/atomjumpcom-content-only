@@ -219,7 +219,8 @@ Veja <a href="https://youtu.be/HncohJFIA7E">este vídeo</a> para ver um exemplo 
 
 <b>Solução de problemas</b>
 
-Se você não estiver recebendo notificações em um iPhone, pode ser necessário ir para ‘Configurações> Notificações> Mensagens do AtomJump’ em seu telefone e alterar as configurações de notificação para ‘Permitir notificações’.
+* Se você não estiver recebendo notificações em um __iPhone__, pode ser necessário ir para 'Configurações &gt; Notificações &gt; AtomJump Messaging' e altere as configurações de notificação para 'Permitir notificações'. 
+* Se você não estiver recebendo notificações em um telefone __Android__, usando as mensagens do estilo 'AtomJump' (em vez das mensagens nativas do Android) até abrir o aplicativo, seu aplicativo pode definido para dormir em segundo plano. Isso pode acontecer em telefones Samsung, em particular, e você pode precisar adicionar o aplicativo 'AtomJump Messaging' à sua lista de aplicativos 'nunca dorme'. Veja <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">mais detalhes</a> aqui. Se ainda não funcionar, você pode tentar uma opção 'Configurações &gt; Redefinição de fábrica' e selecione as mensagens de estilo nativo 'Android' quando solicitado, conforme você emparelha pela primeira vez. 
 
 ## Para salvar um atalho do fórum
 Se você estiver no seu telefone, recomendamos baixar o aplicativo AtomJump Messaging.
