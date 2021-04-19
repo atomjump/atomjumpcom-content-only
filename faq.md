@@ -171,7 +171,7 @@ Our New Zealand facility has various protection measures in place, including
 * backup battery power-supplies, should our mains power cut out
 * isolated databases, so that if there is a loss of service from one segment of the network, other segments should continue operating
 
-Approximately 90% of New Zealand’s electricity comes from renewable energy sources.
+Approximately 82% of New Zealand’s electricity comes from renewable energy sources.
 
 Apart from the server-side data, which holds the messages themselves, your browser will store your user’s login approval, in it’s cookies storage. Note: If you don’t want other people to have access to your account and groups, you should ‘logout’ at the end of the session from the ‘Settings’ page.
 
