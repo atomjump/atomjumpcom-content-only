@@ -64,7 +64,7 @@ https://src.atomjump.com/atomjump/loop#loop
 
 ## Feature Comparison
 
-https://docs.google.com/spreadsheets/d/17ioU7cVq2XnEieQEDWA-MJRhsPMlejepBBjz80vp07Q/edit?usp=sharing
+See Open-Messaging-Feature-Comparison.pdf in this repository.
 
 
 ## System Overview
