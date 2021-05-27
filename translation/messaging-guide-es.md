@@ -210,8 +210,6 @@ Esto significa que cualquier mensaje personal para esta cuenta emitirá un sonid
 
 Toque esta pestaña para obtener una versión completa del mensaje y luego toque <span class="notranslate">‘Open Forum’</span> para ingresar al foro en sí, lo que le permite responder.
 
-Nota: solo puede iniciar sesión en un dispositivo a la vez.
-
 Para <b>detener las notificaciones de mensajes</b> en cualquier momento, puede cerrar sesión en la aplicación. Las notificaciones de mensajes se enviarán por correo electrónico mientras esté desconectado. Al volver a iniciar sesión, se iniciarán las notificaciones nuevamente.
 
 Puede suscribirse a cualquier número de foros. Consulte <a href="#become-owner">"Para convertirse en un suscriptor del foro"</a> más arriba.

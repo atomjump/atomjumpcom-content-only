@@ -208,8 +208,6 @@ Ciò significa che qualsiasi messaggio personale per questo account emetterà un
 
 Tocca questa scheda per una versione completa del messaggio, quindi tocca <span class="notranslate">‘Open Forum’</span> per accedere al forum stesso, che ti consente di rispondere.
 
-Nota: puoi accedere solo su un dispositivo alla volta.
-
 Per <b>interrompere le notifiche dei messaggi</b>in qualsiasi momento puoi disconnetterti dall'app. Le notifiche dei messaggi verranno inviate tramite e-mail mentre sei disconnesso. Effettuando nuovamente l'accesso, le notifiche verranno nuovamente avviate.
 
 Puoi iscriverti a qualsiasi numero di forum. Vedi <a href="#become-owner">"Per diventare un abbonato al forum"</a> sopra.

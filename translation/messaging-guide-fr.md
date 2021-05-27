@@ -208,8 +208,6 @@ Cela signifie que tous les messages personnels pour ce compte émettront un son 
 
 Appuyez sur cet onglet pour obtenir une version complète du message, puis appuyez sur <span class="notranslate">‘Open Forum’</span> pour accéder au forum lui-même, ce qui vous permet de répondre.
 
-Remarque: vous ne pouvez être connecté que sur un seul appareil à la fois.
-
 Pour <b>arrêter les notifications de messages</b> à tout moment, vous pouvez vous déconnecter de l'application. Les notifications de message seront envoyées par e-mail lorsque vous êtes déconnecté. La reconnexion redémarrera les notifications.
 
 Vous pouvez vous abonner à un nombre illimité de forums. Voir <a href="#become-owner"> "Pour devenir abonné au forum"</a> ci-dessus.

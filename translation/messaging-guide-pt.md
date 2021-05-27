@@ -209,8 +209,6 @@ Isso significa que todas as mensagens pessoais para esta conta farão um som de 
 
 Toque nesta guia para obter uma versão completa da mensagem e, em seguida, toque em <span class="notranslate">‘Open Forum’</span> para entrar no próprio fórum, que permite que você responda.
 
-Nota: você só pode estar conectado em um dispositivo por vez.
-
 Para <b>interromper as notificações de mensagem</b> a qualquer momento, você pode sair do aplicativo. As notificações de mensagens serão feitas por e-mail enquanto você estiver desconectado. O login novamente iniciará as notificações novamente.
 
 Você pode se inscrever em qualquer número de fóruns. Consulte <a href="#become-owner">‘Para se tornar um assinante do fórum’</a> acima.

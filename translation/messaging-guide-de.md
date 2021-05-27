@@ -208,8 +208,6 @@ Dies bedeutet, dass alle persönlichen Nachrichten für dieses Konto einen Ping-
 
 Tippen Sie auf diese Registerkarte, um eine Vollversion der Nachricht anzuzeigen, und tippen Sie anschließend auf <span class="notranslate">‘Open Forum’</span>, um das Forum selbst aufzurufen, in dem Sie antworten können.
 
-Hinweis: Sie können jeweils nur auf einem Gerät angemeldet sein.
-
 Um <b>Nachrichtenbenachrichtigungen</b> jederzeit zu stoppen, können Sie sich von der App abmelden. Nachrichtenbenachrichtigungen werden per E-Mail gesendet, während Sie abgemeldet sind. Wenn Sie sich erneut anmelden, werden die Benachrichtigungen erneut gestartet.
 
 Sie können beliebig viele Foren abonnieren. Siehe oben <a href="#become-owner"> "Forum-Abonnent werden" </a>.

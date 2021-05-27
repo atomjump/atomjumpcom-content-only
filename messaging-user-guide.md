@@ -205,8 +205,6 @@ This means any personal messages for this account will make a ping sound on your
 
 Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 
-Note: you can only be logged in on one device at a time.
-
 To <b>stop message notifications</b> at any time you can log out of the app. Message notifications will be made by email while you are logged out. Logging back in will start notifications again.
 
 You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.

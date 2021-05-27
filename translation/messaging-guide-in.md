@@ -208,8 +208,6 @@ Artinya, setiap pesan pribadi untuk akun ini akan membuat suara ping di ponsel A
 
 Ketuk tab ini untuk versi lengkap dari pesan, lalu ketuk <span class="notranslate">‘Open Forum’</span> untuk masuk ke forum itu sendiri, yang memungkinkan Anda untuk merespons.
 
-Catatan: Anda hanya dapat masuk di satu perangkat dalam satu waktu.
-
 Untuk <b>menghentikan pemberitahuan pesan</b> kapan pun Anda dapat keluar dari aplikasi. Pemberitahuan pesan akan dibuat melalui email saat Anda keluar. Masuk kembali akan memulai pemberitahuan lagi.
 
 Anda dapat berlangganan ke sejumlah forum. Lihat <a href="#become-owner">‘Menjadi Pelanggan Forum’</a> di atas.
