@@ -8,7 +8,9 @@ in case the servers should be down.
 
 # Introduction to AtomJump.com
 
-AtomJump.com is a well tuned installation of the free open-source AtomJump Loop Server.
+AtomJump.com is a well tuned installation of the free open-source AtomJump.org software. The installation is centered in New Zealand, where the servers use 100% renewable energy, and the whole site is a globally distributed array of independent messaging servers. 
+
+Each server runs on low-energy mobile-phone-based microprocessors, and should any one server or network fail it's impact will be limited to that local area only, and not the rest of the grid. More information is available in this Whitepaper. (See messaging-crisis-whitepaper.md)
 
 ## Get Commenting
 It is free to chat publicly with your family, group or co-workers on your own group. Also see the Messaging User Guide for specific instructions.
