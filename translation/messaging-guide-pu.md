@@ -210,7 +210,7 @@ __``ਬਣਾਓ``__ ਦਿਓ
 
 ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਫੋਰਮ ਦੀ ਗਾਹਕੀ ਲੈ ਸਕਦੇ ਹੋ. ਉੱਪਰ <a href="#become-owner">‘ਇੱਕ ਫੋਰਮ ਗਾਹਕ ਬਣਨ ਲਈ’</a> ਵੇਖੋ।
 
-ਇਸ ਦੀ ਕਿਰਿਆ ਦੀ ਇੱਕ ਉਦਾਹਰਣ ਲਈ <a href="https://youtu.be/HncohJFIA7E">ਇਹ ਵੀਡੀਓ</a> ਦੇਖੋ.
+ਇਸ ਦੀ ਕਿਰਿਆ ਦੀ ਇੱਕ ਉਦਾਹਰਣ ਲਈ <a href="https://youtu.be/HncohJFIA7E">ਇਹ ਵੀਡੀਓ</a> ਦੇਖੋ. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ</b>
 

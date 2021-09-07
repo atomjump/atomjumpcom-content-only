@@ -212,7 +212,7 @@ Um <b>Nachrichtenbenachrichtigungen</b> jederzeit zu stoppen, können Sie sich v
 
 Sie können beliebig viele Foren abonnieren. Siehe oben <a href="#become-owner"> "Forum-Abonnent werden" </a>.
 
-Ein Beispiel hierfür finden Sie in <a href="https://youtu.be/HncohJFIA7E"> diesem Video </a>.
+Ein Beispiel hierfür finden Sie in <a href="https://youtu.be/HncohJFIA7E"> diesem Video </a>. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Fehlerbehebung</b>
 

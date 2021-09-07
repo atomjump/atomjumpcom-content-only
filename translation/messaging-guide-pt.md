@@ -213,7 +213,7 @@ Para <b>interromper as notificações de mensagem</b> a qualquer momento, você 
 
 Você pode se inscrever em qualquer número de fóruns. Consulte <a href="#become-owner">‘Para se tornar um assinante do fórum’</a> acima.
 
-Veja <a href="https://youtu.be/HncohJFIA7E">este vídeo</a> para ver um exemplo disso em ação.
+Veja <a href="https://youtu.be/HncohJFIA7E">este vídeo</a> para ver um exemplo disso em ação. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Solução de problemas</b>
 

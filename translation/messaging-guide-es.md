@@ -214,7 +214,7 @@ Para <b>detener las notificaciones de mensajes</b> en cualquier momento, puede c
 
 Puede suscribirse a cualquier número de foros. Consulte <a href="#become-owner">"Para convertirse en un suscriptor del foro"</a> más arriba.
 
-Vea <a href="https://youtu.be/HncohJFIA7E">este video</a> para ver un ejemplo de esto en acción.
+Vea <a href="https://youtu.be/HncohJFIA7E">este video</a> para ver un ejemplo de esto en acción. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Solución de problemas</b>
 

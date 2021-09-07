@@ -212,7 +212,7 @@ __``Войти``__ Создает
 
 Вы можете подписаться на любое количество форумов. См. <a href="#become-owner">«Чтобы стать подписчиком форума»</a> выше.
 
-См. <a href="https://youtu.be/HncohJFIA7E">это видео</a>, чтобы увидеть пример этого в действии.
+См. <a href="https://youtu.be/HncohJFIA7E">это видео</a>, чтобы увидеть пример этого в действии. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Устранение неполадок</b>
 

@@ -212,7 +212,7 @@ iPhone和iPad用戶將需要下載一個單獨的應用程序。
 
 您可以訂閱任意數量的論壇。請參閱上方的<a href="#become-owner">“成為論壇訂戶”</a>。
 
-請參見<a href="https://youtu.be/HncohJFIA7E">此視頻</a>，以獲取有關此操作的示例。
+請參見<a href="https://youtu.be/HncohJFIA7E">此視頻</a>，以獲取有關此操作的示例。<a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>故障排除</b>
 

@@ -212,7 +212,7 @@ AndroidおよびiOSの「ポップアップ通知を取得する」へのリン�
 
 フォーラムはいくつでも購読できます。上記の<a href="＃become-owner">「フォーラムの購読者になるには」</a>をご覧ください。
 
-実際の動作例については、<a href="https://youtu.be/HncohJFIA7E">この動画</a>をご覧ください。
+実際の動作例については、<a href="https://youtu.be/HncohJFIA7E">この動画</a>をご覧ください。<a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>トラブルシューティング</b>
 

@@ -209,7 +209,7 @@ To <b>stop message notifications</b> at any time you can log out of the app. Mes
 
 You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.
 
-See <a href="https://youtu.be/HncohJFIA7E">this video</a> for an example of this in action.
+See <a href="https://youtu.be/HncohJFIA7E">this video</a> for an example of this in action. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Troubleshooting</b>
 

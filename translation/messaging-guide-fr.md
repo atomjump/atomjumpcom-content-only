@@ -212,7 +212,7 @@ Pour <b>arrêter les notifications de messages</b> à tout moment, vous pouvez v
 
 Vous pouvez vous abonner à un nombre illimité de forums. Voir <a href="#become-owner"> "Pour devenir abonné au forum"</a> ci-dessus.
 
-Regardez <a href="https://youtu.be/HncohJFIA7E"> cette vidéo</a> pour un exemple de ceci en action.
+Regardez <a href="https://youtu.be/HncohJFIA7E"> cette vidéo</a> pour un exemple de ceci en action. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Dépannage</b>
 

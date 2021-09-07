@@ -212,7 +212,7 @@ Untuk <b>menghentikan pemberitahuan pesan</b> kapan pun Anda dapat keluar dari a
 
 Anda dapat berlangganan ke sejumlah forum. Lihat <a href="#become-owner">‘Menjadi Pelanggan Forum’</a> di atas.
 
-Lihat <a href="https://youtu.be/HncohJFIA7E">video ini</a> untuk contoh aksinya.
+Lihat <a href="https://youtu.be/HncohJFIA7E">video ini</a> untuk contoh aksinya. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Mengatasi Masalah</b>
 

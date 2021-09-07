@@ -212,7 +212,7 @@ Android 및 iOS 용 '팝업 알림 받기'링크가 있습니다. 앱을 클릭�
 
 여러 포럼에 가입 할 수 있습니다. 위의 <a href="#become-owner">‘포럼 구독자가 되려면’</a>을 참조하세요.
 
-실제 작동의 예는 <a href="https://youtu.be/HncohJFIA7E">이 동영상 </a>을 참조하세요.
+실제 작동의 예는 <a href="https://youtu.be/HncohJFIA7E">이 동영상 </a>을 참조하세요. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>문제 해결</b>
 

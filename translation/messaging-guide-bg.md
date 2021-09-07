@@ -213,7 +213,7 @@ Allyচ্ছিকভাবে, আপনি অ্যাকাউন্টে 
 
 আপনি যে কোনও ফোরামের সদস্যতা নিতে পারেন। উপরে <a href="#become-owner">‘ফোরামের গ্রাহক হওয়ার জন্য’</a> দেখুন।
 
-ক্রিয়াকলাপের এই উদাহরণের জন্য <a href="https://youtu.be/HncohJFIA7E">এই ভিডিওটি</a> দেখুন।
+ক্রিয়াকলাপের এই উদাহরণের জন্য <a href="https://youtu.be/HncohJFIA7E">এই ভিডিওটি</a> দেখুন। <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>সমস্যা সমাধান</b>
 
