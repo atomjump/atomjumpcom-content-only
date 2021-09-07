@@ -77,13 +77,13 @@ That does not need anything to be downloaded, and runs in either a desktop or a 
 
 https://www.cnet.com/news/facebook-and-instagram-are-down-for-some-users/
 
-2. Organic server farm used by AtomJump.com
+2. Original organic server farm used by AtomJump.com (since expanded):
 
-https://youtu.be/XovHlXskzyk
+https://youtu.be/XovHlXskzyk  <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump.com-organic-server-farms.mp4">[.mp4]</a>
 
 Expanding with an extra lattice:
 
-https://youtu.be/m3tUzRH6upU
+https://youtu.be/m3tUzRH6upU  <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump.com-organic-server-farms-2nd-layer.mp4">[.mp4]</a>
 
 
 ## Contacts
