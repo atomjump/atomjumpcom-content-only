@@ -46,3 +46,4 @@ in case the servers should be down.
 * https://frontcdn.atomjump.com/atomjump-messaging/notifications-1.7.4.zip
 * https://frontcdn.atomjump.com/atomjump-messaging/rss_feed-1.0.3.zip
 * https://frontcdn.atomjump.com/atomjump-messaging/shortmail-1.0.3.zip
+* https://frontcdn.atomjump.com/atomjump-messaging/medimage_export-0.1.3.zip
