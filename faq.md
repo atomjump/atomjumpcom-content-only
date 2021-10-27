@@ -201,4 +201,22 @@ If you feel that, for example, a Government is trying to suppress a particular t
 
 Alternatively you can design a plugin that will modify the AtomJump software so that the “Delete” option is not switched on by default!
 
+## Q. Is it family safe?
+
+In short we would recommend AtomJump.com public forums have Parental Guidance (PG).
+
+Any message can be deleted by any user on AtomJump, which aims to prevent the worst messages appearing for any length of time on the service. However, this is not a complete solution, as harmful and deceptive messages can still appear, and confuse younger users, due to the dynamic, live nature of the service. We:
+
+* do track hate-speech on a site-wide level in 16 global languages, using the open-source algorithm <a href="https://src.atomjump.com/atomjump/hate_speech_detector">here</a>, but this will never be 100% accurate, and it will only provide an indication of positivity, thereby highlighting a group for further human-led monitoring. We have limited human monitoring capacity in-house, which is why any user, including parents, can do their own message filtering on any group.
+* do filter for English swear words dynamically, but this will not work 100% of the time, and in all languages
+* do filter out obvious *.AtomJump.com groups names that are of an adult nature, but this will always be an incomplete list, and some 'adult' group names can also be used for positive purposes, so they remain available. The Foundation reserves the right to password-protect groups which are being misused, on an ongoing basis, however.
+* do not ask for an age from the user, or an email address (unless a user signs up for notifications), and people are anonymous by default, other than the site having a record of their IP address. This works both ways: in a positive light, many children will not be traceable, because they will never contribute their email address or even their own name. However, this means that sexual predators, for example, can also pretend to be younger than they are, or pretend to be another person they know (see the next bullet point). We feel asking for an age is practically unenforceable, although we remain open to changing this policy.
+* should encourage children to be wise to existing users and people who give themselves the same name as others on the group, trying to be someone they are not. They will automatically be given a name with a (2) after it if they are a different user, with the same name, on the same group. 
+
+If you are trying to monitor a child's usage, since AtomJump groups are effectively individual websites, e.g. https://[group name]․atomjump․com, we would recommend treating each of them differently, just as you would for an individual website. Your browser history will usually have details of the particular AtomJump pages that someone has visited. You can also make use of the many parental web filters, to make a choice individually about banning particular groups for your child. Please see Wikipedia's  <a href="https://en.wikipedia.org/wiki/Internet_filter">Internet Filter</a> page for more information.
+
+We would recommend that you provide a general education to your children about the dangers of a live forum, including handling sexual predators, financial scams, dealing with suicidal users, pornography, violence and bullying, before agreeing to your child's usage of the public AtomJump.com site. However, if you wish to see more information from our end on the site, or have any feedback or other concerns, you can contact us <a href="http://atomjump.org/wp/contact/">here</a>.
+
+For family-isolated discussions, we recommend having a <a href="http://atomjump.org/wp/introduction/#private">password-protected forum</a>, or your own private local installation of the <a href="http://atomjump.org/wp/atomjump-messaging-appliance/">AtomJump Messaging Appliance</a>.
+
  
