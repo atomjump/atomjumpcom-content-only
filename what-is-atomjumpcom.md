@@ -8,12 +8,12 @@ in case the servers should be down.
 
 # Introduction to AtomJump.com
 
-AtomJump.com is a well tuned installation of the free open-source AtomJump.org software. The installation is centered in New Zealand, where the servers use 100% renewable energy, and the whole site is a globally distributed array of independent messaging servers. 
+AtomJump.com is a well tuned installation of the free open-source AtomJump.org software. The installation is centered in New Zealand, where the servers use 100% renewable energy. Each server is a low-energy consumption device, much like a mobile-phone, with around 1/50th of the energy consumption of your average computer. 
 
-Each server runs on low-energy mobile-phone-based microprocessors, and should any one server or network fail it's impact will be limited to that local area only, and not the rest of the grid. More information is available in this Whitepaper. (See messaging-crisis-whitepaper.md)
+The whole site is a globally distributed array of independent messaging servers. Should any one server or network fail it's impact will be limited to that local area only, and not the rest of the grid. More information is available in this Whitepaper. (See messaging-crisis-whitepaper.md)
 
 ## Get Commenting
-It is free to chat publicly with your family, group or co-workers on your own group. Also see the Messaging User Guide for specific instructions.
+It is free to chat publicly with your family, group or co-workers on your own group. Also see the Messaging User Guide for specific instructions. If you don't like any content on a forum, you can delete it, instantly.
 
 ## Choose Any Topic
 Enter a group name in the 'AtomJump' search box. If it is a general topic, you can chat with the public there, or you can share the name of your group with your friends. You can make up a new group without signing in.
