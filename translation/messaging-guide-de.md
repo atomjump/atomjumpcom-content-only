@@ -165,6 +165,10 @@ Jede Person kann sich dann dafür entscheiden, Forum-Abonnent zu werden, um fort
 
 <b>Erweiterter Tipp:</b> Sie können optional <span class="notranslate">"/go/"</span> am Ende Ihres Weblinks hinzufügen, wodurch das Live-Forum für Ihre Gäste sofort geöffnet wird (damit sie nicht auf die große blaue Schaltfläche "Los" tippen müssen).
 
+<b>Temporäre Adressen</b>
+
+Wenn Sie an eine temporäre Adresse (z. B. http://sailinglondon.clst4.atomjump.com) gesendet wurden und Ihnen mitgeteilt wurde, dass es 2 bis 48 Stunden dauern würde, bis Sie vollständig aktiv sind, können Sie den Status der Domainübertragung unter überprüfen https://dnschecker.org. Geben Sie die gewünschte Adresse Ihrer Seite ein, z. "sailinglondon.atomjump.com" und suchen Sie. Was Sie bestätigen müssen, ist, dass sich alle zurückgegebenen Adressen von "114.23.93.129" unterscheiden (das ist die bestehende atomjump.com-Heimadresse). Sobald dies der Fall ist, kann jeder den richtigen Server sehen und Sie können sicher andere Personen in das Forum einladen. Wenn nicht, besteht die Möglichkeit, dass einige Benutzer in das Nachrichtenforum schreiben, diese Nachrichten jedoch an den falschen Server gesendet werden und für andere Benutzer nicht sichtbar sind.
+
 ## So richten Sie einen privaten Raum ein
 
 Auf AtomJump․com können Sie Ihren eigenen eindeutigen Raumnamen eingeben, in dem <span class="notranslate">“Enter a group name”</span> steht, z. <span class="notranslate">“fredfamily”</span> und tippen Sie auf den unteren Eintrag <span class="notranslate">‘Create a PRIVATE room’</span>.

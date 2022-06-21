@@ -163,6 +163,10 @@ Each individual can then choose to become a forum subscriber to get ongoing noti
 
 <b>Advanced Tip:</b> you can optionally add <span class="notranslate">“/go/”</span> to the end of your web link, which will open up the live forum for your guests immediately (so that they don’t have to tap the large blue ‘go’ button).
 
+<b>Temporary Addresses</b>
+
+If you were sent to a temporary address (e.g. http://sailinglondon.clst4.atomjump.com), and told it would be 2-48 hours to be fully active, you can check on the status of the domain transfer at https://dnschecker.org. Enter your page's intended address e.g. "sailinglondon.atomjump.com" and search.  What you need to confirm is that all addresses returned are different to "114.23.93.129" (which is the existing atomjump.com home address). Once this is the case, everyone can see the correct server and you are safe to invite other people to the forum.  If not, there is a chance that some users will write onto the message forum, but those messages will be sent to the wrong server, and will not be visible to other users.
+
 ## To Set up a Private Room
 
 On AtomJump․com, you can enter your own unique room name where it says <span class="notranslate">“Enter a group name”</span>, e.g. <span class="notranslate">“fredfamily”</span>, and tap the bottom entry <span class="notranslate">‘Create a PRIVATE room’</span>.

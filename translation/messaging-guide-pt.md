@@ -165,6 +165,10 @@ Cada indivíduo pode então optar por se tornar um assinante do fórum para obte
 
 <b>Dica avançada:</b> você pode opcionalmente adicionar <span class="notranslate">“/go/”</span> ao final do seu link da web, o que abrirá o fórum ao vivo para seus convidados imediatamente (para que eles não tenham que tocar no grande botão azul 'ir').
 
+<b>Endereços temporários</b>
+
+Se você foi enviado para um endereço temporário (por exemplo, http://sailinglondon.clst4.atomjump.com) e informado que levaria de 2 a 48 horas para estar totalmente ativo, você pode verificar o status da transferência de domínio em https://dnschecker.org. Insira o endereço pretendido da sua página, por exemplo. "sailinglondon.atomjump.com" e pesquise. O que você precisa confirmar é que todos os endereços retornados são diferentes de "114.23.93.129" (que é o endereço residencial atomjump.com existente). Quando este for o caso, todos poderão ver o servidor correto e você estará seguro para convidar outras pessoas para o fórum. Caso contrário, há uma chance de que alguns usuários escrevam no fórum de mensagens, mas essas mensagens serão enviadas para o servidor errado e não serão visíveis para outros usuários.
+
 ## Para configurar uma sala privada
 
 No AtomJump․com, você pode inserir o nome de sua sala exclusivo onde está escrito <span class="notranslate">“Enter a group name”</span>, por ex. <span class="notranslate">“fredfamily”</span> e toque na entrada inferior <span class="notranslate">‘Create a PRIVATE room’</span>.

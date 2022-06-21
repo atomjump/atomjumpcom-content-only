@@ -165,6 +165,10 @@ iPhone和iPad用户将需要下载一个单独的应用程序。
 
 <b>高级提示：</b>您可以选择将<span class="notranslate">“/go/”</span>添加到您的网络链接的末尾，这将立即为您的访客打开实时论坛（这样，他们就不必点击蓝色的大“开始”按钮）。
 
+<b>临时地址</b>
+
+如果您被发送到一个临时地址（例如 http://sailinglondon.clst4.atomjump.com），并被告知需要 2-48 小时才能完全激活，您可以在以下网址查看域名转移状态 https://dnschecker.org。 输入您页面的预期地址，例如 “sailinglondon.atomjump.com”和搜索。 您需要确认的是所有返回的地址都不同于“114.23.93.129”（这是现有的 atomjump.com 家庭地址）。 一旦出现这种情况，每个人都可以看到正确的服务器，并且您可以安全地邀请其他人加入论坛。 如果没有，则有可能一些用户会在消息论坛上写信，但这些消息将被发送到错误的服务器，并且对其他用户不可见。
+
 ## 设置私人房间
 
 在AtomJump․com上，您可以输入自己的唯一房间名称，其中会显示<span class="notranslate">“Enter a group name”</span>，例如<span class="notranslate">“fredfamily”</span>，然后点击底部条目<span class="notranslate">‘Create a PRIVATE room’</span>。

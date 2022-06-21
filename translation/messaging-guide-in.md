@@ -165,6 +165,10 @@ Setiap individu kemudian dapat memilih untuk menjadi pelanggan forum untuk menda
 
 <b>Kiat Lanjutan:</b> Anda dapat menambahkan <span class="notranslate">“/go/”</span> di akhir tautan web Anda, yang akan segera membuka forum langsung untuk tamu Anda (sehingga mereka tidak perlu mengetuk tombol 'pergi' biru besar).
 
+<b>Alamat Sementara</b>
+
+Jika Anda dikirim ke alamat sementara (mis. http://sailinglondon.clst4.atomjump.com), dan diberi tahu bahwa diperlukan waktu 2-48 jam untuk sepenuhnya aktif, Anda dapat memeriksa status transfer domain di https://dnschecker.org. Masukkan alamat tujuan halaman Anda, mis. "sailinglondon.atomjump.com" dan cari. Yang perlu Anda konfirmasi adalah bahwa semua alamat yang dikembalikan berbeda dengan "114.23.93.129" (yang merupakan alamat rumah atomjump.com yang ada). Setelah ini, semua orang dapat melihat server yang benar dan Anda aman untuk mengundang orang lain ke forum. Jika tidak, ada kemungkinan beberapa pengguna akan menulis ke forum pesan, tetapi pesan tersebut akan dikirim ke server yang salah, dan tidak akan terlihat oleh pengguna lain.
+
 ## Untuk Mengatur Ruang Pribadi
 
 Di AtomJump․com, Anda dapat memasukkan nama ruangan unik Anda sendiri yang bertuliskan <span class="notranslate">“Enter a group name”</span>, mis. <span class="notranslate">“fredfamily”</span>, dan ketuk entri bawah <span class="notranslate">‘Create a PRIVATE room’</span>.

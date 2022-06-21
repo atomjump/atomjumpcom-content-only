@@ -165,6 +165,10 @@ AtomJump.comで「グループ名を入力してください」と表示され�
 
 <b>高度なヒント：</b>オプションで<span class="notranslate">「/go/」</span>をWebリンクの最後に追加できます。これにより、ゲストのライブフォーラムがすぐに開きます。 （大きな青い「移動」ボタンをタップする必要がないように）。
 
+<b>仮住所</b>
+
+一時的なアドレス（例：http://sailinglondon.clst4.atomjump.com）に送信され、完全にアクティブになるまでに2〜48時間かかると言われた場合は、ドメイン転送のステータスを次のURLで確認できます。 https://dnschecker.org。 ページの目的のアドレスを入力します。例： 「sailinglondon.atomjump.com」と検索します。 確認する必要があるのは、返されるすべてのアドレスが「114.23.93.129」（既存のatomjump.comのホームアドレス）とは異なることです。 これが事実になると、誰もが正しいサーバーを見ることができ、フォーラムに他の人を安全に招待できます。 そうでない場合、一部のユーザーがメッセージフォーラムに書き込む可能性がありますが、それらのメッセージは間違ったサーバーに送信され、他のユーザーには表示されません。
+
 ## 個室を設置するには
 
 AtomJump․comでは、<span class="notranslate">「Enter a group name」</span>と表示されている独自の部屋名を入力できます。例： <span class="notranslate">「fredfamily」</span>をクリックし、下部のエントリ<span class="notranslate">「Create a PRIVATE room」</span>をタップします。

@@ -165,6 +165,10 @@ Ogni individuo può quindi scegliere di iscriversi al forum per ricevere notific
 
 <b>Suggerimento avanzato:</b>puoi facoltativamente aggiungere <span class="notranslate"> “/go/”</span> alla fine del tuo link web, che aprirà immediatamente il forum live per i tuoi ospiti (in modo che non debbano toccare il grande pulsante blu "vai").
 
+<b>Indirizzi temporanei</b>
+
+Se sei stato inviato a un indirizzo temporaneo (ad es. http://sailinglondon.clst4.atomjump.com) e ti è stato detto che ci sarebbero volute 2-48 ore per essere completamente attivo, puoi controllare lo stato del trasferimento del dominio all'indirizzo https://dnschecker.org. Inserisci l'indirizzo previsto della tua pagina, ad es. "sailinglondon.atomjump.com" e cerca. Quello che devi confermare è che tutti gli indirizzi restituiti sono diversi da "114.23.93.129" (che è l'indirizzo di casa esistente di atomjump.com). Una volta che questo è il caso, tutti possono vedere il server corretto e sei sicuro di invitare altre persone al forum. In caso contrario, è possibile che alcuni utenti scrivano sul forum dei messaggi, ma quei messaggi verranno inviati al server sbagliato e non saranno visibili agli altri utenti.
+
 ## Per impostare una stanza privata
 
 Su AtomJump․com, puoi inserire il nome della tua stanza univoco dove dice <span class="notranslate">“Enter a group name”</span>, ad es. <span class="notranslate">“fredfamily”</span> e tocca la voce in basso <span class="notranslate">‘Create a PRIVATE room’</span>.

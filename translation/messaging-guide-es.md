@@ -167,6 +167,10 @@ Cada individuo puede elegir convertirse en un suscriptor del foro para recibir n
 
 <b>Consejo avanzado:</b> opcionalmente, puede agregar <span class="notranslate">“/go/”</span> al final de su enlace web, lo que abrirá el foro en vivo para sus invitados de inmediato. (para que no tengan que tocar el gran botón azul "ir").
 
+<b>Direcciones Temporales</b>
+
+Si lo enviaron a una dirección temporal (por ejemplo, http://sailinglondon.clst4.atomjump.com) y le dijeron que tardaría de 2 a 48 horas en estar completamente activo, puede verificar el estado de la transferencia de dominio en https://dnschecker.org. Ingrese la dirección deseada de su página, p. "sailinglondon.atomjump.com" y busque. Lo que debe confirmar es que todas las direcciones devueltas son diferentes a "114.23.93.129" (que es la dirección de inicio actual de atomjump.com). Una vez que este es el caso, todos pueden ver el servidor correcto y puedes invitar a otras personas al foro. De lo contrario, existe la posibilidad de que algunos usuarios escriban en el foro de mensajes, pero esos mensajes se enviarán al servidor equivocado y no serán visibles para otros usuarios.
+
 ## Para configurar una habitación privada
 
 En AtomJump․com, puede ingresar su propio nombre de habitación único donde dice <span class="notranslate">“Enter a group name”</span>, p. Ej. <span class="notranslate">“fredfamily”</span> y toca la entrada inferior <span class="notranslate">‘Create a PRIVATE room’</span>.

@@ -165,6 +165,10 @@ iPhone 및 iPad 사용자는 별도의 앱을 다운로드해야합니다.
 
 <b>고급 팁 :</b> 선택적으로 웹 링크 끝에 <span class="notranslate">“/go/”</span>를 추가하면 게스트를위한 라이브 포럼이 즉시 열립니다. (그러면 큰 파란색 '이동'버튼을 누를 필요가 없습니다).
 
+<b>임시 주소</b>
+
+임시 주소(예: http://sailinglondon.clst4.atomjump.com)로 전송되었고 완전히 활성화되려면 2-48시간이 걸릴 것이라고 말한 경우 다음에서 도메인 이전 상태를 확인할 수 있습니다. https://dnschecker.org. 페이지의 원하는 주소를 입력하십시오. "sailinglondon.atomjump.com" 및 검색. 확인해야 할 것은 반환된 모든 주소가 "114.23.93.129"(기존 atomjump.com 홈 주소)와 다르다는 것입니다. 이 경우 모든 사람이 올바른 서버를 볼 수 있으며 다른 사람을 포럼에 안전하게 초대할 수 있습니다. 그렇지 않은 경우 일부 사용자가 메시지 포럼에 글을 작성할 수 있지만 해당 메시지는 잘못된 서버로 전송되어 다른 사용자에게 표시되지 않습니다.
+
 ## 개인 실을 설정하려면
 
 AtomJump․com에서 <span class="notranslate">“Enter a group name”</span>이라고 표시된 고유 한 방 이름을 입력 할 수 있습니다. <span class="notranslate">“fredfamily”</span>를 탭하고 하단 항목 <span class="notranslate">‘Create a PRIVATE room’</span>를 탭합니다.
