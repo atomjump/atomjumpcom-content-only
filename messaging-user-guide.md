@@ -11,9 +11,11 @@ in case the servers should be down.
 
 
 ## Introduction
-AtomJump Messaging is a ‘hybrid‘ messaging solution. It is largely operated as a ‘web service’ from a website, even if this looks a little like an app on a phone. But it does also have an optional app, which provides some additional features, like ping notifications, and shortcuts to your frequently visited forums. Both of these components are open source and free.
+AtomJump Messaging is a multi-layered 'Progressive Web App', for live messaging and forum communication. It's core is a messaging interface that operates a single forum, and this guide will teach you how to operate this interface. You can find AtomJump forums by clicking on a link on a website, which opens the forum in a pop-up box within your browser. There are lots of different types of websites that can operate these forums, and AtomJump.com is one of these websites, which is hosted by the AtomJump Foundation. 
 
-Being a hybrid, there are certain advantages over dedicated apps:
+There is also an optional starter app (which is also a 'Progressive Web App'), which allows you to collect your favourite forums in one place and check for new messages from any AtomJump Messaging forum across the internet. All of these components are open source and free.
+
+Being a Progressive Web App, there are certain advantages over dedicated apps:
 
 * You can be discussing something on your phone and switch across to a desktop version of the same conversation, immediately, potentially without even logging in.
 * You can invite a group of people to a forum, who haven’t signed in to AtomJump before, simply by sending a web link. They don’t have to create an account.
@@ -22,10 +24,9 @@ Being a hybrid, there are certain advantages over dedicated apps:
 
 To get started you can try a forum on e.g. https://atomjump.com
 
-To get the optional AtomJump Messaging app: 
+To get the optional AtomJump Messaging starter app (iPhone/Android/Desktop): 
 
-* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=org.atomjump.messaging
+* https://app.atomjump.com
 
 ## Post a Message
 If you’re on AtomJump.com click on the large blue ‘chat’ button to enter a forum. Other sites using AtomJump software will show the messaging pop-up after you click a particular link.
