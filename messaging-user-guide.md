@@ -11,7 +11,7 @@ in case the servers should be down.
 
 
 ## Introduction
-AtomJump Messaging is a multi-layered 'Progressive Web App', for live messaging and forum communication. It's core is a messaging interface that operates a single forum, and this guide will teach you how to operate this interface. You can find AtomJump forums by clicking on a link on a website, which opens the forum in a pop-up box within your browser. There are lots of different types of websites that can operate these forums, and AtomJump.com is one of these websites, which is hosted by the AtomJump Foundation. 
+AtomJump Messaging is a multi-layered 'Progressive Web App', for live messaging and forum communication. It's core is a messaging interface that operates a single forum, and this guide will teach you how to operate this interface. You can find AtomJump forums by clicking on a link on a website, which opens the forum in a pop-up box within your browser. Any website can operate these forums, and AtomJump.com is one of these websites, which is hosted by the AtomJump Foundation. 
 
 There is also an optional starter app (which is also a 'Progressive Web App'), which allows you to collect your favourite forums in one place and check for new messages from any AtomJump Messaging forum across the internet. All of these components are open source and free.
 
