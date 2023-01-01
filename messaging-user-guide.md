@@ -203,7 +203,7 @@ Open the app.
 
 Within the app, tap the <span class="notranslate">‘Pair with AtomJump.com’</span> button, or for a private server, tap the <span class="notranslate">‘Pair with a Private Server’</span> button and paste in your private server address.
 
-You should be asked to sign in, and you can create an account, or enter an existing account. If this is completed, the browser should show that you have associated your app with your email address, and the app itself should say <span class="notranslate">‘Listening for Messages’</span>.
+You should be asked to sign in, and you can create an account, or enter an existing account. If this is completed, the browser should show that you have associated your app with your email address, and the starter app itself should say <span class="notranslate">‘Listening for Messages’</span>.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
@@ -217,7 +217,7 @@ You can subscribe to any number of forums. See <a href="#become-owner">‘To Bec
 
 
 ## To Save a Forum Shortcut
-If you are on your phone, we would recommend installing the AtomJump Messaging app.
+If you are on your phone, we would recommend installing the AtomJump Messaging starter app as a desktop shortcut.
 
 * https://app.atomjump.com
 
