@@ -203,17 +203,18 @@ There are some links to ‘Get popup notifications’ for Android and iOS.  If t
 
 Within the app, tap <span class="notranslate">"Register on an AtomJump group or a Private Server"</span> and enter the group name of your xyz.atomjump.com page (for xyz.atomjump.com you would type ‘xyz’), or paste in the URL mentioned on your private forum, under 'Settings'.
 
-You should be asked to sign in, and you can create an account, or enter an existing account. If this is completed, the browser should show that you have associated your app with your email address, and the starter app itself should say <span class="notranslate">‘Listening for Messages’</span>.
+You should be asked to sign in, and you can create an account, or enter an existing account. If this is completed, the browser should show that you have associated your starter app with your email address on that server, and the starter app itself should say <span class="notranslate">‘Listening for Messages’</span>.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
-This means any personal messages for this account will pop up when the app is open, and on some devices (i.e. desktop/Android) will make a ping sound on your phone if the app is running in a background tab. However, on many Android phones, the ping sound will not be heard if the phone has gone into sleep mode. 
+This means any personal messages for this account will pop up when the app is open, and on some devices (i.e. desktop/Android) will make a ping sound if the app is running in a background tab. However, on many Android phones, the ping sound will not be heard if the phone has gone into sleep mode. 
 
 Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 
 To <b>stop message notifications</b> at any time you can 'Deregister' to a particular server. Message notifications will be made by email while you are logged out. Registering again will start notifications again.
 
 You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.
+
 
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend installing the AtomJump Messaging starter app as a desktop shortcut.
