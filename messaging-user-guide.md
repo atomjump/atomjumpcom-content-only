@@ -11,11 +11,13 @@ in case the servers should be down.
 
 
 ## Introduction
-AtomJump Messaging is a multi-layered 'Progressive Web App', for live messaging and forum communication. It's core is a messaging interface that operates a single forum, and this guide will teach you how to operate this interface. You can find AtomJump forums by clicking on a link on a website, which opens the forum in a pop-up box within your browser. Any website can operate these forums, and AtomJump.com is one of these websites, which is hosted by the AtomJump Foundation. 
+AtomJump Messaging is a multi-layered 'Progressive Web App', for live messaging and forum communication. It's core is a messaging interface that operates a single forum, and this guide will teach you how to operate this interface. You can find AtomJump forums by clicking on a link on a website, which opens the forum in a pop-up box within your browser. Any website can operate these forums, and AtomJump.com is one of these websites. 
 
-There is also an optional starter app (which is also a 'Progressive Web App'), which allows you to collect your favourite forums in one place and check for new messages from any AtomJump Messaging forum across the internet. All of these components are open source and free.
+There is an optional starter app (which runs in a browser after tapping a homepage icon), which allows you to collect your favourite forums in one place and check for new messages from any AtomJump Messaging forum across the internet. All of these components are open source and free, and are registered as a 'Safer App'.
 
-Being a Progressive Web App, there are certain advantages over dedicated apps:
+* https://atomjump.com/wp/safer-apps/
+
+Being a Progressive Web App, there are certain advantages over 1st generation app-store apps:
 
 * You can be discussing something on your phone and switch across to a desktop version of the same conversation, immediately, potentially without even logging in.
 * You can invite a group of people to a forum, who haven’t signed in to AtomJump before, simply by sending a web link. They don’t have to create an account.
