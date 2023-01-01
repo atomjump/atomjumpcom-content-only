@@ -225,11 +225,8 @@ If you are on your phone, we would recommend installing the AtomJump Messaging a
 
 * https://app.atomjump.com
 
-You will first need to create an account on the web version of your forum, in ‘Settings’.
+Tap "Register on an AtomJump group or a Private Server" and enter the group name of your xyz.atomjump.com page (for xyz.atomjump.com you would type ‘xyz’), or paste in the URL mentioned on your private forum, under 'Settings'.
 
-Then, once you are signed in to your forum, open up the app, and pair it with your website. Once it is paired, and says ‘Listening for Messages’, you can push ‘Settings’ in the bottom right corner of the app. Then tap ‘Add New Forum’, and enter the name of your xyz.atomjump.com page (for xyz.atomjump.com you would type ‘xyz’), or paste in the URL of your page.
-
-If you are on a desktop, you can save a ‘Bookmark’ in your browser to the current page.
 
 ## To Post a Photo
 Click on the ‘upload’ icon in the bottom left corner. Select a .jpg photo from your drive and click ‘Upload’. Note: you can choose more than one photo.
