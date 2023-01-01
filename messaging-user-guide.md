@@ -197,13 +197,11 @@ Go to the web address of the forum. Click ‘Settings’.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
-There are some links to ‘Get popup notifications’ for Android and iOS. Click and open the app on your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
-
-Open the app.
+There are some links to ‘Get popup notifications’ for Android and iOS.  If this is on a private server, you will need to copy the server address mentioned. Click the app link and then, if you haven't done this already, "install" the app with the steps in the 'Install' link on your Android, iPhone, or desktop device. This will create a homepage icon which can be revisited.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
-Within the app, tap the <span class="notranslate">‘Pair with AtomJump.com’</span> button, or for a private server, tap the <span class="notranslate">‘Pair with a Private Server’</span> button and paste in your private server address.
+Within the app, tap <span class="notranslate">"Register on an AtomJump group or a Private Server"</span> and enter the group name of your xyz.atomjump.com page (for xyz.atomjump.com you would type ‘xyz’), or paste in the URL mentioned on your private forum, under 'Settings'.
 
 You should be asked to sign in, and you can create an account, or enter an existing account. If this is completed, the browser should show that you have associated your app with your email address, and the starter app itself should say <span class="notranslate">‘Listening for Messages’</span>.
 
@@ -213,10 +211,9 @@ This means any personal messages for this account will pop up when the app is op
 
 Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 
-To <b>stop message notifications</b> at any time you can log out of the app. Message notifications will be made by email while you are logged out. Logging back in will start notifications again.
+To <b>stop message notifications</b> at any time you can 'Deregister' to a particular server. Message notifications will be made by email while you are logged out. Registering again will start notifications again.
 
 You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.
-
 
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend installing the AtomJump Messaging starter app as a desktop shortcut.
