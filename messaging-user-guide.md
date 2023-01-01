@@ -191,7 +191,7 @@ There will likely be a cost from your provider (e.g. 16c per message), so please
 
 App Notifications, while possible, are not very noticeable on AtomJump Messaging. Generally, the people behind AtomJump prefer a quiet life, so you are best to treat your message notifications more like you treat email: you check for new messages when you want to check for them, not when everyone else wants you to check for them. In other words, you are in control of your space and you respect other people's general wish for silence from your phone.
 
-Go to the web address of the forum. Click ‘Settings’ and enter your email and password.
+Go to the web address of the forum. Click ‘Settings’.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
@@ -203,7 +203,7 @@ Open the app.
 
 Within the app, tap the <span class="notranslate">‘Pair with AtomJump.com’</span> button, or for a private server, tap the <span class="notranslate">‘Pair with a Private Server’</span> button and paste in your private server address.
 
-If everything has worked correctly, the app should say <span class="notranslate">‘Listening for Messages’</span>, and the browser should show that you have associated your app with your email address.
+You should be asked to sign in, and you can create an account, or enter an existing account. If this is completed, the browser should show that you have associated your app with your email address, and the app itself should say <span class="notranslate">‘Listening for Messages’</span>.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
@@ -215,10 +215,6 @@ To <b>stop message notifications</b> at any time you can log out of the app. Mes
 
 You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.
 
-
-<b>Troubleshooting</b>
-
-* If you aren't getting notifications on an __Android__ phone, using the 'AtomJump'-style messages  until you open the app, your app may be set to sleep in the background. This can happen on Samsung phones, in particular and may not be possible to change. You may be able to add the 'AtomJump Messaging' app to your list of 'never sleeping' apps. See <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">more details</a> here.
 
 ## To Save a Forum Shortcut
 If you are on your phone, we would recommend installing the AtomJump Messaging app.
