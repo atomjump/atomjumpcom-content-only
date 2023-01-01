@@ -188,13 +188,16 @@ Click ‘Settings’ in the bottom left corner. Click ‘More’, and enter your
 There will likely be a cost from your provider (e.g. 16c per message), so please check the instructions from your provider.
 
 ## To Get App Notifications
+
+App Notifications, while possible, are not very noticeable on AtomJump Messaging. Generally, the people behind AtomJump prefer a quiet life, so you are best to treat your message notifications more like you treat email: you check for new messages when you want to check for them, not when everyone else wants you to check for them. In other words, you are in control of your space and you respect other people's general wish for silence from your phone.
+
 Go to the web address of the forum. Click ‘Settings’ and enter your email and password.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/settings.png">
 
-There are some links to ‘Get popup notifications’ for Android and iOS. Click and download the app to your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
+There are some links to ‘Get popup notifications’ for Android and iOS. Click and open the app on your Android or iPhone device. If this is on a private server, you will need to copy the server address mentioned, also.
 
-Open the app (by, for example, tapping the app link within Settings once more, and then tapping ‘open the app’ within the app-store).
+Open the app.
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-3.jpg">
 
@@ -204,9 +207,7 @@ If everything has worked correctly, the app should say <span class="notranslate"
 
 <img src="http://atomjump.org/wp/wp-content/uploads/2017/01/messaging-pair-2-2.jpg">
 
-This means any personal messages for this account will make a ping sound on your phone, and display a small AtomJump icon at the top of the screen. When you slide down the top of the screen with your finger, you will see the message.
-
-<img src="http://atomjump.org/wp/wp-content/uploads/2021/01/notifications-300x250.png">
+This means any personal messages for this account will pop up when the app is open, and on some devices (i.e. desktop/Android) will make a ping sound on your phone if the app is running in a background tab. However, on many Android phones, the ping sound will not be heard if the phone has gone into sleep mode. 
 
 Tap this tab for a full version of the message, and then tap on <span class="notranslate">‘Open Forum’</span> to enter the forum itself, which allows you to respond.
 
@@ -214,18 +215,15 @@ To <b>stop message notifications</b> at any time you can log out of the app. Mes
 
 You can subscribe to any number of forums. See <a href="#become-owner">‘To Become a Forum Subscriber’</a> above.
 
-See <a href="https://youtu.be/HncohJFIA7E">this video</a> for an example of this in action. <a href="https://frontcdn.atomjump.com/atomjump-videos/AtomJump-Messaging-Getting-Notifications.mp4">[.mp4]</a>
 
 <b>Troubleshooting</b>
 
-* If you aren't getting notifications on an __iPhone__, you may need to go into your phone's 'Settings &gt; Notifications &gt; AtomJump Messaging', and switch notification settings to 'Allow Notifications'.
-* If you aren't getting notifications on an __Android__ phone, using the 'AtomJump'-style messages (rather than the Android-native style messages) until you open the app, your app may be set to sleep in the background. This can happen on Samsung phones, in particular, and you may need to add the 'AtomJump Messaging' app to your list of 'never sleeping' apps. See <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">more details</a> here. If this still doesn't work, you can try a 'Settings &gt; Factory Reset', and select the 'Android'-native style messages when asked, as you pair up for the first time.
+* If you aren't getting notifications on an __Android__ phone, using the 'AtomJump'-style messages  until you open the app, your app may be set to sleep in the background. This can happen on Samsung phones, in particular and may not be possible to change. You may be able to add the 'AtomJump Messaging' app to your list of 'never sleeping' apps. See <a href="https://www.androidpolice.com/2020/05/30/how-to-prevent-apps-sleeping-in-the-background-on-android/">more details</a> here.
 
 ## To Save a Forum Shortcut
-If you are on your phone, we would recommend downloading the AtomJump Messaging app.
+If you are on your phone, we would recommend installing the AtomJump Messaging app.
 
-* https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8
-* https://play.google.com/store/apps/details?id=org.atomjump.messaging
+* https://app.atomjump.com
 
 You will first need to create an account on the web version of your forum, in ‘Settings’.
 
