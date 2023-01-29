@@ -1,5 +1,7 @@
 <img src="https://atomjump.com/images/logo80.png">
 
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/atomjumpcom-content-only.git__
+
 # atomjumpcom-content-only
 This repository is a public copy of the important content on https://atomjump.com, 
 in case the servers should be down.
